@@ -28,6 +28,8 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 -- Sounds List
 --
 
+-- Use ✓ to signify if a sound exists for that ability.
+
 ----Kargath Bladefist
 ----	--[[ Mythic ]]--
 ----	-9396, -- Ravenous Bloodmaw
@@ -37,10 +39,10 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 ----	-9394, -- Fire Pillar
 --✓--	{159113, "TANK_HEALER"}, -- Impale
 ----	159250, -- Blade Dance
-----	{158986, "SAY", "ICON", "FLASH"}, -- Berserker Rush
+--✓--	{158986, "SAY", "ICON", "FLASH"}, -- Berserker Rush
 ----	159947, -- Chain Hurl
-----	159413, -- Mauling Brew
-----	159311, -- Flame Jet
+--✓--	159413, -- Mauling Brew
+--✓--	159311, -- Flame Jet
 ----	160521, -- Vile Breath
 ----	"bosskill"
 
