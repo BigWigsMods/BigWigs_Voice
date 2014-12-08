@@ -120,6 +120,7 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 ----	"custom_off_fel_marker",
 ----	--[[ General ]]--
 ----	161242, -- Caustic Energy
+----	161612, -- Overwhelming Energy
 ----	160734, -- Vulnerability
 ----	{161328, "SAY", "FLASH"}, -- Suppression Field
 ----	{162184, "HEALER"}, -- Expel Magic: Shadow
