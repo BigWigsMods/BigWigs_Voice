@@ -52,11 +52,11 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 ----	{163046, "FLASH"}, -- Pale Vitriol
 ----	--[[ General ]]--
 ----	{156147, "TANK"}, -- The Cleaver
-----	{156151, "TANK_HEALER"}, -- The Tenderizer
+--✓--	{156151, "TANK_HEALER"}, -- The Tenderizer
 ----	156157, -- Cleave
-----	156152, -- Gushing Wounds
-----	{-8860, "PROXIMITY"}, -- Bounding Cleave
-----	"frenzy",
+--✓--	156152, -- Gushing Wounds
+--✓--	{-8860, "PROXIMITY"}, -- Bounding Cleave
+--✓--	"frenzy",
 ----	"berserk",
 ----	"bosskill"
 
@@ -69,7 +69,7 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 ----	163312, -- Raving Assault
 ----	--[[ General ]]--
 ----	{162288, "TANK"}, -- Accretion
-----	{162346, "FLASH"}, -- Crystalline Barrage
+--✓--	{162346, "FLASH"}, -- Crystalline Barrage
 ----	"custom_off_barrage_marker",
 ----	162475, -- Tectonic Upheaval
 ----	"adds",
