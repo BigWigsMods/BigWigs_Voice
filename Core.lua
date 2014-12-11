@@ -32,18 +32,18 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 
 ----Kargath Bladefist
 ----	--[[ Mythic ]]--
-----	-9396, -- Ravenous Bloodmaw
-----	{162497, "FLASH"}, -- On the Hunt
-----	--177776, -- Arena Sweeper
+--✓-	-9396, -- Ravenous Bloodmaw
+--✓-	{162497, "FLASH"}, -- On the Hunt
+--✓-	--177776, -- Arena Sweeper
 ----	--[[ General ]]--
-----	-9394, -- Fire Pillar
+--✓-	-9394, -- Fire Pillar
 --✓--	{159113, "TANK_HEALER"}, -- Impale
-----	159250, -- Blade Dance
+--✓--	159250, -- Blade Dance
 --✓--	{158986, "SAY", "ICON", "FLASH"}, -- Berserker Rush
-----	159947, -- Chain Hurl
+--✓--	159947, -- Chain Hurl
 --✓--	159413, -- Mauling Brew
 --✓--	159311, -- Flame Jet
-----	160521, -- Vile Breath
+--✓--	160521, -- Vile Breath
 ----	"bosskill"
 
 ----The Butcher
