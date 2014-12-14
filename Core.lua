@@ -33,49 +33,43 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 -- Use X to signify that a sound doesn't exist, but you think that the ability shouldn't have/need one
 
 ----Kargath Bladefist
-----	--[[ Mythic ]]--
-----		-9396, -- Ravenous Bloodmaw
---/--		162497, -- On the Hunt on you
---✓--		"arena_sweeper", -- Arena Sweeper incoming
-----		--[[ General ]]--
---X--		-9394, -- Fire Pillar
---✓--		159113, -- Impale on tank
---X--		159250, -- Blade Dance
---✓--		158986, -- Berserker Rush
---✓--		159947, -- Chain Hurl incoming
---✓--		159413, -- Mauling Brew under you
---✓--		159311, -- Flame Jet
---✓--		160521, -- Vile Breath
+--[[ Mythic ]]--
+----	-9396, -- Ravenous Bloodmaw
+--/--	162497, -- On the Hunt on you
+--✓--	"arena_sweeper", -- Arena Sweeper incoming
+--[[ General ]]--
+--X--	-9394, -- Fire Pillar
+--✓--	159113, -- Impale on tank
+--X--	159250, -- Blade Dance
+--✓--	158986, -- Berserker Rush
+--✓--	159947, -- Chain Hurl incoming
+--✓--	159413, -- Mauling Brew under you
+--✓--	159311, -- Flame Jet
+--✓--	160521, -- Vile Breath
 
 ----The Butcher
-----	--[[ Mythic ]] --
-----	-10228, -- Night-Twisted Cadaver
-----	{163046, "FLASH"}, -- Pale Vitriol
-----	--[[ General ]]--
-----	{156147, "TANK"}, -- The Cleaver
---✓--	{156151, "TANK_HEALER"}, -- The Tenderizer
-----	156157, -- Cleave
+--[[ Mythic ]] --
+--X--	-10228, -- Night-Twisted Cadaver
+--✓--	163046, -- Pale Vitriol under you
+--[[ General ]]--
+--✓--	156151, -- The Tenderizer on tank
+--X--	156157, -- Cleave
 --✓--	156152, -- Gushing Wounds
---✓--	{-8860, "PROXIMITY"}, -- Bounding Cleave
---✓--	"frenzy",
-----	"berserk",
-----	"bosskill"
+--/--	-8860, -- Bounding Cleave
+--/--	"frenzy",
 
 ----Tectus
-----	--[[ Night-Twisted Earthwarper ]]--
-----	{162894, "TANK"}, -- Gift of Earth
-----	{162892, "TANK"}, -- Petrification
-----	162968, -- Earthen Flechettes
-----	--[[ Night-Twisted Berserker ]]--
-----	163312, -- Raving Assault
-----	--[[ General ]]--
-----	{162288, "TANK"}, -- Accretion
---✓--	{162346, "FLASH"}, -- Crystalline Barrage
-----	"custom_off_barrage_marker",
-----	162475, -- Tectonic Upheaval
+--[[ Night-Twisted Earthwarper ]]--
+--✓--	162894, -- Gift of Earth
+--✓--	162892, -- Petrification
+--✓--	162968, -- Earthen Flechettes
+--[[ Night-Twisted Berserker ]]--
+--X--	163312, -- Raving Assault
+--[[ General ]]--
+--X--	162288, -- Accretion
+--/--	162346, -- Crystalline Barrage (Barrage under you)
+--✓--	162475, -- Tectonic Upheaval
 ----	"adds",
-----	"berserk",
-----	"bosskill",
 
 ----Brackenspore
 ----	--[[ Mythic ]]--
