@@ -34,17 +34,17 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 
 ----Kargath Bladefist
 --[[ Mythic ]]--
-----	-9396, -- Ravenous Bloodmaw
---/--	162497, -- On the Hunt on you
+--✓--	-9396, -- Ravenous Bloodmaw
+--✓--	162497, -- On the Hunt on you
 --✓--	"arena_sweeper", -- Arena Sweeper incoming
 --[[ General ]]--
 --X--	-9394, -- Fire Pillar
 --✓--	159113, -- Impale on tank
 --X--	159250, -- Blade Dance
---✓--	158986, -- Berserker Rush
+--✓--	158986, -- Berserker Rush on you
 --✓--	159947, -- Chain Hurl incoming
 --✓--	159413, -- Mauling Brew under you
---✓--	159311, -- Flame Jet
+--✓--	159311, -- Flame Jet under you
 --✓--	160521, -- Vile Breath
 
 ----The Butcher
@@ -52,11 +52,11 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 --X--	-10228, -- Night-Twisted Cadaver
 --✓--	163046, -- Pale Vitriol under you
 --[[ General ]]--
---✓--	156151, -- The Tenderizer on tank
+--/--	156151, -- (The) Tenderizer on tank
 --X--	156157, -- Cleave
 --✓--	156152, -- Gushing Wounds
---/--	-8860, -- Bounding Cleave
---/--	"frenzy",
+--✓--	-8860, -- Bounding Cleave
+--✓--	"frenzy",
 
 ----Tectus
 --[[ Night-Twisted Earthwarper ]]--
@@ -67,9 +67,9 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 --X--	163312, -- Raving Assault
 --[[ General ]]--
 --X--	162288, -- Accretion
---/--	162346, -- Crystalline Barrage (Barrage under you)
+--✓--	162346, -- Crystalline Barrage (Barrage under you)
 --✓--	162475, -- Tectonic Upheaval
-----	"adds",
+--✓--	"adds", -- Add Spawned
 
 ----Brackenspore
 ----	--[[ Mythic ]]--
