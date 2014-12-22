@@ -18,8 +18,11 @@ local format = format
 --
 
 local path = "Interface\\AddOns\\BigWigs_Voice\\Sounds\\%s.ogg"
-local function handler(event, key)
+local function handler(event, module, key, sound, isOnMe)
 	local success = PlaySoundFile(format(path, tostring(key)), "Master")
+	if not success then
+		BigWigsLoader.SendMessage(addon, "BigWigs_Sound", module, key, sound) 
+	end
 end
 
 BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler) 
@@ -56,7 +59,7 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 --X--	156157, -- Cleave
 --✓--	156152, -- Gushing Wounds
 --✓--	-8860, -- Bounding Cleave
---✓--	"frenzy",
+--✓--	"frenzy", -- Frenzy
 
 ----Tectus
 --[[ Night-Twisted Earthwarper ]]--
