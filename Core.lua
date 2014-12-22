@@ -45,6 +45,7 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 --[[ General ]]--
 --X--	-9394, -- Fire Pillar
 --✓--	159113, -- Impale on tank
+--/--	159113, -- Impale on you //isOnMe
 --X--	159250, -- Blade Dance
 --✓--	158986, -- Berserker Rush on you //isOnMe
 --✓--	159947, -- Chain Hurl incoming
