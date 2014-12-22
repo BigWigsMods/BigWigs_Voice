@@ -7,6 +7,7 @@ local name, addon = ...
 
 local tostring = tostring
 local format = format
+addon.SendMessage = BigWigsLoader.SendMessage
 
 --------------------------------------------------------------------------------
 -- Localization
@@ -18,10 +19,11 @@ local format = format
 --
 
 local path = "Interface\\AddOns\\BigWigs_Voice\\Sounds\\%s.ogg"
+local pathYou = "Interface\\AddOns\\BigWigs_Voice\\Sounds\\%sy.ogg"
 local function handler(event, module, key, sound, isOnMe)
-	local success = PlaySoundFile(format(path, tostring(key)), "Master")
+	local success = PlaySoundFile(format(isOnMe and pathYou or path, tostring(key)), "Master")
 	if not success then
-		BigWigsLoader.SendMessage(addon, "BigWigs_Sound", module, key, sound) 
+		addon:SendMessage("BigWigs_Sound", module, key, sound) 
 	end
 end
 
@@ -37,14 +39,14 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 
 ----Kargath Bladefist
 --[[ Mythic ]]--
---✓--	-9396, -- Ravenous Bloodmaw
---✓--	162497, -- On the Hunt on you
+--X--	-9396, -- Ravenous Bloodmaw
+--✓--	162497, -- On the Hunt on you //isOnMe
 --✓--	"arena_sweeper", -- Arena Sweeper incoming
 --[[ General ]]--
 --X--	-9394, -- Fire Pillar
 --✓--	159113, -- Impale on tank
 --X--	159250, -- Blade Dance
---✓--	158986, -- Berserker Rush on you
+--✓--	158986, -- Berserker Rush on you //isOnMe
 --✓--	159947, -- Chain Hurl incoming
 --✓--	159413, -- Mauling Brew under you
 --✓--	159311, -- Flame Jet under you
@@ -55,7 +57,7 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 --X--	-10228, -- Night-Twisted Cadaver
 --✓--	163046, -- Pale Vitriol under you
 --[[ General ]]--
---/--	156151, -- (The) Tenderizer on tank
+--✓--	156151, -- Tenderizer on tank
 --X--	156157, -- Cleave
 --✓--	156152, -- Gushing Wounds
 --✓--	-8860, -- Bounding Cleave
@@ -64,13 +66,13 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 ----Tectus
 --[[ Night-Twisted Earthwarper ]]--
 --✓--	162894, -- Gift of Earth
---✓--	162892, -- Petrification
+--/--	162892, -- Petrification (on you)
 --✓--	162968, -- Earthen Flechettes
 --[[ Night-Twisted Berserker ]]--
 --X--	163312, -- Raving Assault
 --[[ General ]]--
 --X--	162288, -- Accretion
---✓--	162346, -- Crystalline Barrage (Barrage under you)
+--✓--	162346, -- Barrage under you //isOnMe
 --✓--	162475, -- Tectonic Upheaval
 --✓--	"adds", -- Add Spawned
 

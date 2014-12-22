@@ -1,9 +1,9 @@
 ; Kargath Bladefist
--9396	Ravenous Bloodmaw
-162497	On the Hunt on you
+162497y	On the Hunt on you
 arena_sweeper	Arena Sweeper incoming
 159113	Impale on Tank
-158986	Berserker Rush on you
+159113y	Impale on you
+158986y	Berserker Rush on you
 159947	Chain Hurl incoming
 159413	Mauling Brew under you
 159311	Flame Jet under you
@@ -18,7 +18,7 @@ frenzy	Frenzy
 
 ; Tectus
 162894	Gift of Earth
-162892	Petrification
+162892y	Petrification on you
 162968	Earthen Flechettes
 162346	Barrage under you
 162475	Tectonic Upheaval
