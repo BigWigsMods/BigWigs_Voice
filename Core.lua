@@ -97,23 +97,23 @@ BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
 --✓--	159996, -- Infesting Spores
 
 ----Twin Ogron
-----	--[[ Pol ]]--
-----	{143834, "TANK"}, -- Shield Bash
-----	{158134, "ICON", "SAY", "FLASH"}, -- Shield Charge
+--[[ Mythic ]]--
+--X--	163297, -- Arcane Twisted
+--X--	163372, -- Arcane Volatility
+----	"volatility_self", -- Arcane Volatility on you
+--X--	"custom_off_volatility_marker",
+--[[ Pol ]]--
+--X--	143834, -- Shield Bash
+--✓--	158134, -- Shield Charge
 ----	158093, -- Interrupting Shout
 ----	158385, -- Pulverize
-----	--[[ Phemos ]]--
-----	{158521, "TANK"}, -- Double Slash
-----	{167200, "TANK"}, -- Arcane Wound
-----	157943, -- Whirlwind
-----	158057, -- Enfeebling Roar
-----	158200, -- Quake
-----	{158241, "FLASH"}, -- Blaze
-----	{163372, "FLASH", "PROXIMITY"}, -- Arcane Volatility
-----	"custom_off_volatility_marker",
-----	--[[ General ]]--
-----	"berserk",
-----	"bosskill"
+--[[ Phemos ]]--
+--X--	158521, -- Double Slash
+--X--	167200, -- Arcane Wound
+----	157943, -- Whirlwind Arcane
+--✓--	158057, -- Enfeebling Roar
+----	158200, -- Quake incoming
+----	158241, -- Blaze under you
 
 ----Ko'ragh
 ----	--[[ Mythic ]]--

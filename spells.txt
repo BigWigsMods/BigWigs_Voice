@@ -1,75 +1,72 @@
 ; Kargath Bladefist
-162497y	On the Hunt on you
-arena_sweeper	Arena Sweeper incoming
-159113	Impale on Tank
-159113y	Impale on you
-158986y	Berserker Rush on you
-159947	Chain Hurl incoming
-159413	Mauling Brew under you
-159311	Flame Jet under you
-160521	Vile Breath
+162497y			On the Hunt on you
+arena_sweeper		Arena Sweeper incoming
+159113			Impale on Tank
+159113y			Impale on you
+158986y			Berserker Rush on you
+159947			Chain Hurl incoming
+159413			Mauling Brew under you
+159311			Flame Jet under you
+160521			Vile Breath
 
 ; The Butcher
-163046	Pale Vitriol under you
-156151	Tenderizer on tank
-156152	Gushing Wounds
--8860	Bounding Cleave
-frenzy	Frenzy
+163046			Pale Vitriol under you
+156151			Tenderizer on tank
+156152			Gushing Wounds
+-8860			Bounding Cleave
+frenzy			Frenzy
 
 ; Tectus
-162894	Gift of Earth
-162892y	Petrification on you
-162968	Earthen Flechettes
-162346	Barrage under you
-162475	Tectonic Upheaval
-adds	Add Spawned
+162894			Gift of Earth
+162892y			Petrification on you
+162968			Earthen Flechettes
+162346			Barrage under you
+162475			Tectonic Upheaval
+adds			Add Spawned
 
 ; Brackenspore
-spore_shooter	Small Adds
-mind_fungus	Mind Fungus
-flesh_eater	Big Add
-160013	Decay casting
-living_mushroom	Living Mushroom
+spore_shooter		Small Adds
+mind_fungus		Mind Fungus
+flesh_eater		Big Add
+160013			Decay casting
+living_mushroom		Living Mushroom
 rejuvenating_mushroom	Rejuvinating Mushroom
-164125	Healing
-163241	Rot on tank
-159219	Necrotic Breath
-159996	Infesting Spores
+164125			Healing
+163241			Rot on tank
+159219			Necrotic Breath
+159996			Infesting Spores
 
 ; Twin Ogron
-143834	Shield Bash
-158134	Shield Charge
-158093	Interrupting Shout casting
-158385	Pulverize incoming
-158521	Double Slash
-167200	Arcane Wound
-157943	Whirlwind
-158057	Enfeebling Roar
-158200	Quake
-158241	Blaze
-163372	Arcane Volatility
+volatility_self		Arcane Volatility on you
+158134			Shield Charge
+158093			Interrupting Shout
+158385			Pulverize
+157943			Whirlwind Arcane
+158057			Enfeebling Roar
+158200			Quake incoming
+158241			Blaze under you
 
 ; Ko'ragh
-163472	Dominating Power
-172895	Expel Magic: Fel on you
-161242	Caustic Energy
-161612	Overwhelming Energy
-160734	Vulnerability
-161328	Suppression Field
-162184	Expel Magic: Shadow
-162185	Expel Magic: Fire
-162186	Expel Magic: Arcane casting
-172747	Expel Magic: Frost
+;163472	Dominating Power
+;172895	Expel Magic: Fel on you
+;161242	Caustic Energy
+;161612	Overwhelming Energy
+;160734	Vulnerability
+;161328	Suppression Field
+;162184	Expel Magic: Shadow
+;162185	Expel Magic: Fire
+;162186	Expel Magic: Arcane casting
+;172747	Expel Magic: Frost
 
 ; Imperator Mar'gok
-159515	Accelerated Assault
-156238	Arcane Wrath
-156225	Branded
-156467	Destructive Resonance
-156471	Summon Arcane Aberration
-158605	Mark of Chaos
-157349	Force Nova
-157801	Slow
-157763	Fixate on you
-158553	Crush Armor
-158563	Kick to the Face
+;159515	Accelerated Assault
+;156238	Arcane Wrath
+;156225	Branded
+;156467	Destructive Resonance
+;156471	Summon Arcane Aberration
+;158605	Mark of Chaos
+;157349	Force Nova
+;157801	Slow
+;157763	Fixate on you
+;158553	Crush Armor
+;158563	Kick to the Face
