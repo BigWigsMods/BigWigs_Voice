@@ -25,12 +25,15 @@ frenzy	Frenzy
 adds	Add Spawned
 
 ; Brackenspore
-163755	Call of the Tides
-163794	Exploding Fungus
+spore_shooter	Small Adds
+mind_fungus	Mind Fungus
+flesh_eater	Big Add
 160013	Decay casting
-164125	Creeping Moss
-163241	Rot
-159219	Necrotic Breath on tank
+living_mushroom	Living Mushroom
+rejuvenating_mushroom	Rejuvinating Mushroom
+164125	Healing
+163241	Rot on tank
+159219	Necrotic Breath
 159996	Infesting Spores
 
 ; Twin Ogron
