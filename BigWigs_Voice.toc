@@ -3,7 +3,7 @@
 ## Notes: Voice files for warnings.
 ## Author: Funkydude
 
-## X-BigWigs-LoadOn-CoreLoaded: 1
+## X-BigWigs-LoadOn-CoreEnabled: 1
 ## Dependencies: BigWigs
 ## LoadOnDemand: 1
 
