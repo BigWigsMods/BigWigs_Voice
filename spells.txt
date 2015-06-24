@@ -190,3 +190,198 @@ trains	Train incoming
 156096	Marked for Death on you
 156107	Impaling Throw
 156030	Slag Bombs
+
+
+; -------------------------------------
+;   Hellfire Citadel
+; -------------------------------------
+
+; Hellfire Assault
+184369	Howling Axe
+184394	Shockwave
+185090	Inspiring Presence
+184243	Slam
+184238	Cower!
+185816	Repair
+185806	Conducted Shock Pulse
+181968	Metamorphosis
+180417	Felfire Volley
+180945	Siege Nova
+188101	Belch Flame
+180184	Crush
+190748	Cannonball (Grute)
+185021	Call to Arms (Transporter)
+siegevehicles	Siege vehicles
+
+; Iron Reaver
+182280	Artillery
+182020	Pounding
+185282	Barrage
+182001	Unstable Orb
+182074	Immolation
+182066	Falling Slam
+179889	Blitz
+182055	Full Charge
+181999	Firebomb
+;182534	Volatile Firebomb
+;186667	Burning Firebomb
+;186676	Reactive Firebomb
+;186652	Quick-Fuse Firebomb
+
+; Kormrok
+181306	Explosive Burst
+181292	Fel Outpouring
+181296	Explosive Runes
+181299	Grasping Hands
+180244	Pound
+181305	Swat
+181306	Explosive Burst
+181307	Foul Crush
+180115	Shadow Energy
+180116	Explosive Energy
+180117	Foul Energy
+186882	Enrage
+
+; Kilrogg Deadeye
+180372	Heart Seeker
+182428	Vision of Death
+180224	Death Throes
+180199	Shred Armor
+187089	Cleansing Aura
+183917	Rending Howl
+180163	Savage Strikes
+180618	Fel Blaze
+180033	Cinder Breath
+-11269	Hulking Terror
+-11266	Salivating Bloodthirster
+-11261	Blood Globule
+-11263	Fel Blood Globule
+
+; Hellfire High Council
+184449	Mark of the Necromancer
+184476	Reap
+184657	Nightmare Visage
+184681	Wailing Horror
+184358	Fel Rage
+184355	Bloodboil
+184847	Acidic Wound
+184365	Demolishing Leap
+;183210	Fel Blade
+183885	Mirror Images
+
+; Gorefiend
+179977	Touch of Doom
+179995	Doom Well
+179909	Shared Fate
+181973	Feast of Souls
+181295	Digest
+179864	Shadow of Death
+;182788	Crushing Darkness
+182601	Fel Fury
+181582	Bellowing Shout
+180148	Hunger for Life
+187814	Raging Charge
+185189	Fel Flames
+
+; Shadow-Lord Iskar
+179202	Eye of Anzu
+181956	Phantasmal Winds
+182323	Phantasmal Wounds
+181824	Phantasmal Corruption
+181753	Fel Bomb
+181912	Focused Blast
+182582	Fel Incineration
+181827	Fel Conduit
+182200	Fel Chakram
+185510	Dark Bindings
+185345	Shadow Riposte
+
+; Socrethar the Eternal
+188692	Unstoppable Tenacity
+183331	Exert Dominance
+183329	Apocalypse
+189627	Volatile Fel Orb
+182051	Felblaze Charge
+184053	Fel Barrier
+184124	Gift of the Man'ari
+182392	Shadow Bolt Volley
+182769	Ghastly Fixation
+182218	Felblaze Residue
+181288	Fel Prison
+180008	Reverberating Blow
+-11456	Sargerei Dominator
+-11778	Voracious Soulstalker
+-11462	Haunting Soul
+
+; Tyrant Velhari
+180004	Enforcer's Onslaught
+180260	Annihilating Strike
+180300	Infernal Tempest
+-11155	Ancient Enforcer
+180533	Tainted Shadows
+180025	Harbinger's Mending
+180526	Font of Corruption
+-11163	Ancient Harbinger
+180608	Gavel of the Tyrant
+180040	Sovereign's Ward
+-11170	Ancient Sovereign
+180000	Seal of Decay
+185237	Touch of Harm
+182459	Edict of Condemnation
+
+; Fel Lord Zakuun
+179711	Befouled
+179671	Heavily Armed
+179407	Disembodied
+179583	Rumbling Fissures
+181653	Fel Crystal
+181508	Seed of Destruction
+179681	Enrage
+179406	Soul Cleave
+189009	Cavitation
+
+; Xhul'horac
+186134	Feltouched
+186135	Voidtouched
+186073	Felsinged
+186063	Wasting Void
+186407	Fel Surge
+186333	Void Surge
+186500	Chains of Fel
+186448	Felblaze Flurry
+186785	Withering Gaze
+186271	Fel Strike
+186292	Void Strike
+187204	Overwhelming Chaos
+186546	Black Hole
+-11691	Vanguard Akkelion
+-11688	Omnus
+-11714	Unstable Voidfiend
+
+; Mannoroth
+181099	Mark of Doom
+181597	Mannoroth's Gaze
+181799	Shadowforce
+181566	Fel Hellstorm
+181275	Curse of the Legion
+181119	Doom Spike
+181126	Shadow Bolt Volley
+181735	Felseeker
+183377	Glaive Thrust
+181359	Massive Blast
+181354	Glaive Combo
+181557	Fel Hellstorm
+
+; Archimonde
+184964	Shackled Torment
+183828	Death Brand
+186961	Nether Banish
+183817	Shadowfel Burst
+183865	Demonic Havoc
+182879	Doomfire Fixate
+189895	Void Star Fixate
+186123	Wrought Chaos
+185014	Focused Chaos
+183586	Doomfire
+183254	Allure of Flames
+185590	Desecrate
