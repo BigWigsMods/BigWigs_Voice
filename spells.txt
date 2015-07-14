@@ -9,12 +9,12 @@ arena_sweeper		Arena Sweeper incoming
 159113y			Impale on you
 158986y			Berserker Rush on you
 159947			Chain Hurl incoming
-159413			Mauling Brew under you
-159311			Flame Jet under you
+159413y			Mauling Brew under you
+159311y			Flame Jet under you
 160521			Vile Breath
 
 ; The Butcher
-163046			Pale Vitriol under you
+163046y			Pale Vitriol under you
 156151			Tenderizer on tank
 156152			Gushing Wounds
 -8860			Bounding Cleave
@@ -48,7 +48,7 @@ volatility_self		Arcane Volatility on you
 157943			Whirlwind Arcane
 158057			Enfeebling Roar
 158200			Quake incoming
-158241			Blaze under you
+158241y			Blaze under you
 
 ; Ko'ragh
 ;163472	Dominating Power
@@ -86,7 +86,7 @@ volatility_self		Arcane Volatility on you
 155078	Overwhelming Blows
 155326	Petrifying Slam near you
 155539	Destructive Rampage
-173192	Cave In under you
+173192y	Cave In under you
 
 ; Oregorger
 156240	Acid Torrent
@@ -129,7 +129,7 @@ shard_explosion	Shard Explosion
 155277	Blazing Radiance
 155493	Firestorm
 163284	Rising Flames
-154952	Fixate on you
+154952y	Fixate on you
 154950	Overheated
 155074	Charring Breath
 
@@ -160,7 +160,7 @@ shard_explosion	Shard Explosion
 160140	Cauterizing Bolt
 159481	Delayed Siege Bomb
 155921	Enkindle
-155864	Grenade under you
+155864y	Grenade under you
 trains	Train incoming
 
 ; Iron Maidens
@@ -171,23 +171,23 @@ trains	Train incoming
 164271	Penetrating Shot
 158599	Deploy Turret
 155794	Blade Dash
-156109	Convulsive Shadows on you
+156109y	Convulsive Shadows on you
 158315	Dark Hunt
-159724	Blood Ritual on you
-158010	Heartseeker on you
+159724y	Blood Ritual on you
+158010y	Heartseeker on you
 156601	Sanguine Strikes
 159336	Iron Will
 
 ; Blackhand
 156425	Demolition
-156401	Molten Slag on you
-156653	Fixate on you
+156401y	Molten Slag on you
+156653y	Fixate on you
 156667	Blackiron Plating removed
 158054	Massive Shattering Smash
 156928	Slag Eruption
-157000	Slag Bomb on you
+157000y	Slag Bomb on you
 155992	Shattering Smash
-156096	Marked for Death on you
+156096y	Marked for Death on you
 156107	Impaling Throw
 156030	Slag Bombs
 
@@ -202,7 +202,7 @@ trains	Train incoming
 185090	Inspiring Presence
 184243	Slam
 184238	Cower!
-185816	Repair
+185816	Repairing
 185806	Conducted Shock Pulse
 181968	Metamorphosis
 180417	Felfire Volley
@@ -211,14 +211,14 @@ trains	Train incoming
 180184	Crush
 190748	Cannonball (Grute)
 185021	Call to Arms (Transporter)
-siegevehicles	Siege vehicles
+siegevehicles	Siege Vehicles
 
 ; Iron Reaver
-182280	Artillery
+182280y	Artillery on you
 182020	Pounding
 185282	Barrage
-182001	Unstable Orb
-182074	Immolation
+182001y	Unstable Orb on you
+182074y	Immolation under you
 182066	Falling Slam
 179889	Blitz
 182055	Full Charge
@@ -270,12 +270,12 @@ siegevehicles	Siege vehicles
 183885	Mirror Images
 
 ; Gorefiend
-179977	Touch of Doom
-179995	Doom Well
+179977y	Touch of Doom on you
+179995	Doom Well under you
 179909	Shared Fate
 181973	Feast of Souls
 181295	Digest
-179864	Shadow of Death
+179864y	Shadow of Death on you
 ;182788	Crushing Darkness
 182601	Fel Fury
 181582	Bellowing Shout
@@ -284,10 +284,10 @@ siegevehicles	Siege vehicles
 185189	Fel Flames
 
 ; Shadow-Lord Iskar
-179202	Eye of Anzu
-181956	Phantasmal Winds
-182323	Phantasmal Wounds
-181824	Phantasmal Corruption
+179202y	Eye of Anzu on you
+181956y	Phantasmal Winds on you
+182323y	Phantasmal Wounds on you
+181824y	Phantasmal Corruption on you
 181753	Fel Bomb
 181912	Focused Blast
 182582	Fel Incineration
@@ -300,12 +300,12 @@ siegevehicles	Siege vehicles
 188692	Unstoppable Tenacity
 183331	Exert Dominance
 183329	Apocalypse
-189627	Volatile Fel Orb
-182051	Felblaze Charge
-184053	Fel Barrier
-184124	Gift of the Man'ari
+189627y	Volatile Fel Orb on you
+182051y	Felblaze Charge on you
+184053y	Fel Barrier on you
+184124y	Gift of the Man'ari on you
 182392	Shadow Bolt Volley
-182769	Ghastly Fixation
+182769y	Ghastly Fixation on you
 182218	Felblaze Residue
 181288	Fel Prison
 180008	Reverberating Blow
@@ -320,7 +320,7 @@ siegevehicles	Siege vehicles
 -11155	Ancient Enforcer
 180533	Tainted Shadows
 180025	Harbinger's Mending
-180526	Font of Corruption
+180526y	Font of Corruption on you
 -11163	Ancient Harbinger
 180608	Gavel of the Tyrant
 180040	Sovereign's Ward
@@ -330,7 +330,7 @@ siegevehicles	Siege vehicles
 182459	Edict of Condemnation
 
 ; Fel Lord Zakuun
-179711	Befouled
+179711y	Befouled on you
 179671	Heavily Armed
 179407	Disembodied
 179583	Rumbling Fissures
@@ -341,13 +341,13 @@ siegevehicles	Siege vehicles
 189009	Cavitation
 
 ; Xhul'horac
-186134	Feltouched
-186135	Voidtouched
+186134y	Feltouched on you
+186135y	Voidtouched on you
 186073	Felsinged
 186063	Wasting Void
-186407	Fel Surge
-186333	Void Surge
-186500	Chains of Fel
+186407y	Fel Surge on you
+186333y	Void Surge on you
+186500y	Chains of Fel on you
 186448	Felblaze Flurry
 186785	Withering Gaze
 186271	Fel Strike
@@ -373,15 +373,15 @@ siegevehicles	Siege vehicles
 181557	Fel Hellstorm
 
 ; Archimonde
-184964	Shackled Torment
+184964y	Shackled Torment on you
 183828	Death Brand
 186961	Nether Banish
 183817	Shadowfel Burst
 183865	Demonic Havoc
-182879	Doomfire Fixate
-189895	Void Star Fixate
+182879y	Doomfire Fixate on you
+189895y	Void Star Fixate on you
 186123	Wrought Chaos
 185014	Focused Chaos
-183586	Doomfire
+183586y	Doomfire under you
 183254	Allure of Flames
 185590	Desecrate
