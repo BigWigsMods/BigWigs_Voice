@@ -1,4 +1,4 @@
-## Interface: 60200
+## Interface: 70000
 ## Title: Big Wigs |cffff0000+|r|cffffffffVoice|r
 ## Notes: Voice files for warnings.
 ## Author: Funkydude
