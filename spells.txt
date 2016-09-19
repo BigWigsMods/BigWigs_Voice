@@ -97,7 +97,7 @@ shard_explosion	Shard Explosion
 ;156877 Blackrock Barrage
 155819	Hunger Drive
 155898	Rolling Fury
-		
+
 ; Blast Furnace
 176121	Volatile Fire
 155179	Repair
@@ -385,3 +385,80 @@ siegevehicles	Siege Vehicles
 183586y	Doomfire under you
 183254	Allure of Flames
 185590	Desecrate
+
+
+; -------------------------------------
+;   The Emerald Nightmare
+; -------------------------------------
+
+; Nythendra
+202977	Infested Breath
+203096	Rot
+204463	Volatile Rot
+203552	Heart of the Swarm
+203045	Infested Ground
+204504	Infested
+205043	Infested Mind
+205070	Spread Infestation
+
+; Ursoc
+197943	Overwhelm
+204859	Rend Flesh
+198006	Focused Gaze
+198108	Momentum
+197969	Roaring Cacophony
+205611	Miasma
+198388	Blood Frenzy
+
+; Il'gynoth
+208689	Ground Slam
+215234	Nightmarish Fury
+210099	Fixate
+209469	Touch of Corruption
+209471	Nightmare Explosion
+210984	Eye of Fate
+208929	Spew Corruption
+208697	Mind Flay
+209915	Stuff of Nightmares
+215128	Cursed Blood
+
+; Elerethe Renferal
+215300	Web of Pain
+212364	Feeding Time
+214348	Vile Ambush
+215460	Necrotic Venom
+212707	Gathering Clouds
+210948	Dark Storm
+210864	Twisting Shadows
+210547	Razor Wing
+215582	Raking Talons
+213124	Venomous Pool
+
+; Dragons of Nightmare
+
+; Cenarius
+210279	Creeping Nightmares
+210290	Nightmare Brambles
+212726	Forces of Nightmare
+210346	Dread Thorns
+214884	Corrupt Allies of Nature
+214505	Entangling Nightmares
+214529	Spear of Nightmares
+212681	Cleansed Ground
+211073	Desiccating Stomp
+211192	Rotten Breath
+211368	Twisted Touch of Life
+211471	Scorned Touch
+214876	Beasts of Nightmare
+
+; Xavius
+208431	Decent Into Madness
+206005	Dream Simulacrum
+206651	Darkening Soul
+211802	Nightmare Blades
+210264	Manifest Corruption
+205771	Tormenting Fixation
+209034	Bonds of Terror
+209158	Blackening Soul
+209443	Nightmare Infusion
+205588	Call of Nightmares
