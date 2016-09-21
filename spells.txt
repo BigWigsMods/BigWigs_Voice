@@ -416,6 +416,7 @@ siegevehicles	Siege Vehicles
 210099	Fixate
 209469	Touch of Corruption
 209471	Nightmare Explosion
+nightmare_horror	Nightmare Horror
 210984	Eye of Fate
 208929	Spew Corruption
 208697	Mind Flay
@@ -435,6 +436,22 @@ siegevehicles	Siege Vehicles
 213124	Venomous Pool
 
 ; Dragons of Nightmare
+203028	Corrupted Breath
+-12809	Marks
+207573	Call Defiled Spirit
+203770	Defiled Vines
+203147	Nightmare Blast
+203787	Volatile Infection
+205298	Essence of Corruption
+205300	Corruption
+205528	Corruption of the Dream
+;Spihon Spirit
+;Gloom
+;Shadow Burst
+204100	Shades of Taerar
+204767	Corrupted Breath
+205331	Seeping Fog
+204078	Bellowing Roar
 
 ; Cenarius
 210279	Creeping Nightmares
@@ -462,3 +479,4 @@ siegevehicles	Siege Vehicles
 209158	Blackening Soul
 209443	Nightmare Infusion
 205588	Call of Nightmares
+226194	Writhing Deep
