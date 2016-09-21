@@ -1,0 +1,3 @@
+@echo off
+
+for /f %%f in ('dir /b ..\Sounds\*.wav') do oggenc2 .\Sounds\%%f

@@ -1,5 +1,4 @@
 package-as: BigWigs_Voice
 
 ignore:
-  - spells.txt
-  - dev
+  - Tools
