@@ -1,5 +1,6 @@
 ## Interface: 70000
-## Title: Big Wigs |cffff0000+|r|cffffffffVoice|r
+## Title: BigWigs |cffff0000+|r|cffffffffVoice|r
+## Version: @project-version@
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-zhCN: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-zhTW: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
@@ -17,6 +18,7 @@
 ## Dependencies: BigWigs
 ## LoadOnDemand: 1
 
+## X-Category: Raid
 ## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
 ## X-Curse-Project-ID: bigwigs_voice
 ## X-WoWI-ID: 24218
