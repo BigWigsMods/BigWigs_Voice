@@ -1,6 +1,6 @@
 ## Interface: 70000
 ## Title: Big Wigs |cffff0000+|r|cffffffffVoice|r
-## Notes: Voice files for warnings.
+## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Author: Funkydude
 
 ## X-BigWigs-LoadOn-CoreEnabled: 1
