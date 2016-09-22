@@ -1,10 +1,24 @@
 ## Interface: 70000
 ## Title: Big Wigs |cffff0000+|r|cffffffffVoice|r
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-zhCN: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-zhTW: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-deDE: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-frFR: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-itIT: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-koKR: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-ruRU: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-ptBR: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-esES: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
+## Notes-esMX: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Author: Funkydude
 
 ## X-BigWigs-LoadOn-CoreEnabled: 1
 ## Dependencies: BigWigs
 ## LoadOnDemand: 1
+
+## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
+# X-Curse-Project-ID: bigwigs_voice
+# X-WoWI-ID: 24218
 
 Core.lua
