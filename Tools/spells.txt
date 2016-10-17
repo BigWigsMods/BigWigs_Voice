@@ -1,8 +1,8 @@
 ; -------------------------------------
-;   Highmaul
+;   Zone: Highmaul
 ; -------------------------------------
 
-; Kargath Bladefist
+; Boss: Kargath Bladefist
 162497y			On the Hunt on you
 arena_sweeper		Arena Sweeper incoming
 159113			Impale on Tank
@@ -13,14 +13,14 @@ arena_sweeper		Arena Sweeper incoming
 159311y			Flame Jet under you
 160521			Vile Breath
 
-; The Butcher
+; Boss: The Butcher
 163046y			Pale Vitriol under you
 156151			Tenderizer on tank
 156152			Gushing Wounds
 -8860			Bounding Cleave
 frenzy			Frenzy
 
-; Tectus
+; Boss: Tectus
 162894			Gift of Earth
 162892y			Petrification on you
 162968			Earthen Flechettes
@@ -28,7 +28,7 @@ frenzy			Frenzy
 162475			Tectonic Upheaval
 adds			Add Spawned
 
-; Brackenspore
+; Boss: Brackenspore
 spore_shooter		Small Adds
 mind_fungus		Mind Fungus
 flesh_eater		Big Add
@@ -40,7 +40,7 @@ rejuvenating_mushroom	Rejuvinating Mushroom
 159219			Necrotic Breath
 159996			Infesting Spores
 
-; Twin Ogron
+; Boss: Twin Ogron
 volatility_self		Arcane Volatility on you
 158134			Shield Charge
 158093			Interrupting Shout
@@ -50,7 +50,7 @@ volatility_self		Arcane Volatility on you
 158200			Quake incoming
 158241y			Blaze under you
 
-; Ko'ragh
+; Boss: Ko'ragh
 ;163472	Dominating Power
 ;172895	Expel Magic: Fel on you
 ;161242	Caustic Energy
@@ -62,7 +62,7 @@ volatility_self		Arcane Volatility on you
 ;162186	Expel Magic: Arcane casting
 ;172747	Expel Magic: Frost
 
-; Imperator Mar'gok
+; Boss: Imperator Mar'gok
 ;159515	Accelerated Assault
 ;156238	Arcane Wrath
 ;156225	Branded
@@ -77,10 +77,10 @@ volatility_self		Arcane Volatility on you
 
 
 ; -------------------------------------
-;   Blackrock Foundry
+;   Zone: Blackrock Foundry
 ; -------------------------------------
 
-; Gruul
+; Boss: Gruul
 155080	Inferno Slice
 155301	Overhead Smash
 155078	Overwhelming Blows
@@ -88,7 +88,7 @@ volatility_self		Arcane Volatility on you
 155539	Destructive Rampage
 173192y	Cave In under you
 
-; Oregorger
+; Boss: Oregorger
 156240	Acid Torrent
 173471	Acid Maw
 156203	Retched Blackrock
@@ -98,7 +98,7 @@ shard_explosion	Shard Explosion
 155819	Hunger Drive
 155898	Rolling Fury
 
-; Blast Furnace
+; Boss: Blast Furnace
 176121	Volatile Fire
 155179	Repair
 155192	Bomb
@@ -110,7 +110,7 @@ shard_explosion	Shard Explosion
 155209	Blast
 155225	Melt
 
-; Hans'gar & Franzok
+; Boss: Hans'gar & Franzok
 162124	Smart Stampers
 160838	Disrupting Roar
 153470	Skullcracker
@@ -119,7 +119,7 @@ shard_explosion	Shard Explosion
 155818	Scorching Burns
 155747	Body Slam
 
-; Flamebender Ka'graz
+; Boss: Flamebender Ka'graz
 156018	Devastating Slam
 156040	Drop the Hammer
 155318	Lava Slash
@@ -133,7 +133,7 @@ shard_explosion	Shard Explosion
 154950	Overheated
 155074	Charring Breath
 
-; Kromog
+; Boss: Kromog
 173917	Rune of Trembling Earth
 -9706	Call of the Mountain
 156852	Stone Breath
@@ -144,7 +144,7 @@ shard_explosion	Shard Explosion
 157054	Thundering Blows
 156861	Frenzy
 
-; Beastlord Darmac
+; Boss: Beastlord Darmac
 154989	Inferno Breath
 155499	Shrapnel
 155657	Flame Infusion
@@ -155,7 +155,7 @@ shard_explosion	Shard Explosion
 154960	Pinned Down
 154975	Call the Pack
 
-; Operator Thogar
+; Boss: Operator Thogar
 163753	Iron Bellow
 160140	Cauterizing Bolt
 159481	Delayed Siege Bomb
@@ -163,7 +163,7 @@ shard_explosion	Shard Explosion
 155864y	Grenade under you
 trains	Train incoming
 
-; Iron Maidens
+; Boss: Iron Maidens
 158683	Corrupted Blood
 158708	Earthen Barrier
 158692	Deadly Throw
@@ -178,7 +178,7 @@ trains	Train incoming
 156601	Sanguine Strikes
 159336	Iron Will
 
-; Blackhand
+; Boss: Blackhand
 156425	Demolition
 156401y	Molten Slag on you
 156653y	Fixate on you
@@ -193,10 +193,10 @@ trains	Train incoming
 
 
 ; -------------------------------------
-;   Hellfire Citadel
+;   Zone: Hellfire Citadel
 ; -------------------------------------
 
-; Hellfire Assault
+; Boss: Hellfire Assault
 184369	Howling Axe
 184394	Shockwave
 185090	Inspiring Presence
@@ -213,7 +213,7 @@ trains	Train incoming
 185021	Call to Arms (Transporter)
 siegevehicles	Siege Vehicles
 
-; Iron Reaver
+; Boss: Iron Reaver
 182280y	Artillery on you
 182020	Pounding
 185282	Barrage
@@ -228,7 +228,7 @@ siegevehicles	Siege Vehicles
 ;186676	Reactive Firebomb
 ;186652	Quick-Fuse Firebomb
 
-; Kormrok
+; Boss: Kormrok
 181306	Explosive Burst
 181292	Fel Outpouring
 181296	Explosive Runes
@@ -242,7 +242,7 @@ siegevehicles	Siege Vehicles
 180117	Foul Energy
 186882	Enrage
 
-; Kilrogg Deadeye
+; Boss: Kilrogg Deadeye
 180372	Heart Seeker
 182428	Vision of Death
 180224	Death Throes
@@ -257,7 +257,7 @@ siegevehicles	Siege Vehicles
 -11261	Blood Globule
 -11263	Fel Blood Globule
 
-; Hellfire High Council
+; Boss: Hellfire High Council
 184449	Mark of the Necromancer
 184476	Reap
 184657	Nightmare Visage
@@ -269,7 +269,7 @@ siegevehicles	Siege Vehicles
 ;183210	Fel Blade
 183885	Mirror Images
 
-; Gorefiend
+; Boss: Gorefiend
 179977y	Touch of Doom on you
 179995	Doom Well under you
 179909	Shared Fate
@@ -283,7 +283,7 @@ siegevehicles	Siege Vehicles
 187814	Raging Charge
 185189	Fel Flames
 
-; Shadow-Lord Iskar
+; Boss: Shadow-Lord Iskar
 179202y	Eye of Anzu on you
 181956y	Phantasmal Winds on you
 182323y	Phantasmal Wounds on you
@@ -296,7 +296,7 @@ siegevehicles	Siege Vehicles
 185510	Dark Bindings
 185345	Shadow Riposte
 
-; Socrethar the Eternal
+; Boss: Socrethar the Eternal
 188692	Unstoppable Tenacity
 183331	Exert Dominance
 183329	Apocalypse
@@ -313,7 +313,7 @@ siegevehicles	Siege Vehicles
 -11778	Voracious Soulstalker
 -11462	Haunting Soul
 
-; Tyrant Velhari
+; Boss: Tyrant Velhari
 180004	Enforcer's Onslaught
 180260	Annihilating Strike
 180300	Infernal Tempest
@@ -329,7 +329,7 @@ siegevehicles	Siege Vehicles
 185237	Touch of Harm
 182459	Edict of Condemnation
 
-; Fel Lord Zakuun
+; Boss: Fel Lord Zakuun
 179711y	Befouled on you
 179671	Heavily Armed
 179407	Disembodied
@@ -340,7 +340,7 @@ siegevehicles	Siege Vehicles
 179406	Soul Cleave
 189009	Cavitation
 
-; Xhul'horac
+; Boss: Xhul'horac
 186134y	Feltouched on you
 186135y	Voidtouched on you
 186073	Felsinged
@@ -358,7 +358,7 @@ siegevehicles	Siege Vehicles
 -11688	Omnus
 -11714	Unstable Voidfiend
 
-; Mannoroth
+; Boss: Mannoroth
 181099	Mark of Doom
 181597	Mannoroth's Gaze
 181799	Shadowforce
@@ -372,7 +372,7 @@ siegevehicles	Siege Vehicles
 181354	Glaive Combo
 181557	Fel Hellstorm
 
-; Archimonde
+; Boss: Archimonde
 184964y	Shackled Torment on you
 183828	Death Brand
 186961	Nether Banish
@@ -388,95 +388,107 @@ siegevehicles	Siege Vehicles
 
 
 ; -------------------------------------
-;   The Emerald Nightmare
+;   Zone: The Emerald Nightmare
 ; -------------------------------------
 
-; Nythendra
+; Boss: Nythendra
 202977	Infested Breath
-203096	Rot
-204463	Volatile Rot
+203096y	Rot on you
+204463y	Volatile Rot on you
 203552	Heart of the Swarm
 203045	Infested Ground
 204504	Infested
-205043	Infested Mind
+205043y	Infested Mind on you
 205070	Spread Infestation
 
-; Ursoc
+; Boss: Ursoc
 197943	Overwhelm
 204859	Rend Flesh
-198006	Focused Gaze
+198006y	Focused Gaze on you
 198108	Momentum
 197969	Roaring Cacophony
-205611	Miasma
+205611	Miasma under you
 198388	Blood Frenzy
 
-; Il'gynoth
-208689	Ground Slam
+; Boss: Il'gynoth
+223121	Final Torpor
+212886	Nightmare Corruption
+208689y	Ground Slam on you
 215234	Nightmarish Fury
 210099	Fixate
 209469	Touch of Corruption
 209471	Nightmare Explosion
 nightmare_horror	Nightmare Horror
 210984	Eye of Fate
-208929	Spew Corruption
+208929y	Spew Corruption on you
 208697	Mind Flay
-209915	Stuff of Nightmares
-215128	Cursed Blood
+215128y	Cursed Blood on you
+218415	Death Blossom
 
-; Elerethe Renferal
+; Boss: Elerethe Renferal
 215300	Web of Pain
 212364	Feeding Time
 214348	Vile Ambush
-215460	Necrotic Venom
+215460y	Necrotic Venom on you
 212707	Gathering Clouds
 210948	Dark Storm
-210864	Twisting Shadows
+210864y	Twisting Shadows on you
 210547	Razor Wing
 215582	Raking Talons
+218124	Violent Winds
 213124	Venomous Pool
 
-; Dragons of Nightmare
+; Boss: Dragons of Nightmare
 203028	Corrupted Breath
 -12809	Marks
 207573	Call Defiled Spirit
-203770	Defiled Vines
+203770y	Defiled Vines on you
 203147	Nightmare Blast
-203787	Volatile Infection
+203787y	Volatile Infection on you
 205298	Essence of Corruption
 205300	Corruption
 205528	Corruption of the Dream
-;Spihon Spirit
+203888	Siphon Spirit
 ;Gloom
-;Shadow Burst
+204040	Shadow Burst
 204100	Shades of Taerar
 204767	Corrupted Breath
 205331	Seeping Fog
 204078	Bellowing Roar
+-13460	Lumbering Mindgorger
 
-; Cenarius
+; Boss: Cenarius
 210279	Creeping Nightmares
 210290	Nightmare Brambles
 212726	Forces of Nightmare
 210346	Dread Thorns
-214884	Corrupt Allies of Nature
 214505	Entangling Nightmares
 214529	Spear of Nightmares
+213162	Nightmare Blast
 212681	Cleansed Ground
 211073	Desiccating Stomp
 211192	Rotten Breath
 211368	Twisted Touch of Life
-211471	Scorned Touch
+211471y	Scorned Touch on you
 214876	Beasts of Nightmare
+214884	Corrupt Allies of Nature
 
-; Xavius
-208431	Decent Into Madness
+; Boss: Xavius
+208431	Descent Into Madness
+207409	Madness
 206005	Dream Simulacrum
+211634	The Infinite Dark
+224649	Tormenting Swipe
+207830	Corrupting Nova
 206651	Darkening Soul
-211802	Nightmare Blades
+211802y	Nightmare Blades
 210264	Manifest Corruption
 205771	Tormenting Fixation
-209034	Bonds of Terror
+205741	Lurking Eruption
+209034y	Bonds of Terror
+224508	Corruption Meteor
 209158	Blackening Soul
 209443	Nightmare Infusion
 205588	Call of Nightmares
 226194	Writhing Deep
+205843	The Dreaming
