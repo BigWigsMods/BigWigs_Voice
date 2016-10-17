@@ -492,3 +492,46 @@ nightmare_horror	Nightmare Horror
 205588	Call of Nightmares
 226194	Writhing Deep
 205843	The Dreaming
+
+
+; -------------------------------------
+;   Zone: Trial of Valor
+; -------------------------------------
+
+; Boss: Guarm
+228248	Frost Lick
+228253	Shadow Lick
+228228	Flame Lick
+228187	Guardian's Breath
+227514	Flashing Fangs
+227816	Headlong Charge
+227883	Roaring Leap
+
+; Boss: Helya
+229119	Orb of Corruption
+227967	Bilewater Breath
+227992	Bilewater Liquefaction
+228730	Tentacle Strike
+228054	Taint of the Sea
+228872	Corrossive Nova
+228300	Fury of the Maw
+228390	Sludge Nova
+193367	Fetid Rot
+228519	Anchor Slam
+228619	Lantern of Darkness
+230267	Orb of Corrosion
+
+; Boss: Odyn
+228018	Valarjar's Bond
+228171	Revivify
+228012	Horn of Valor
+228029	Expel Light
+228162	Shield of Light
+227503	Draw Power
+227629	Unerring Blast
+227626	Odyn's Test
+-14495	Runic Brand
+-14404	Test of the Ages
+228918	Stormforged Spear
+227807	Storm of Justice
+227475	Cleansing Flame
