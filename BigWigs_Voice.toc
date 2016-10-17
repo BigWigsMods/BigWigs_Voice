@@ -12,7 +12,7 @@
 ## Notes-ptBR: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-esES: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-esMX: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
-## Author: Funkydude, mwallgren
+## Author: Funkydude, Sehra
 
 ## X-BigWigs-LoadOn-CoreEnabled: 1
 ## Dependencies: BigWigs
