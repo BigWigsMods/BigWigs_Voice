@@ -23,3 +23,4 @@ local function handler(event, module, key, sound, isOnMe)
 end
 
 BigWigsLoader.RegisterMessage(addon, "BigWigs_Voice", handler)
+BigWigsAPI.RegisterVoicePack("temp")
