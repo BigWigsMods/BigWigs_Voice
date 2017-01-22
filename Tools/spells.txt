@@ -535,3 +535,154 @@ nightmare_horror	Nightmare Horror
 228918	Stormforged Spear
 227807	Storm of Justice
 227475	Cleansing Flame
+
+
+; -------------------------------------
+;   Zone: The Nighthold
+; -------------------------------------
+
+; Boss: Skorpyron
+204275	Arcanoslash
+204316	Shockwave
+204448	Chitinous Exoskeleton
+204459	Exoskeletal Vulnerability
+204372	Call of the Scorpid
+204471	Focused Blast
+204284	Broken Shard
+;204292	Crystalline Fragments
+204744	Toxic Chitin
+-13767	Chromatic Exoskeleton
+
+; Boss: Trilliax
+206488	Arcane Seepage
+206641	Arcane Slash
+206788	Toxic Slice
+211615y	Sterilize on you
+206820	Cleansing Rage
+208910	Arcing Bonds
+207630	Annihilation
+207502	Succulent Feast
+
+; Boss: Chronomatic Anomaly
+206607	Chronometric Particles
+206609	Time Release
+206617y	Time Bomb on you
+207871	Vortex under you
+212099	Temporal Charge
+211927	Power Overwhelming
+207976	Full Power
+-13022	Waning Time Particle
+207228	Wrap Nightwell
+
+; Boss: Spellblade Aluriel
+212492	Annihilate
+212531y	Mark of Frost on you
+212587	Mark of Frost
+212647	Frostbitten
+212530	Replicate: Mark of Frost
+212735	Detonate: Mark of Frost
+213853	Animate: Mark of Frost
+213083	Frozen Tempest
+212736	Pool of Frost
+213148y	Searing Brand on you
+213166	Searing Brand
+213275	Detonate: Searing Brand
+213567	Animate: Searing Brand
+213278	Burning Ground
+213520	Arcane Orb
+213852	Replicate: Arcane Orb
+213390	Detonate: Arcane Orb
+213564	Animate: Arcane Orb
+213569	Armageddon
+213504	Arcane Fog
+
+; Boss: Star Augur Etraeus
+221875	Nether Traversal
+206464	Coronal Ejection
+205984y	Gravitational Pull on you
+206589	Chilled
+206936y	Icy Ejection on you
+206949	Frigid Nova
+214167y	Gravitational Pull on you
+206388	Felburst
+206517	Fel Nova
+205649y	Fel Ejection on you
+206398	Felflame
+214335y	Gravitational Pull on you
+207439	Void Nova
+207720	Witness the Void
+
+; Boss: High Botanist Tel'arn
+218809y	Call of Night on you
+218503	Recursive Strikes
+218438	Controlled Chaos
+218148	Solar Collapse
+218774	Summon Plasma Spheres
+219235	Toxic Spores
+218927	Grace of Nature
+218304y	Parasitic Fetter on you
+218342	Parasitic Fixate
+
+; Boss: Krosus
+206677	Searing Brand
+205368	Fel Beam
+205344y	Orb of Destruction on you
+205862	Slam
+205420	Burning Pitch
+208203	Isolated Rage
+
+; Boss: Tichondrius
+206480y	Carrion Plague on you
+213238	Seeker Swarm
+212794y	Brand of Argus on you
+208230	Feast of Blood
+213531	Echoes of the Void
+206365	Illusionary Night
+215988	Carrion Nightmare
+206466	Essence of Night
+216027	Nether Zone
+216024y	Volatile Wound on you
+
+; Boss: Grand Magistrix Elisande
+208887	Summon Time Elementals
+221863	Shield
+221864	Blast
+209165	Slow Time
+209568	Exothermic Release
+209166	Fast Time
+208807	Arcanetic Ring
+209170	Spanning Singularity
+209244y	Delphuric Beam on you
+210022	Epocheric Orb
+209973	Ablating Explosion
+211261y	Permeliative Torment on you
+209597y	Conflexive Burst on you
+209971	Ablative Pulse
+211887	Ablated
+
+; Boss: Gul'dan
+210339	Time Dilation
+217830y	Scattering Field on you
+210296	Resonant Barrier
+206219y	Liquid Hellfire on you
+206515	Fel Efflux
+212258	Hand of Gul'dan
+207938	Shadowblink
+212568	Drain
+217770	Gaze of Vethriz
+206675	Shatter Essence
+210273	Fel Obelisk
+208545	Anguished Spirits
+206883	Soul Vortex
+206896	Torn Soul
+209011y	Bonds of Fel on you
+209270	Eye of Gul'dan
+208672	Carrion Wave
+;221891	Soul Siphon on you
+;167935	Storm of the Destroyer
+;206744	Black Harvest
+;221606	Flames of Sargeras
+;212686	Flames of Sargeras
+;211132	Empowered Eye of Gul'dan
+;221781	Desolate Ground
+;227556	Fury of the Fel
