@@ -610,6 +610,7 @@ nightmare_horror	Nightmare Horror
 206398	Felflame
 214335y	Gravitational Pull on you
 207439	Void Nova
+222761	Big Bang
 207720	Witness the Void
 
 ; Boss: High Botanist Tel'arn
@@ -621,7 +622,7 @@ nightmare_horror	Nightmare Horror
 219235	Toxic Spores
 218927	Grace of Nature
 218304y	Parasitic Fetter on you
-218342	Parasitic Fixate
+218342y	Parasitic Fixate on you
 
 ; Boss: Krosus
 206677	Searing Brand
@@ -645,6 +646,8 @@ nightmare_horror	Nightmare Horror
 
 ; Boss: Grand Magistrix Elisande
 208887	Summon Time Elementals
+211616	Summon Time Elemental Fast
+211614	Summon Time Elemental Slow
 221863	Shield
 221864	Blast
 209165	Slow Time
@@ -678,11 +681,10 @@ nightmare_horror	Nightmare Horror
 209011y	Bonds of Fel on you
 209270	Eye of Gul'dan
 208672	Carrion Wave
-;221891	Soul Siphon on you
-;167935	Storm of the Destroyer
-;206744	Black Harvest
-;221606	Flames of Sargeras
-;212686	Flames of Sargeras
-;211132	Empowered Eye of Gul'dan
-;221781	Desolate Ground
-;227556	Fury of the Fel
+221891	Soul Siphon
+167935	Storm of the Destroyer
+206744	Black Harvest
+221606y	Flames of Sargeras on you
+211132	Empowered Eye of Gul'dan
+221781	Desolate Ground
+227556	Fury of the Fel
