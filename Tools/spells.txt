@@ -572,7 +572,7 @@ nightmare_horror	Nightmare Horror
 211927	Power Overwhelming
 207976	Full Power
 -13022	Waning Time Particle
-207228	Wrap Nightwell
+207228	Warp Nightwell
 
 ; Boss: Spellblade Aluriel
 212492	Annihilate
