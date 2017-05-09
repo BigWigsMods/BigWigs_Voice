@@ -562,6 +562,9 @@ nightmare_horror	Nightmare Horror
 208910	Arcing Bonds
 207630	Annihilation
 207502	Succulent Feast
+215066	Dual Personalities
+214670	Energized
+215062	Toxic Slice
 
 ; Boss: Chronomatic Anomaly
 206607	Chronometric Particles
@@ -595,6 +598,10 @@ nightmare_horror	Nightmare Horror
 213564	Animate: Arcane Orb
 213569	Armageddon
 213504	Arcane Fog
+230901	Fel Soul
+230504	Decimate
+230414	Fel Stomp
+230403	Fel Lash
 
 ; Boss: Star Augur Etraeus
 221875	Nether Traversal
@@ -626,9 +633,10 @@ nightmare_horror	Nightmare Horror
 
 ; Boss: Krosus
 206677	Searing Brand
-205368	Fel Beam
+205370	Fel Beam
 205344y	Orb of Destruction on you
 205862	Slam
+smashingBridge	Smashing Bridge
 205420	Burning Pitch
 208203	Isolated Rage
 
@@ -641,25 +649,27 @@ nightmare_horror	Nightmare Horror
 206365	Illusionary Night
 215988	Carrion Nightmare
 206466	Essence of Night
-216027	Nether Zone
 216024y	Volatile Wound on you
+216027	Nether Zone
+216040	Burning Soul
 
 ; Boss: Grand Magistrix Elisande
-208887	Summon Time Elementals
-211616	Summon Time Elemental Fast
-211614	Summon Time Elemental Slow
-221863	Shield
+229889	Terminate
+recursive_elemental	Summon Recursive Elemental
+209620	Recursion
 221864	Blast
 209165	Slow Time
-209568	Exothermic Release
+expedient_elemental	Summon Expedient Elemental
+209617	Expedite
 209166	Fast Time
-208807	Arcanetic Ring
+228877	Arcanetic Ring
 209170	Spanning Singularity
-209244y	Delphuric Beam on you
+209615	Ablation
+209244	Delphuric Beam
 210022	Epocheric Orb
 209973	Ablating Explosion
-211261y	Permeliative Torment on you
-209597y	Conflexive Burst on you
+211261	Permeliative Torment
+209597	Conflexive Burst
 209971	Ablative Pulse
 211887	Ablated
 
@@ -688,3 +698,16 @@ nightmare_horror	Nightmare Horror
 211132	Empowered Eye of Gul'dan
 221781	Desolate Ground
 227556	Fury of the Fel
+211439,	Will of the Demon Within
+220957	Soulsever
+227071	Flame Crash
+206847y	Parasitic Wound on you
+206983y	Shadowy Gaze on you
+manifest	Manifest Azzinoth
+221336	Chaos Seed
+221408	Bulwark of Azzinoth
+221486	Purify Essence
+nightorb	Summon Nightorb
+227008	Visions of the Dark Titan
+227009	Wounded
+206310	Time Stop
