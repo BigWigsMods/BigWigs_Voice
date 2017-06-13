@@ -711,3 +711,115 @@ nightorb	Summon Nightorb
 227008	Visions of the Dark Titan
 227009	Wounded
 206310	Time Stop
+
+
+; -------------------------------------
+;   Zone: Tomb of Sargeras
+; -------------------------------------
+
+; Boss: Goroth
+231363	Burning Armor
+cometSpike	Crashing Comet
+233279y	Shattering Star on you
+233062	Infernal Burning
+234346	Fel Eruption
+238588	Rain of Brimstone
+
+; Boss: Demonic Inquisition
+236283	Belac's Prisoner
+233426	Scythe Sweep
+233431y	Calcified Quills on you
+233441	Bone Saw
+239401	Pangs of Guilt
+233983y	Echoing Anguish on you
+233895	Suffocating Dark
+234015	Tormenting Burst
+235230	Fel Squall
+
+; Boss: Harjatan
+231998	Jagged Abrasion
+231854	Unchecked Rage
+232192	Commanding Roar
+232061	Draw In
+233429	Frigid Blows
+232174	Frosty Discharge
+darkscale_taskmaster	Darkscale Taskmaster
+231729y	Aqueous Burst on you
+234128y	Driven Assault on you
+240319	Hatching
+241600y	Sickly Fixate on you
+
+; Boss: Mistress Sassz'ine
+230139	Hydra Shot
+230201	Burden of Pain
+232722	Slicing Tornado
+230358	Thundering Shock
+230384	Consuming Hunger
+232745	Devouring Maw
+232913	Befouling Ink
+232827	Crashing Wave
+239436	Dread Shark
+239362	Delicious Bufferfish
+
+; Boss: Sisters of the Moon
+236541y	Twilight Glaive on you
+236547	Moon Glaive
+236550	Discorporate
+236480	Glaive Storm
+236305y	Incorporeal Shot on you
+236442y	Twilight Volley on you
+236694	Call Moontalon
+236697	Deadly Screech
+236603	Rapid Shot
+233263	Embrace of the Eclipse
+236519	Moon Burn
+236712	Lunar Beacon
+239264	Lunar Fire
+
+; Boss: The Desolate Host
+239006	Dissonance
+236507	Quietus
+235924y	Spear of Anguish on you
+235907	Collapsing Fissure
+238570y	Tormented Cries on you
+235927	Rupturing Slam
+236513	Bonecage Armor
+236131	Wither
+236459	Soulbind
+236072	Wailing Souls
+236515	Shattering Scream
+236361	Spirit Chains
+236542	Sundering Doom
+236544	Doomed Sundering
+236548	Torment
+
+; Boss: Maiden of Vigilance
+240209	Unstable Soul
+241593	Aegwynn's Ward
+235271	Infusion
+241635	Hammer of Creation
+241636	Hammer of Obliteration
+235267	Mass Instability
+237722	Blowback
+235028	Titanic Bulwark
+234891	Wrath of the Creators
+239153	Spontaneous Fragmentation
+
+; Boss: Avatar of Sargeras
+239207	Touch of Sargeras
+239132	Rupture Realities
+234059	Unbound Chaos
+236604y	Shadowy Blades on you
+236494	Desolate
+236528	Ripple of Darkness
+233856	Cleansing Protocol
+233556	Corrupted Matrix
+239739y	Dark Mark on you
+235572	Rupture Realities
+242017	Black Winds
+236684	Fel Infusion
+240623	Tainted Matrix
+240728	Tainted Essence
+234418	Rain of the Destroyer
+
+; Boss: Kil'jaeden
