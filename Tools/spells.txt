@@ -743,7 +743,6 @@ cometSpike	Crashing Comet
 232061	Draw In
 233429	Frigid Blows
 232174	Frosty Discharge
-darkscale_taskmaster	Darkscale Taskmaster
 231729y	Aqueous Burst on you
 234128y	Driven Assault on you
 240319	Hatching
@@ -823,3 +822,16 @@ darkscale_taskmaster	Darkscale Taskmaster
 234418	Rain of the Destroyer
 
 ; Boss: Kil'jaeden
+239932	Felclaws
+235059	Rupturing Singularity
+240910	Armageddon
+236378y	Shadow Reflection: Wailing
+236710y	Shadow Reflection: Erupting		
+238505y	Focused Dreadflame on you
+237590y	Shadow Reflection: Hopeless
+236555	Deceiver's Veil
+241721	Illidan's Sightless Gaze
+238999	Darkness of a Thousand Souls
+239785	Demonic Obelisk
+239130	Tear Rift
+239253	Flaming Orb
