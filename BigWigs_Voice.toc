@@ -7,7 +7,7 @@
 ## Notes-deDE: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-frFR: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-itIT: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
-## Notes-koKR: 우두머리 능력에 대하여 텍스트 음성 변환 소리를 재생하는 BigWigs 플러그인입니다..
+## Notes-koKR: 우두머리 능력에 대하여 텍스트 음성 변환 소리를 재생하는 BigWigs 플러그인입니다.
 ## Notes-ruRU: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-ptBR: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-esES: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
