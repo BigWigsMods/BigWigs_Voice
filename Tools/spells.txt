@@ -285,7 +285,7 @@ siegevehicles	Siege Vehicles
 
 ; Boss: Shadow-Lord Iskar
 179202y	Eye of Anzu on you
-181956y	Phantasmal Winds on you
+181956y	Phantasmal Winds=wɪndz on you
 182323y	Phantasmal Wounds on you
 181824y	Phantasmal Corruption on you
 181753	Fel Bomb
@@ -435,7 +435,7 @@ nightmare_horror	Nightmare Horror
 210864y	Twisting Shadows on you
 210547	Razor Wing
 215582	Raking Talons
-218124	Violent Winds
+218124	Violent Winds=wɪndz
 213124	Venomous Pool
 
 ; Boss: Dragons of Nightmare
@@ -815,7 +815,7 @@ cometSpike	Crashing Comet
 233556	Corrupted Matrix
 239739y	Dark Mark on you
 235572	Rupture Realities
-242017	Black Winds
+242017	Black Winds=wɪndz
 236684	Fel Infusion
 240623	Tainted Matrix
 240728	Tainted Essence
@@ -826,7 +826,7 @@ cometSpike	Crashing Comet
 235059	Rupturing Singularity
 240910	Armageddon
 236378y	Shadow Reflection: Wailing
-236710y	Shadow Reflection: Erupting		
+236710y	Shadow Reflection: Erupting
 238505y	Focused Dreadflame on you
 237590y	Shadow Reflection: Hopeless
 236555	Deceiver's Veil
