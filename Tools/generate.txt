@@ -1,0 +1,67 @@
+void Main()
+{
+	var path = @"D:\Code\BigWigs_Voice";
+
+	var spells = new List<(string Zone, string Boss, string Spell, string Text)>();
+	string zone = null;
+	string boss = null;
+
+	foreach (var line in File.ReadAllLines(Path.Combine(path, "Tools", "Spells.txt")))
+	{
+		if (line.StartsWith(";"))
+		{
+			var zoneMatch = Regex.Match(line, "Zone: (.*)");
+			var bossMatch = Regex.Match(line, "Boss: (.*)");
+
+			if (zoneMatch.Success)
+				zone = zoneMatch.Groups[1].Value;
+			else if (bossMatch.Success)
+				boss = bossMatch.Groups[1].Value;
+		}
+		else if (!String.IsNullOrWhiteSpace(line))
+		{
+			if (zone == null || boss == null)
+				 throw new InvalidOperationException(line);
+
+			var split = line.Split(new[] { '\t' }, StringSplitOptions.RemoveEmptyEntries);
+
+			if (split.Length != 2)
+				throw new InvalidOperationException(line);
+
+			spells.Add((zone, boss, split[0], split[1]));
+		}
+	}
+
+	var format = new SpeechAudioFormatInfo(44100, AudioBitsPerSample.Sixteen, AudioChannel.Stereo);
+	//var method = typeof(SpeechSynthesizer).GetMethod("SetOutputStream", BindingFlags.Instance | BindingFlags.NonPublic);
+
+	foreach (var spell in spells) //.Where(x => x.Zone.Contains("Tomb of Sargeras")))
+	{
+		using (var synth = new SpeechSynthesizer())
+		using (var stream = new MemoryStream())
+		{
+			synth.SelectVoice("Microsoft Zira Desktop");
+			synth.SetOutputToWaveFile($"{Path.Combine(path, "Sounds", spell.Spell)}.wav", format);
+			synth.SpeakSsml(GetSsml(spell.Text));
+		}
+	}
+}
+
+string GetSsml(string text)
+{
+	var ns = XNamespace.Get("http://www.w3.org/2001/10/synthesis");
+
+	return new XDocument(
+		new XElement(ns + "speak",
+			new XAttribute("version", "1.0"),
+			new XAttribute(XNamespace.Xml + "lang", "en"),
+			text.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+				.Select(x => x.Split('='))
+				.Select(x => new { Word = x.ElementAt(0) + " ", WordIpa = x.ElementAtOrDefault(1) })
+				.Select(x => x.WordIpa == null
+					? new XText(x.Word) as XNode
+					: new XElement(ns + "phoneme", new XAttribute("ph", x.WordIpa), x.Word)
+				)
+			)
+		).ToString();
+}

@@ -2,6 +2,7 @@ package-as: BigWigs_Voice
 wowi-archive-previous: no
 
 ignore:
+  - .gitignore
   - .travis.yml
   - README.md
   - Tools
