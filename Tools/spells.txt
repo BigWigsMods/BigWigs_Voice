@@ -835,3 +835,144 @@ cometSpike	Crashing Comet
 239785	Demonic Obelisk
 239130	Tear Rift
 239253	Flaming Orb
+
+
+; -------------------------------------
+;   Zone: Antorus
+; -------------------------------------
+
+; Boss: Garothi Worldbreaker
+246220	Fel Bombardment
+240277	Apocalypse Drive
+244969	Eradication
+244106	Carnage
+cannon_ability	Cannon Assault
+244410y	Decimation on you
+244761	Annihilation
+
+; Boss: Felhounds of Sargeras
+251445	Burning Maw
+244072	Molten Touch
+244768y	Desolate Gaze on you
+244057	Enflame Corruption
+248815y	Enflamed on you
+245098	Corrupting Maw
+244131	Consuming Sphere
+244069y	Weight of Darkness on you
+244056	Siphon Corruption
+248819y	Siphoned on you
+244050	Destroyer's Boon
+251356	Focusing Power
+
+; Boss: Antoran High Command
+244625	Fusillade
+;245292	Withering Fire
+245161	Entropic Mine
+;245546	Summon Reinforcements
+246505	Pyroblast
+245227	Assume Command
+244892	Sundering Claws
+244910	Felshield
+
+; Boss: Portal Keeper Hasabel
+244016	Reality Tear
+243983	Collapsing World
+244000	Felstorm Barrage
+244689	Transport Portal
+245504	Howling Shadows
+246075	Catastrophic Implosion
+244607	Flames of Xoroth
+244598	Supernova
+244613	Everburning Flames
+244926y	Felsilk Wrap on you
+246316,	Poison Essence
+244849,	Caustic Slime
+245050	Delusions
+245040	Corrupt
+245118	Cloying Shadows
+
+; Boss: Eonar the Life-Binder
+250048	Life Force
+248861	Spear of Doom
+248332y	Rain of Fel on you
+249121,	Final Doom
+249934,	Purge
+250693y	Arcane Buildup on you
+250691y	Burning Embers on you
+250140	Foul Steps
+
+; Boss: Imonar the Soulhunter
+247367	Shock Lance
+254244y	Sleep Canister on you
+247376	Pulse Grenade
+247687	Sever
+248254	Charged Blasts
+247923	Shrapnel Blast
+250255	Empowered Shock Lance
+248068	Empowered Pulse Grenade
+248070	Empowered Shrapnel Blast
+253302	Conflagration
+
+; Boss: Kin'garoth
+254919	Forging Strike
+254926	Reverberating Strike
+248214	Diabolic Bomb
+246833	Ruiner
+248375	Shattering Strike
+246516	Apocalypse Protocol
+246657	Annihilation
+246686	Decimation
+246698y	Demolish on you
+
+; Boss: Varimathras
+243961	Misery
+243960	Shadow Strike
+243999	Dark Fissure
+244042y	Marked Prey on you
+244094y	Necrotic Embrace on you
+
+; Boss: The Coven of Shivarra
+253203	Shivan Pact
+244899	Fiery Strike
+245627	Whirling Saber
+253429	Fulminating Pulse
+245303	Touch of Darkness
+246329	Shadow Blades
+252861	Storm of Darkness
+245518	Flashfreeze
+245586	Chilled Blood
+253650	Orb of Frost
+250648	Touch of the Cosmos
+250912	Cosmic Glare
+
+; Boss: Aggramar
+245990	Taeshalach's Reach
+245994y	Scorching Blaze on you
+244693y	Wake of Flame on you
+244688	Taeshalach Technique
+245458	Foe Breaker
+245463	Flame Rend
+245301	Searing Tempest
+245983	Flare
+246037	Empowered Flare
+
+; Boss: Argus the Unmaker
+248165	Cone of Death
+248317	Soul Blight Orb
+248396y	Soul Blight on you
+248167	Death Fog
+257296	Tortured Rage
+248499	Sweeping Scythe
+255594	Sky and Sea
+250669y	Soul Burst on you
+251570y	Soul Bomb on you
+255826	Edge of Obliteration
+255199	Avatar of Aggramar
+255200	Aggramar's Boon
+252729y	Cosmic Ray on you
+252616y	Cosmic Beacon on you
+255935	Cosmic Power
+256544	End of All Things
+258039	Deadly Scythe
+256396	Reorigination Pulse
+257214	Titanforging
