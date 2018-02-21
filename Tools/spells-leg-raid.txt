@@ -1,0 +1,718 @@
+; Type: Legion Raid
+
+; -------------------------------------
+;   Zone: The Emerald Nightmare
+; -------------------------------------
+
+; Boss: Trash
+221059	Wave of Decay
+221028y	Unstable Decay on you
+222719y	Befoulment on you
+totem	Corrupted Totem
+
+; Boss: Nythendra
+202977	Infested Breath
+203096y	Rot on you
+204463y	Volatile Rot on you
+203552	Heart of the Swarm
+203045	Infested Ground
+204504	Infested
+205043y	Infested Mind on you
+205070	Spread Infestation
+
+; Boss: Ursoc
+197943	Overwhelm
+204859	Rend Flesh
+198006y	Focused Gaze on you
+198108	Momentum
+197969	Roaring Cacophony
+205611	Miasma under you
+198388	Blood Frenzy
+
+; Boss: Il'gynoth
+223121	Final Torpor
+212886	Nightmare Corruption
+208689y	Ground Slam on you
+215234	Nightmarish Fury
+210099	Fixate
+209469	Touch of Corruption
+nightmare_horror	Nightmare Horror
+210984	Eye of Fate
+208929y	Spew Corruption on you
+208697	Mind Flay
+215128y	Cursed Blood on you
+218415	Death Blossom
+shriveled_eyestalk	Shriveled Eyestalk
+
+; Boss: Elerethe Renferal
+215300	Web of Pain
+212364	Feeding Time
+214348	Vile Ambush
+215460y	Necrotic Venom on you
+212707	Gathering Clouds
+210948	Dark Storm
+210864y	Twisting Shadows on you
+210547	Razor Wing
+215582	Raking Talons
+218124	Violent Winds=wɪndz
+213124	Venomous Pool
+
+; Boss: Dragons of Nightmare
+203028	Corrupted Breath
+-12809	Marks
+207573	Call Defiled Spirit
+203770y	Defiled Vines on you
+203147	Nightmare Blast
+203787y	Volatile Infection on you
+205298	Essence of Corruption
+205300	Corruption
+205528	Corruption of the Dream
+203888	Siphon Spirit
+204040	Shadow Burst
+204100	Shades of Taerar
+204767	Corrupted Breath
+205331	Seeping Fog
+204078	Bellowing Roar
+-13460	Lumbering Mindgorger
+
+; Boss: Cenarius
+210279	Creeping Nightmares
+210290y	Nightmare Brambles on you
+212726	Forces of Nightmare
+210346	Dread Thorns
+214505	Entangling Nightmares
+214529	Spear of Nightmares
+213162	Nightmare Blast
+212681	Cleansed Ground
+211073	Desiccating Stomp
+211192y	Rotten Breath on you
+211368	Twisted Touch of Life
+211471y	Scorned Touch on you
+211989y	Unbound Touch on you
+214876	Beasts of Nightmare
+214884	Corrupt Allies of Nature
+
+; Boss: Xavius
+208431	Descent Into Madness
+207409	Madness
+206005	Dream Simulacrum
+211634	The Infinite Dark
+224649	Tormenting Swipe
+207830	Corrupting Nova
+206651	Darkening Soul
+211802y	Nightmare Blades on you
+210264	Manifest Corruption
+205771	Tormenting Fixation
+205741	Lurking Eruption
+209034y	Bonds of Terror on you
+224508	Corruption Meteor
+209158	Blackening Soul
+209443	Nightmare Infusion
+205588	Call of Nightmares
+226194	Writhing Deep
+205843	The Dreaming
+
+
+; -------------------------------------
+;   Zone: Trial of Valor
+; -------------------------------------
+
+; Boss: Odyn
+228018	Valarjar's Bond
+228171	Revivify
+228012	Horn of Valor
+228029y	Expel Light on you
+228162y	Shield of Light on you
+227503	Draw Power
+227629	Unerring Blast
+227626	Odyn's Test
+-14495	Runic Brand
+229584	Protected
+-14404	Test of the Ages
+228918y	Stormforged Spear on you
+227807y	Storm of Justice on you
+227475	Cleansing Flame
+197961y	Runic Brand on you
+231350	Radiant Smite
+
+; Boss: Guarm
+228248y	Frost Lick on you
+228253y	Shadow Lick on you
+228228y	Flame Lick on you
+228187	Guardian's Breath
+227514	Flashing Fangs
+227816	Headlong Charge
+227883	Roaring Leap
+-14535	Volatile Foam
+228810y	Briney Volatile Foam on you
+228744y	Flaming Volatile Foam on you
+228818y	Shadowy Volatile Foam on you
+
+; Boss: Helya
+229119	Orb of Corruption
+orb_melee	Orb in melee
+orb_ranged	Orb in ranged
+227967	Bilewater Breath
+227992	Bilewater Liquefaction
+227982	Bilewater Redox
+228730	Tentacle Strike
+tentacle_near	Tentacle near
+tentacle_far	Tentacle far
+228054y	Taint of the Sea on you
+228872	Corrossive Nova
+230197	Dark Waters
+228300	Fury of the Maw
+167910	Kvaldir Longboat
+228390	Sludge Nova
+193367y	Fetid Rot on you
+228519	Anchor Slam
+228619	Lantern of Darkness
+228633	Give No Quarter
+228611	Ghostly Rage
+228127	Decay
+228854	Mist Infusion
+230267y	Orb of Corrosion on you
+228565	Corrupted Breath
+232488	Dark Hatred
+232450	Corrupted Axiom
+
+
+; -------------------------------------
+;   Zone: The Nighthold
+; -------------------------------------
+
+; Boss: Trash
+230438	Devastating Strike
+231086y	Bolder Strike on you
+230482	Rumbling Blow
+230488	Rumbling Ground
+221164	Fulminate
+221160	Compress the Void
+223655y	Oozing Rush on you
+230994y	Shadow Wrap on you
+231005	Arcane Emanations
+225927	Gravity Well
+224440	Crushing Stomp
+224510	Crackling Slice
+225412	Mass Siphon
+224568	Mass Suppress
+224572	Disrupting Energy
+224632y	Heavenly Crash on you
+225390	Stellar Dust
+225845	Chosen Fate
+225105y	Arcanic Release on you
+225800	Greater Time Warp
+225857	Arcane Wound
+225856	Poison Brambles
+221344y	Annihilating Orb on you
+224982y	Fel Glare on you
+
+; Boss: Skorpyron
+204275	Arcanoslash
+204316	Shockwave
+204448	Chitinous Exoskeleton
+204459	Exoskeletal Vulnerability
+204372	Call of the Scorpid
+204471	Focused Blast
+204284	Broken Shard
+204744	Toxic Chitin
+-13767	Chromatic Exoskeleton
+
+; Boss: Trilliax
+206488	Arcane Seepage
+206641	Arcane Slash
+206788	Toxic Slice
+211615y	Sterilize on you
+206820	Cleansing Rage
+208910	Arcing Bonds
+207630	Annihilation
+207502	Succulent Feast
+215066	Dual Personalities
+214670	Energized
+215062	Toxic Slice
+
+; Boss: Chronomatic Anomaly
+206607	Chronometric Particles
+206609	Time Release
+206617y	Time Bomb on you
+219815	Temporal Orb
+207871	Vortex under you
+212099	Temporal Charge
+211927	Power Overwhelming
+207976	Full Power
+-13022	Waning Time Particle
+207228	Warp Nightwell
+
+; Boss: Spellblade Aluriel
+212492	Annihilate
+212531y	Mark of Frost on you
+212587	Mark of Frost
+212647	Frostbitten
+212530	Replicate: Mark of Frost
+212735y	Detonate: Mark of Frost on you
+213853	Animate: Mark of Frost
+213083	Frozen Tempest
+212736	Pool of Frost
+213148y	Searing Brand on you
+213166	Searing Brand
+213275y	Detonate: Searing Brand on you
+213567	Animate: Searing Brand
+213278	Burning Ground
+213520	Arcane Orb
+213852	Replicate: Arcane Orb
+213390	Detonate: Arcane Orb
+213564	Animate: Arcane Orb
+213569	Armageddon
+213504	Arcane Fog
+230901	Fel Soul
+230504	Decimate
+230414	Fel Stomp
+230403	Fel Lash
+
+; Boss: Star Augur Etraeus
+221875	Nether Traversal
+206464	Coronal Ejection
+205984y	Gravitational Pull on you
+206589	Chilled
+206936y	Icy Ejection on you
+206949	Frigid Nova
+214167y	Gravitational Pull on you
+206388	Felburst
+206517	Fel Nova
+205649y	Fel Ejection on you
+206398	Felflame
+214335y	Gravitational Pull on you
+207439	Void Nova
+222761	Big Bang
+216909	World-Devouring Force
+207720	Witness the Void
+205408	Grand Conjunction
+
+; Boss: High Botanist Tel'arn
+218809y	Call of Night on you
+218503	Recursive Strikes
+218438	Controlled Chaos
+218148	Solar Collapse
+218774	Summon Plasma Spheres
+219235	Toxic Spores
+218927	Grace of Nature
+218304y	Parasitic Fetter on you
+218342y	Parasitic Fixate on you
+
+; Boss: Krosus
+206677	Searing Brand
+205370	Fel Beam
+205344y	Orb of Destruction on you
+205862	Slam
+smashingBridge	Smashing Bridge
+205420	Burning Pitch
+208203	Isolated Rage
+
+; Boss: Tichondrius
+206480y	Carrion Plague on you
+213238	Seeker Swarm
+212794y	Brand of Argus on you
+208230	Feast of Blood
+213531	Echoes of the Void
+206365	Illusionary Night
+215988	Carrion Nightmare
+206466	Essence of Night
+216024y	Volatile Wound on you
+216027	Nether Zone
+216040	Burning Soul
+
+; Boss: Grand Magistrix Elisande
+229889	Terminate
+recursive_elemental	Summon Recursive Elemental
+209620	Recursion
+221864	Blast
+209165	Slow Time
+expedient_elemental	Summon Expedient Elemental
+209617	Expedite
+209166	Fast Time
+228877	Arcanetic Ring
+209170	Spanning Singularity
+209615	Ablation
+209244y	Delphuric Beam on you
+210022	Epocheric Orb
+209973y	Ablating Explosion on you
+211261	Permeliative Torment
+209597y	Conflexive Burst on you
+209971	Ablative Pulse
+211887	Ablated
+
+; Boss: Gul'dan
+210339	Time Dilation
+217830y	Scattering Field on you
+210296	Resonant Barrier
+206219y	Liquid Hellfire under you
+206515	Fel Efflux
+212258	Hand of Gul'dan
+207938	Shadowblink
+212568	Drain
+217770	Gaze of Vethriz
+206675	Shatter Essence
+210273	Fel Obelisk
+208545	Anguished Spirits
+206883	Soul Vortex
+206896	Torn Soul
+209011y	Bonds of Fel on you
+209270	Eye of Gul'dan
+208672	Carrion Wave
+206939	Well of Souls
+221891	Soul Siphon
+208802	Soul Corrosion
+167935	Storm of the Destroyer
+206744	Black Harvest
+221606y	Flames of Sargeras on you
+211132	Empowered Eye of Gul'dan
+221781	Desolate Ground
+227556	Fury of the Fel
+winds	Violent Winds=wɪndz
+211439	Will of the Demon Within
+220957	Soulsever
+227071	Flame Crash
+206847y	Parasitic Wound on you
+206983y	Shadowy Gaze on you
+manifest	Manifest Azzinoth
+221336	Chaos Seed
+221408	Bulwark of Azzinoth
+221486	Purify Essence
+nightorb	Summon Nightorb
+227008	Visions of the Dark Titan
+227009	Wounded
+206310	Time Stop
+
+
+; -------------------------------------
+;   Zone: Tomb of Sargeras
+; -------------------------------------
+
+; Boss: Trash
+241742	Curse of Gul'dan
+242909	Massive Eruption
+241262	Felburn
+241301	Wall of Doom
+241171y	Lunar Bomb on you
+241169	Umbra Destruction
+240599y	Embrace of the Tides on you
+240169	Electric Shock
+240176	Lightning Stork
+241254	Frost-Fingered Fear
+241289	Mist Filled Pools
+241267	Icy Talons
+241703	Blood Siphon
+241716	Blood Drain
+241465	Coral Cut
+241446	Sonic Scream
+241480	Summon Steam Elemental
+240735y	Polymorph Bomb on you
+239741y	Anguish on you
+241367	Anguishing Strike
+241675y	Void Rift on you
+241646	Soul Portal
+241374	Luminescent Barrier
+
+; Boss: Goroth
+231363y	Burning Armor on you
+233514	Infernal Spike
+232249y	Crashing Comet on you
+233279y	Shattering Star on you
+233062	Infernal Burning
+234346	Fel Eruption
+238588	Rain of Brimstone
+
+; Boss: Demonic Inquisition
+236283	Belac's Prisoner
+233104	Torment
+248671	Unbridled Torment
+233426	Scythe Sweep
+233431y	Calcified Quills on you
+233441	Bone Saw
+239401	Pangs of Guilt
+233983y	Echoing Anguish on you
+233895	Suffocating Dark
+234015	Tormenting Burst
+235230	Fel Squall
+248713	Soul Corruption
+
+; Boss: Harjatan
+231998	Jagged Abrasion
+231854	Unchecked Rage
+232192	Commanding Roar
+232061	Draw In
+233429	Frigid Blows
+232174	Frosty Discharge
+231729y	Aqueous Burst on you
+231768	Drenching Waters
+234128y	Driven Assault on you
+240319	Hatching
+241600y	Sickly Fixate on you
+
+; Boss: Mistress Sassz'ine
+230139	Hydra Shot
+230201	Burden of Pain
+230959	Concealing Murk
+232722	Slicing Tornado
+230358	Thundering Shock
+230384	Consuming Hunger
+232745	Devouring Maw
+232913	Befouling Ink
+232827	Crashing Wave
+239436	Dread Shark
+239362	Delicious Bufferfish
+
+; Boss: Sisters of the Moon
+236541y	Twilight Glaive on you
+236547	Moon Glaive
+236550	Discorporate
+236480	Glaive Storm
+236305y	Incorporeal Shot on you
+236442y	Twilight Volley on you
+236694	Call Moontalon
+236697	Deadly Screech
+236603	Rapid Shot
+233263	Embrace of the Eclipse
+236519	Moon Burn
+236712y	Lunar Beacon on you
+237351	Lunar Barrage
+239264	Lunar Fire
+
+; Boss: The Desolate Host
+239006	Dissonance
+236507	Quietus
+235924y	Spear of Anguish on you
+235907	Collapsing Fissure
+238570y	Tormented Cries on you
+235927	Rupturing Slam
+236513	Bonecage Armor
+236131	Wither
+236459	Soulbind
+236072	Wailing Souls
+236515	Shattering Scream
+236361	Spirit Chains
+236241	Soul Rot
+236542	Sundering Doom
+236544	Doomed Sundering
+236548	Torment
+
+; Boss: Maiden of Vigilance
+240209	Unstable Soul
+241593	Aegwynn's Ward
+235271	Infusion
+241635	Hammer of Creation
+241636	Hammer of Obliteration
+238408	Fel Remanence
+235267	Mass Instability
+237722	Blowback
+235028	Titanic Bulwark
+234891	Wrath of the Creators
+239153	Spontaneous Fragmentation
+
+; Boss: Avatar of Sargeras
+239207	Touch of Sargeras
+239132	Rupture Realities
+234059	Unbound Chaos
+236604y	Shadowy Blades on you
+239212	Lingering Darkness
+236494	Desolate
+236528	Ripple of Darkness
+233856	Cleansing Protocol
+233556	Corrupted Matrix
+239739y	Dark Mark on you
+235572	Rupture Realities
+242017	Black Winds=wɪndz
+236684	Fel Infusion
+240623	Tainted Matrix
+240728	Tainted Essence
+234418	Rain of the Destroyer
+
+; Boss: Kil'jaeden
+239932	Felclaws
+235059	Rupturing Singularity
+240910	Armageddon
+236710y	Shadow Reflection: Erupting
+238430y	Bursting Dreadflame on you
+238505y	Focused Dreadflame on you
+236378y	Shadow Reflection: Wailing
+241564	Sorrowful Wail
+241721	Illidan's Sightless Gaze
+shadowsoul	Shadowsoul
+238999	Darkness of a Thousand Souls
+-15543	Demonic Obelisk
+239130	Tear Rift
+239253	Flaming Orb
+240262	Burning
+237590y	Shadow Reflection: Hopeless
+
+
+; -------------------------------------
+;   Zone: Antorus
+; -------------------------------------
+
+; Boss: Trash
+245861	Searing Rend
+252621	Bound by Fel
+251612	Bladestorm
+254500	Fearsome Leap
+254512	Bladestorm
+253600y	Soulburn on you
+249212	Howling Shadows
+252760y	Demolish on you
+249297y	Flames of Reorigination on you
+254122y	Cloud of Confusion on you
+246209	Punishing Flame
+246199	Burning Winds
+
+; Boss: Garothi Worldbreaker
+246220	Fel Bombardment
+240277	Apocalypse Drive
+244969	Eradication
+244106	Carnage
+cannon_ability	Cannon Assault
+244410y	Decimation on you
+244761	Annihilation
+247044	Shrapnel
+
+; Boss: Felhounds of Sargeras
+251445	Burning Maw
+244072	Molten Touch
+244768y	Desolate Gaze on you
+244057	Enflame Corruption
+248815y	Enflamed on you
+245098	Corrupting Maw
+244131	Consuming Sphere
+244069y	Weight of Darkness on you
+244056	Siphon Corruption
+248819y	Siphoned on you
+244050	Destroyer's Boon
+251356	Focusing Power
+244054	Flametouched
+244055	Shadowtouched
+
+; Boss: Antoran High Command
+244625	Fusillade
+245161	Entropic Mine
+245546	Summon Reinforcements
+246505	Pyroblast
+245227	Assume Command
+244892	Exploit Weakness
+244910	Felshield
+244172	Psychic Assault
+244737y	Shock Grenade on you
+
+; Boss: Portal Keeper Hasabel
+244016	Reality Tear
+243983	Collapsing World
+244000	Felstorm Barrage
+244689	Transport Portal
+245504	Howling Shadows
+246075	Catastrophic Implosion
+244607	Flames of Xoroth
+244598	Supernova
+244613y	Everburning Flames on you
+255805	Unstable Portal
+244926y	Felsilk Wrap on you
+246316	Poison Essence
+244849y	Caustic Slime on you
+245050	Delusions
+245040	Corrupt
+245118	Cloying Shadows
+245075	Hungering Gloom
+
+; Boss: Eonar the Life-Binder
+250048	Life Force
+248861	Spear of Doom
+248332y	Rain of Fel on you
+249121	Final Doom
+249934	Purge
+250693y	Arcane Buildup on you
+250691y	Burning Embers on you
+250140	Foul Steps
+
+; Boss: Imonar the Soulhunter
+247367	Shock Lance
+254244y	Sleep Canister on you
+247376	Pulse Grenade
+247687	Sever
+248254	Charged Blasts
+247923	Shrapnel Blast
+250255	Empowered Shock Lance
+248068	Empowered Pulse Grenade
+248070	Empowered Shrapnel Blast
+253302	Conflagration
+
+; Boss: Kin'garoth
+254919	Forging Strike
+254926y	Reverberating Strike on you
+248214	Diabolic Bomb
+246833	Ruiner
+248375	Shattering Strike
+246516	Apocalypse Protocol
+246657	Annihilation
+246686	Decimation
+246698y	Demolish on you
+249680y	Reverberating Decimation on you
+
+; Boss: Varimathras
+243961	Misery
+243960	Shadow Strike
+243999	Dark Fissure
+244042y	Marked Prey on you
+244094y	Necrotic Embrace on you
+-16350	Shadow of Varimathras
+
+; Boss: The Coven of Shivarra
+253203	Shivan Pact
+244899	Fiery Strike
+245627	Whirling Saber
+253429y	Fulminating Pulse on you
+246329	Shadow Blades
+252861	Storm of Darkness
+245518	Flashfreeze
+245586	Chilled Blood
+253650	Orb of Frost
+250648	Touch of the Cosmos
+250912y	Cosmic Glare on you
+
+; Boss: Aggramar
+245990	Taeshalach's Reach
+245994y	Scorching Blaze on you
+244693y	Wake of Flame on you
+244688	Taeshalach Technique
+245458	Foe Breaker
+245463	Flame Rend
+245301	Searing Tempest
+245983	Flare
+246037	Empowered Flare
+254452y	Ravenous Blaze on you
+255058	Empowered Flame Rend
+255061	Empowered Searing Tempest
+
+; Boss: Argus the Unmaker
+248165	Cone of Death
+248317	Soul Blight Orb
+248396y	Soul Blight on you
+248167	Death Fog
+257296	Tortured Rage
+248499	Sweeping Scythe
+255594	Sky and Sea
+250669y	Soul Burst on you
+251570y	Soul Bomb on you
+255826	Edge of Obliteration
+255199	Avatar of Aggramar
+255200	Aggramar's Boon
+252516	The Discs of Norgannon
+252729y	Cosmic Ray on you
+252616y	Cosmic Beacon on you
+-17077	Stellar Armory
+255935	Cosmic Power
+256544	End of All Things
+258039	Deadly Scythe
+256388	Initialization Sequence
+257214	Titanforging
+258068y	Sargeras' Gaze on you
+257911	Unleased Rage
+257966	Sentence of Sargeras
+258838	Soulrending Scythe
+258834	Edge of Annihilation

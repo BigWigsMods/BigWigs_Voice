@@ -1,47 +1,58 @@
+// This is a script for LINQPad
+
 void Main()
 {
 	var path = @"D:\Code\BigWigs_Voice";
 
-	var spells = new List<(string Zone, string Boss, string Spell, string Text)>();
+	var spells = new List<(string Type, string Zone, string Boss, string Name, string Text)>();
+	string type = null;
 	string zone = null;
 	string boss = null;
+	
+	var lines = Directory
+		.EnumerateFiles(Path.Combine(path, "Tools"), "Spells*.txt")
+		.SelectMany(file => File.ReadAllLines(file));
 
-	foreach (var line in File.ReadAllLines(Path.Combine(path, "Tools", "Spells.txt")))
+	foreach (var line in lines)
 	{
 		if (line.StartsWith(";"))
 		{
+			var typeMatch = Regex.Match(line, "Type: (.*)");
 			var zoneMatch = Regex.Match(line, "Zone: (.*)");
 			var bossMatch = Regex.Match(line, "Boss: (.*)");
 
-			if (zoneMatch.Success)
+			if (typeMatch.Success)
+				type = typeMatch.Groups[1].Value;
+			else if (zoneMatch.Success)
 				zone = zoneMatch.Groups[1].Value;
 			else if (bossMatch.Success)
 				boss = bossMatch.Groups[1].Value;
 		}
 		else if (!String.IsNullOrWhiteSpace(line))
 		{
-			if (zone == null || boss == null)
-				 throw new InvalidOperationException(line);
+			if (type == null || zone == null || boss == null)
+				throw new InvalidOperationException(line);
 
 			var split = line.Split(new[] { '\t' }, StringSplitOptions.RemoveEmptyEntries);
 
 			if (split.Length != 2)
 				throw new InvalidOperationException(line);
 
-			spells.Add((zone, boss, split[0], split[1]));
+			spells.Add((type, zone, boss, split[0], split[1]));
 		}
 	}
+	
+	var duplicates = spells.GroupBy(x => x.Name).Where(x => x.Count() > 1).ToList();
+	
+	if (duplicates.Any())
+		throw new InvalidOperationException(duplicates.First().Key);
 
-	var format = new SpeechAudioFormatInfo(44100, AudioBitsPerSample.Sixteen, AudioChannel.Stereo);
-	//var method = typeof(SpeechSynthesizer).GetMethod("SetOutputStream", BindingFlags.Instance | BindingFlags.NonPublic);
-
-	foreach (var spell in spells) //.Where(x => x.Zone.Contains("Tomb of Sargeras")))
+	foreach (var spell in spells.Where(x => x.Type.Contains("Raid")))
 	{
 		using (var synth = new SpeechSynthesizer())
-		using (var stream = new MemoryStream())
 		{
 			synth.SelectVoice("Microsoft Zira Desktop");
-			synth.SetOutputToWaveFile($"{Path.Combine(path, "Sounds", spell.Spell)}.wav", format);
+			synth.SetOutputToWaveFile($"{Path.Combine(path, "Sounds", spell.Name)}.wav");
 			synth.SpeakSsml(GetSsml(spell.Text));
 		}
 	}
