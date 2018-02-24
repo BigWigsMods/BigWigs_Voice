@@ -1,0 +1,85 @@
+; Type: Legion Scenario
+
+; Zone: Argus Invasion Points
+
+; Boss: Mistress Alluradel
+247549	Beguiling Charm
+247604	Fel Lash
+247517	Heart Breaker
+247544	Sadist
+
+; Boss: Matron Folnuna
+247361	Infected Claws
+247379	Slumbering Gasp on you
+254147	Fel Blast
+247443	Grotesque Spawn
+
+; Boss: Inquisitor Meto
+247492	Reap
+247495	Sow=soʊ
+247585	Seed of Chaos
+247632	Death Field
+
+; Boss: Occularus
+247318	Gushing Wound
+247325	Lash
+247320	Searing Gaze
+247393	Phantasm
+247332	Eye Sore
+
+; Boss: Sothanar
+247698	Silence
+247410	Soul Cleave
+247416	Cavitation
+247437	Seed of Destruction on you
+
+; Boss: Pit Lord Vilemus
+247739	Drain
+247733	Stomp
+247731	Fel Breath
+
+
+; Zone: Mage Tower Challenge
+
+; Boss: Kruul
+nether_aberration	Nether Aberration
+240790	Nether Storm
+233473	Holy Ward
+234423	Drain Life
+234422	Aura of Decay
+234428	Summon Tormenting Eye
+smoldering_infernal	Smoldering Infernal
+234631	Smash
+236572	Annihilate
+234920	Shadow Sweep
+234673	Nether Stomp
+234676	Twisted Reflections
+
+; Boss: Lord Erdris Thorn
+235984	Mana Sting
+235833	Arcane Blitz
+235823	Knife Dance
+236720	Frenzied Assault
+237188	Ignite Soul
+237191	Fel Stomp
+
+; Boss: Raest
+202081	Fixate
+235308	Purgatory
+handFromBeyond	Hand From Beyond
+235578	Grasp from Beyond
+rune	Rune
+thing	Thing
+
+; Boss: Tugar Bloodtotem
+242733	Fel Burst
+243224	Fel Surge Totem
+rupture	Fel Rupture
+241687	Sonic Scream
+238471	Fel Hardened Scales
+submerge	Submerge
+charge	Charge
+
+; Boss: Agatha
+; Boss: Sigryn
+; Boss: Xylem
