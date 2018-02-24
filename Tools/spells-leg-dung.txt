@@ -178,7 +178,7 @@
 ; Boss: Shade of Xavius
 200050	Apocalyptic Nightmare
 200289y	Growing Paranoia on you
-200185	Nightmare Bolt on you
+200185y	Nightmare Bolt on you
 200238	Feed on the Weak
 
 
