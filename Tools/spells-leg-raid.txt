@@ -562,7 +562,7 @@ shadowsoul	Shadowsoul
 249297y	Flames of Reorigination on you
 254122y	Cloud of Confusion on you
 246209	Punishing Flame
-246199	Burning Winds
+246199	Burning Winds=wɪndz
 
 ; Boss: Garothi Worldbreaker
 246220	Fel Bombardment
@@ -597,7 +597,7 @@ cannon_ability	Cannon Assault
 246505	Pyroblast
 245227	Assume Command
 244892	Exploit Weakness
-244910	Felshield
+244910	Fel shield
 244172	Psychic Assault
 244737y	Shock Grenade on you
 
@@ -676,10 +676,10 @@ cannon_ability	Cannon Assault
 250912y	Cosmic Glare on you
 
 ; Boss: Aggramar
-245990	Taeshalach's Reach
+245990	Taeshalach's=teɪʃʌlæks Reach
 245994y	Scorching Blaze on you
 244693y	Wake of Flame on you
-244688	Taeshalach Technique
+244688	Taeshalach=teɪʃʌlæk Technique
 245458	Foe Breaker
 245463	Flame Rend
 245301	Searing Tempest

@@ -139,7 +139,7 @@
 
 ; Boss: Advisor Melandrus
 209602	Blade Surge
-224333	Enveloping Winds
+224333	Enveloping Winds=wɪndz
 209628	Piercing Gale
 209676	Slicing Maelstrom
 
@@ -294,7 +294,7 @@
 195293	Debilitating Shout
 
 ; Boss: Ymiron, the Fallen King
-193977	Winds of Northrend
+193977	Winds=wɪndz of Northrend
 193211	Dark Slash
 193364	Screams of the Dead
 193460	Bane
@@ -612,7 +612,7 @@ dread_felbat	Dread Felbat
 201672	Relentless Storm
 201354	Tail Sweep
 201355	Wing Buffet
-202062	Frigid Winds
+202062	Frigid Winds=wɪndz
 201960	Ice Bomb
 
 ; Boss: Anub'esset
