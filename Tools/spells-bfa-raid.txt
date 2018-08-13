@@ -1,0 +1,96 @@
+; Type: Battle for Azeroth Raid
+
+; -------------------------------------
+;    Zone: Uldir, Halls of Control
+; -------------------------------------
+
+; Boss: Trash
+277047y	Corrupting Gaze on you
+276540	Blood Shield
+
+; Boss: Taloc the Corrupted
+271224y	Plasma Discharge on you
+270290	Blood Storm
+271296	Cudgel of Gore
+271728	Retrieve Cudgel
+271895	Sanguine Static
+271965	Powered Down
+275270	Fixate
+275432	Uldir Defensive Beam
+
+; Boss: MOTHER
+268198	Clinging Corruption
+274205	Depleted Energy
+269051	Cleansing Purge
+267787	Sundering Scalpel
+267795	Purifying Flame
+267878	Wind Tunnel
+268253	Surgical Beam
+
+; Boss: Fetid Devourer
+262277	Thrashing Terror
+262292	Rotting Regurgitation
+262288	Shockwave Stomp
+262313	Malodorous Miasma
+262314	Putrid Paroxysm
+262364	Enticing Essence
+262378	Fetid Frenzy
+
+; Boss: Zek'voz, Herald of N'zoth
+265530	Surging Darkness
+265231	Void Lash
+265248	Shatter
+264382	Eye Beam
+-18390	Qiraji Warrior
+265360	Roiling Deceit
+-18397	Anub'ar Voidweaver
+267180	Void Bolt
+267239	Orb of Corruption
+265662	Corruptor's Pact
+
+; Boss: Vectis
+265178	Evolving Affliction
+267242	Contagion
+265212y	Gestate on you
+265217	Liquefy
+266459	Pathogen Bomb
+
+; Boss: Zul, Reborn
+273365	Dark Revelation
+269936y	Fixate on you
+273360	Pool of Darkness
+273889	Call of Blood
+273288	Thrumming Pulse
+273451	Congeal Blood
+273350	Bloodshard
+276299	Engorged Burst
+274168	Locus of Corruption
+274358	Rupturing Blood
+274271	Deathwish
+
+; Boss: Mythrax the Unraveler
+272146	Annihilation
+273282	Essence Shear
+273538	Obliteration Wave
+272404	Oblivion Sphere
+272536y	Imminent Ruin on you
+273810	Xalzaix's Awakening
+274230	Oblivion's Veil
+272115	Obliteration Beam
+273949	Visions of Madness
+
+; Boss: G'huun
+272506y	Explosive Corruption on you
+270287	Blighted Ground
+267509	Thousand Maws
+267427	Torment
+267412	Massive Smash
+267409	Dark Bargain
+267462	Decaying Eruption
+263482	Reorigination Blast
+270447	Growing Corruption
+270373	Wave of Corruption
+263235y	Blood Feast on you
+263307	Mind-Numbing Chatter
+274582	Malignant Growth
+275160	Gaze of G'huun
