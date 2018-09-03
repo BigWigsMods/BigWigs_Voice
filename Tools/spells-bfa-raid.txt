@@ -13,26 +13,28 @@
 270290	Blood Storm
 271296	Cudgel of Gore
 271728	Retrieve Cudgel
-271895	Sanguine Static
+271895y	Sanguine Static on you
 271965	Powered Down
 275270	Fixate
 275432	Uldir Defensive Beam
+275189y	Hardened Arteries on you
+275205y	Enlarged Heart on you
 
 ; Boss: MOTHER
 268198	Clinging Corruption
 274205	Depleted Energy
 269051	Cleansing Purge
-267787	Sundering Scalpel
+267787	Sanitizing Strike
 267795	Purifying Flame
 267878	Wind Tunnel
-268253	Surgical Beam
+268253	Uldir Defensive Beam
 
 ; Boss: Fetid Devourer
 262277	Thrashing Terror
 262292	Rotting Regurgitation
 262288	Shockwave Stomp
-262313	Malodorous Miasma
-262314	Putrid Paroxysm
+262313y	Malodorous Miasma on you
+262314y	Putrid Paroxysm on you
 262364	Enticing Essence
 262378	Fetid Frenzy
 
@@ -40,23 +42,23 @@
 265530	Surging Darkness
 265231	Void Lash
 265248	Shatter
-264382	Eye Beam
+264382y	Eye Beam on you
 -18390	Qiraji Warrior
-265360	Roiling Deceit
+265360y	Roiling Deceit on you
 -18397	Anub'ar Voidweaver
 267180	Void Bolt
 267239	Orb of Corruption
-265662	Corruptor's Pact
+265662y	Corruptor's Pact on you
 
 ; Boss: Vectis
 265178	Evolving Affliction
 267242	Contagion
 265212y	Gestate on you
 265217	Liquefy
-266459	Pathogen Bomb
+266459	Plague Bomb
 
 ; Boss: Zul, Reborn
-273365	Dark Revelation
+273365y	Dark Revelation on you
 269936y	Fixate on you
 273360	Pool of Darkness
 273889	Call of Blood
@@ -94,3 +96,4 @@
 263307	Mind-Numbing Chatter
 274582	Malignant Growth
 275160	Gaze of G'huun
+263321	Undulating Mass

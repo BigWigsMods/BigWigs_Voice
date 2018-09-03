@@ -83,7 +83,7 @@
 ; Boss: Ring of Booty
 256405	Sharknado
 256358	Shark Toss
-256489	Rear
+256489	Rearm
 
 ; Boss: Harlan Sweete
 257278	Swiftwind Saber
@@ -101,7 +101,7 @@
 265089	Dark Reconstitution
 265540	Rotten Bile
 265019	Savage Cleave
-265081	Warcry
+265081	War cry
 265687	Noxious Poison
 266105	Rampant Growth
 266107	Thirst For Blood
@@ -118,18 +118,22 @@
 260879	Blood Bolt
 260894	Creeping Rot
 264603	Blood Mirror
+264757	Sanguine Feast
 
 ; Boss: Cragmaw the Infested
 260292	Charge
 260793	Indigestion
+260333	Tantrum
 
 ; Boss: Sporecaller Zancha
 259732	Festering Harvest
 259830	Boundless Rot
 272457	Shockwave
 259718y	Upheaval on you
+273285	Volatile Pods
 
 ; Boss: Unbound Abomination
+269301	Putrid Blood
 269843	Vile Expulsion
 269310y	Cleansing Light on you
 
@@ -139,11 +143,32 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; Boss: The Golden Serpent
-; Boss: Mchimba the Embalmer
-; Boss: The Council of Tribes
-; Boss: Dazar, The First King
 
+; Boss: The Golden Serpent
+265773y	Spit Gold on you
+265923	Lucre's Call
+265781	Serpentine Gust
+265910	Tail Thrash
+
+; Boss: Mchimba the Embalmer
+267639	Burn Corruption
+267618	Drain Fluids
+267702	Entomb
+
+; Boss: The Council of Tribes
+267273	Poison Nova
+267060	Call of the Elements
+266206	Whirling Axes
+266231	Severing Axe
+266951y	Barrel Through on you
+266237	Debilitating Backhand
+
+; Boss: Dazar, The First King
+268586	Blade Combo
+268932y	Quaking Leap on you
+268403	Gale Slash
+269231	Hunting Leap
+269369	Deathly Roar
 
 ; -------------------------------------
 ;    Zone: Waycrest Manor
@@ -184,9 +209,9 @@
 260773	Dire Ritual
 
 ; Boss: Soulbound Goliath
-260512	Soul Harvest
-260551	Soul Thorns
 260508	Crush
+260512	Soul Harvest
+260551y	Soul Thorns on you
 260541	Burning Brush
 260569	Wildfire
 
@@ -215,6 +240,7 @@
 ; -------------------------------------
 
 ; Boss: Trash
+
 ; Boss: Aqu'sirr
 265001	Sea Blast
 264560	Choking Brine
@@ -245,11 +271,39 @@
 ; -------------------------------------
 
 ; Boss: Trash
+
 ; Boss: Chopper Redhook
+257459	On the Hook
+257348y	Meat Hook on you
+257326	Gore Crash
+257585	Cannon Barrage
+273721	Heavy Ordnance
+
 ; Boss: Sergeant Bainbridge
+260954	Iron Gaze
+261428	Hangman's Noose
+260924	Steel Tempest
+277965	Heavy Ordnance
+
 ; Boss: Dread Captain Lockwood
+272471	Evasive
+269029	Clear the Deck
+268752	Withdraw
+268230	Crimson Swipe
+268260	Broadside
+268963	Unstable Ordnance
+
 ; Boss: Hadal Darkfathom
-; Boss: Vig'Goth
+261563	Crashing Tide
+257882	Break Water
+276068	Tidal Surge
+
+; Boss: Viq'Goth
+275014y	Putrid Waters on you
+270185	Call of the Deep
+270605	Summon Demolisher
+269266	Slam
+269366	Repair
 
 
 ; -------------------------------------
@@ -257,6 +311,7 @@
 ; -------------------------------------
 
 ; Boss: Trash
+
 ; Boss: Adderis and Aspix
 263246	Lightning Shield
 263371	Conduction
@@ -268,6 +323,7 @@
 263914	Blinding Sand
 264239	Hatch
 264206	Burrow
+263958	A Knot of Snakes
 
 ; Boss: Galvazzt
 266923	Electroshock
@@ -285,6 +341,7 @@
 ; -------------------------------------
 
 ; Boss: Trash
+
 ; Boss: Coin-operated Crowd Pummeler
 269493	Footbomb Launcher
 256493	Blazing Azerite
