@@ -211,7 +211,7 @@
 ; Boss: Soulbound Goliath
 260508	Crush
 260512	Soul Harvest
-260551y	Soul Thorns on you
+260551	Soul Thorns
 260541	Burning Brush
 260569	Wildfire
 
