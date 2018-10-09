@@ -73,7 +73,7 @@
 ; Boss: Mythrax the Unraveler
 272146	Annihilation
 273282	Essence Shear
-273538	Obliteration Wave
+273538	Obliteration Blast
 272404	Oblivion Sphere
 272536y	Imminent Ruin on you
 273810	Xalzaix's Awakening
