@@ -53,7 +53,7 @@
 ; Boss: Vectis
 265178	Evolving Affliction
 267242	Contagion
-265212y	Gestate on you
+265212	Gestate
 265217	Liquefy
 266459	Plague Bomb
 
