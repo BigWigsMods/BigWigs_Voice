@@ -12,6 +12,9 @@
 256849	Dino Might
 260666	Transfusion
 252687	Venomfang Strike
+253544	Bwonsamdi's Mantle
+253517	Mending Word
+253583	Fiery Enchant
 
 ; Boss: Priestess Alun'za
 255558	Tainted Blood
@@ -32,7 +35,7 @@
 255434	Serrated Teeth
 
 ; Boss: Yazma
-249923y	Soulrend on you
+249923	Soulrend
 250096	Wracking Pain
 250050	Echoes of Shadra
 250036	Shadowy Remains
@@ -50,9 +53,9 @@
 258323	Infected Wound
 258672	Azerite Grenade
 257437	Poisoning Strike
-274400y	Duelist Dash on you
+274400	Duelist Dash
 258777	Sea Spout
-272402y	Ricocheting Throw on you
+272402	Ricocheting Throw
 257739	Blind Rage
 257732	Shattering Bellow
 274507	Slippery Suds
@@ -62,8 +65,6 @@
 274555	Scabrous Bite
 258181	Boulder Throw
 258199	Ground Shatter
-257829	Greasy
-257904	Shell Bounce
 257870	Blade Barrage
 257899	Painful Motivation
 257908	Oiled Blade
@@ -71,6 +72,7 @@
 
 ; Boss: Skycap'n Kragg
 255952	Charge
+272046	Dive Bomb
 256106	Azerite Powder Shot
 256060	Revitalizing Brew
 256016	Vile Coating
@@ -81,6 +83,8 @@
 258381	Grape Shot
 
 ; Boss: Ring of Booty
+257829	Greasy
+257904	Shell Bounce
 256405	Sharknado
 256358	Shark Toss
 256489	Rearm
@@ -99,12 +103,13 @@
 ; Boss: Trash
 265568y	Dark Omen on you
 265089	Dark Reconstitution
+265091	Gift of G'huun
 265540	Rotten Bile
 265019	Savage Cleave
 265081	War cry
-265687	Noxious Poison
-266105	Rampant Growth
+278961	Decaying Mind
 266107	Thirst For Blood
+266106	Sonic Screech
 265668	Wave of Decay
 272183	Raise Dead
 266209	Wicked Frenzy
@@ -135,7 +140,7 @@
 ; Boss: Unbound Abomination
 269301	Putrid Blood
 269843	Vile Expulsion
-269310y	Cleansing Light on you
+269310	Cleansing Light
 
 
 ; -------------------------------------
@@ -143,6 +148,32 @@
 ; -------------------------------------
 
 ; Boss: Trash
+270003	Suppression Slam
+270016	Released Inihibitors
+;269936y	Fixate on you (duplicate)
+269976	Ancestral Fury
+269972	Shadow Bolt Volley
+269931	Gust Slash
+270928y	Bladestorm on you
+270920	Seduction
+270891	Channel Lightning
+270084	Axe Barrage
+270901	Induce Regeneration
+270931	Darkshot
+270503	Hunting Leap
+270865y	Hidden Blade on you
+270872	Shadow Whirl
+270284	Purification Beam
+271564	Embalming Fluid
+271555	Entomb
+270492	Hex
+270487	Severing Blade
+270482	Blooded Leap
+healing_tide_totem	Healing Tide Totem
+270499	Frost Shock
+270507	Poison Barrage
+270514	Ground Crush
+271640y	Dark Revelation on you
 
 ; Boss: The Golden Serpent
 265773y	Spit Gold on you
@@ -160,7 +191,7 @@
 267060	Call of the Elements
 266206	Whirling Axes
 266231	Severing Axe
-266951y	Barrel Through on you
+266951	Barrel Through
 266237	Debilitating Backhand
 
 ; Boss: Dazar, The First King
@@ -180,6 +211,7 @@
 264456	Tracking Explosive
 263943	Etch
 263905	Marking Cleave
+263891	Grasping Thorns
 264525	Shrapnel Trap
 264520	Severing Serpent
 265759	Splinter Spike
@@ -202,11 +234,12 @@
 265881	Decaying Touch
 
 ; Boss: Heartsbane Triad
-260741	Jagged Nettles
-260703y	Unstable Runic Mark on you
-260907	Soul Manipulation
 260805	Focusing Iris
 260773	Dire Ritual
+260741	Jagged Nettles
+260703y	Unstable Runic Mark on you
+268086	Aura of Dread
+260907	Soul Manipulation
 
 ; Boss: Soulbound Goliath
 260508	Crush
@@ -283,6 +316,7 @@
 260954	Iron Gaze
 261428	Hangman's Noose
 260924	Steel Tempest
+;257585	Cannon Barrage (duplicate)
 277965	Heavy Ordnance
 
 ; Boss: Dread Captain Lockwood
@@ -326,7 +360,7 @@
 263958	A Knot of Snakes
 
 ; Boss: Galvazzt
-266923	Electroshock
+266923	Galvanize
 266512	Consume Charge
 
 ; Boss: Avatar of Sethraliss
