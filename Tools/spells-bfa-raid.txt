@@ -14,7 +14,6 @@
 271296	Cudgel of Gore
 271728	Retrieve Cudgel
 271895y	Sanguine Static on you
-271965	Powered Down
 275270	Fixate
 275432	Uldir Defensive Beam
 275189y	Hardened Arteries on you
@@ -28,10 +27,11 @@
 267795	Purifying Flame
 267878	Wind Tunnel
 268253	Uldir Defensive Beam
+279662y	Endemic Virus on you
 
 ; Boss: Fetid Devourer
 262277	Thrashing Terror
-262292	Rotting Regurgitation
+breath	Rotting Regurgitation
 262288	Shockwave Stomp
 262313y	Malodorous Miasma on you
 262314y	Putrid Paroxysm on you
@@ -49,24 +49,32 @@
 267180	Void Bolt
 267239	Orb of Corruption
 265662y	Corruptor's Pact on you
+265646	Will of the Corruptor
 
 ; Boss: Vectis
+265143	Omega Vector
+265127	Lingering Infection
 265178	Evolving Affliction
 267242	Contagion
 265212	Gestate
+265206	Immunosuppression
 265217	Liquefy
 266459	Plague Bomb
+274990	Bursting Lesions
 
 ; Boss: Zul, Reborn
-273365y	Dark Revelation on you
 269936y	Fixate on you
+-18530	Minion of Zul
+273365y	Dark Revelation on you
 273360	Pool of Darkness
 273889	Call of Blood
+crusher	Crusher spawned
+bloodhexer	Blood Hexer spawned
+crawg	Crawg spawned
 273288	Thrumming Pulse
 273451	Congeal Blood
 273350	Bloodshard
 276299	Engorged Burst
-274168	Locus of Corruption
 274358	Rupturing Blood
 274271	Deathwish
 
@@ -76,12 +84,17 @@
 273538	Obliteration Blast
 272404	Oblivion Sphere
 272536y	Imminent Ruin on you
+279013	Essence Shatter
 273810	Xalzaix's Awakening
 274230	Oblivion's Veil
 272115	Obliteration Beam
 273949	Visions of Madness
+276922	Living Weapon
+279157	Void Echoes
 
 ; Boss: G'huun
+-18109	Power Matrix
+263482	Reorigination Blast
 272506y	Explosive Corruption on you
 270287	Blighted Ground
 267509	Thousand Maws
@@ -89,11 +102,12 @@
 267412	Massive Smash
 267409	Dark Bargain
 267462	Decaying Eruption
-263482	Reorigination Blast
 270447	Growing Corruption
 270373	Wave of Corruption
-263235y	Blood Feast on you
+263235	Blood Feast
 263307	Mind-Numbing Chatter
 274582	Malignant Growth
 275160	Gaze of G'huun
 263321	Undulating Mass
+277007	Bursting Boil
+268074	Fixate
