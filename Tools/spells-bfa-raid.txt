@@ -68,9 +68,9 @@ breath	Rotting Regurgitation
 273365y	Dark Revelation on you
 273360	Pool of Darkness
 273889	Call of Blood
-crusher	Crusher spawned
-bloodhexer	Blood Hexer spawned
-crawg	Crawg spawned
+crusher	Crusher spawning soon
+bloodhexer	Blood Hexer spawning soon
+crawg	Crawg spawning soon
 273288	Thrumming Pulse
 273451	Congeal Blood
 273350	Bloodshard
@@ -111,3 +111,161 @@ crawg	Crawg spawned
 263321	Undulating Mass
 277007	Bursting Boil
 268074	Fixate
+
+
+; -------------------------------------
+;    Zone: Battle of Dazar'alor
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Champion of the Light
+283573	Sacred Blade
+283598	Wave of Light
+284469	Seal of Retribution
+283933	Judgement: Righteousness
+284436	Seal of Reckoning
+284474	Judgement: Reckoning
+283662	Call to Arms
+282113	Avenging Wrath
+284595	Penance
+283628	Heal
+283650	Blinding Faith
+287469	Prayer for the Fallen
+
+; Boss: Jadefire Masters
+286436	Whirling Jade Storm
+282030	Multi-Sided Strike
+285645	Spirits of Xuen
+285632	Stalking
+282037	Rising Flames
+286379	Pyroblast
+286425	Fire Shield
+286988y	Searing Embers o nyou
+285428	Fire from Mist
+284656	Ring of Hostility
+282040	Blazing Phoenix
+286396	Dragon's Breath
+
+; Boss: Grong
+285671	Crushed
+285875	Rending Bite
+289401	Beastial Throw
+285994	Ferocious Roar
+; Alliance
+282399	Death Knell
+286450	Necrotic Combo
+282543	Deathly Slam
+282471	Voodoo Blast
+286373	Chill of Death
+282526	Death Specter
+282533	Death Empowerment
+286434	Shadow Core
+286435	Discharge Shadow Core
+; Horde
+281936	Tantrum
+282082	Bestial Combo
+282179	Reverberating Slam
+282215	Megatomic Seeker Missile
+283069	Megatomic Fire
+282247	Apetagonizer 3000 Bomb
+282243	Apetagonize
+285659	Apetagonizer Core
+285660	Discharge Apetagonizer Core
+
+; Boss: Opulence
+286541	Consuming Flame
+283606	Crush
+283507y	Volatile Charge on you
+282939	Flames of Punishment
+285479	Flame Jet
+284424	Scorching Ground
+284493	Pulse-quickening Toxin
+284519	Quickened Pulse
+284470	Time Bomb
+287070	Hoard Power
+287072y	Liquid Gold on you
+287074	Molten Gold
+285995	Spirits of Gold
+286026	Channel Gold
+285014y	Coin Shower on you
+284941	Wail of Greed
+287037	Coin Sweep
+
+; Boss: Conclave of the Chosen
+282079	Loa's Pact
+282098	Gift of Wind
+285945	Hastening Winds=wɪndz
+282107	Pa'ku's Wrath
+282135y	Crawling Hex on you
+285893	Wild Maul
+282155	Gonk's Wrath
+282209y	Mark of Prey on you
+282444	Lacerating Claws
+282447y	Kimbul's Wrath on you
+282411	Thundering Storm
+285879	Mind Wipe
+286811y	Akunda's Wrath on you
+282636	Krag'wa's Wrath
+
+; Boss: King Rastakhan
+284831	Scorching Detonation
+284933	Plague of Toads
+285172	Greater Serpent Totem
+290450y	Seal of Purification on you
+284686	Meteor Leap
+284719	Crushing Leap
+284781	Grievous Axe
+285346y	Plague of Fire on you
+285003	Zombie Dust Totem
+285213	Caress of Death
+288449y	Death's Door on you
+287333	Inevitable End
+286742	Necrotic Smash
+
+; Boss: High Tinker Mekkatorque
+282153	Buster Cannon
+282205	Blast Off
+286646y	Gigavolt Charge on you
+287952	Wormhole Generator
+288410	Deploy Spark Bot
+286693	World Enlarger
+287929	Signal Exploding Sheep
+
+; Boss: Stormwall Blockade
+286558	Tidal Shroud
+284262	Voltaic Flash
+284106	Crackling Lightning
+284362	Sea Storm
+284383	Sea's Temptation
+284406	Tempting Song
+285000	Kelp-Wrapped
+285118	Sea Swell
+285017	Ire of the Deep
+285350y	Storm's Wail on you
+
+; Boss: Lady Jaina Proudmoore
+285215	Chilling Touch
+287490	Frozen Solid
+288038	Marked Target
+285725	Set Charge
+285828	Bombard
+287365	Searing Pitch
+285253	Ice Shard
+287565	Avalanche
+287925	Time Warp
+287626	Grasp of Frost
+285177	Freezing Blast
+285459	Ring of Ice
+289861	Howling Winds=wɪndz
+289940	Crystalline Dust
+288345	Glacial Ray
+288475	Icefall
+288719	Flash Freeze
+289985	Arcane Barrage
+289220	Heart of Frost
+289219	Frost Nova
+290084	Water Bolt Volley
+288647	Orb of Frost
+288671	Shattering Lance
+288747	Prismatic Image
