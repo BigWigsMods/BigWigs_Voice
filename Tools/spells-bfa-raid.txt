@@ -141,7 +141,7 @@ crawg	Crawg spawning soon
 282037	Rising Flames
 286379	Pyroblast
 286425	Fire Shield
-286988y	Searing Embers o nyou
+286988y	Searing Embers on you
 285428	Fire from Mist
 284656	Ring of Hostility
 282040	Blazing Phoenix
