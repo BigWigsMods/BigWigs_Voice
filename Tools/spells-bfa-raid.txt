@@ -118,6 +118,7 @@ crawg	Crawg spawning soon
 ; -------------------------------------
 
 ; Boss: Trash
+288815	Breath of Fire
 289772y	Impale on you
 289937	Thundering Slam
 289917	Bwonsamdi's Pact
@@ -145,7 +146,7 @@ crawg	Crawg spawning soon
 282037	Rising Flames
 286379	Pyroblast
 286425	Fire Shield
-286988y	Searing Embers on you
+286988	Searing Embers
 284374	Magma Trap
 285428	Fire from Mist
 284656	Ring of Hostility
@@ -155,7 +156,7 @@ crawg	Crawg spawning soon
 ; Boss: Grong
 285671	Crushed
 285875	Rending Bite
-289401	Beastial Throw
+289401y	Beastial Throw on you
 285994	Ferocious Roar
 ; Alliance
 282399	Death Knell
@@ -180,6 +181,8 @@ crawg	Crawg spawning soon
 
 ; Boss: Opulence
 286541	Consuming Flame
+-19494	The Zandalari Crown Jewels
+284645y	Topaz of Brilliant Sunlight on you
 283606	Crush
 289383	Chaotic Displacement
 283507y	Volatile Charge on you
@@ -188,7 +191,7 @@ crawg	Crawg spawning soon
 284424	Scorching Ground
 284493	Pulse-quickening Toxin
 284519	Quickened Pulse
-284470	Hex of Lethargy
+284470y	Hex of Lethargy on you
 287070	Hoard Power
 287072y	Liquid Gold on you
 287074	Molten Gold
@@ -248,6 +251,7 @@ crawg	Crawg spawning soon
 284362	Sea Storm
 284383	Sea's Temptation
 284406	Tempting Song
+288696	Catastrophic Tides
 285000	Kelp-Wrapped
 285118	Sea Swell
 285017	Ire of the Deep
