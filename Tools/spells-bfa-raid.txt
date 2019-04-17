@@ -284,3 +284,48 @@ crawg	Crawg spawning soon
 289488	Frozen Siege
 288169	Howling Winds=wɪndz
 -19825	Icebound Image
+
+
+; -------------------------------------
+;    Zone: Crucible of Storms
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: The Restless Cabal
+282738	Embrace of the Void
+282741	Umbral Shell
+282750	Custody of the Deep
+282742	Storm of Annihilation
+282914	Power Overwhelming
+282675	Pact of the Restless
+282386	Aphotic Blast
+282540	Agent of Demise
+282589	Cerebral Assault
+282561	Dark Herald
+282562	Promises of Power
+282517	Terrifying Echo
+282384	Shear Mind
+282407	Void Crash
+282432y	Crushing Doubt on you
+287876	Enveloping Darkness
+
+; Boss: Uu'nat, Harbinger of the Void
+284722	Umbral Shell
+284804	Custody of the Deep
+284583	Storm of Annihilation
+284851	Touch of the End
+285185	Oblivion Tear
+285416	Void Crash
+285376	Eyes of N'Zoth
+285345	Maddening Eyes of N'Zoth
+285367	Piercing Gaze of N'Zoth
+285453	Gift of N'Zoth: Obscurity
+285820	Call Undying Guardian
+285638	Gift of N'Zoth: Hysteria
+-19118	Primordial Mindbender
+285427	Consume Essence
+285562	Unknowable Terror
+285652y	Insatiable Torment on you
+285685	Gift of N'Zoth: Lunacy
+285307	Feed
