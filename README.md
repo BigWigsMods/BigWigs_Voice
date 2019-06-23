@@ -1,7 +1,7 @@
 # BigWigs_Voice [![Build Status](https://travis-ci.org/BigWigsMods/BigWigs_Voice.svg?branch=master)](https://travis-ci.org/BigWigsMods/BigWigs_Voice)
 
 ## Download
-https://mods.curse.com/addons/wow/bigwigs_voice
+https://www.curseforge.com/wow/addons/bigwigs_voice
 
 ## Description
 A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities. If this addon is installed, an extra option called "Voice" will appear under every boss ability in the options screen. This option will be on by default, and can be toggled off. That means a sound will be played for everything... if a sound exists for that ability in the first place (which is where the main decision making should come in).
