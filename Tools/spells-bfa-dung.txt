@@ -438,3 +438,111 @@ healing_tide_totem	Healing Tide Totem
 256101y	Explosive Burst on you
 256038	Deadeye
 263345	Massive Blast
+
+
+; -------------------------------------
+;    Zone: Operation: Mechagon
+; -------------------------------------
+
+; Boss: Trash
+300436	Grasping Hex
+300514	Stoneskin
+300414	Enrage
+300424	Shockwave
+299474	Ripping Slash
+300102	Exhaust
+294884	Gyro-Scrap
+300129	Self-Destruct Protocol
+300177	Exhaust
+300159	Gyro-Scrap
+300171	Repair Protocol
+299525	Scrap Grenade
+299438	Sledgehammer
+300188y	Scrap Cannon on you
+300207	Shock Coil
+300764	Slimebolt
+300777	Slimewave
+300687	Consume
+300650	Suffocating Smog
+299588	Overclock
+300087	Repair
+299475	B.O.R.K.
+284219y	Shrink on you
+301667	Rapid Fire
+301681	Charge
+299502	Nanoslicer
+303941	Defensive Countermeasure
+301088	Detonate
+294103	Rocket Barrage
+294324	Mega Drill
+294290	Process Waste
+294349	Volatile Waste
+293827	Giga-Wallop
+293861	Anti-Personnel Squirrel
+294195	Arcing Zap
+297133	Defensive Countermeasure
+297128	Short Out
+294015	Launch High-Explosive Rockets
+293986	Sonic Pulse
+295169	Capacitor Discharge
+293729	Tune Up
+293930	Overclock
+293670	Chainblade
+293683	Shield Generator
+
+; Boss: King Gobbamak
+297254	Charged Smash
+297257	Electrical Charge
+297261	Rumble
+
+; Boss: Gunker
+297985	Splatter
+297834	Toxic Wave
+297835	Coalesce
+298259	Gooped
+298212	Sludge Bolt
+
+; Boss: Trizie & Naeno
+299153	Turbo Boost
+302682	Mega Taze
+298946	Roadkill
+298940	Bolt Buster
+298571	Burnout
+298898	Roll Out
+298651	Pedal to the Metal
+
+; Boss: HK-8 Aerial Oppression Unit
+295536	Cannon Blast
+302274	Fulminating Zap
+295445	Wreck
+301351	Reinforcement Relay
+296522	Self-Destruct
+296080	Haywire
+
+; Boss: Tussle Tonks
+282801	Platinum Plating
+285020	Whirling Edge
+285344	Lay Mine
+285152y	Foe Flipper on you
+285388	Vent Jets
+283421y	Maximum Thrust on you
+
+; Boss: K.U.-J.0.
+291918	Air Drop
+291946	Venting Flames
+291973	Explosive Leap
+294929	Blazing Chomp
+
+; Boss: Machinist's Garden
+294853	Activate Plant
+294855	Blossom Blast
+285440	"Hidden" Flame Cannon
+285454	Discom-BOMB-ulator
+
+; Boss: King Mechagon
+291865	Recalibrate
+291928y	Giga-Zap on you
+291613	Take Off!
+291626	Cutting Beam
+283551	Magneto-Arm
+292290	Protocol: Ninety-Nine
