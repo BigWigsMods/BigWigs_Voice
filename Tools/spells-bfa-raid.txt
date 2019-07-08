@@ -329,3 +329,127 @@ crawg	Crawg spawning soon
 285652y	Insatiable Torment on you
 285685	Gift of N'Zoth: Lunacy
 285307	Feed
+
+
+; -------------------------------------
+;    Zone: The Eternal Palace
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Blackwater Behemoth
+292127	Darkest Depths
+292205	Bioluminescent Cloud
+292133	Bioluminescence
+292307	Gaze from Below
+292138	Radiant Biomass
+298428	Feeding Frenzy
+292159	Toxic Spine
+292270	Shock Pulse
+301494y	Piercing Barb on you
+292083	Cavitation
+301180	Slipstream
+
+; Boss: Za'qul, Harbinger of Ny'alotha
+298192	Dark Beyond
+292971	Hysteria
+295444	Mind Tether
+294535	Portal of Madness
+301141	Crushing Grasp
+292963	Dread
+293509y	Manifest Nightmares on you
+292996	Maddening Eruption
+295099	Punctured Darkness
+304733	Delirium's Descent
+303971	Dark Pulse
+299702	Dark Passage
+296018	Manic Dread
+295814	Psychotic Split
+
+; Boss: Orgozoa
+298156	Desensitizing Sting
+298103	Dribbling Ichor
+298242	Incubation Fluid
+305048	Arcing Current
+298465	Amniotic Splatter
+298548	Massive Incubator
+295779y	Aqua Lance on you
+295822	Conductive Pulse
+296691	Powerful Stomp
+
+; Boss: Abyssal Commander Sivara
+294726	Chimeric Marks
+295332	Crushing Reverberation
+-20300y	Frostvenom Tipped on you
+296551	Overwhelming Barrage
+-20006y	Overflow on you
+295601y	Frostshock Bolts on you
+295791y	Inversion on you
+
+; Boss Radiance of Azshara
+296546	Tide Fist
+296428	Arcanado Burst
+296459	Squall Trap
+296737y	Arcane Bomb on you
+296894	Unshackled Power
+295916	Ancient Tempest
+296701	Gale Buffet
+
+; Boss: Lady Ashvane
+296569	Coral Growth
+296662	Rippling Wave
+297397y	Crushing Depths on you
+298056	Upsurge
+296725	Barnacle Bash
+-20096	Arcing Azerite
+
+; Boss: The Queen's Court
+300088	Desperate Measures
+296716	Separation of Power
+298050	Form Rank
+301244	Repeat Performance
+297656	Stand Alone
+297566	Deferred Sentence
+297585	Obey and Suffer
+
+; Boss: Silivaz the Zealous
+299914y	Frenetic Charge on you
+300545	Mighty Rupture
+301807	Zealous Eruption
+
+; Boss: Pashmar the Fanatical
+301830	Pashmar's Touch
+296851y	Fanatical Verdict on you
+297325	Violent Outburst
+301947	Potent Spark
+
+; Boss: Queen Azshara
+300074	Pressure Surge
+298569	Drained Soul
+297937	Painful Memories
+297934	Longing
+297912	Torment
+297907	Cursed Heart
+298121	Lightning Orbs
+297972	Chain Lightning
+298014	Cold Blast
+298021	Ice Shard
+298756	Serrated Edge
+301078y	Charged Spear on you
+-20480	Overzealous Hulk
+298531	Ground Pound
+300428	Infuriated
+298787	Arcane Orbs
+299094	Beckon
+299250	Queen's Decree
+302999	Arcane Vulnerability
+304475	Arcane Jolt
+300519	Arcane Detonation
+297371	Reversal of Fortune
+303657y	Arcane Burst on you
+300492y	Static Shock on you
+300620	Crystalline Shield
+297372	Greater Reversal of Fortune
+300743	Void Touched
+303980	Nether Portal
+300807	Overload
