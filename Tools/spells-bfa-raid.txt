@@ -453,3 +453,137 @@ crawg	Crawg spawning soon
 300743	Void Touched
 303980	Nether Portal
 300807	Overload
+
+
+; -------------------------------------
+;    Zone: Ny'alotha, the Waking City
+; -------------------------------------
+
+; Boss: Trash
+; Waiting on BigWigs
+
+; Boss: Wrathion, the Black Emperor
+313973	Searing Breath
+306163y	Incineration on you
+306289	Gale Blast
+306735	Burning Cataclysm
+307013	Burning Madness
+
+; Boss: Maut
+310129	Shadow Claws
+308872	Dark Offering
+307806y	Devour Magic on you
+308044	Stygian Annihilation
+308903	Dark Manifestation
+305663	Black Wings
+314337	Ancient Curse
+305722	Obsidian Destruction
+314993y	Drain Essence on you
+
+; Boss: The Prophet Skitra
+308059	Shadow Shock
+307950y	Shred Psyche on you
+309687	Psychic Outburst
+313239	Images of Absolution
+307725	Illusionary Projection
+
+; Boss: Dark Inquisitor Xanesh
+312336	Void Ritual
+312406	Voidwoken
+313264	Dark Ascension
+311551	Abyssal Strike
+306319	Soul Flay
+306208	Torment
+305575	Ritual Field
+
+; Boss: The Hivemind
+307201	Ka'zir's Hivemind Control
+307213	Tek'ris's Hivemind Control
+313672	Acid Pool
+307569	Dark Reconstitution
+314583	Volatile Eruption
+310340	Spawn Acidic Aqir
+313652	Mind-Numbing Nova
+308227	Accelerated Evolution
+307968	Nullification Blast
+307232	Echoing Void
+
+; Boss: Shad'har the Insatiable
+307471	Crush
+307472	Dissolve
+312528	Volatile Breath
+312529	Bubbling Breath
+312530	Entropic Breath
+307358	Debilitating Spit
+306942	Frenzy
+
+; Boss: Drest'agath
+; Waiting on BigWigs
+
+; Boss: Il'gynoth, Corruption Reborn
+309961	Eye of N'Zoth
+311401	Touch of the Corruptor
+310433	Corruptor's Gaze
+310322	Nightmare Corruption
+315094	Fixate
+313759y	Cursed Blood on you
+
+; Boss: Vexiona
+307314y	Encroaching Shadows on you
+307343	Shadowy Residue
+307020	Twilight Breath
+307359	Despair
+307403	Annihilation
+307043	Dark Gateway
+307729	Fanatical Ascension
+315762	Twilight Decimator
+307116	Power of the Chosen
+307639	Heart of Darkness
+310323y	Desolation on you
+309882	Brutal Smash
+
+; Boss: Ra-den the Despoiled
+306819	Nullifying Strike
+306732	Vita Empowered
+306273	Unstable Vita
+306865	Call Crackling Stalker
+306733	Void Empowered
+306603	Unstable Void
+306866	Call Void Hunter
+306881	Void Collapse
+313213	Decaying Strike
+310003	Void Eruption
+310019y	Charged Bonds on you
+312996	Nightmare Empowered
+313077y	Unstable Nightmare on you
+314484	Call Night Terror
+315252	Dread Inferno
+
+; Boss: Carapace of N'Zoth
+306973y	Madness Bomb on you
+306988	Adaptive Membrane
+315947	Mandible Slam
+315954	Black Scar
+-20560	Growth-Covered Tentacle
+-20565	Gaze of Madness
+307011	Breed Madness
+307079	Synthesis
+307092	Occipital Blast
+306984y	Insanity Bomb on you
+-21069	Thrashing Tentacle
+
+; Boss: N'Zoth the Corruptor
+313609y	Gift of N'zoth on you
+316711	Mind Wrack
+310184	Creeping Anquish
+309991	Anguish
+313184	Synaptic Shock
+312155	Shattered Psyche
+310134	Manifest Madness
+310331	Void Gaze
+314889	Probe Mind
+317292	Collapsing Mindscape
+315772	Mindgrasp
+309980y	Paranoia on you
+309713	Void Lash
+310042	Tumultuous Burst
