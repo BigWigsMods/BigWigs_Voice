@@ -509,16 +509,27 @@ crawg	Crawg spawning soon
 307232	Echoing Void
 
 ; Boss: Shad'har the Insatiable
+307358	Debilitating Spit
+318078y	Fixate on you
+-21311	Crush and Dissolve
 307471	Crush
 307472	Dissolve
-312528	Volatile Breath
-312529	Bubbling Breath
-312530	Entropic Breath
-307358	Debilitating Spit
+306448	Umbral Mantle
+306928	Umbral Breath
+306930	Entropic Breath
+306929	Bubbling Breath
+314736	Bubbling Overflow
 306942	Frenzy
 
 ; Boss: Drest'agath
-; Waiting on BigWigs
+308941	Throes of Agony
+310246	Void Grip
+310277	Volatile Seed
+310329	Entropic Crash
+310358y	Mutterings of Insanity on you
+310390	Void Glare
+308377	Void Infused Ichor
+310580y	Acid Splash on you
 
 ; Boss: Il'gynoth, Corruption Reborn
 309961	Eye of N'Zoth
