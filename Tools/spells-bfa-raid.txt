@@ -463,7 +463,7 @@ crawg	Crawg spawning soon
 ; Waiting on BigWigs
 
 ; Boss: Wrathion, the Black Emperor
-313973	Searing Breath
+305978	Searing Breath
 306163y	Incineration on you
 306289	Gale Blast
 306735	Burning Cataclysm
@@ -509,7 +509,7 @@ crawg	Crawg spawning soon
 307232	Echoing Void
 
 ; Boss: Shad'har the Insatiable
-307358	Debilitating Spit
+306953	Debilitating Spit
 318078y	Fixate on you
 -21311	Crush and Dissolve
 307471	Crush
@@ -582,6 +582,7 @@ crawg	Crawg spawning soon
 307092	Occipital Blast
 306984y	Insanity Bomb on you
 -21069	Thrashing Tentacle
+313039	Infinite Darkness
 
 ; Boss: N'Zoth the Corruptor
 313609y	Gift of N'zoth on you
