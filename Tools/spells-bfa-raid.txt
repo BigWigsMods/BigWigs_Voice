@@ -468,11 +468,14 @@ crawg	Crawg spawning soon
 306289	Gale Blast
 306735	Burning Cataclysm
 307013	Burning Madness
+313250	Creeping Madness
+313255	Slow
 
 ; Boss: Maut
 310129	Shadow Claws
 308872	Dark Offering
 307806y	Devour Magic on you
+307586	Devoured Abyss
 308044	Stygian Annihilation
 308903	Dark Manifestation
 305663	Black Wings
@@ -497,8 +500,8 @@ crawg	Crawg spawning soon
 305575	Ritual Field
 
 ; Boss: The Hivemind
-307201	Ka'zir's Hivemind Control
-307213	Tek'ris's Hivemind Control
+307201	Kazir's Hivemind Control
+307213	Tekris's Hivemind Control
 313672	Acid Pool
 307569	Dark Reconstitution
 314583	Volatile Eruption
@@ -511,6 +514,8 @@ crawg	Crawg spawning soon
 ; Boss: Shad'har the Insatiable
 306953	Debilitating Spit
 318078y	Fixate on you
+312328	Hungry
+312099	Tasty Morsel
 -21311	Crush and Dissolve
 307471	Crush
 307472	Dissolve
@@ -532,7 +537,7 @@ crawg	Crawg spawning soon
 310580y	Acid Splash on you
 
 ; Boss: Il'gynoth, Corruption Reborn
-309961	Eye of N'Zoth
+309961	Eye of Nezoth
 311401	Touch of the Corruptor
 310433	Corruptor's Gaze
 310322	Nightmare Corruption
@@ -545,7 +550,7 @@ crawg	Crawg spawning soon
 307020	Twilight Breath
 307359	Despair
 307403	Annihilation
-307043	Dark Gateway
+307057	Dark Gateway
 307729	Fanatical Ascension
 315762	Twilight Decimator
 307116	Power of the Chosen
@@ -561,7 +566,7 @@ crawg	Crawg spawning soon
 306733	Void Empowered
 306603	Unstable Void
 306866	Call Void Hunter
-306881	Void Collapse
+306881y	Void Collapse on you
 313213	Decaying Strike
 310003	Void Eruption
 310019y	Charged Bonds on you
@@ -585,17 +590,21 @@ crawg	Crawg spawning soon
 313039	Infinite Darkness
 
 ; Boss: N'Zoth the Corruptor
-313609y	Gift of N'zoth on you
-316711	Mind Wrack
+313609y	Gift of Nezoth on you
+316711	Mindwrack
 310184	Creeping Anquish
 309991	Anguish
 313184	Synaptic Shock
-312155	Shattered Psyche
-310134	Manifest Madness
-310331	Void Gaze
-314889	Probe Mind
-317292	Collapsing Mindscape
+312155	Shattered Ego
 315772	Mindgrasp
-309980y	Paranoia on you
-309713	Void Lash
+315927y	Paranoia on you
+318449	Eternal Torment
+316463	Mindgate
+312866	Cataclysmic Flames
+309698	Void Lash
 310042	Tumultuous Burst
+313400	Corrupted Mind
+318976	Stupefying Glare
+317102	Evoke Anguish
+-21491	Thought Harvester
+317066	Harvest Thoughts
