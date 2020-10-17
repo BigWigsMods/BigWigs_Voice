@@ -1,0 +1,248 @@
+; Type: Shadowlands Dungeon
+
+; -------------------------------------
+;    Zone: De Other Side
+; -------------------------------------
+
+; Boss: Trash
+; Boss: Hakkar the Soulflayer
+; Boss: The Manastorms
+; Boss: Dealer Xy'exa
+; Boss: Mueh'zala
+
+
+; -------------------------------------
+;    Zone: Halls of Atonement
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Halkias, the Sin-Stained Goliath
+323001	Glass Shards
+322936	Crumbling Slam
+322943	Heave Debris
+322711	Refracted Sinlight
+322977	Sinlight Visions
+
+; Boss: Echelon
+319733	Stone Call
+328206	Curse of Stone
+319941	Stone Shattering Leap
+326389	Blood Torrent
+
+; Boss: High Adjudicator Aleez
+323538	Bolt of Power
+323552	Volley of Power
+323650	Haunting Fixation
+329340	Anima Fountain
+
+; Boss: Lord Chamberlain
+329104	Door of Shadows
+328791	Ritual of Woe
+323150	Telekinetic Toss
+323236	Unleashed Suffering
+323437	Stigma of Pride
+
+
+; -------------------------------------
+;    Zone: Mists of Tirna Scithe
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Ingra Maloch
+323057	Spirit Bolt
+328756	Repulsive Visage
+323149	Embrace Darkness
+323137	Bewildering Pollen
+323177	Tears of the Forest
+323059	Droman's Wrath
+
+; Boss: Mistcaller
+336499	Guessing Game
+321834	Dodge Ball
+321828	Patty Cake
+326180	Freeze Tag
+
+; Boss: Tred'ova
+322450	Consumption
+322550	Accelerated Incubation
+322614	Mind Link
+322563	Marked Prey
+322651	Acid Expulsion
+parasitic	Parasitic
+
+
+; -------------------------------------
+;    Zone: Plaguefall
+; -------------------------------------
+
+; Boss: Trash
+323572	Rolling Plague
+327515	Fen Stinger
+329239	Creepy Crawlers
+330403	Wing Buffet
+327882	Blightbeak
+327233	Belch Plague
+320512	Corroded Claws
+318949	Festering Belch
+320517	Jagged Spines
+328180	Gripping Infection
+321935	Withering Filth
+336451	Bulwark of Maldraxxus
+328395	Venompiercer
+328475	Enveloping Webbing
+330786	Oozing Carcass
+330816	Ghost Step
+328016	Wonder Grow
+327995	Doom Shroom
+328177	Fungistorm
+
+; Boss: Globgrog
+324490	Beckon Slime
+324527	Plaguestomp
+324667	Slime Wave
+
+; Boss: Doctor Ickus
+322358	Burning Strain
+67382	Leap
+329217	Slime Lunge
+329110	Slime Injection
+332617	Pestilence Surge
+321406	Virulent Explosion
+
+; Boss: Domina Vendomblade
+332313	Brood Assassins
+325552	Cytotoxic Slash
+325245	Shadow Ambush
+336258	Solitary Prey
+
+; Boss: Margrave Stradama
+322232	Infectious Rain
+322304	Malignant Growth
+322475	Plague Crash
+
+
+; -------------------------------------
+;    Zone: Sanguine Depths
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kryxis the Voracious
+319650	Vicious Headbutt
+319654	Hungering Drain
+319713	Juggernaut Rush
+319685	Severing Smash
+
+; Boss: Executor Tarvold
+322554	Castigate
+322573	Coalesce Manifestation
+328494	Sintouched Anima
+323551	Residue
+
+; Boss: Grand Proctor Beryllia
+325254	Iron Spikes
+325360	Rite of Supremacy
+328737	Fragment of Radiance
+326039	Endless Torment
+
+; Boss: General Kaal
+323845	Wicked Rush
+323821	Piercing Blur
+322903	Gloom Squall
+324086	Shining Radiance
+
+
+; -------------------------------------
+;    Zone: Spires of Ascension
+; -------------------------------------
+
+; Boss: Trash
+; Boss: Kin-Tara
+; Boss: Ventunax
+; Boss: Oryphrion
+; Boss: Devos, Paragon of Doubt
+
+
+; -------------------------------------
+;    Zone: The Necrotic Wake
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Blightbone
+320596	Heaving Retch
+320630	Blood Gorge
+320637	Fetid Gas
+320655	Crunch
+
+; Boss: Amarth, The Harvester
+321226	Land of the Dead
+321247	Final Harvest
+333488	Necrotic Breath
+320012	Unholy Frenzy
+320171	Necrotic Bolt
+
+; Boss: Surgeon Stichflesh
+320358	Awaken Creation
+322681	Meat Hook
+320376	Mutlilate
+334476	Embalming Ichor
+320200	Stitchneedle
+334488	Cleave Flesh
+320359	Escape
+
+; Boss: Nalthor the Rimebinder
+320772	Comet Storm
+321368	Icebound Aegis
+320788	Frozen Binds
+321894	Dark Exile
+
+
+; -------------------------------------
+;    Zone: Theater of Pain
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: An Affront of Challengers
+320063	Slam
+320069	Mortal Strike
+326892	Fixate
+324085	Enrage
+326892	Fixate
+320248	Genetic Alteration
+333231	Searing Death
+320293	One with Death
+320272	Spectral Transference
+333540	Opportunity Strikes
+
+; Boss: Gorechop
+323515	Hateful Strike
+322795	Meat Hooks
+318406	Tenderizing Smash
+
+; Boss: Xav the Unfallen
+320644	Brutal Combo
+320102	Blood and Glory
+331618	Oppressive Banner
+320050	Might of Maldraxxus
+320729	Massive Cleave
+317231	Crushing Slam
+339415	Deafening Crash
+
+; Boss: Kul'tharok
+319521	Draw Soul
+319637	Reclaimed Soul
+319626	Phantasmal Parasite
+319669	Spectral Reach
+
+; Boss: Mordretha, the Endless Empress
+324079	Reaping Scythe
+323608	Dark Devastation
+323683	Grasping Rift
+324449	Manifest Death
+339573	Echoes of Carnage
+339706	Ghostly Charge
+339550	Echo of Battle

@@ -1,0 +1,17 @@
+; Type: Shadowlands Raid
+
+; -------------------------------------
+;    Zone: Castle Nathria
+; -------------------------------------
+
+; Boss: Trash
+; Boss: Shriekwing
+; Boss: Huntsman Altimor
+; Boss: Sun King's Salvation
+; Boss: Artificer Xy'mox
+; Boss: Hungering Destroyer
+; Boss: Lady Inerva Darkvein
+; Boss: The Council of Blood
+; Boss: Sludgefist
+; Boss: Stone Legion Generals
+; Boss: Sire Denathrius
