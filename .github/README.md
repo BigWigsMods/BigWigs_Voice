@@ -1,4 +1,4 @@
-# BigWigs_Voice [![Build Status](https://travis-ci.org/BigWigsMods/BigWigs_Voice.svg?branch=master)](https://travis-ci.org/BigWigsMods/BigWigs_Voice)
+# BigWigs_Voice
 
 ## Download
 https://www.curseforge.com/wow/addons/bigwigs_voice
