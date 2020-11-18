@@ -1,4 +1,5 @@
-## Interface: 90001
+## Interface: 90002
+
 ## Title: BigWigs |cffff0000+|r|cffffffffVoice|r
 ## Version: @project-version@
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
