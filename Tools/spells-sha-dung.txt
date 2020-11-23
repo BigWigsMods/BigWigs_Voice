@@ -211,7 +211,6 @@ parasitic	Parasitic
 320069	Mortal Strike
 326892	Fixate
 324085	Enrage
-326892	Fixate
 320248	Genetic Alteration
 333231	Searing Death
 320293	One with Death
