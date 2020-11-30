@@ -5,10 +5,26 @@
 ; -------------------------------------
 
 ; Boss: Trash
+
 ; Boss: Hakkar the Soulflayer
+322746	Corrupted Blood
+322759	Blood Barrier
+
 ; Boss: The Manastorms
+320787	Summon Power Crystal
+323877	Echo Finger Laser X-treme
+320823	Experimental Squirrel Bomb
+321061	Aerial Rocket Chicken Barrage
+
 ; Boss: Dealer Xy'exa
+321948	Localized Explosive Contrivance
+320230	Explosive Contrivance
+323687	Arcane Lightning
+
 ; Boss: Mueh'zala
+325725	Cosmic Artifice
+325258	Master of Death
+326171	Shatter Reality
 
 
 ; -------------------------------------
@@ -159,11 +175,29 @@ parasitic	Parasitic
 ; -------------------------------------
 
 ; Boss: Trash
-; Boss: Kin-Tara
-; Boss: Ventunax
-; Boss: Oryphrion
-; Boss: Devos, Paragon of Doubt
 
+; Boss: Kin-Tara
+320966	Overhead Slash
+327481	Dark Lance
+321009	Charged Spear
+324368	Attenuated Barrage
+
+; Boss: Ventunax
+324146	Dark Stride
+324205	Blinding Flash
+334485	Recharge
+
+; Boss: Oryphrion
+323878	Drained
+324046	Recharge Anima
+324427	Empyreal Ordnance
+334053	Purifying Blast
+324608	Charged Stomp
+
+; Boss: Devos, Paragon of Doubt
+334625	Abyssal Detonation
+322818	Lost Confidence
+323943	Run Through
 
 ; -------------------------------------
 ;    Zone: The Necrotic Wake
