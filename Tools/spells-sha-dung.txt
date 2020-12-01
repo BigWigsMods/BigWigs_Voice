@@ -25,6 +25,7 @@
 325725	Cosmic Artifice
 325258	Master of Death
 326171	Shatter Reality
+334970	Coalescing
 
 
 ; -------------------------------------
