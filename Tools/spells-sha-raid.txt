@@ -5,13 +5,158 @@
 ; -------------------------------------
 
 ; Boss: Trash
+
 ; Boss: Shriekwing
+330711	Earsplitting Shriek
+340324	Sanguine Ichor
+342074y	Echolocation on you
+342863	Echoing Screech
+345397	Wave of Blood
+343005	Blind Swipe
+328857	Exsanguinating Bite
+328897	Exsanguinated
+328921	Blood Shroud
+329362	Echoing Sonar
+341684	The Blood Lantern
+341489	Bloodlight
+
 ; Boss: Huntsman Altimor
+335114y	Sinseeker on you
+334404	Spreadshot
+334971	Jagged Claws
+334945y	Vicious Lunge on you
+334797	Rip Soul
+334884	Devour Soul
+334757	Shades of Bargast
+334860	Crushing Stone
+334852y	Petrifying Howl on you
+334893	Stone Shards
+
 ; Boss: Sun King's Salvation
+326455	Fiery Strike
+326456	Burning Remnants
+325877y	Ember Blast on you
+329518	Blazing Surge
+328579	Smoldering Remnants
+328479	Eyes on Target
+-21954	Rockbound Vanquisher
+325440	Vanquishing Strike
+325442	Vanquished
+325506	Concussive Smash
+-21993	Bleakwing Assassin
+326583y	Crimson Flurry on you
+333145	Return to Stone
+-21952	Vile Occultist
+333002	Vulgar Brand
+-21953	Soul Infuser
+-22082	Pestering Fiend
+326078	Infuser's Boon
+339251	Drained Soul
+328889y	Greater Castigation on you
+337859	Cloak of Flames
+
 ; Boss: Artificer Xy'mox
+328437y	Dimensional Tear on you
+325236	Glyph of Destruction
+326271	Stasis Trap
+335013	Rift Blast
+325399	Hyperlight Spark
+340758	Fleeting Spirits
+327902	Fixate
+327414	Possesion
+340788	Seeds of Extinction
+329107	Extinction
+340860	Withering Touch
+328789	Edge of Annihilation
+
 ; Boss: Hungering Destroyer
+329298y	Gluttonous Miasma on you
+334522	Consume
+329725	Expunge
+334266y	Volatile Ejection on you
+329455	Desolate
+329774	Overwhelm
+332295	Growing Hunger
+
 ; Boss: Lady Inerva Darkvein
+331870	Focus Anima
+341621	Expose Desires
+325382	Warped Desires
+325936	Shared Cognition
+325769	Bottled Anima
+325713	Lingering Anima
+324983y	Shared Suffering on you
+332664y	Concentrate Anima on you
+331573	Unconscionable Guilt
+331550	Condemn
+
 ; Boss: The Council of Blood
+346690	Duelist's Riposte
+346698	Summon Dutiful Attendant
+346651	Drain Essence
+337110	Dreadbolt Volley
+346657	Prideful Eruption
+327497	Evasive Lunge
+331634y	Dark Recital on you
+346800	Waltz of Blood
+330959	Danse Macabre
+330848	Wrong Moves
+347350y	Dancing Fever
+
 ; Boss: Sludgefist
+331209y	Hateful Gaze on you
+331314	Destructive Impact
+341102	Fractured Boulder
+335293	Chain Link
+332318	Destructive Stomp
+335361	Stonequake
+332687	Colossal Roar
+335470y	Chain Slam on you
+340817	Seismic Shift
+341250	Gruesome Rage
+
 ; Boss: Stone Legion Generals
+329636	Hardened Stone Form
+333387y	Wicked Blade on you
+334765	Heart Rend
+334929	Serrated Swipe
+339690y	Crystalize on you
+342544	Pulverizing Meteor
+343063	Stone Spike
+332406	Anima Infusion
+339885	Anima Infection
+342722	Stonewrath Exhaust
+332683	Shattering Blast
+329808	Hardened Stone Form
+342425	Stone Fist
+334009y	Reverberating Leap on you
+334498	Seismic Upheaval
+342256	Call Shadow Forces
+342655	Volatile Anima Infusion
+340037	Volatile Stone Shell
+342698	Volatile Anima Injection
+342733	Ravenous Feast
+342985	Stonegale Effigy
+
 ; Boss: Sire Denathrius
+328936	Inevitable
+326699	Burden of Sin
+326707	Cleansing Pain
+326851	Blood Price
+327796y	Night Hunter on you
+327122	Ravage
+327992	Desolation
+328276	March of the Penitent
+329906	Carnage
+329951y	Impale on you
+335873	Rancor
+329181	Wracking Pain
+333932	Hand of Destruction
+330042	Massacre
+332585	Scorn
+332619	Shattering Pain
+332794y	Fatal Finesse on you
+336008	Smoldering Ire
+333979	Sinister Reflection
+332937	Ravage
+333111	Massacre
