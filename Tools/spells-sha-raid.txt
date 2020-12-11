@@ -15,6 +15,7 @@
 343005	Blind Swipe
 328857	Exsanguinating Bite
 328897	Exsanguinated
+345936	Earsplitting Shriek
 328921	Blood Shroud
 329362	Echoing Sonar
 341684	The Blood Lantern
@@ -63,7 +64,7 @@
 325399	Hyperlight Spark
 340758	Fleeting Spirits
 327902	Fixate
-327414	Possesion
+327414	Possession
 340788	Seeds of Extinction
 329107	Extinction
 340860	Withering Touch
@@ -86,16 +87,21 @@
 325769	Bottled Anima
 325713	Lingering Anima
 324983y	Shared Suffering on you
-332664y	Concentrate Anima on you
+332664y	Concentrated Anima on you
 331573	Unconscionable Guilt
 331550	Condemn
 
 ; Boss: The Council of Blood
 346690	Duelist's Riposte
 346698	Summon Dutiful Attendant
+330978	Dredger Servants
+330965	Castellan's Cadre
+346790	Sintouched Blade
 346651	Drain Essence
 337110	Dreadbolt Volley
 346657	Prideful Eruption
+346945	Manifest Pain
+346681	Soul Spikes
 327497	Evasive Lunge
 331634y	Dark Recital on you
 346800	Waltz of Blood
@@ -106,7 +112,6 @@
 ; Boss: Sludgefist
 331209y	Hateful Gaze on you
 331314	Destructive Impact
-341102	Fractured Boulder
 335293	Chain Link
 332318	Destructive Stomp
 335361	Stonequake
@@ -149,14 +154,14 @@
 328276	March of the Penitent
 329906	Carnage
 329951y	Impale on you
+-22131	Crimson Cabalist
 335873	Rancor
 329181	Wracking Pain
 333932	Hand of Destruction
-330042	Massacre
+330042	Command: Massacre
 332585	Scorn
 332619	Shattering Pain
 332794y	Fatal Finesse on you
 336008	Smoldering Ire
-333979	Sinister Reflection
-332937	Ravage
-333111	Massacre
+332849	Reflection: Ravage
+333980	Reflection: Massacre

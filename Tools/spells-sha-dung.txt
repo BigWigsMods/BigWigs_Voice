@@ -22,6 +22,7 @@
 323687	Arcane Lightning
 
 ; Boss: Mueh'zala
+327646	Soulcrusher
 325725	Cosmic Artifice
 325258	Master of Death
 326171	Shatter Reality
@@ -225,7 +226,7 @@ parasitic	Parasitic
 320376	Mutlilate
 334476	Embalming Ichor
 320200	Stitchneedle
-334488	Cleave Flesh
+334488	Sever Flesh
 320359	Escape
 
 ; Boss: Nalthor the Rimebinder
@@ -248,7 +249,7 @@ parasitic	Parasitic
 324085	Enrage
 320248	Genetic Alteration
 333231	Searing Death
-320293	One with Death
+320293	One With Death
 320272	Spectral Transference
 333540	Opportunity Strikes
 
@@ -277,6 +278,6 @@ parasitic	Parasitic
 323608	Dark Devastation
 323683	Grasping Rift
 324449	Manifest Death
-339573	Echoes of Carnage
+339573	Echos of Carnage
 339706	Ghostly Charge
 339550	Echo of Battle
