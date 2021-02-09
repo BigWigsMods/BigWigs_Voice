@@ -5,6 +5,22 @@
 ; -------------------------------------
 
 ; Boss: Trash
+343322	Curse of Moldovaak
+343320	Curse of Caramain
+343325	Curse of Sindrel
+343316	Curse of Hargitas
+343155	Stoneskin
+343302	Granite Wings
+329989	Enrage
+341441	Ground Smash
+341352	Mastercrafted Gamesman's Snare
+341735	Restore Stone
+340630	Rotting
+329298	Gluttonous Miasma
+339553	Lingering Anima
+339557	Bottled Anima
+339528	Warped Desires
+339525	Concentrate Anima
 
 ; Boss: Shriekwing
 330711	Earsplitting Shriek
@@ -22,10 +38,10 @@
 341489	Bloodlight
 
 ; Boss: Huntsman Altimor
-335114y	Sinseeker on you
+335114	Sinseeker on you
 334404	Spreadshot
 334971	Jagged Claws
-334945y	Vicious Lunge on you
+334945	Vicious Lunge
 334797	Rip Soul
 334884	Devour Soul
 334757	Shades of Bargast
@@ -36,10 +52,10 @@
 ; Boss: Sun King's Salvation
 326455	Fiery Strike
 326456	Burning Remnants
-325877y	Ember Blast on you
+325877	Ember Blast
 329518	Blazing Surge
 328579	Smoldering Remnants
-328479	Eyes on Target
+328479y	Eyes on Target on you
 -21954	Rockbound Vanquisher
 325440	Vanquishing Strike
 325442	Vanquished
@@ -53,8 +69,9 @@
 -22082	Pestering Fiend
 326078	Infuser's Boon
 339251	Drained Soul
-328889y	Greater Castigation on you
+328889	Greater Castigation
 337859	Cloak of Flames
+343026	Cloak of Flames
 
 ; Boss: Artificer Xy'mox
 328437y	Dimensional Tear on you
@@ -63,12 +80,12 @@
 335013	Rift Blast
 325399	Hyperlight Spark
 340758	Fleeting Spirits
-327902	Fixate
+327902y	Fixate on you
 327414	Possession
 340788	Seeds of Extinction
 329107	Extinction
 340860	Withering Touch
-328789	Edge of Annihilation
+328789	Annihilate
 
 ; Boss: Hungering Destroyer
 329298y	Gluttonous Miasma on you
@@ -83,6 +100,7 @@
 331870	Focus Anima
 341621	Expose Desires
 325382	Warped Desires
+340452y	Change of Heart on you
 325936	Shared Cognition
 325769	Bottled Anima
 325713	Lingering Anima
@@ -105,63 +123,74 @@
 327497	Evasive Lunge
 331634y	Dark Recital on you
 346800	Waltz of Blood
+346303	Violent Uproar
 330959	Danse Macabre
 330848	Wrong Moves
+-22433	Afterimage of Baroness Frieda
 347350y	Dancing Fever
 
 ; Boss: Sludgefist
-331209y	Hateful Gaze on you
+331209	Hateful Gaze
 331314	Destructive Impact
-335293	Chain Link
+335293y	Chain Link on you
 332318	Destructive Stomp
+341193	Falling Rubble
 335361	Stonequake
 332687	Colossal Roar
-335470y	Chain Slam on you
+335470	Chain Slam
+341102	Fractured Boulder
 340817	Seismic Shift
 341250	Gruesome Rage
 
 ; Boss: Stone Legion Generals
 329636	Hardened Stone Form
 333387y	Wicked Blade on you
+333913	Wicked Laceration
 334765	Heart Rend
 334929	Serrated Swipe
-339690y	Crystalize on you
+339690	Crystalize
 342544	Pulverizing Meteor
 343063	Stone Spike
+342733	Ravenous Feast
+342985	Stonegale Effigy
 332406	Anima Infusion
 339885	Anima Infection
 342722	Stonewrath Exhaust
 332683	Shattering Blast
 329808	Hardened Stone Form
 342425	Stone Fist
-334009y	Reverberating Leap on you
+334009	Reverberating Leap
 334498	Seismic Upheaval
 342256	Call Shadow Forces
 342655	Volatile Anima Infusion
 340037	Volatile Stone Shell
-342698	Volatile Anima Injection
-342733	Ravenous Feast
-342985	Stonegale Effigy
+342698	Volatile Anima Infection
 
 ; Boss: Sire Denathrius
 328936	Inevitable
 326699	Burden of Sin
 326707	Cleansing Pain
 326851	Blood Price
-327796y	Night Hunter on you
+327039y	Feeding Time on you
+327796	Night Hunter
+327227	Command: Ravage
 327122	Ravage
 327992	Desolation
 328276	March of the Penitent
 329906	Carnage
-329951y	Impale on you
+329951	Impale
 -22131	Crimson Cabalist
+336162	Crescendo
 335873	Rancor
 329181	Wracking Pain
 333932	Hand of Destruction
 330042	Command: Massacre
 332585	Scorn
 332619	Shattering Pain
-332794y	Fatal Finesse on you
+332794	Fatal Finesse
 336008	Smoldering Ire
 332849	Reflection: Ravage
 333980	Reflection: Massacre
+344776	Vengeful Wail
+338738	Through the Mirror
+333979	Sinister Reflection

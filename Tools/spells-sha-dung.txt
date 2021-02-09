@@ -5,10 +5,28 @@
 ; -------------------------------------
 
 ; Boss: Trash
+328740	Dark Lotus
+333227	Undying Rage
+333787	Rage
+334051	Erupting Darkness
+332678	Gushing Wound
+332672	Bladestorm
+332706	Heal
+332612	Healing Wave
+332605	Hex
+332608	Lightning Discharge
+331927	Haywire
+331548	Metallic Jaws
+331846	W-00F
+332084	Self-Cleaning Cycle
+332157	Spinning Up
+340026	Wailing Grief
 
 ; Boss: Hakkar the Soulflayer
+322736	Piercing Barb
 322746	Corrupted Blood
 322759	Blood Barrier
+323569	Spilled Essence
 
 ; Boss: The Manastorms
 320787	Summon Power Crystal
@@ -34,6 +52,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
+326450	Loyal Beasts
+325799	Rapid Fire
+344993	Jagged Swipe
+346866	Stone Breath
+325523	Deadly Thrust
+325876	Curse of Obliteration
+325700	Collect Sins
+325701	Siphon Life
+326409	Thrash
+326607	Turn to Stone
+326997	Powerful Swipe
 
 ; Boss: Halkias, the Sin-Stained Goliath
 323001	Glass Shards
@@ -67,6 +96,30 @@
 ; -------------------------------------
 
 ; Boss: Trash
+324909	Furious Thrashing
+324923	Bramble Burst
+322938	Harvest Essence
+322569	Hand of Thros
+322557	Soul Split
+331718	Spear Flurry
+340304	Poisonous Secretions
+340305	Crushing Leap
+340300	Tongue Lashing
+331743	Bucking Rampage
+340189	Pool of Radiance
+340160	Radiant Breath
+340208	Shred Armor
+340289	Triple Bite
+340279	Poisonous Discharge
+324776	Bramblethorn Coat
+324987	Mistveil Bite
+325224	Anima Injection
+324914	Nourish the Forest
+325418y	Volatile Acid on you
+340544	Stimulate Regeneration
+326046	Stimulate Resistance
+321968	Bewildering Pollen
+322486	Overgrowth
 
 ; Boss: Ingra Maloch
 323057	Spirit Bolt
@@ -88,7 +141,9 @@
 322614	Mind Link
 322563	Marked Prey
 322651	Acid Expulsion
-parasitic	Parasitic
+337235	Parasitic Pacification
+337249	Parasitic Incapacitation
+337255	Parasitic Domination
 
 
 ; -------------------------------------
@@ -102,13 +157,13 @@ parasitic	Parasitic
 330403	Wing Buffet
 327882	Blightbeak
 327233	Belch Plague
+327584	Beckon Slime
 320512	Corroded Claws
 318949	Festering Belch
 320517	Jagged Spines
 328180	Gripping Infection
 321935	Withering Filth
 336451	Bulwark of Maldraxxus
-328395	Venompiercer
 328475	Enveloping Webbing
 330786	Oozing Carcass
 330816	Ghost Step
@@ -183,6 +238,7 @@ parasitic	Parasitic
 327481	Dark Lance
 321009	Charged Spear
 324368	Attenuated Barrage
+331251	Deep Connection
 
 ; Boss: Ventunax
 324146	Dark Stride
@@ -190,7 +246,6 @@ parasitic	Parasitic
 334485	Recharge
 
 ; Boss: Oryphrion
-323878	Drained
 324046	Recharge Anima
 324427	Empyreal Ordnance
 334053	Purifying Blast
@@ -201,11 +256,30 @@ parasitic	Parasitic
 322818	Lost Confidence
 323943	Run Through
 
+
 ; -------------------------------------
 ;    Zone: The Necrotic Wake
 ; -------------------------------------
 
 ; Boss: Trash
+334748	Drain Fluids
+323190	Meat Shield
+323347	Clinging Darkness
+322756	Wrath of Zolramus
+328667	Frostbolt Volley
+324293	Rasping Scream
+335143	Bonemend
+335141	Dark Shroud
+327396	Grim Fate
+324394	Shatter
+324387	Frigid Spikes
+324372	Reaping Winds
+338353	Goresplatter
+338456	Mutilate
+338357	Tenderize
+327130	Repair Flesh
+323496	Throw Cleaver
+338606	Morbid Fixation
 
 ; Boss: Blightbone
 320596	Heaving Retch
@@ -223,11 +297,12 @@ parasitic	Parasitic
 ; Boss: Surgeon Stichflesh
 320358	Awaken Creation
 322681	Meat Hook
-320376	Mutlilate
+320376	Mutilate
 334476	Embalming Ichor
-320200	Stitchneedle
+320200y	Stitchneedle on you
 334488	Sever Flesh
 320359	Escape
+343556	Morbid Fixation
 
 ; Boss: Nalthor the Rimebinder
 320772	Comet Storm
@@ -241,12 +316,17 @@ parasitic	Parasitic
 ; -------------------------------------
 
 ; Boss: Trash
+330562	Demoralizing Shout
+341969	Withering Discharge
+330614	Vile Eruption
+330868	Necrotic Bolt Volley
+342675	Bone Spear
 
 ; Boss: An Affront of Challengers
 320063	Slam
 320069	Mortal Strike
-326892	Fixate
 324085	Enrage
+326892	Fixate
 320248	Genetic Alteration
 333231	Searing Death
 320293	One With Death
@@ -268,8 +348,8 @@ parasitic	Parasitic
 339415	Deafening Crash
 
 ; Boss: Kul'tharok
-319521	Draw Soul
-319637	Reclaimed Soul
+319521y	Draw Soul on you
+319637y	Reclaimed Soul on you
 319626	Phantasmal Parasite
 319669	Spectral Reach
 
