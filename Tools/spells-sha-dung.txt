@@ -63,6 +63,7 @@
 326409	Thrash
 326607	Turn to Stone
 326997	Powerful Swipe
+326891	Anguish
 
 ; Boss: Halkias, the Sin-Stained Goliath
 323001	Glass Shards
@@ -122,25 +123,27 @@
 322486	Overgrowth
 
 ; Boss: Ingra Maloch
-323057	Spirit Bolt
-328756	Repulsive Visage
-323149	Embrace Darkness
 323137	Bewildering Pollen
 323177	Tears of the Forest
 323059	Droman's Wrath
+323057	Spirit Bolt
+328756	Repulsive Visage
+323149	Embrace Darkness
 
 ; Boss: Mistcaller
 336499	Guessing Game
 321834	Dodge Ball
 321828	Patty Cake
 326180	Freeze Tag
+321891y	Freeze Tag Fixation on you
 
 ; Boss: Tred'ova
+322651	Acid Expulsion
 322450	Consumption
 322550	Accelerated Incubation
+322563y	Marked Prey on you
+326309	Decomposing Acid
 322614	Mind Link
-322563	Marked Prey
-322651	Acid Expulsion
 337235	Parasitic Pacification
 337249	Parasitic Incapacitation
 337255	Parasitic Domination
@@ -165,6 +168,7 @@
 321935	Withering Filth
 336451	Bulwark of Maldraxxus
 328475	Enveloping Webbing
+summon_stealthlings	Stealthlings
 330786	Oozing Carcass
 330816	Ghost Step
 328016	Wonder Grow
@@ -201,6 +205,22 @@
 ; -------------------------------------
 
 ; Boss: Trash
+341321	Summon Anima Collector Stalker
+328170	Craggy Fracture
+322429	Severing Slice
+322433	Stoneskin
+335305	Barbed Shackles
+335308	Crushing Strike
+334558	Volatile Trap
+324103	Gloom Squall
+326827	Dread Bindings
+334329	Sweeping Slash
+334326	Bludgeoning Bash
+321178	Slam
+334918	Umbral Crash
+320991	Echoing Thrust
+334377	Explosive Vellum
+326836	Curse of Suppression
 
 ; Boss: Kryxis the Voracious
 319650	Vicious Headbutt
@@ -232,6 +252,18 @@
 ; -------------------------------------
 
 ; Boss: Trash
+317661	Insidious Venom
+317963	Burden of Knowledge
+327655	Infuse Weapon
+327413	Rebellious Fist
+327648	Internal Strife
+317936	Forsworn Doctrine
+327332	Imbue Weapon
+317985	Crashing Strike
+328295	Greater Mending
+328288	Bless Weapon
+328458	Diminuendo
+328462	Charged Spear
 
 ; Boss: Kin-Tara
 320966	Overhead Slash
@@ -273,7 +305,7 @@
 327396	Grim Fate
 324394	Shatter
 324387	Frigid Spikes
-324372	Reaping Winds
+324372	Reaping Winds=wɪndz
 338353	Goresplatter
 338456	Mutilate
 338357	Tenderize
@@ -358,6 +390,70 @@
 323608	Dark Devastation
 323683	Grasping Rift
 324449	Manifest Death
-339573	Echos of Carnage
+339573	Echoes of Carnage
 339706	Ghostly Charge
 339550	Echo of Battle
+
+
+; -------------------------------------
+;	Zone: Tazavesh the Veiled Market
+; -------------------------------------
+
+; Boss: Zo'phex the Sentinel
+347949	Interrogation
+345990	Containment Cell
+345770	Impound Contraband
+346204	Armed Security
+
+; Boss: Myza's Oasis
+350922	Menacing Shout
+350919	Crowd Control
+355438	Suppression Spark
+350916	Security Slam
+356482	Rotten Food
+
+; Boss: Mailroom Mayhem
+346286	Hazardous Liquids
+346742	Fan Mail
+346962	Money Order
+346947	Unstable Goods
+
+; Boss: The Grand Menagerie
+349627	Gluttony
+350010y	Devoured Anima on you
+349663	Grip of Hunger
+349797	Grand Consumption
+349954	Purification Protocol
+349934	Flagellation Protocol
+349987	Venting Protocol
+350101	Chains of Damnation
+350086	Whirling Annihilation
+
+; Boss: So'azmi
+357188	Double Technique
+347610	Shuri
+347249	Divide
+347623	Quickblade
+
+; Boss: Hylbrande
+346971	Summon Vault Defender
+346116	Shearing Swings
+347094	Titanic Crash
+346957	Purged by Fire
+346766	Sanitizing Cycle
+
+; Boss: Timecap'n Hooktail
+347149	Infinite Breath
+347151	Hook Swipe
+354334	Hook'd!
+352345y	Anchor Shot on you
+347371	Grapeshot
+350517	Double Time
+
+; Boss: So'leah
+351124	Summon Assassins
+353635	Collapsing Star
+350804	Collapsing Energy
+350796	Hyperlight Spark
+351086	Power Overwhelming
+351096	Energy Fragmentation

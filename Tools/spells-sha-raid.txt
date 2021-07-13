@@ -16,7 +16,6 @@
 341352	Mastercrafted Gamesman's Snare
 341735	Restore Stone
 340630	Rotting
-329298	Gluttonous Miasma
 339553	Lingering Anima
 339557	Bottled Anima
 339528	Warped Desires
@@ -61,7 +60,7 @@
 325442	Vanquished
 325506	Concussive Smash
 -21993	Bleakwing Assassin
-326583y	Crimson Flurry on you
+326583	Crimson Flurry
 333145	Return to Stone
 -21952	Vile Occultist
 333002	Vulgar Brand
@@ -88,7 +87,7 @@
 328789	Annihilate
 
 ; Boss: Hungering Destroyer
-329298y	Gluttonous Miasma on you
+329298	Gluttonous Miasma
 334522	Consume
 329725	Expunge
 334266y	Volatile Ejection on you
@@ -106,7 +105,7 @@
 325713	Lingering Anima
 324983y	Shared Suffering on you
 332664y	Concentrated Anima on you
-331573	Unconscionable Guilt
+331573y	Unconscionable Guilt on you
 331550	Condemn
 
 ; Boss: The Council of Blood
@@ -115,7 +114,7 @@
 330978	Dredger Servants
 330965	Castellan's Cadre
 346790	Sintouched Blade
-346651	Drain Essence
+346651y	Drain Essence on you
 337110	Dreadbolt Volley
 346657	Prideful Eruption
 346945	Manifest Pain
@@ -125,12 +124,12 @@
 346800	Waltz of Blood
 346303	Violent Uproar
 330959	Danse Macabre
-330848	Wrong Moves
+330848y	Wrong Moves on you
 -22433	Afterimage of Baroness Frieda
 347350y	Dancing Fever
 
 ; Boss: Sludgefist
-331209	Hateful Gaze
+331209y	Hateful Gaze on you
 331314	Destructive Impact
 335293y	Chain Link on you
 332318	Destructive Stomp
@@ -144,11 +143,11 @@
 
 ; Boss: Stone Legion Generals
 329636	Hardened Stone Form
-333387y	Wicked Blade on you
+333387	Wicked Blade
 333913	Wicked Laceration
 334765	Heart Rend
 334929	Serrated Swipe
-339690	Crystalize
+339690y	Crystalize on you
 342544	Pulverizing Meteor
 343063	Stone Spike
 342733	Ravenous Feast
@@ -159,7 +158,7 @@
 332683	Shattering Blast
 329808	Hardened Stone Form
 342425	Stone Fist
-334009	Reverberating Leap
+344496y	Reverberating Eruption on you
 334498	Seismic Upheaval
 342256	Call Shadow Forces
 342655	Volatile Anima Infusion
@@ -172,13 +171,13 @@
 326707	Cleansing Pain
 326851	Blood Price
 327039y	Feeding Time on you
-327796	Night Hunter
+327796y	Night Hunter on you
 327227	Command: Ravage
 327122	Ravage
 327992	Desolation
 328276	March of the Penitent
 329906	Carnage
-329951	Impale
+329951y	Impale on you
 -22131	Crimson Cabalist
 336162	Crescendo
 335873	Rancor
@@ -194,3 +193,180 @@
 344776	Vengeful Wail
 338738	Through the Mirror
 333979	Sinister Reflection
+
+
+; -------------------------------------
+;    Zone: Sanctum of Domination
+; -------------------------------------
+
+; Boss: The Tarragrue
+346985	Overpower
+346986	Crushed Armor
+347269y	Chains of Eternity on you
+347274	Annihilating Smash
+347283y	Predator's Howl on you
+347286	Unshakeable Dread
+347679	Hungering Mist
+352368	Remnant of Forgotten Torments
+352382	Remnant: Upper Reaches' Might
+352389	Remnant: Mort'regar's Echoes
+352398	Remnant: Soulforge Heat
+347668	Grasp of Death
+347490	Fury of the Ages
+347369	The Jailer's Gaze
+
+; Boss: The Eye of the Jailer
+350828	Deathlink
+349979	Dragging Chains
+348074	Assailing Lance
+349028	Titanic Death Gaze
+350847y	Desolation Beam on you
+350022y	Fracture Soul on you
+351825	Shared Suffering
+350713	Slothful Corruption
+351827y	Spreading Misery on you
+348974	Immediate Extermination
+351413	Annihilating Glare
+350604y	Hopeless Lethargy on you
+355232	Scorn and Ire
+
+; Boss: The Nine
+350542	Fragments of Destiny
+350555	Shard of Destiny
+350202	Unending Strike
+350342	Formless Mass
+350339	Siphon Vitality
+350365	Wings of Rage
+350286	Song of Dissolution
+350385	Reverberating Refrain
+350467	Call of the Val'kyr
+350031	Agatha's Eternal Blade
+350184y	Daschla's Mighty Impact on you
+350158	Annhylde's Bright Aegis
+350098	Aradne's Falling Strike
+350109y	Brynja's Mournful Dirge on you
+350039	Arthura's Crushing Gaze
+350475	Pierce Soul
+351399	Resentment
+350482	Link Essence
+350687	Word of Recall
+
+; Boss: Soulrender Dormazain
+350217	Torment
+349985	Tormented Eruptions
+350647y	Brand of Torment on you
+350422	Ruinblade
+350615	Call Mawsworn
+351779	Agonizing Nova
+350650	Defiance
+350411	Hellscream
+354231	Soul Manacles
+351229	Rendered Soul
+
+; Boss: Remnant of Ner'zhul
+350676	Orb of Torment
+350073	Torment
+350388	Sorrowful Procession
+350469y	Malevolence on you
+350489	Lingering Malevolence
+349890	Suffering
+355123	Grasp of Malice
+351066	Shatter
+
+; Boss: Painsmith Raznal
+348508	Reverberating Hammer
+355568	Cruciform Axe
+355778	Dualblade Scythe
+355786	Blackened Armor
+352052	Spiked Balls
+348456	Flameclasp Trap
+355505y	Shadowsteel Chains on you
+355534	Shadowsteel Embers
+
+; Boss: Guardian of the First Ones
+352385	Energizing Link
+350455	Unstable Energy
+352394	Radiant Energy
+352589	Meltdown
+352538	Purging Protocol
+350735	Elimination Pattern
+355352	Obliterate
+350732	Sunder
+352833	Disintegration
+352660	Form Sentry
+347359	Suppression Field
+350496y	Threat Neutralization on you
+
+; Boss: Fatescribe Roh-Kalo
+351680y	Invoke Destiny
+353432	Burden of Destiny
+353398	Anomalous Blast
+353603	Diviner's Probe
+353931	Twist Fate
+350421	Fated Conjunction
+350568y	Call of Eternity on you
+357739	Realign Fate
+357144	Despair
+353122	Darkest Destiny
+353195	Extemporaneous Fate
+354367	Grim Portent
+354964	Runic Affinity
+
+; Boss: Kel'Thuzad
+354198	Howling Blizzard
+352530	Dark Evocation
+355389	Relentless Haunt
+348071	Soul Fracture
+348978	Soul Exhaustion
+348428	Piercing Wail
+346459	Glacial Wrath
+346530y	Frozen Destruction on you
+347292y	Oblivion's Echo on you
+348760y	Frost Blast on you
+354289	Sinister Miasma
+352051	Necrotic Surge
+352293	Vengeful Destruction
+355137	Shadow Pool
+352379	Freezing Blast
+355055	Glacial Winds=wɪndz
+355127	Foul Winds=wɪndz
+352355	Undying Wrath
+352141	Banshee's Cry
+354639	Deep Freeze
+352348	Onslaught of the Damned
+
+; Boss: Sylvanas Windrunner
+347504	Windrunner
+347807	Barbed Arrow
+356377	Desecrating Shot
+347670	Shadow Dagger
+349458y	Domination Chains on you
+347704	Veil of Darkness
+347609y	Wailing Arrow on you
+352650	Ranger's Heartseeker
+347607	Banshee's Mark
+353417	Rive
+348109	Banshee Wail
+350857	Banshee Shroud
+355540	Ruin
+352271	Haunting Wave
+351180	Lashing Wound
+351117	Crushing Dread
+351353	Summon Decrepit Orbs
+351939	Curse of Lethargy
+351672	Fury
+353929	Banshee's Bane
+354011	Bane Arrows
+353965	Banshee's Heartseeker
+354068	Banshee's Fury
+353952	Banshee Scream
+354147	Raze
+358704y	Black Arrow on you
+358711	Rage
+356021	Dark Communion
+351591	Filth
+351562	Expulsion
+358185	Banshee's Weapons
+358181	Banshee's Blades
+358434	Death Knives
+358588	Merciless
