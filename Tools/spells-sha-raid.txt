@@ -221,7 +221,7 @@
 348074	Assailing Lance
 349028	Titanic Death Gaze
 350847y	Desolation Beam on you
-350022y	Fracture Soul on you
+350022	Fracture Soul
 351825	Shared Suffering
 350713	Slothful Corruption
 351827y	Spreading Misery on you
@@ -247,7 +247,7 @@
 350109y	Brynja's Mournful Dirge on you
 350039	Arthura's Crushing Gaze
 350475	Pierce Soul
-351399	Resentment
+355294	Resentment
 350482	Link Essence
 350687	Word of Recall
 
@@ -257,6 +257,7 @@
 350647y	Brand of Torment on you
 350422	Ruinblade
 350615	Call Mawsworn
+-23517	Mawsworn Overlord
 351779	Agonizing Nova
 350650	Defiance
 350411	Hellscream
