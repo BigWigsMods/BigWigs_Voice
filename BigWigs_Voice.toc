@@ -1,4 +1,4 @@
-## Interface: 90105
+## Interface: 90200
 
 ## Title: BigWigs |cffff0000+|r|cffffffffVoice|r
 ## Version: @project-version@
