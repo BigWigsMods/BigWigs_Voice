@@ -286,6 +286,7 @@
 
 ; Boss: Guardian of the First Ones
 352385	Energizing Link
+356093	Energy Absorption
 350455	Unstable Energy
 352394	Radiant Energy
 352589	Meltdown
@@ -293,6 +294,7 @@
 350735	Elimination Pattern
 355352	Obliterate
 350732	Sunder
+358301	Energy Depletion
 352833	Disintegration
 352660	Form Sentry
 347359	Suppression Field
@@ -371,3 +373,110 @@
 358181	Banshee's Blades
 358434	Death Knives
 358588	Merciless
+
+
+; -------------------------------------
+;    Zone: Sepulcher of the First Ones
+; -------------------------------------
+
+; Boss: Vigilant Guardian
+360403	Force Field
+360458	Unstable Core
+360658	Pre-Fabricated Sentry
+361001	Wave of Disintegration
+364447	Dissonance
+365315	Volatile Materium
+360906	Refracted Blast
+359610	Deresolution
+360412	Exposed Core
+364881	Matter Dissolution
+360162	Split Resolution
+360414	Pneumatic Impact
+364962	Core Overload
+
+; Boss: Skolex, the Insatiable Ravener
+359770	Ravening Burrow
+359829	Dust Flail
+360451	Retch
+359979	Rend
+359975	Riftmaw
+364778	Destroy
+
+; Boss: Artificer Xy'mox
+364465	Forerunner Rings
+364040	Hyperlight Ascension
+364030	Debilitating Ray
+362721	Dimensional Tear
+362803	Glyph of Relocation
+362849	Hyperlight Sparknova
+362885	Stasis Trap
+363485	The Cartel Elite
+365681	Massive Blast
+365701	Overseer's Orders
+
+; Boss: Dausegne, the Fallen Oracle
+361966	Infused Strikes
+361018	Staggering Barrage
+359483	Domination Core
+361225	Encroaching Dominion
+361513	Obliteration Arc
+363200	Disintegration Halo
+361630	Teleport
+361651	Siphoned Barrier
+365418	Total Dominion
+
+; Boss: Prototype Pantheon
+360295	Necrotic Ritual
+360687	Runecarver's Deathtouch
+360259	Gloom Bolt
+364941	Windswept Wings
+361067	Bastion's Ward
+365269	Humbling Strikes
+361304	Wild Stampede
+361568	Withering Seeds
+366234	Animastorm
+361789	Hand of Destruction
+364839	Sinful Projection
+361689	Wracking Pain
+361608	Burden of Sin
+361745	Night Hunter
+
+; Boss: Lihuvim, Principal Architech
+368027	Resonance
+364652	Protoform Cascade
+363088	Cosmic Shift
+362622	Unstable Mote
+363795	Deconstructing Energy
+363130	Synthesize
+360869	Requisitioned
+366012	Terminal Mote
+
+; Boss: Halondrus the Reclaimer
+360115	Reclaim
+367079	Seismic Tremors
+361676	Earthbreaker Missiles
+369207	Planetcracker Beam
+360977	Lightshatter Beam
+365297	Crushing Prism
+364979	Shatter
+368529	Eternity Overdrive
+
+; Boss: Anduin Wrynn
+362405	Kingsmourne Hungers
+361989	Blasphemy
+365295	Befouled Barrier
+365021	Wicked Star
+361815	Hopebreaker
+366849	Domination Word: Pain
+364248	Dark Zeal
+362771	Soul Reaper
+362862	Army of the Dead
+363024	Necrotic Detonation
+365120	Grim Reflections
+363233	March of the Damned
+365872	Beacon of Hope
+365958	Hopelessness
+
+; Boss: Lords of Dread
+; Boss: Rygelon
+; Boss: The Jailer
