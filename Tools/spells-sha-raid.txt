@@ -20,6 +20,11 @@
 339557	Bottled Anima
 339528	Warped Desires
 339525	Concentrate Anima
+342770	Eradication Seeds
+339975	Grievous Strike
+342752	Weeping Burden
+341146	Sin Bolt Volley
+343271	Ravenous Feast
 
 ; Boss: Shriekwing
 330711	Earsplitting Shriek
@@ -37,7 +42,7 @@
 341489	Bloodlight
 
 ; Boss: Huntsman Altimor
-335114	Sinseeker on you
+335114y	Sinseeker on you
 334404	Spreadshot
 334971	Jagged Claws
 334945	Vicious Lunge
@@ -45,7 +50,7 @@
 334884	Devour Soul
 334757	Shades of Bargast
 334860	Crushing Stone
-334852y	Petrifying Howl on you
+334852	Petrifying Howl
 334893	Stone Shards
 
 ; Boss: Sun King's Salvation
@@ -60,7 +65,7 @@
 325442	Vanquished
 325506	Concussive Smash
 -21993	Bleakwing Assassin
-326583	Crimson Flurry
+341473	Crimson Flurry
 333145	Return to Stone
 -21952	Vile Occultist
 333002	Vulgar Brand
@@ -104,7 +109,7 @@
 325769	Bottled Anima
 325713	Lingering Anima
 324983y	Shared Suffering on you
-332664y	Concentrated Anima on you
+332664	Concentrated Anima
 331573y	Unconscionable Guilt on you
 331550	Condemn
 
@@ -126,7 +131,7 @@
 330959	Danse Macabre
 330848y	Wrong Moves on you
 -22433	Afterimage of Baroness Frieda
-347350y	Dancing Fever
+347350	Dancing Fever
 
 ; Boss: Sludgefist
 331209y	Hateful Gaze on you
@@ -151,7 +156,7 @@
 342544	Pulverizing Meteor
 343063	Stone Spike
 342733	Ravenous Feast
-342985	Stonegale Effigy
+343898	Soultaint Effigy
 332406	Anima Infusion
 339885	Anima Infection
 342722	Stonewrath Exhaust
@@ -221,7 +226,7 @@
 348074	Assailing Lance
 349028	Titanic Death Gaze
 350847y	Desolation Beam on you
-350022	Fracture Soul
+350022y	Fracture Soul on you
 351825	Shared Suffering
 350713	Slothful Corruption
 351827y	Spreading Misery on you
@@ -283,6 +288,8 @@
 348456	Flameclasp Trap
 355505y	Shadowsteel Chains on you
 355534	Shadowsteel Embers
+355536	Summon Shadowsteel Horror
+357735	Final Scream
 
 ; Boss: Guardian of the First Ones
 352385	Energizing Link
@@ -301,7 +308,7 @@
 350496y	Threat Neutralization on you
 
 ; Boss: Fatescribe Roh-Kalo
-351680y	Invoke Destiny
+351680y	Invoke Destiny on you
 353432	Burden of Destiny
 353398	Anomalous Blast
 353603	Diviner's Probe
@@ -323,7 +330,7 @@
 348978	Soul Exhaustion
 348428	Piercing Wail
 346459	Glacial Wrath
-346530y	Frozen Destruction on you
+346530	Frozen Destruction on you
 347292y	Oblivion's Echo on you
 348760y	Frost Blast on you
 354289	Sinister Miasma
@@ -400,19 +407,21 @@
 360451	Retch
 359979	Rend
 359975	Riftmaw
+364522	Devouring Blood
 364778	Destroy
+359778	Ephemera Dust
+366070	Volatile Residue
 
 ; Boss: Artificer Xy'mox
 364465	Forerunner Rings
-364040	Hyperlight Ascension
-364030	Debilitating Ray
 362721	Dimensional Tear
 362803	Glyph of Relocation
-362849	Hyperlight Sparknova
 362885	Stasis Trap
-363485	The Cartel Elite
+362849	Hyperlight Sparknova
 365681	Massive Blast
-365701	Overseer's Orders
+364040	Hyperlight Ascension
+364030	Debilitating Ray
+363485	The Cartel Elite
 
 ; Boss: Dausegne, the Fallen Oracle
 361966	Infused Strikes
@@ -446,23 +455,29 @@
 364652	Protoform Cascade
 363088	Cosmic Shift
 362622	Unstable Mote
+360159	Unstable Mote
 363795	Deconstructing Energy
 363130	Synthesize
 360869	Requisitioned
 366012	Terminal Mote
+362659	Alignment Shift
 
 ; Boss: Halondrus the Reclaimer
+368969	Volatile Charge
 360115	Reclaim
 367079	Seismic Tremors
+360114	Ephemeral Fissure
 361676	Earthbreaker Missiles
 369207	Planetcracker Beam
 360977	Lightshatter Beam
 365297	Crushing Prism
+368363	Shattered Prism
 364979	Shatter
 368529	Eternity Overdrive
 
 ; Boss: Anduin Wrynn
 362405	Kingsmourne Hungers
+362055	Lost Soul
 361989	Blasphemy
 365295	Befouled Barrier
 365021	Wicked Star
@@ -478,5 +493,55 @@
 365958	Hopelessness
 
 ; Boss: Lords of Dread
+360374	Rampaging Swarm
+360319	Unto Darkness
+360012	Cloud of Carrion
+361913	Manifest Shadows
+361934	Incomplete Form
+359960	Leeching Claws
+359963	Opened Veins
+360717	Infiltration of Dread
+360146	Fearful Trepidation
+360229	Slumber Cloud
+360284	Anguishing Strike
+
 ; Boss: Rygelon
+362806	Dark Eclipse
+362275	Celestial Collapse
+362206	Event Horizon
+362390	Manifest Cosmos
+362184	Corrupted Strikes
+362172	Corrupted Wound
+363533	Massive Bang
+364386	Gravitational Collapse
+366606	Radiant Plasma
+362207	The Singularity
+364114	Shatter Sphere
+362088	Cosmic Irregularity
+366379	Stellar Shroud
+362798	Cosmic Radiation
+368080	Dark Quasar
+
 ; Boss: The Jailer
+362028	Relentless Domination
+362075	Domination
+366132	Tyranny
+359809	Chains of Oppression
+363893	Martyrdom
+366545	Persecution
+365436	Torment
+360281	Rune of Damnation
+360373	Unholy Attunement
+363332	Unbreaking Grasp
+359856	Shattering Blast
+366285	Rune of Compulsion
+360562	Decimator
+365033	Desolation
+365150	Rune of Domination
+365212	Chains of Anguish
+365169	Defile
+362012	Eternity's End
+366377	World Crusher
+366776	World Cracker
+367053	World Shatterer
+365810	Falling Debris

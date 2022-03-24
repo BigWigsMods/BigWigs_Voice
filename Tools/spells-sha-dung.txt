@@ -399,6 +399,34 @@ summon_stealthlings	Stealthlings
 ;	Zone: Tazavesh the Veiled Market
 ; -------------------------------------
 
+; Boss: Trash
+356031	Stasis Beam
+356001	Beam Splicer
+356929	Chain of Custody
+356942	Lockdown
+356404	Lava Breath
+356407	Ancient Dread
+357512	Frenzied Charge
+356967	Hyperlight Backhand
+357029	Hyperlight Bomb
+355980	Refraction Shield
+355934	Hard Light Barrier
+347721	Open Cage
+355637	Quelling Strike
+355782	Force Multiplier
+355477	Power Kick
+355480	Lethal Force
+355132	Invigorating Fish Stick
+355057	Cry of Mrrggllrrgg
+355429	Tidal Stomp
+355584	Charged Pulse
+355577	Crackle
+356133	Super Saison
+357226	Drifting Star
+357238	Wandering Pulsar
+357260	Unstable Rift
+357284	Reinvigorate
+
 ; Boss: Zo'phex the Sentinel
 347949	Interrogation
 345990	Containment Cell
