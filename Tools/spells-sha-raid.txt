@@ -523,6 +523,7 @@
 368080	Dark Quasar
 
 ; Boss: The Jailer
+362012	Eternity's End
 362028	Relentless Domination
 362075	Domination
 366132	Tyranny
@@ -530,7 +531,7 @@
 363893	Martyrdom
 366545	Persecution
 365436	Torment
-360281	Rune of Damnation
+360281y	Rune of Damnation on you
 360373	Unholy Attunement
 363332	Unbreaking Grasp
 359856	Shattering Blast
@@ -540,8 +541,9 @@
 365150	Rune of Domination
 365212	Chains of Anguish
 365169	Defile
-362012	Eternity's End
-366377	World Crusher
-366776	World Cracker
-367053	World Shatterer
-365810	Falling Debris
+366374	World Crusher
+366678	World Cracker
+367051	World Shatterer
+368383	Diverted Life Shield
+360378	Meteor Cleave
+368591	Death Sentence
