@@ -547,3 +547,11 @@
 368383	Diverted Life Shield
 360378	Meteor Cleave
 368591	Death Sentence
+
+
+; Zone: Season 4
+; Boss: Affixes
+372634	Chaotic Essence
+369505	Creation Spark
+371447	Protoform Barrier
+371254	Reconfiguration Emitter

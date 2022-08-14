@@ -1,0 +1,79 @@
+; Type: Warlords of Draenor Dungeon
+
+; -------------------------------------
+;    Zone: Grimrail Depot
+; -------------------------------------
+
+; Boss: Trash
+163966	Activating
+164192	50,000 Volts
+164168	Dash
+166675	Shrapnel Blast
+176032	Flametongue
+156301	Blackrock Mortar
+176127	Cannon Barrage
+166335	Storm Shield
+166341	Thunder Zone
+166380	Reckless Slash
+166397	Arcane Blitz
+
+; Boss: Railmaster Rocketspark
+162407	X21-01A Missile Barrage
+163947	Recovering
+162171	Better Position
+162500	VX18-B Target Eliminator
+161091	New Plan!
+161090	Mad Dash
+162617	Slam
+161092	Unmanaged Aggression
+
+; Boss: Nitrogg Thundertower
+161073	Blackrock Grenade
+160965	Blackrock Mortar Shells
+160681	Suppressive Fire
+166570	Slag Blast
+
+; Boss: Skylord Tovra
+161801	Thunderous Breath
+162058	Spinning Spear
+161588	Diffused Energy
+162066	Freezing Snare
+163447	Hunter's Mark
+
+
+; -------------------------------------
+;    Zone: Iron Docks
+; -------------------------------------
+
+; Boss: Trash
+167233	Bladestorm
+173148	Flaming Arrows
+172636	Slippery Grease
+172982	Shattering Strike
+172952	Throw Gatecrasher
+172963	Gatecrasher
+172943	Brutal Inspiration
+173135	Thundering Stomp
+173105	Whirling Chains
+167815	Rending Cleave
+173324	Jagged Caltrops
+173384	Trampling Stampede
+158337	Frenzy
+173514	Lava Blast
+173480	Lava Barrage
+
+; Boss: Fleshrender Nok'gar
+164426	Reckless Provocation
+164632	Burning Arrows
+164837	Savage Mauling
+164835	Bloodletting Howl
+
+; Boss: Ahri'ok Dugru
+sphere	Sanguine Sphere
+
+; Boss: Oshir
+162415	Time to Feed
+
+; Boss: Skulloc
+168227	Gronn Smash
+168929	Cannon Barrage

@@ -312,6 +312,8 @@ summon_stealthlings	Stealthlings
 327130	Repair Flesh
 323496	Throw Cleaver
 338606	Morbid Fixation
+333477	Gut Slice
+333479	Spew Disease
 
 ; Boss: Blightbone
 320596	Heaving Retch
@@ -401,6 +403,7 @@ summon_stealthlings	Stealthlings
 
 ; Boss: Trash
 356031	Stasis Beam
+356324	Empowered Glyph of Restraint
 356001	Beam Splicer
 356929	Chain of Custody
 356942	Lockdown
@@ -413,6 +416,7 @@ summon_stealthlings	Stealthlings
 355934	Hard Light Barrier
 347721	Open Cage
 355637	Quelling Strike
+355642	Hyperlight Salvo
 355782	Force Multiplier
 355477	Power Kick
 355480	Lethal Force
@@ -434,11 +438,15 @@ summon_stealthlings	Stealthlings
 346204	Armed Security
 
 ; Boss: Myza's Oasis
+356482	Rotten Food
+353783	Teleport
+353835	Suppression
+350916	Security Slam
+353706	Rowdy
 350922	Menacing Shout
 350919	Crowd Control
 355438	Suppression Spark
-350916	Security Slam
-356482	Rotten Food
+359028	Security Slam
 
 ; Boss: Mailroom Mayhem
 346286	Hazardous Liquids
@@ -465,6 +473,7 @@ summon_stealthlings	Stealthlings
 
 ; Boss: Hylbrande
 346971	Summon Vault Defender
+353312	Purifying Burst
 346116	Shearing Swings
 347094	Titanic Crash
 346957	Purged by Fire
@@ -485,3 +494,4 @@ summon_stealthlings	Stealthlings
 350796	Hyperlight Spark
 351086	Power Overwhelming
 351096	Energy Fragmentation
+351119	Shuriken Blitz
