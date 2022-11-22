@@ -1,0 +1,343 @@
+; Type: Dragonflight Dungeon
+
+; -------------------------------------
+; Zone: Algeth'ar Academy
+; -------------------------------------
+
+; Boss: Trash
+389516	Black Dragonflight Pledge Pin
+389512	Bronze Dragonflight Pledge Pin
+389521	Blue Dragonflight Pledge Pin
+389536	Green Dragonflight Pledge Pin
+389501	Red Dragonflight Pledge Pin
+388863	Mana Void
+396812	Mystic Blast
+388886	Arcane Rain
+388976	Riftbreath
+388984	Vicious Ambush
+388392	Monotonous Lecture
+377912	Expel Intruders
+377389	Call of the Flock
+390912	Detonation Seeds
+387862	Disrupting Pulse
+387910	Astral Whirlwind
+387843	Astral Bomb
+387955	Celestial Shield
+
+; Boss: Vexamus
+386544	Arcane Orbs
+391977	Oversurge
+388537	Arcane Fissure
+386173	Mana Bombs
+385958	Arcane Expulsion
+
+; Boss: Overgrown Ancient
+388796	Germinate
+388923	Burst Forth
+388623	Branch Out
+388544	Barkbreaker
+389033	Lasher Toxin
+396640	Healing Touch
+396721	Abundance
+
+; Boss: Crawth
+377182	Play Ball
+389481	Goal of the Searing Blaze
+376448	Firestorm
+389483	Goal of the Rushing Winds=wɪndz
+376467	Gale Force
+377034	Overpowering Gust
+377004	Deafening Screech
+376997	Savage Peck
+
+; Boss: Echo of Dorogosa
+389011	Overwhelming Power
+388901	Arcane Rift
+374361	Astral Breath
+388822	Power Vacuum
+374352	Energy Bomb
+
+
+; -------------------------------------
+;	Zone: Brackenhide Hollow
+; -------------------------------------
+
+; Boss: Trash
+367500	Hideous Cackle
+388060	Stink Breath
+
+; Boss: Hackclaw's War-Band
+381444	Savage Charge
+377827	Bladestorm
+381694	Decayed Senses
+378029	Gash Frenzy
+381470	Hextrick Totem
+377950	Greater Healing Rapids
+377965	Bloodlust
+
+; Boss: Treemouth
+376934	Grasping Vines
+378022	Consuming
+376811	Decay Spray
+377859	Infectious Spit
+377559	Vine Whip
+
+; Boss: Gutshot
+384827	Call Hyenas
+385359	Ensnaring Trap
+384416	Meat Toss
+384633	Master's Call
+384353	Gut Shot
+
+; Boss: Decatriarch Wratheye
+373960	Decaying Strength
+373944	Rotburst Totem
+376170	Choking Rotcloud
+373917	Decaystrike
+
+
+; -------------------------------------
+;	Zone: Halls of Infusion
+; -------------------------------------
+; Boss: Trash
+374080	Interrupting Gust
+374045	Expulse
+374339	Demoralizing Shout
+374563	Dazzle
+374724	Molten Subduction
+375384	Rumbling Earth
+375348	Gusting Breath
+375351	Oceanic Breath
+375327	Tectonic Breath
+377402	Aqueous Barrier
+390290	Flash Flood
+
+; Boss: Watcher Irideus
+389179	Power Overload
+384351	Spark Volley
+384014	Static Surge
+384524	Titanic Fist
+389446	Nullifying Pulse
+383840	Ablative Barrier
+
+; Boss: Gulping Goliath
+385551	Gulp
+385187	Overpowering Croak
+385531	Belly Slam
+385442	Toxic Effluvia
+374389	Gulp Swog Toxin
+
+; Boss: Khajin the Unyielding
+386757	Hailstorm
+386559	Glacial Surge
+385963	Frost Shock
+
+; Boss: Primal Tsunami
+387559	Infused Globules
+388424	Tempest's Fury
+387504	Squall Buffet=bʌf.ɪt
+388882	Inundate
+
+
+; -------------------------------------
+;	Zone: Neltharus
+; -------------------------------------
+
+; Boss: Trash
+; TODO
+
+; Boss: Chargath, Bane of Scales
+373424	Grounding Spear
+388523	Fetter
+375056	Blade Lock
+373733	Dragon Strike
+373742	Magma Wave
+
+; Boss: Forgemaster Gorek
+374635	Might of the Forge
+374839	Blazing Aegis
+374969	Forgestorm
+374533	Heated Swings
+
+; Boss: Magmatusk
+374365	Volatile Mutation
+375890	Magma Eruption
+375068	Magma Lob
+375251	Lava Spray
+375439	Blazing Charge
+
+; Boss: Warlord Sargha
+376780	Magma Shield
+377014	Backdraft
+377477	Burning Ember
+377204	Berserk Barrage
+377018	Molten Gold
+377522	Burning Pursuit
+
+
+; -------------------------------------
+;	Zone: Ruby Life Pools
+; -------------------------------------
+
+; Boss: Trash
+372696	Excavating Blast
+372743	Ice Shield
+372087	Blazing Rush
+372047	Steel Barrage
+373693	Living Bomb
+373692	Inferno
+373614	Burnout
+385313	Unlucky Strike
+392640	Rolling Thunder
+391726	Storm Breath
+392395	Thunder Jaw
+391723	Flame Breath
+
+; Boss: Melidrussa Chillworn
+373046	Awaken Whelps
+372682	Primal Chill
+373680	Frost Overload
+372851	Chillstorm
+396044	Hailbombs
+
+; Boss: Kokia Blazehoof
+372863	Ritual of Blazebinding
+372107	Molten Boulder
+372858	Searing Blows
+373017	Roaring Blaze
+373087	Burnout
+
+; Boss: Kyrakka and Erkhart Stormvein
+381862	Infernocore
+381525	Roaring Firebreath
+381517	Winds=wɪndz of Change
+381516	Interrupting Cloudburst
+381512	Stormslam
+
+
+; -------------------------------------
+;	Zone: The Azure Vault
+; -------------------------------------
+
+; Boss: Trash
+; TODO
+
+; Boss: Leymor
+374364	Ley-Line Sprouts
+374567	Explosive Brand
+374720	Consuming Stomp
+386660	Erupting Fissure
+374789	Infused Strike
+
+; Boss: Azureblade
+384132	Overwhelming Energy
+384223	Summon Draconic Image
+385578	Ancient Orb
+372222	Arcane Cleave
+
+; Boss: Telash Greywing
+388008	Below Zero
+386781	Frost Bomb
+387151	Icy Devastator
+
+; Boss: Umbrelskul
+386746	Brittle
+385331	Fracture
+385399	Unleashed Destruction
+385075	Arcane Eruption
+384699	Crystalline Roar
+384978	Dragon Strike
+
+
+; -------------------------------------
+;	Zone: The Nokhud Offensive
+; -------------------------------------
+
+; Boss: Trash
+; TODO
+
+; Boss: Granyth
+388283	Eruption
+388817	Shards of Stone
+385916	Tectonic Stomp
+386320	Summon Saboteur
+386530	Dragonkiller Lance
+386490	Dismantle
+
+; Boss: The Raging Tempest
+382628	Surge of Power
+394875	Surge of Power
+384620	Electrical Storm
+384316	Lightning Strike
+384686	Energy Surge
+
+; Boss: Teera and Maruuk
+382670	Gale Arrow
+386547	Repel
+384808	Guardian Wind
+385434	Spirit Leap
+385339	Earthsplitter
+386063	Frightful Roar
+382836	Brutalize
+392198	Ancestral Bond
+
+; Boss: Balakar Khan
+376660	Iron Spear
+376683	Iron Stampede
+375943	Upheaval
+375937	Rending Strike
+376727	Siphon Power
+376864	Static Spear
+376892	Crackling Upheaval
+376827	Conductive Strike
+
+
+; -------------------------------------
+;	Zone: Uldaman: Legacy of Tyr
+; -------------------------------------
+
+; Boss: Trash
+369811	Brutal Slam
+369823	Spiked Carapace
+369400	Earthen Ward
+369365	Curse of Stone
+369366	Trapped in Stone
+369411	Sonic Burst
+369337	Difficult Terrain
+
+; Boss: The Lost Dwarves
+369573	Heavy Arrow
+369563	Wild Cleave
+369791	Skullcracker
+369677	Ricocheting Shield
+369602	Defensive Bulwark
+375924	Longboat Raid!
+375286	Searing Cannonfire
+
+; Boss: Bromach
+369605	Call of the Deep
+369700	Quaking Totem
+369754	Bloodlust
+369703	Thundering Slam
+369675	Chain Lightning
+369660	Tremor
+
+; Boss: Sentinel Talondras
+372600	Inexorable
+372719	Titanic Empowerment
+372623	Resonating Orb
+372701	Crushing Stomp
+372718	Earthen Shards
+
+; Boss: Emberon
+368990	Purging Flames
+369043	Infusion
+369110	Unstable Embers
+369061	Searing Clap
+
+; Boss: Chrono-Lord Deios
+376325	Eternity Zone
+376208	Rewind Timeflow
+376049	Wing Buffet=bʌf.ɪt
+377405	Time Sink
+375727	Sand Breath

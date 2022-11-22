@@ -611,7 +611,7 @@ dread_felbat	Dread Felbat
 201379	Frost Breath
 201672	Relentless Storm
 201354	Tail Sweep
-201355	Wing Buffet
+201355	Wing Buffet=bʌf.ɪt
 202062	Frigid Winds=wɪndz
 201960	Ice Bomb
 

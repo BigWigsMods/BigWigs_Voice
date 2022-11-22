@@ -393,7 +393,7 @@ crawg	Crawg spawning soon
 296737y	Arcane Bomb on you
 296894	Unshackled Power
 295916	Ancient Tempest
-296701	Gale Buffet
+296701	Gale Buffet=bʌf.ɪt
 
 ; Boss: Lady Ashvane
 296569	Coral Growth

@@ -157,7 +157,7 @@
 323572	Rolling Plague
 327515	Fen Stinger
 329239	Creepy Crawlers
-330403	Wing Buffet
+330403	Wing Buffet=bʌf.ɪt
 327882	Blightbeak
 327233	Belch Plague
 327584	Beckon Slime
