@@ -9,13 +9,13 @@
 
 ; Boss: Eranog
 390715	Flamerift
-370649	Primal Flow
+370649	Lava Flow
 370615	Molten Cleave
 396023	Incinerating Roar
 396022	Molten Spikes
 394906	Burning Wound
 370597	Kill Order
-370307	Collapsing Army
+370307	Army of Flame
 396094	Greater Flamerift
 394917	Leaping Flames
 393780	Pyroblast
@@ -40,7 +40,7 @@
 370991	Earthen Pillar
 372056	Crush
 386370	Quaking Convocation
-374043	Meteor Axes
+374043	Meteor Axe
 372027	Slashing Blaze
 386289	Burning Convocation
 
@@ -75,7 +75,7 @@
 
 ; Boss: Kurog Grimtotem
 371981	Elemental Surge
-374861	Elemental Shift
+374861	Primal Shift
 372158	Sundering Strike
 382563	Magma Burst
 373329	Molten Rupture
@@ -118,7 +118,7 @@
 375653	Static Jolt
 375630	Ionizing Charge
 375879	Broodkeeper's Fury
-392194	Empowered Greatstaff of the Broodkeeper
+392194	Empower Greatstaff
 380483	Empowered Greatstaff's Wrath
 388918	Frozen Shroud
 
