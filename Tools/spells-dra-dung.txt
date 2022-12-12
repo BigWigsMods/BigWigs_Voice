@@ -220,13 +220,18 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+375596	Erratic Growth
+386546	Waking Bane
+371358	Forbidden Knowledge
+377488	Icy Bindings
+370766	Crystalline Rupture
+387067	Arcane Bash
 
 ; Boss: Leymor
 374364	Ley-Line Sprouts
 374567	Explosive Brand
-374720	Consuming Stomp
 386660	Erupting Fissure
+374720	Consuming Stomp
 374789	Infused Strike
 
 ; Boss: Azureblade
@@ -254,7 +259,13 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+384365	Disruptive Shout
+384336	War Stomp
+383823	Rally the Clan
+395035	Shatter Soul
+387411	Death Bolt Volley
+373395	Bloodcurdling Shout
+397394	Deadly Thunder
 
 ; Boss: Granyth
 388283	Eruption

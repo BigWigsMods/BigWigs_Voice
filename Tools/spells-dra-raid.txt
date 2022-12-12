@@ -32,15 +32,15 @@
 391592	Infused Fallout
 
 ; Boss: The Primal Council
-391599	Primal Blizzard
+373059	Primal Blizzard
 386661	Glacial Convocation
 371624	Conductive Mark
-372275	Chain Lightning
+372279	Chain Lightning
 386375	Storming Convocation
-370991	Earthen Pillar
+397134	Earthen Pillar
 372056	Crush
 386370	Quaking Convocation
-374043	Meteor Axe
+374038	Meteor Axes
 372027	Slashing Blaze
 386289	Burning Convocation
 
@@ -103,11 +103,11 @@
 375889	Greatstaff's Wrath
 375829	Clutchwatcher's Rage
 376073	Rapid Incubation
-389049	Incubating Seed
 375871	Wildfire
 388716	Icy Shroud
 375870	Mortal Stoneclaws
 378782	Mortal Wounds
+-25129	Primalist Reinforcements
 375716	Ice Barrage
 376266	Burrowing Strike
 376257	Tremors
@@ -116,7 +116,7 @@
 375475	Rending Bite
 375457	Chilling Tantrum
 375653	Static Jolt
-375630	Ionizing Charge
+375620	Ionizing Charge
 375879	Broodkeeper's Fury
 392194	Empower Greatstaff
 380483	Empowered Greatstaff's Wrath
