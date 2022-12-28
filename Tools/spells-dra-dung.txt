@@ -144,7 +144,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+382708	Volcanic Guard
+395427	Burning Roar
+376186	Eruptive Crush
+372223	Mending Clay
+372201	Scorching Breath
+372296	Conflagrant Battery
+373084	Scorching Fusillade
+376200	Blazing Detonation
+378282	Molten Core
+381663	Candescent Tempest
+383651	Molten Army
 
 ; Boss: Chargath, Bane of Scales
 373424	Grounding Spear
@@ -184,6 +194,7 @@
 372743	Ice Shield
 372087	Blazing Rush
 372047	Steel Barrage
+385536	Flame Dance
 373693	Living Bomb
 373692	Inferno
 373614	Burnout
@@ -192,7 +203,10 @@
 391726	Storm Breath
 392395	Thunder Jaw
 391723	Flame Breath
-
+392569	Molten Blood
+392486	Lightning Storm
+392451	Flashfire
+		
 ; Boss: Melidrussa Chillworn
 373046	Awaken Whelps
 372682	Primal Chill
@@ -220,10 +234,14 @@
 ; -------------------------------------
 
 ; Boss: Trash
+397726	Shriek
+387564	Mystic Vapors
 375596	Erratic Growth
+375649	Infused Ground
 386546	Waking Bane
 371358	Forbidden Knowledge
 377488	Icy Bindings
+370764	Piercing Shards
 370766	Crystalline Rupture
 387067	Arcane Bash
 
@@ -262,6 +280,18 @@
 384365	Disruptive Shout
 384336	War Stomp
 383823	Rally the Clan
+334610	Hunt Prey
+386223	Stormshield
+386024	Tempest
+386015	Summon Squall
+386694	Stormsurge
+387127	Chain Lightning
+387125	Thunderstrike
+386028	Thunder Clap
+387629	Rotting Wind
+387614	Chant of the Dead
+387596	Swift Wind
+387440	Desecrating Roar
 395035	Shatter Soul
 387411	Death Bolt Volley
 373395	Bloodcurdling Shout
@@ -313,8 +343,10 @@
 369400	Earthen Ward
 369365	Curse of Stone
 369366	Trapped in Stone
+369465	Hail of Stone
 369411	Sonic Burst
 369337	Difficult Terrain
+381593	Thunderous Clap
 
 ; Boss: The Lost Dwarves
 369573	Heavy Arrow

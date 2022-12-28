@@ -77,3 +77,38 @@ sphere	Sanguine Sphere
 ; Boss: Skulloc
 168227	Gronn Smash
 168929	Cannon Barrage
+
+
+; -------------------------------------
+;    Zone: Shadowmoon Burial Grounds
+; -------------------------------------
+
+; Boss: Trash
+152818	Shadow Mend
+152964	Void Pulse
+394512	Void Eruptions
+398151	Sinister Focus
+153268	Exhume the Crypts
+398206	Death Blast
+156718	Necrotic Burst
+153395	Body Slam
+
+; Boss: Sadana Bloodfury
+164974	Dark Eclipse
+153240	Daggerfall
+153153	Dark Communion
+
+; Boss: Nhallish
+153623	Planar Shift
+152801	Void Vortex
+152979	Soul Shred
+153067	Void Devastation
+
+; Boss: Bonemaw
+153804	Inhale
+154175	Body Slam
+
+; Boss: Ner'zhul
+154442	Malevolence
+154350	Omen of Death
+-9680	Ritual of Bones

@@ -1,0 +1,38 @@
+; Type: Mists of Pandaria Dungeon
+
+; -------------------------------------
+;    Zone: Temple of the Jade Serpent
+; -------------------------------------
+
+; Boss: Trash
+397881	Surging Deluge
+397889	Tidal Burst
+395859	Haunting Scream
+395872	Sleepy Soliloquy
+396001	Territorial Display
+396018	Fit of Rage
+396073	Cat Nap
+396020	Golden Barrier
+397899	Leg Sweep
+397914	Defiling Mist
+398300	Flames of Doubt
+
+; Boss: Wise Mari
+397785	Wash Away
+397797	Corrupted Vortex
+-6327	Call Water
+106653	Sha Residue
+115167	Corrupted Waters
+
+; Boss: Lorewalker Stonestep
+-5549	Intensity
+
+; Boss: Liu Flameheart
+106823	Serpent Strike
+106841	Jade Serpent Strike
+118540	Jade Serpent Wave
+107110	Jade Fire
+
+; Boss: Sha of Doubt
+106113	Touch of Nothingness
+117665	Bounds of Reality
