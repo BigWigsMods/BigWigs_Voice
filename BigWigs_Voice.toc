@@ -18,6 +18,7 @@
 ## X-BigWigs-LoadOn-CoreEnabled: 1
 ## Dependencies: BigWigs
 ## LoadOnDemand: 1
+## IconTexture: Interface\AddOns\BigWigs\Media\Icons\core-enabled
 
 ## X-Category: Raid
 ## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
