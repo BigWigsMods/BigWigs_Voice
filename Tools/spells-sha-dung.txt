@@ -1,12 +1,13 @@
 ; Type: Shadowlands Dungeon
 
 ; -------------------------------------
-;    Zone: De Other Side
+; Zone: De Other Side
 ; -------------------------------------
 
 ; Boss: Trash
 328740	Dark Lotus
 333227	Undying Rage
+333250	Reaver
 333787	Rage
 334051	Erupting Darkness
 332678	Gushing Wound
@@ -31,7 +32,9 @@
 ; Boss: The Manastorms
 320787	Summon Power Crystal
 323877	Echo Finger Laser X-treme
+320141	Diabolical Dooooooom!
 320823	Experimental Squirrel Bomb
+320132	Shadowfury
 321061	Aerial Rocket Chicken Barrage
 
 ; Boss: Dealer Xy'exa
@@ -48,7 +51,7 @@
 
 
 ; -------------------------------------
-;    Zone: Halls of Atonement
+; Zone: Halls of Atonement
 ; -------------------------------------
 
 ; Boss: Trash
@@ -56,11 +59,13 @@
 325799	Rapid Fire
 344993	Jagged Swipe
 346866	Stone Breath
+342171	Loyal Stoneborn
 325523	Deadly Thrust
 325876	Curse of Obliteration
 325700	Collect Sins
 325701	Siphon Life
 326409	Thrash
+326441	Sin Quake
 326607	Turn to Stone
 326997	Powerful Swipe
 326891	Anguish
@@ -70,7 +75,7 @@
 322936	Crumbling Slam
 322943	Heave Debris
 322711	Refracted Sinlight
-322977	Sinlight Visions
+339237	Sinlight Visions
 
 ; Boss: Echelon
 319733	Stone Call
@@ -87,13 +92,14 @@
 ; Boss: Lord Chamberlain
 329104	Door of Shadows
 328791	Ritual of Woe
-323150	Telekinetic Toss
+323143	Telekinetic Toss
 323236	Unleashed Suffering
 323437	Stigma of Pride
+327885	Erupting Torment
 
 
 ; -------------------------------------
-;    Zone: Mists of Tirna Scithe
+; Zone: Mists of Tirna Scithe
 ; -------------------------------------
 
 ; Boss: Trash
@@ -116,7 +122,7 @@
 324987	Mistveil Bite
 325224	Anima Injection
 324914	Nourish the Forest
-325418y	Volatile Acid on you
+325418	Volatile Acid
 340544	Stimulate Regeneration
 326046	Stimulate Resistance
 321968	Bewildering Pollen
@@ -125,6 +131,7 @@
 ; Boss: Ingra Maloch
 323137	Bewildering Pollen
 323177	Tears of the Forest
+323250	Anima Puddle
 323059	Droman's Wrath
 323057	Spirit Bolt
 328756	Repulsive Visage
@@ -134,14 +141,14 @@
 336499	Guessing Game
 321834	Dodge Ball
 321828	Patty Cake
-326180	Freeze Tag
-321891y	Freeze Tag Fixation on you
+341709	Freeze Tag
+321891	Freeze Tag Fixation
 
 ; Boss: Tred'ova
 322651	Acid Expulsion
 322450	Consumption
 322550	Accelerated Incubation
-322563y	Marked Prey on you
+322563	Marked Prey
 326309	Decomposing Acid
 322614	Mind Link
 337235	Parasitic Pacification
@@ -150,14 +157,17 @@
 
 
 ; -------------------------------------
-;    Zone: Plaguefall
+; Zone: Plaguefall
 ; -------------------------------------
 
 ; Boss: Trash
+330069	Concentrated Plague
+330092	Plaguefallen
 323572	Rolling Plague
+335882	Clinging Infestation
 327515	Fen Stinger
 329239	Creepy Crawlers
-330403	Wing Buffet=bʌf.ɪt
+330403	Wing Buffet
 327882	Blightbeak
 327233	Belch Plague
 327584	Beckon Slime
@@ -166,9 +176,11 @@
 320517	Jagged Spines
 328180	Gripping Infection
 321935	Withering Filth
+328429	Crushing Embrace
+319898	Vile Spit
 336451	Bulwark of Maldraxxus
+328338	Call Venomfang
 328475	Enveloping Webbing
-summon_stealthlings	Stealthlings
 330786	Oozing Carcass
 330816	Ghost Step
 328016	Wonder Grow
@@ -188,11 +200,12 @@ summon_stealthlings	Stealthlings
 332617	Pestilence Surge
 321406	Virulent Explosion
 
-; Boss: Domina Vendomblade
+; Boss: Domina Venomblade
 332313	Brood Assassins
 325552	Cytotoxic Slash
 325245	Shadow Ambush
 336258	Solitary Prey
+336301	Web Wrap
 
 ; Boss: Margrave Stradama
 322232	Infectious Rain
@@ -201,18 +214,17 @@ summon_stealthlings	Stealthlings
 
 
 ; -------------------------------------
-;    Zone: Sanguine Depths
+; Zone: Sanguine Depths
 ; -------------------------------------
 
 ; Boss: Trash
-341321	Summon Anima Collector Stalker
+341331	Anima Drain
 328170	Craggy Fracture
 322429	Severing Slice
 322433	Stoneskin
 335305	Barbed Shackles
 335308	Crushing Strike
 334558	Volatile Trap
-324103	Gloom Squall
 326827	Dread Bindings
 334329	Sweeping Slash
 334326	Bludgeoning Bash
@@ -221,6 +233,9 @@ summon_stealthlings	Stealthlings
 320991	Echoing Thrust
 334377	Explosive Vellum
 326836	Curse of Suppression
+321105	Sap Lifeblood
+324089	Z'rali's Essence
+324086	Shining Radiance
 
 ; Boss: Kryxis the Voracious
 319650	Vicious Headbutt
@@ -230,7 +245,7 @@ summon_stealthlings	Stealthlings
 
 ; Boss: Executor Tarvold
 322554	Castigate
-322573	Coalesce Manifestation
+322574	Coalesce Manifestation
 328494	Sintouched Anima
 323551	Residue
 
@@ -244,11 +259,10 @@ summon_stealthlings	Stealthlings
 323845	Wicked Rush
 323821	Piercing Blur
 322903	Gloom Squall
-324086	Shining Radiance
 
 
 ; -------------------------------------
-;    Zone: Spires of Ascension
+; Zone: Spires of Ascension
 ; -------------------------------------
 
 ; Boss: Trash
@@ -290,7 +304,109 @@ summon_stealthlings	Stealthlings
 
 
 ; -------------------------------------
-;    Zone: The Necrotic Wake
+; Zone: Tazavesh, the Veiled Market
+; -------------------------------------
+
+; Boss: Trash
+356031	Stasis Beam
+356324	Empowered Glyph of Restraint
+356548	Radiant Pulse
+356001	Beam Splicer
+356929	Chain of Custody
+356942	Lockdown
+356404	Lava Breath
+356407	Ancient Dread
+357512	Frenzied Charge
+356967	Hyperlight Backhand
+357029	Hyperlight Bomb
+355980	Refraction Shield
+355934	Hard Light Barrier
+347721	Open Cage
+355637	Quelling Strike
+355642	Hyperlight Salvo
+355782	Force Multiplier
+355477	Power Kick
+355480	Lethal Force
+358443	Blood in the Water
+355132	Invigorating Fish Stick
+355057	Cry of Mrrggllrrgg
+355429	Tidal Stomp
+355584	Charged Pulse
+355577	Crackle
+356133	Super Saison
+357226	Drifting Star
+357238	Wandering Pulsar
+357260	Unstable Rift
+357284	Reinvigorate
+
+; Boss: Zo'phex the Sentinel
+347949	Interrogation
+345990	Containment Cell
+345770	Impound Contraband
+346204	Armed Security
+
+; Boss: The Grand Menagerie
+349627	Gluttony
+350010	Devoured Anima
+349663	Grip of Hunger
+349797	Grand Consumption
+349954	Purification Protocol
+349934	Flagellation Protocol
+349987	Venting Protocol
+350101	Chains of Damnation
+350086	Whirling Annihilation
+
+; Boss: Mailroom Mayhem
+346286	Hazardous Liquids
+346742	Fan Mail
+346962	Money Order
+346947	Unstable Goods
+346296	Instability
+
+; Boss: Myza's Oasis
+356482	Rotten Food
+353783	Teleport
+353835	Suppression
+350916	Security Slam
+353706	Rowdy
+350922	Menacing Shout
+350919	Crowd Control
+355438	Suppression Spark
+359028	Security Slam
+
+; Boss: So'azmi
+357188	Double Technique
+347610	Shuri
+347249	Divide
+347623	Quickblade
+
+; Boss: Hylbrande
+353312	Purifying Burst
+346116	Shearing Swings
+347094	Titanic Crash
+346959	Purged by Fire
+346766	Sanitizing Cycle
+
+; Boss: Timecap'n Hooktail
+347149	Infinite Breath
+347151	Hook Swipe
+354334	Hook'd!
+352345	Anchor Shot
+347371	Grapeshot
+350517	Double Time
+
+; Boss: So'leah
+351124	Summon Assassins
+353635	Collapsing Star
+350804	Collapsing Energy
+350796	Hyperlight Spark
+351086	Power Overwhelming
+351096	Energy Fragmentation
+351119	Shuriken Blitz
+
+
+; -------------------------------------
+; Zone: The Necrotic Wake
 ; -------------------------------------
 
 ; Boss: Trash
@@ -298,14 +414,17 @@ summon_stealthlings	Stealthlings
 323190	Meat Shield
 323347	Clinging Darkness
 322756	Wrath of Zolramus
+321780	Animate Dead
 328667	Frostbolt Volley
 324293	Rasping Scream
+343470	Boneshatter Shield
 335143	Bonemend
+320822	Final Bargain
 335141	Dark Shroud
 327396	Grim Fate
 324394	Shatter
 324387	Frigid Spikes
-324372	Reaping Winds=wɪndz
+324372	Reaping Winds
 338353	Goresplatter
 338456	Mutilate
 338357	Tenderize
@@ -328,12 +447,12 @@ summon_stealthlings	Stealthlings
 320012	Unholy Frenzy
 320171	Necrotic Bolt
 
-; Boss: Surgeon Stichflesh
+; Boss: Surgeon Stitchflesh
 320358	Awaken Creation
 322681	Meat Hook
 320376	Mutilate
 334476	Embalming Ichor
-320200y	Stitchneedle on you
+320200	Stitchneedle
 334488	Sever Flesh
 320359	Escape
 343556	Morbid Fixation
@@ -346,15 +465,38 @@ summon_stealthlings	Stealthlings
 
 
 ; -------------------------------------
-;    Zone: Theater of Pain
+; Zone: Theater of Pain
 ; -------------------------------------
 
 ; Boss: Trash
-330562	Demoralizing Shout
+333241	Raging Tantrum
+319290	Meat Shield
+330700	Decaying Blight
 341969	Withering Discharge
+341949	Withering Blight
+330586	Devour Flesh
+332836	Chop
 330614	Vile Eruption
+342139	Battle Trance
+342125	Brutal Leap
+342135	Interrupting Roar
+317605	Whirlwind
+337037	Whirling Blade
+332708	Ground Smash
+333861	Ricocheting Blade
+334023	Bloodthirsty Charge
+330562	Demoralizing Shout
+333827	Seismic Stomp
+331275	Unbreakable Guard
+333845	Unbalancing Blow
+330716	Soulstorm
+330725	Shadow Vulnerability
 330868	Necrotic Bolt Volley
+333708	Soul Corruption
 342675	Bone Spear
+333294	Death Winds
+331223	Bonestorm
+331237	Bone Spikes
 
 ; Boss: An Affront of Challengers
 320063	Slam
@@ -382,116 +524,19 @@ summon_stealthlings	Stealthlings
 339415	Deafening Crash
 
 ; Boss: Kul'tharok
-319521y	Draw Soul on you
-319637y	Reclaimed Soul on you
+319521	Draw Soul
+319637	Reclaimed Soul
 319626	Phantasmal Parasite
 319669	Spectral Reach
 
 ; Boss: Mordretha, the Endless Empress
 324079	Reaping Scythe
 323608	Dark Devastation
-323683	Grasping Rift
+323825	Grasping Rift
+323831	Death Grasp
 324449	Manifest Death
 339573	Echoes of Carnage
 339706	Ghostly Charge
 339550	Echo of Battle
 
 
-; -------------------------------------
-;	Zone: Tazavesh the Veiled Market
-; -------------------------------------
-
-; Boss: Trash
-356031	Stasis Beam
-356324	Empowered Glyph of Restraint
-356001	Beam Splicer
-356929	Chain of Custody
-356942	Lockdown
-356404	Lava Breath
-356407	Ancient Dread
-357512	Frenzied Charge
-356967	Hyperlight Backhand
-357029	Hyperlight Bomb
-355980	Refraction Shield
-355934	Hard Light Barrier
-347721	Open Cage
-355637	Quelling Strike
-355642	Hyperlight Salvo
-355782	Force Multiplier
-355477	Power Kick
-355480	Lethal Force
-355132	Invigorating Fish Stick
-355057	Cry of Mrrggllrrgg
-355429	Tidal Stomp
-355584	Charged Pulse
-355577	Crackle
-356133	Super Saison
-357226	Drifting Star
-357238	Wandering Pulsar
-357260	Unstable Rift
-357284	Reinvigorate
-
-; Boss: Zo'phex the Sentinel
-347949	Interrogation
-345990	Containment Cell
-345770	Impound Contraband
-346204	Armed Security
-
-; Boss: Myza's Oasis
-356482	Rotten Food
-353783	Teleport
-353835	Suppression
-350916	Security Slam
-353706	Rowdy
-350922	Menacing Shout
-350919	Crowd Control
-355438	Suppression Spark
-359028	Security Slam
-
-; Boss: Mailroom Mayhem
-346286	Hazardous Liquids
-346742	Fan Mail
-346962	Money Order
-346947	Unstable Goods
-
-; Boss: The Grand Menagerie
-349627	Gluttony
-350010y	Devoured Anima on you
-349663	Grip of Hunger
-349797	Grand Consumption
-349954	Purification Protocol
-349934	Flagellation Protocol
-349987	Venting Protocol
-350101	Chains of Damnation
-350086	Whirling Annihilation
-
-; Boss: So'azmi
-357188	Double Technique
-347610	Shuri
-347249	Divide
-347623	Quickblade
-
-; Boss: Hylbrande
-346971	Summon Vault Defender
-353312	Purifying Burst
-346116	Shearing Swings
-347094	Titanic Crash
-346957	Purged by Fire
-346766	Sanitizing Cycle
-
-; Boss: Timecap'n Hooktail
-347149	Infinite Breath
-347151	Hook Swipe
-354334	Hook'd!
-352345y	Anchor Shot on you
-347371	Grapeshot
-350517	Double Time
-
-; Boss: So'leah
-351124	Summon Assassins
-353635	Collapsing Star
-350804	Collapsing Energy
-350796	Hyperlight Spark
-351086	Power Overwhelming
-351096	Energy Fragmentation
-351119	Shuriken Blitz

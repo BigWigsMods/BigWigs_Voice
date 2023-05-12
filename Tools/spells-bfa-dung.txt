@@ -1,14 +1,14 @@
 ; Type: Battle for Azeroth Dungeon
 
 ; -------------------------------------
-;    Zone: Atal'Dazar
+; Zone: Atal'Dazar
 ; -------------------------------------
 
 ; Boss: Trash
 255041	Terrifying Screech
 255567	Frenzied Charge
 253721	Bulwark of Juju
-252781y	Unstable Hex on you
+252781	Unstable Hex
 256849	Dino Might
 260666	Transfusion
 252687	Venomfang Strike
@@ -31,11 +31,11 @@
 
 ; Boss: Rezan
 255371	Terrifying Visage
-257407y	Pursuit on you
+257407	Pursuit
 255434	Serrated Teeth
 
 ; Boss: Yazma
-249923	Soulrend
+259187	Soulrend
 250096	Wracking Pain
 250050	Echoes of Shadra
 250036	Shadowy Remains
@@ -43,7 +43,7 @@
 
 
 ; -------------------------------------
-;    Zone: Freehold
+; Zone: Freehold
 ; -------------------------------------
 
 ; Boss: Trash
@@ -52,15 +52,16 @@
 257397	Healing Balm
 258323	Infected Wound
 258672	Azerite Grenade
-257437	Poisoning Strike
+257436	Poisoning Strike
 274400	Duelist Dash
 258777	Sea Spout
 272402	Ricocheting Throw
+257784	Frost Blast
 257739	Blind Rage
 257732	Shattering Bellow
 274507	Slippery Suds
 274383	Rat Traps
-257756	Going Bananas
+257756	Goin' Bananas
 257775	Plague Step
 274555	Scabrous Bite
 258181	Boulder Throw
@@ -68,100 +69,64 @@
 257870	Blade Barrage
 257899	Painful Motivation
 257908	Oiled Blade
-257736	Thundering Squal
+257736	Thundering Squall
 
 ; Boss: Skycap'n Kragg
-255952	Charge
-272046	Dive Bomb
-256106	Azerite Powder Shot
-256060	Revitalizing Brew
+255952	Charrrrrge
+256005	Vile Bombardment
 256016	Vile Coating
+272046	Dive Bomb
+256060	Revitalizing Brew
+256106	Azerite Powder Shot
 
 ; Boss: Council o' Captains
+256979	Powder Shot
+258381	Grapeshot
+272902	Chain Shot
 258338	Blackout Barrel
 256589	Barrel Smash
-258381	Grape Shot
+267522	Cutting Surge
+267533	Whirlpool of Blades
+265088	Confidence-Boosting Freehold Brew
+264608	Invigorating Freehold Brew
+265168	Caustic Freehold Brew
 
 ; Boss: Ring of Booty
 257829	Greasy
 257904	Shell Bounce
-256405	Sharknado
+256405	Shark Tornado
 256358	Shark Toss
+256552	Flailing Shark
 256489	Rearm
+256363	Ripper Punch
 
 ; Boss: Harlan Sweete
 257278	Swiftwind Saber
-257305y	Cannon Barrage on you
+257305	Cannon Barrage
+413136	Whirling Dagger
 257316	Avast, ye!
-257314y	Black Powder Bomb on you
+257314	Black Powder Bomb
 
 
 ; -------------------------------------
-;    Zone: Underrot
-; -------------------------------------
-
-; Boss: Trash
-265568y	Dark Omen on you
-265089	Dark Reconstitution
-265091	Gift of G'huun
-265540	Rotten Bile
-265019	Savage Cleave
-265081	War cry
-278961	Decaying Mind
-266107	Thirst For Blood
-266106	Sonic Screech
-265668	Wave of Decay
-272183	Raise Dead
-266209	Wicked Frenzy
-265487	Shadow Bolt Volley
-265433	Withering Curse
-265523	Summon Spirit Drain Totem
-272592	Abyssal Reach
-272609	Maddening Gaze
-
-; Boss: Elder Leaxa
-260879	Blood Bolt
-260894	Creeping Rot
-264603	Blood Mirror
-264757	Sanguine Feast
-
-; Boss: Cragmaw the Infested
-260292	Charge
-260793	Indigestion
-260333	Tantrum
-
-; Boss: Sporecaller Zancha
-259732	Festering Harvest
-259830	Boundless Rot
-272457	Shockwave
-259718y	Upheaval on you
-273285	Volatile Pods
-
-; Boss: Unbound Abomination
-269301	Putrid Blood
-269843	Vile Expulsion
-269310	Cleansing Light
-
-
-; -------------------------------------
-;    Zone: Kings' Rest
+; Zone: Kings' Rest
 ; -------------------------------------
 
 ; Boss: Trash
 270003	Suppression Slam
 270016	Released Inihibitors
-;269936y	Fixate on you (duplicate)
+269936	Fixate
 269976	Ancestral Fury
 269972	Shadow Bolt Volley
 269931	Gust Slash
-270928y	Bladestorm on you
+270928	Bladestorm
 270920	Seduction
 270891	Channel Lightning
 270084	Axe Barrage
 270901	Induce Regeneration
 270931	Darkshot
 270503	Hunting Leap
-270865y	Hidden Blade on you
+270865	Hidden Blade
 270872	Shadow Whirl
 270284	Purification Beam
 271564	Embalming Fluid
@@ -169,14 +134,14 @@
 270492	Hex
 270487	Severing Blade
 270482	Blooded Leap
-healing_tide_totem	Healing Tide Totem
 270499	Frost Shock
 270507	Poison Barrage
+270506	Deadeye Shot
 270514	Ground Crush
-271640y	Dark Revelation on you
+271640	Dark Revelation
 
 ; Boss: The Golden Serpent
-265773y	Spit Gold on you
+265773	Spit Gold
 265923	Lucre's Call
 265781	Serpentine Gust
 265910	Tail Thrash
@@ -187,261 +152,23 @@ healing_tide_totem	Healing Tide Totem
 267702	Entomb
 
 ; Boss: The Council of Tribes
-267273	Poison Nova
-267060	Call of the Elements
 266206	Whirling Axes
 266231	Severing Axe
 266951	Barrel Through
 266237	Debilitating Backhand
+267273	Poison Nova
+267060	Call of the Elements
 
 ; Boss: Dazar, The First King
 268586	Blade Combo
-268932y	Quaking Leap on you
+268932	Quaking Leap
 268403	Gale Slash
 269231	Hunting Leap
 269369	Deathly Roar
 
-; -------------------------------------
-;    Zone: Waycrest Manor
-; -------------------------------------
-
-; Boss: Trash
-265407	Dinner Bell
-271174	Retch
-264456	Tracking Explosive
-263943	Etch
-263905	Marking Cleave
-263891	Grasping Thorns
-264525	Shrapnel Trap
-264520	Severing Serpent
-265759	Splinter Spike
-265760	Thorned Barrage
-265741	Drain Soul Essence
-264050	Infected Thorn
-264038	Uproot
-264556	Tearing Strike
-264150	Shatter
-265352	Toad Blight
-265346	Pallid Glare
-263959	Soul Volley
-263961	Warding Candles
-265368	Spirited Defense
-264396	Spectral Talisman
-264390	Spellbind
-264105y	Runic Mark on you
-265876	Ruinous Volley
-265880y	Dread Mark on you
-265881	Decaying Touch
-
-; Boss: Heartsbane Triad
-260805	Focusing Iris
-260773	Dire Ritual
-260741	Jagged Nettles
-260703y	Unstable Runic Mark on you
-268086	Aura of Dread
-260907	Soul Manipulation
-
-; Boss: Soulbound Goliath
-260508	Crush
-260512	Soul Harvest
-260551	Soul Thorns
-260541	Burning Brush
-260569	Wildfire
-
-; Boss: Raal the Gluttonous
-264734	Consume All
-264931	Call Servant
-265002	Consume Servants
-264923	Tenderize
-264694	Rotten Expulsion
-
-; Boss: Lord and Lady Waycrest
-268306	Discordant Cadenza
-261438	Wasting Strike
-261440y	Virulent Pathogen on you
-261447	Putrid Vitality
-
-; Boss: Gorak Tul
-266181	Dread Essence
-266266	Summon Deathtouched Slaver
-266225	Darkened Lightning
-266198	Alchemical Fire
-
 
 ; -------------------------------------
-;    Zone: Shrine of the Storm
-; -------------------------------------
-
-; Boss: Trash
-
-; Boss: Aqu'sirr
-265001	Sea Blast
-264560	Choking Brine
-264101	Surging Rush
-264166	Undertow
-264903	Erupting Waters
-
-; Boss: Tidesage Coucil
-267891	Swiftness Ward
-267818	Slicing Blast
-267905	Reinforcing Ward
-267899	Hindering Cleave
-
-; Boss: Lord Stormsong
-268347	Void Bolt
-269097	Waken the Void
-269131	Ancient Mindbender
-
-; Boss: Vol'zith the Whisperer
-267037	Whispers of Power
-269399	Yawning Gate
-267385	Tentacle Slam
-267360	Grasp of the Sunken City
-
-
-; -------------------------------------
-;    Zone: Siege of Boralus
-; -------------------------------------
-
-; Boss: Trash
-
-; Boss: Chopper Redhook
-257459	On the Hook
-257348y	Meat Hook on you
-257326	Gore Crash
-257585	Cannon Barrage
-273721	Heavy Ordnance
-
-; Boss: Sergeant Bainbridge
-260954	Iron Gaze
-261428	Hangman's Noose
-260924	Steel Tempest
-;257585	Cannon Barrage (duplicate)
-277965	Heavy Ordnance
-
-; Boss: Dread Captain Lockwood
-272471	Evasive
-269029	Clear the Deck
-268752	Withdraw
-268230	Crimson Swipe
-268260	Broadside
-268963	Unstable Ordnance
-
-; Boss: Hadal Darkfathom
-261563	Crashing Tide
-257882	Break Water
-276068	Tidal Surge
-
-; Boss: Viq'Goth
-275014y	Putrid Waters on you
-270185	Call of the Deep
-270605	Summon Demolisher
-269266	Slam
-269366	Repair
-
-
-; -------------------------------------
-;    Zone: Temple of Sethraliss
-; -------------------------------------
-
-; Boss: Trash
-
-; Boss: Adderis and Aspix
-263246	Lightning Shield
-263371	Conduction
-263573	Cyclone Strike
-
-; Boss: Merektha
-263912	Noxious Breath
-263927	Toxic Pool
-263914	Blinding Sand
-264239	Hatch
-264206	Burrow
-263958	A Knot of Snakes
-
-; Boss: Galvazzt
-266923	Galvanize
-266512	Consume Charge
-
-; Boss: Avatar of Sethraliss
-269688	Rain of Toads
-273677	Taint
-268024	Pulse
-269686	Plague
-
-
-; -------------------------------------
-;    Zone: MOTHERLODE
-; -------------------------------------
-
-; Boss: Trash
-
-; Boss: Coin-operated Crowd Pummeler
-269493	Footbomb Launcher
-256493	Blazing Azerite
-262347	Static Pulse
-257337	Chocking Claw
-
-; Boss: Tik'ali
-257593	Call Earthrager
-257582y	Raging Gaze on you
-271698	Azerite Infusion
-258622	Resonant Pulse
-
-; Boss: Rixxa Fluxflame
-270042	Agent Azerite
-259853	Chemical Burn
-260669	Propellant Blast
-
-; Boss: Mogul Razdunk
-260280	Gatling Gun
-260829y	Homing Missile on you
-271456	Drill Smash
-
-
-; -------------------------------------
-;    Zone: Tol Dagor
-; -------------------------------------
-
-; Boss: Trash
-258079	Massive Chomp
-258128	Debilitating Shout
-258153	Watery Dome
-258634	Fuselighter
-258313	Handcuff
-258864	Suppression Fire
-258917	Righteous Flames
-258935	Inner Flames
-
-; Boss: The Sand Queen
-257092	Sand Trap
-257495	Sandstorm
-257608	Upheaval
-257609	Enrage
-
-; Boss: Jes Howlis
-257785	Flashing Daggers
-257777	Crippling Shiv
-257791	Howling Fear
-257793	Smoke Powder
-257827	Motivating Cry
-
-; Boss: Knight Captain Valyri
-256970	Ignition
-256955	Cinderflame
-257028	Fuselighter
-
-; Boss: Overseer Korgus
-256198	Azerite Rounds: Incendiary
-256199	Azerite Rounds: Blast
-256083	Cross Ignition
-256101y	Explosive Burst on you
-256038	Deadeye
-263345	Massive Blast
-
-
-; -------------------------------------
-;    Zone: Operation: Mechagon
+; Zone: Operation: Mechagon
 ; -------------------------------------
 
 ; Boss: Trash
@@ -458,7 +185,7 @@ healing_tide_totem	Healing Tide Totem
 300171	Repair Protocol
 299525	Scrap Grenade
 299438	Sledgehammer
-300188y	Scrap Cannon on you
+300188	Scrap Cannon
 300207	Shock Coil
 300764	Slimebolt
 300777	Slimewave
@@ -466,8 +193,8 @@ healing_tide_totem	Healing Tide Totem
 300650	Suffocating Smog
 299588	Overclock
 300087	Repair
-299475	B.O.R.K.
-284219y	Shrink on you
+299475	B.O.R.K
+284219	Shrink
 301667	Rapid Fire
 301681	Charge
 299502	Nanoslicer
@@ -489,6 +216,7 @@ healing_tide_totem	Healing Tide Totem
 293930	Overclock
 293670	Chainblade
 293683	Shield Generator
+294180	Flaming Refuse
 
 ; Boss: King Gobbamak
 297254	Charged Smash
@@ -502,13 +230,13 @@ healing_tide_totem	Healing Tide Totem
 298259	Gooped
 298212	Sludge Bolt
 
-; Boss: Trizie & Naeno
+; Boss: Trixie & Naeno
 299153	Turbo Boost
 302682	Mega Taze
 298946	Roadkill
 298940	Bolt Buster
 298571	Burnout
-298898	Roll Out
+298898	Roll Out!
 298651	Pedal to the Metal
 
 ; Boss: HK-8 Aerial Oppression Unit
@@ -518,31 +246,407 @@ healing_tide_totem	Healing Tide Totem
 301351	Reinforcement Relay
 296522	Self-Destruct
 296080	Haywire
+303885	Fulminating Burst
 
 ; Boss: Tussle Tonks
 282801	Platinum Plating
 285020	Whirling Edge
 285344	Lay Mine
-285152y	Foe Flipper on you
+285152	Foe Flipper
 285388	Vent Jets
-283421y	Maximum Thrust on you
+283422	Maximum Thrust
 
 ; Boss: K.U.-J.0.
-291918	Air Drop
+291930	Air Drop
 291946	Venting Flames
 291973	Explosive Leap
 294929	Blazing Chomp
 
 ; Boss: Machinist's Garden
-294853	Activate Plant
 294855	Blossom Blast
 285440	"Hidden" Flame Cannon
 285454	Discom-BOMB-ulator
 
 ; Boss: King Mechagon
 291865	Recalibrate
-291928y	Giga-Zap on you
+291928	Giga-Zap
 291613	Take Off!
 291626	Cutting Beam
 283551	Magneto-Arm
 292290	Protocol: Ninety-Nine
+
+
+; -------------------------------------
+; Zone: Shrine of the Storm
+; -------------------------------------
+
+; Boss: Trash
+276268	Heaving Blow
+267977	Tidal Surge
+267981	Protective Aura
+268050	Anchor of Binding
+276265	Swiftness
+268030	Mending Rapids
+274437	Tempest
+268027	Rising Tides
+268177	Windblast
+268187	Gale Winds
+268184	Minor Swiftness Ward
+274631	Lesser Blessing of Ironsides
+274633	Sundering Blow
+276292	Whirling Slam
+268211	Minor Reinforcing Ward
+268214	Carve Flesh
+268239	Shipbreaker Storm
+268233	Electrifying Shock
+268273	Deep Smash
+268309	Unending Darkness
+276297	Void Seed
+268391	Mental Assault
+268375	Detect Thoughts
+268322	Touch of the Drowned
+
+; Boss: Aqu'sirr
+265001	Sea Blast
+264560	Choking Brine
+264101	Surging Rush
+264166	Undertow
+264526	Grasp from the Depths
+
+; Boss: Tidesage Council
+267891	Swiftness Ward
+267818	Slicing Blast
+267830	Blessing of the Tempest
+267905	Reinforcing Ward
+267899	Hindering Cleave
+267901	Blessing of Ironsides
+
+; Boss: Lord Stormsong
+268347	Void Bolt
+269097	Waken the Void
+269131	Ancient Mindbender
+274714	Twisting Void
+268896	Mind Rend
+
+; Boss: Vol'zith the Whisperer
+267037	Whispers of Power
+269399	Yawning Gate
+267385	Tentacle Slam
+267360	Grasp of the Sunken City
+
+
+; -------------------------------------
+; Zone: Siege of Boralus
+; -------------------------------------
+
+; Boss: Trash
+268260	Broadside
+272874	Trample
+275826	Bolstering Shout
+275835	Stinging Venom Coating
+272421	Sighted Artillery
+257169	Terrifying Roar
+272711	Crushing Slam
+272827	Viscous Slobber
+274569	Revitalizing Mist
+272546	Banana Rampage
+257170	Savage Tempest
+256957	Watertight Shell
+256627	Slobber Knocker
+257288	Heavy Slash
+257641	Molten Slug
+256897	Clamping Jaws
+256866	Iron Ambush
+257036	Feral Charge
+256640	Burning Tar
+256673	Immolation
+
+; Boss: Chopper Redhook
+
+; Boss: Dread Captain Lockwood
+272471	Evasive
+269029	Clear the Deck
+273470	Gut Shot
+268752	Withdraw
+268230	Crimson Swipe
+;268260	Broadside
+268963	Unstable Ordnance
+
+; Boss: Hadal Darkfathom
+261563	Crashing Tide
+257882	Break Water
+276068	Tidal Surge
+
+; Boss: Viq'Goth
+275014	Putrid Waters
+270185	Call of the Deep
+269366	Repair
+269266	Slam
+270590	Hull Cracker
+
+
+; -------------------------------------
+; Zone: Temple of Sethraliss
+; -------------------------------------
+
+; Boss: Trash
+265968	Healing Surge
+264574	Power Shot
+273563	Neurotoxin
+258908	Blade Flurry
+272659	Electrified Scales
+272657	Noxious Breath
+272700	Greater Healing Potion
+267237	Drain
+273995	Pyrrhic Blast
+265912	Accumulate Charge
+268008	Snake Charm
+
+; Boss: Adderis and Aspix
+263246	Lightning Shield
+263257	Static Shock
+263371	Conduction
+263424	Arc Dash
+263309	Cyclone Strike
+
+; Boss: Merektha
+263912	Noxious Breath
+263927	Toxic Pool
+263914	Blinding Sand
+264239	Hatch
+264206	Burrow
+263958	A Knot of Snakes
+
+; Boss: Galvazzt
+266923	Galvanize
+266512	Consume Charge
+
+; Boss: Avatar of Sethraliss
+268024	Pulse
+274149	Life Force
+269688	Rain of Toads
+269686	Plague
+;268008	Snake Charm
+268007	Heart Attack
+
+
+; -------------------------------------
+; Zone: The MOTHERLOAD!!
+; -------------------------------------
+
+; Boss: Trash
+268846	Echo Blade
+268865	Force Cannon
+269302	Toxic Blades
+267433	Activate Mech
+281621	Concussion Charge
+268709	Earth Shield
+263202	Rock Lance
+268702	Furious Quake
+263215	Tectonic Barrier
+263066	Transfiguration Serum
+263103	Blowtorch
+262540	Overcharge
+262554	Repair
+262947	Azerite Injection
+268797	Transmute: Enemy to Goo
+269313	Final Blast
+268362	Mining Charge
+280605	Brain Freeze
+280604	Iced Spritzer
+268129	Kaja'Cola Refresher
+268415	Power Through
+262092	Inhale Vapors
+269090	Artillery Barrage
+263601	Desperate Measures
+269429	Charged Shot
+262412	Energy Shield
+263628	Charged Claw
+
+; Boss: Coin-Operated Crowd Pummeler
+269493	Footbomb Launcher
+256493	Blazing Azerite
+262347	Static Pulse
+257337	Shocking Claw
+271784	Throw Coins
+271867	Pay to Win
+
+; Boss: Azerokk
+271698	Azerite Infusion
+258622	Resonant Pulse
+257593	Call Earthrager
+257582	Raging Gaze
+275907	Tectonic Smash
+
+; Boss: Rixxa Fluxflame
+270028	Azerite Catalyst
+259853	Chemical Burn
+260669	Propellant Blast
+
+; Boss: Mogul Razdunk
+260280	Gatling Gun
+260829	Homing Missile
+276229	Micro Missiles
+271456	Drill Smash
+
+
+; -------------------------------------
+; Zone: The Underrot
+; -------------------------------------
+
+; Boss: Trash
+265568	Dark Omen
+265089	Dark Reconstitution
+265091	Gift of G'huun
+265540	Rotten Bile
+265019	Savage Cleave
+265081	Warcry
+278961	Decaying Mind
+266107	Thirst For Blood
+266106	Sonic Screech
+265668	Wave of Decay
+272183	Raise Dead
+266209	Wicked Frenzy
+413044	Dark Echoes
+265487	Shadow Bolt Volley
+265433	Withering Curse
+265523	Summon Spirit Drain Totem
+272592	Abyssal Reach
+272609	Maddening Gaze
+
+; Boss: Elder Leaxa
+260879	Blood Bolt
+260894	Creeping Rot
+264603	Blood Mirror
+264757	Sanguine Feast
+
+; Boss: Cragmaw the Infested
+260292	Charge
+260793	Indigestion
+260333	Tantrum
+
+; Boss: Sporecaller Zancha
+259732	Festering Harvest
+259830	Boundless Rot
+272457	Shockwave
+259718	Upheaval
+273285	Volatile Pods
+
+; Boss: Unbound Abomination
+269301	Putrid Blood
+269843	Vile Expulsion
+269310	Cleansing Light
+
+
+; -------------------------------------
+; Zone: Tol Dagor
+; -------------------------------------
+
+; Boss: Trash
+258079	Massive Chomp
+258128	Debilitating Shout
+258153	Watery Dome
+258634	Fuselighter
+258313	Handcuff
+258864	Suppression Fire
+258917	Righteous Flames
+258935	Inner Flames
+
+; Boss: The Sand Queen
+257092	Sand Trap
+257495	Sandstorm
+257608	Upheaval
+257609	Enrage
+
+; Boss: Jes Howlis
+257791	Howling Fear
+257785	Flashing Daggers
+257777	Crippling Shiv
+257793	Smoke Powder
+257827	Motivating Cry
+260067	Vicious Mauling
+
+; Boss: Knight Captain Valyri
+256970	Ignition
+256955	Cinderflame
+257028	Fuselighter
+
+; Boss: Overseer Korgus
+256198	Azerite Rounds: Incendiary
+256199	Azerite Rounds: Blast
+256083	Cross Ignition
+256105	Explosive Burst
+256038	Deadeye
+263345	Massive Blast
+
+
+; -------------------------------------
+; Zone: Waycrest Manor
+; -------------------------------------
+
+; Boss: Trash
+265407	Dinner Bell
+271174	Retch
+264456	Tracking Explosive
+263943	Etch
+263905	Marking Cleave
+263891	Grasping Thorns
+264525	Shrapnel Trap
+264520	Severing Serpent
+265759	Splinter Spike
+265760	Thorned Barrage
+265741	Drain Soul Essence
+264050	Infected Thorn
+278474	Effigy Reconstruction
+264038	Uproot
+264556	Tearing Strike
+264150	Shatter
+265352	Toad Blight
+265346	Pallid Glare
+263959	Soul Volley
+263961	Warding Candles
+265368	Spirited Defense
+264396	Spectral Talisman
+264390	Spellbind
+264105	Runic Mark
+265876	Ruinous Volley
+265880	Dread Mark
+265881	Decaying Touch
+
+; Boss: Heartsbane Triad
+260805	Focusing Iris
+260773	Dire Ritual
+260907	Soul Manipulation
+260703	Unstable Runic Mark
+268086	Aura of Dread
+260741	Jagged Nettles
+
+; Boss: Soulbound Goliath
+260508	Crush
+260512	Soul Harvest
+267907	Soul Thorns
+260541	Burning Brush
+260569	Wildfire
+
+; Boss: Raal the Gluttonous
+264734	Consume All
+264931	Call Servant
+265005	Consumed Servant
+264923	Tenderize
+264694	Rotten Expulsion
+
+; Boss: Lord and Lady Waycrest
+268306	Discordant Cadenza
+268278	Wracking Chord
+261438	Wasting Strike
+261440	Virulent Pathogen
+261447	Putrid Vitality
+
+; Boss: Gorak Tul
+266181	Dread Essence
+266266	Summon Deathtouched Slaver
+266225	Darkened Lightning
+266198	Alchemical Fire
+268202	Death Lens
+
+

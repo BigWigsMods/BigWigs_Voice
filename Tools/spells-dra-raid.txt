@@ -1,11 +1,40 @@
 ; Type: Dragonflight Raid
 
 ; -------------------------------------
-;	Zone: Vault of the Incarnates
+; Zone: Dragon Isles
+; -------------------------------------
+
+; Boss: Strunraan, The Sky's Misery
+383496	Empowered Storm
+387199	Strunraan's Tempest
+387265	Overcharge
+387216	Shock Water
+385980	Thunder Vortex
+389951	Arc Expulsion
+
+; Boss: Basrikron, The Shale Wing
+386259	Sundering Crash
+386059	Awaken Crag
+385270	Fracturing Tremor
+385137	Shale Breath
+
+; Boss: Bazual, The Dreaded Flame
+389514	Lava Breath
+389725	Magma Eruption
+389431	Deterring Flame
+391247	Flame Infusion
+390635	Rain of Destruction
+
+; Boss: Liskanoth, The Futurebane
+391026	Deep Freeze
+389960	Binding Ice
+
+
+; -------------------------------------
+; Zone: Vault of the Incarnates
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
 
 ; Boss: Eranog
 390715	Flamerift
@@ -61,7 +90,7 @@
 
 ; Boss: Dathea, Ascended
 387849	Coalescing Storm
-387943	Diverted Essence
+397431	Diverted Essence
 385812	Aerial Slash
 395501	Blowback
 384273	Storm Bolt
@@ -71,7 +100,7 @@
 376943	Cyclone
 388410	Crosswinds
 375580	Zephyr Slam
-376851	Aerial Buffet=bʌf.ɪt
+376851	Aerial Buffet
 
 ; Boss: Kurog Grimtotem
 371981	Elemental Surge
@@ -80,6 +109,7 @@
 382563	Magma Burst
 373329	Molten Rupture
 374023	Searing Carnage
+374554	Magma Pool
 373678	Biting Chill
 391019	Frigid Torrent
 372458	Absolute Zero
@@ -93,18 +123,22 @@
 374427	Ground Shatter
 374430	Violent Upheaval
 374623	Frost Binds
-374622	Storm Break
 374624	Freezing Tempest
+374622	Storm Break
 391696	Lethal Current
 396241	Primal Attunement
 400473	Elemental Rage
-393309	Flame Smite
+393314	Flamewrought Eradicator
 394416	Raging Inferno
-393296	Frost Smite
+393309	Flame Smite
+393295	Icewrought Dominator
 391425	Icy Tempest
+393296	Frost Smite
+392098	Ironwrought Smasher
 391268	Earth Smite
-393429	Storm Smite
+393459	Stormwrought Despoiler
 394719	Orb Lightning
+393429	Storm Smite
 
 ; Boss: Broodkeeper Diurna
 375809	Broodkeeper's Bond
@@ -130,11 +164,12 @@
 392194	Empower Greatstaff
 380483	Empowered Greatstaff's Wrath
 388918	Frozen Shroud
+396779	Storm Fissure
 396269	Mortal Stoneslam
 396266	Mortal Suffering
 396264	Detonating Stoneslam
 
-; Boss: Raszageth the Storm Eater
+; Boss: Raszageth the Storm-Eater
 377612	Hurricane Wing
 381615	Static Charge
 388643	Volatile Current
@@ -160,6 +195,160 @@
 395929	Storm's Spite
 399713	Magnetic Charge
 386410	Thunderous Blast
-391285	Melted Armor
+391285	Thunderstruck Armor
 394584	Inversion
 395885	Storm-Eater
+
+
+; -------------------------------------
+; Zone: Aberrus, the Shadowed Crucible
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kazzara, the Hellforged
+401319	Hellsteel Carnage
+407196	Dread Rifts
+406530	Riftburn
+407069	Rays of Anguish
+402421	Molten Scar
+400430	Hellbeam
+403326	Wings of Extinction
+404743	Terror Claws
+
+; Boss: The Amalgamation Chamber
+401809	Corrupting Shadow
+403459	Coalescing Void
+405036	Umbral Detonation
+405084	Lingering Umbra
+407640	Shadows Convergence
+403699	Shadow Spike
+402617	Blazing Heat
+404732	Fiery Meteor
+403101	Molten Eruption
+404896	Swirling Flame
+403203	Flame Slash
+405394	Shadowflame Contamination
+405437	Gloom Conflagration
+405642	Blistering Twilight
+405645	Engulfing Heat
+408193	Convergent Eruption
+405914	Withering Vulnerability
+406783	Shadowflame Burst
+409385	Shadow and Flame
+
+; Boss: The Forgotten Experiments
+406311	Infused Strikes
+407302	Infused Explosion
+406358	Rending Charge
+404472	Massive Slam
+404713	Bellowing Roar
+407327	Unstable Essence
+405492	Volatile Spew
+405375	Violent Eruption
+406227	Deep Breath
+407552	Temporal Anomaly
+405392	Disintegrate
+
+; Boss: Assault of the Zaqali
+404382	Zaqali Aide
+404687	Barrier Backfire
+408959	Devastating Leap
+401258	Heavy Cudgel
+397383	Molten Barrier
+409275	Magma Flow
+397386	Lava Bolt
+401401	Blazing Spear
+408620	Scorching Roar
+401867	Volcanic Shield
+401108	Phoenix Rush
+401381	Blazing Focus
+407017	Vigorous Gale
+406585	Ignara's Fury
+410516	Catastrophic Slam
+410351	Flaming Cudgel
+
+; Boss: Rashok, the Elder
+410070	Unleash Shadowflame
+410075	Shadowflame Energy
+405316	Ancient Fury
+405821	Searing Slam
+403543	Lava Wave
+406851	Doom Flames
+406333	Shadowlava Blast
+400777	Charged Smash
+407641	Wrath of Djaruun
+407547	Flaming Slash
+407597	Earthen Crush
+401419	Elder's Conduit
+405091	Smoldering Rage
+
+; Boss: The Vigilant Steward, Zskarn
+409942	Elimination Protocol
+405736	Dragonfire Traps
+405812	Animate Golems
+405592	Salvage Parts
+406678	Tactical Destruction
+406725	Shrapnel Bomb
+404010	Unstable Embers
+403978	Blast Wave
+404942	Searing Claws
+
+; Boss: Magmorax
+408358	Catastrophic Eruption
+402994	Molten Spittle
+408839	Searing Heat
+407879	Blazing Tantrum
+403740	Igniting Roar
+403671	Overpowering Stomp
+409093	Blazing Breath
+404846	Incinerating Maws
+406712	Lava
+411633	Burning Chains
+411182	Explosive Magma
+
+; Boss: Echo of Neltharion
+410953	Volcanic Heart
+407221	Rushing Darkness
+401998	Calamitous Strike
+402902	Twisted Earth
+402115	Echoing Fissure
+403057	Surrender to Corruption
+401010	Corruption
+405433	Umbral Annihilation
+407790	Sunder Shadow
+403049	Shadow Barrier
+407936	Sunder Reality
+407919	Sundered Reality
+407917	Ebon Destruction
+
+; Boss: Scalecommander Sarkareth
+401951	Oblivion
+401215	Emptiness Between Stars
+403997	Mind Fragment
+407576	Astral Flare
+410625	End Existence
+401383	Oppressing Howl
+401810	Glittering Surge
+401500	Scorching Bomb
+406989	Burning Ground
+401680	Mass Disintegrate
+402050	Searing Breath
+401330	Burning Claws
+401340	Blazing Blast
+404027	Void Bomb
+404218	Void Fracture
+404456	Abyssal Breath
+404754	Blasting Scream
+404403	Desolate Blossom
+404288	Infinite Duress
+411241	Void Claws
+411238	Void Blast
+403771	Cosmic Ascension
+405486	Hurtling Barrage
+403625	Scouring Eternity
+403520	Embrace of Nothingness
+408429	Void Slash
+408457	Void Blast
+
+

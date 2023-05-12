@@ -1,58 +1,117 @@
 ; Type: Legion Dungeon
 
 ; -------------------------------------
-;   Zone: Black Rook Hold
+; Zone: Assault on Violet Hold
+; -------------------------------------
+
+; Boss: Trash
+204901	Carrion Swarm
+204876	Fel Destruction
+204140	Shield of Eyes
+204608	Fel Prison
+205088	Blazing Hellfire
+
+; Boss: Festerface
+201598	Congealing Vomit
+201729	Uh Oh...
+
+; Boss: Shivermaw
+201379	Frost Breath
+201672	Relentless Storm
+201354	Tail Sweep
+201355	Wing Buffet
+202062	Frigid Winds
+201960	Ice Bomb
+
+; Boss: Blood-Princess Thal'ena
+202779	Essence of the Blood Princess
+203381	Blood Call
+202947	Blood Swarm
+
+; Boss: Mindflayer Kaahrj
+201148	Doom
+201146	Hysteria
+201153	Eternal Darkness
+
+; Boss: Millificent Manastorm
+201159	Delta Finger Laser X-treme
+201240	Elementium Squirrel Bomb
+201392	Thorium Rocket Chicken
+201572	Millificent's Rage
+
+; Boss: Anub'esset
+202217	Mandible Strike
+202341	Impale
+201863	Call of the Swarm
+202480	Fixated
+202485	Blistering Ooze
+
+; Boss: Sael'orn
+202414	Venom Spray
+202306	Creeping Slaughter
+202473	Fel Detonation
+
+; Boss: Fel Lord Betrug
+203641	Fel Slash
+202328	Mighty Smash
+205233	Execution
+210879	Seed of Destruction
+
+
+; -------------------------------------
+; Zone: Black Rook Hold
 ; -------------------------------------
 
 ; Boss: Trash
 200248	Arcane Blitz
 200261	Bonebreaking Strike
+197974	Bonecrushing Strike
 214003	Coup de Grace
 200343	Arrow Barrage
 200291	Knife Dance
 225573	Dark Mending
-203163	Sic Bats
+203163	Sic Bats!
 227913	Felfrenzy
 
-; Boss: Amalgam of Souls
+; Boss: The Amalgam of Souls
 196078	Call Souls
 194956	Reap Soul
 196587	Soul Burst
-194966y	Soul Echoes on you
-195254	Swirling scythe
+194966	Soul Echoes
+195254	Swirling Scythe
 196930	Soulgorge
 
 ; Boss: Illysanna Ravencrest
 197418	Vengeful Shear
-197478y	Dark Rush on you
+197478	Dark Rush
 197546	Brutal Glaive
-197696y	Eye Beam on you
+197696	Eye Beams
 197797	Arcane Blitz
-197974	Bonecrushing Strike
+;197974	Bonecrushing Strike
 
 ; Boss: Smashspite the Hateful
 198073	Earthshaking Stomp
 198245	Brutal Haymaker
-198079y	Hateful Gaze on you
+198079	Hateful Gaze
 198446	Fel Vomit
 
 ; Boss: Lord Kur'talos Ravencrest
-198635	Unerring Sheer
+198635	Unerring Shear
 198820	Dark Blast
 198641	Whirling Blade
-199193	Dreadlords Guise
+199193	Dreadlord's Guile
 202019	Shadow Bolt Volley
-201733y	Stinging Swarm on you
+201733	Stinging Swarm
 199143	Cloud of Hypnosis
 
 
 ; -------------------------------------
-;    Zone: Cathedral of Eternal Night
+; Zone: Cathedral of Eternal Night
 ; -------------------------------------
 
 ; Boss: Trash
 238653	Shadow Wave
-236737y	Fel Strike on you
+236737	Fel Strike
 241598	Shadow Wall
 238543	Demonic Mending
 237565	Blistering Rain
@@ -70,16 +129,17 @@
 235751	Timber Smash
 236650	Choking Vines
 236527	Fulminating Lashers
-238674y	Fixate on you
+238674	Fixate
 236639	Succulent Lashers
 236640	Toxic Sap
 
 ; Boss: Thrashbite the Scornful
 237276	Pulverizing Cudgel
-237726y	Scornful Gaze
+237726	Scornful Gaze
 243124	Heave Cudgel
 
 ; Boss: Domatrax
+238410	Aegis of Aggramar
 236543	Felsoul Cleave
 234107	Chaotic Energy
 -15076	Fel Portal Guardian
@@ -93,10 +153,12 @@
 
 
 ; -------------------------------------
-;    Zone: Court of Stars
+; Zone: Court of Stars
 ; -------------------------------------
 
 ; Boss: Trash
+210261	Sound Alarm
+212773	Subdue
 209027	Quelling Strike
 209033	Fortification
 225100	Charging Station
@@ -105,11 +167,17 @@
 209413	Suppress
 211464	Fel Detonation
 211391	Felblaze Puddle
+211470	Bewitch
+211473	Shadow Slash
 214692	Shadow Bolt Volley
 214688	Carrion Swarm
+214690	Cripple
 207979	Shockwave
+397897	Crushing Leap
 209378	Whirling Blades
+397892	Scream of Pain
 207980	Disintegration Beam
+397907	Impending Doom
 211299	Searing Glare
 212784	Eye Storm
 211401	Drifting Embers
@@ -131,6 +199,7 @@
 207278	Arcane Lockdown
 207806	Signal Beacon
 207815	Flask of the Solemn Night
+215204	Hinder
 
 ; Boss: Talixae Flamewreath
 207881	Infernal Eruption
@@ -139,18 +208,18 @@
 
 ; Boss: Advisor Melandrus
 209602	Blade Surge
-224333	Enveloping Winds=wɪndz
+224333	Enveloping Winds
 209628	Piercing Gale
 209676	Slicing Maelstrom
 
 
 ; -------------------------------------
-;    Zone: Darkheart Thicket
+; Zone: Darkheart Thicket
 ; -------------------------------------
 
 ; Boss: Trash
 200658	Star Shower
-200684	Nightmare Toxin on you
+200684	Nightmare Toxin
 200768	Propelling Charge
 200580	Maddening Roar
 218759	Corruption Pool
@@ -165,7 +234,7 @@
 196376	Grievous Tear
 
 ; Boss: Oakheart
-204646y	Crushing Grip on you
+204646	Crushing Grip
 204574	Strangling Roots
 204667	Nightmare Breath
 204666	Shattered Earth
@@ -177,13 +246,13 @@
 
 ; Boss: Shade of Xavius
 200050	Apocalyptic Nightmare
-200289y	Growing Paranoia on you
-200185y	Nightmare Bolt on you
+200289	Growing Paranoia
+200185	Nightmare Bolt
 200238	Feed on the Weak
 
 
 ; -------------------------------------
-;    Zone: Eye of Azshara
+; Zone: Eye of Azshara
 ; -------------------------------------
 
 ; Boss: Trash
@@ -198,7 +267,7 @@
 197105	Polymorph: Fish
 
 ; Boss: Warlord Parjesh
-192094	Impaling Spear on you
+192094	Impaling Spear
 192131	Throw Spear
 197064	Enrage
 197502	Restoration
@@ -213,91 +282,104 @@
 193698	Curse of the Witch
 196610	Monsoon
 
-; Boss: Serpentrix
-191873	Submerge
-191855y	Toxic Wound on you
-
 ; Boss: King Deepbeard
 193051	Call the Seas
 193018	Gaseous Bubbles
 193093	Ground Slam
 193152	Quake
 
+; Boss: Serpentrix
+191873	Submerge
+191855	Toxic Wound
+
 ; Boss: Wrath of Azshara
 192706	Arcane Bomb
 192617	Massive Deluge
 192675	Mystic Tornado
 192985	Cry of Wrath
-197365y	Crushing Depths
+197365	Crushing Depths
 
 
 ; -------------------------------------
-;    Zone: Halls of Valor
+; Zone: Halls of Valor
 ; -------------------------------------
 
 ; Boss: Trash
+202298	Mug of Mead
 215430	Thunderstrike
 198888	Lightning Breath
+198892	Crackling Storm
 210875	Charged Pulse
 198745	Protective Light
 199805	Crackle
+198959	Etch
 198931	Healing Light
 198934	Rune of Healing
 215433	Holy Radiance
 192563	Cleansing Flames
 199050	Mortal Hew
 191508	Blast of Light
+199034	Valkyra's Advance
+200901	Eye of the Storm
 192158	Sanctify
+192288	Searing Light
 199210	Penetrating Shot
+199146	Bucking Charge
 199090	Rumbling Stomp
 199341	Bear Trap
 199726	Unruly Yell
 200969	Call Ancestor
 
 ; Boss: Hymdall
+193092	Bloodletting Sweep
 193235	Dancing Blade
 191284	Horn of Valor
-193092	Bloodletting Sweep
 
 ; Boss: Hyrja
-200901	Eye of the Storm
+;200901	Eye of the Storm
+191976	Arcing Bolt
 192307	Sanctify
-192048y	Expel Light on you
+192048	Expel Light
 192018	Shield of Light
 
 ; Boss: Fenryr
-196543	Unnerving Howl
-197556y	Ravenous Leap on you
 196512	Claw Frenzy
-196838y	Scent of Blood on you
+196543	Unnerving Howl
+197558	Ravenous Leap
+196838	Scent of Blood
 
 ; Boss: God-King Skovald
+193783	Aegis of Aggramar
 193668	Savage Blade
 193826	Ragnarok
-193659y	Felblaze Rush on you
+193659	Felblaze Rush
 193702	Infernal Flames
 
 ; Boss: Odyn
 197961	Runic Brand
-198263	Radiant Tempest
 200988	Spear of Light
 198077	Shatter Spears
+198263	Radiant Tempest
+201215	Summon Stormforged Obliterator
 
 
 ; -------------------------------------
-;    Zone: Maw of Souls
+; Zone: Maw of Souls
 ; -------------------------------------
 
 ; Boss: Trash
+194657	Soul Siphon
 198405	Bone Chilling Scream
 192019	Lantern of Darkness
+194615	Sea Legs
 199514	Torrent of Souls
 199589	Whirlpool of Souls
 216197	Surging Waters
 195293	Debilitating Shout
+198324	Give No Quarter
 
 ; Boss: Ymiron, the Fallen King
-193977	Winds=wɪndz of Northrend
+193977	Winds of Northrend
 193211	Dark Slash
 193364	Screams of the Dead
 193460	Bane
@@ -307,27 +389,38 @@
 194216	Cosmic Scythe
 194231	Summon Shackled Servitor
 194668	Nether Rip
-194325y	Fragment on you
+194325	Fragment
 
 ; Boss: Helya
-197262y	Taint of the Sea on you
+197262	Taint of the Sea
 202088	Brackwater Barrage
-destructor_tentacle	Destructor Tentacle
 185539	Rapid Rupture
 196947	Submerged
 198495	Torrent
-227233	Corrupted Below
+227233	Corrupted Bellow
 
 
 ; -------------------------------------
-;    Zone: Neltharion's Lair
+; Zone: Neltharion's Lair
 ; -------------------------------------
 
 ; Boss: Trash
-183088	Avalanche
-226296	Piercing Shards
+183465	Viscid Bile
 202181	Stone Gaze
+226296	Piercing Shards
+193505	Fracture
+226287	Crush
+183526	War Drums
+183088	Avalanche
+202108	Petrifying Totem
+186576	Petrifying Cloud
+186616	Petrified
+183548	Worm Call
+193803	Metamorphosis
+183539	Barbed Tongue
 193585	Bound
+226406	Ember Swipe
+201983	Frenzy
 
 ; Boss: Rokmora
 188169	Razor Shards
@@ -336,55 +429,67 @@ destructor_tentacle	Destructor Tentacle
 
 ; Boss: Ularogg Cragshaper
 198564	Stance of the Mountain
-198496	Sunder
+193375	Bellow of the Deeps
 198428	Strike of the Mountain
+198496	Sunder
 
 ; Boss: Naraxas
-199775	Frenzy
-199178	Spiked Tongue
 205549	Rancid Maw
 210150	Toxic Retch
+199178	Spiked Tongue
+199775	Frenzy
 -12527	Wormspeaker Devout
+199246	Ravenous
 
-; Boss: Dargrul
-200732	Molten Crash
+; Boss: Dargrul the Underking
 200700	Landslide
-200154	Burning Hatred
+200732	Molten Crash
+200637	Magma Sculptor
 200404	Magma Wave
 200551	Crystal Spikes
+216407	Lava Geyser
+200154	Burning Hatred
+200672	Crystal Cracked
 
 
 ; -------------------------------------
-;    Zone: Return to Karazhan
+; Zone: Return to Karazhan
 ; -------------------------------------
 
 ; Boss: Trash
+227999	Pennies From Heaven
 227966	Flashlight
 228279	Shadow Rejuvenation
+228278	Demoralizing Shout
+228280	Oath of Fealty
 228575	Alluring Aura
+228576	Allured
 228625	Banshee Wail
-227999	Pennies from Heaven
 228528	Heartbreaker
-241774	Shield Smash
+241828	Trampling Stomp
+228603	Charge
+229489	Royalty
+
+; Boss: Opera Hall: Wikket
+227477	Summon Assistants
+227447	Defy Gravity
+227410	Wondrous Radiance
+227776	Magic Magnificent
+
+; Boss: Opera Hall: Westfall Story
+227568	Burning Leg Sweep
+227453	Dashing Flame Gale
+227777	Thunder Ritual
+227783	Wash Away
 
 ; Boss: Opera Hall: Beautiful Beast
 228025	Heat Wave
 228019	Leftovers
-228221y	Severe Dusting on you
+228221	Severe Dusting
+228225	Sultry Heat
 227985	Dent Armor
 227987	Dinner Bell!
 232153	Kara Kazham!
-
-; Boss: Opera Hall: Westfall Story
-227568	Burning Leg Sweep
-227777	Thunder Ritual
-227783	Wash Away
-
-; Boss: Opera Hall: Wikket
-227447	Defy Gravity
-227410	Wondrous Radiance
-227776	Magic Magnificent
-227477	Summon Assistants
 
 ; Boss: Maiden of Virtue
 227817	Holy Bulwark
@@ -392,7 +497,14 @@ destructor_tentacle	Destructor Tentacle
 227800	Holy Shock
 227809	Holy Bolt
 227508	Mass Repentance
-227789y	Sacred Ground under you
+227789	Sacred Ground
+
+; Boss: Attumen the Huntsman
+228895	Enrage
+227363	Mighty Stomp
+227365	Spectral Charge
+227493	Mortal Strike
+228852	Shared Suffering
 
 ; Boss: Moroes
 227736	Vanish
@@ -403,15 +515,8 @@ destructor_tentacle	Destructor Tentacle
 227578	Healing Stream
 227646	Iron Whirlwind
 227616	Empowered Arms
-227463y	Whirling Edge
+227463	Whirling Edge
 227672	Will Breaker
-
-; Boss: Attumen the Huntsman
-227404	Intangible Presence
-227493	Mortal Strike
-228852	Shared Suffering
-227365	Spectral Charge
-228895	Enrage
 
 ; Boss: The Curator
 227267	Summon Volatile Energy
@@ -422,11 +527,12 @@ destructor_tentacle	Destructor Tentacle
 227592	Frostbite
 227615	Inferno Bolt
 227628	Piercing Missiles
-228334	Guradian's Image
-228269y	Flame Wreath on you. I will not move when Flame Wreath is cast or the raid blows up.
+228334	Guardian's Image
+228269	Flame Wreath
 227779	Ceaseless Winter
 
 ; Boss: Mana Devourer
+227457	Energy Discharge
 227618	Arcane Bomb
 227523	Energy Void
 227502	Unstable Mana
@@ -434,64 +540,22 @@ destructor_tentacle	Destructor Tentacle
 
 ; Boss: Viz'aduum the Watcher
 229151	Disintegrate
-229248y	Fel Beam on you
-229159y	Chaotic Shadows on you
-229610	Demonic Portal
-230084	Stabilize Rift
+229159	Chaotic Shadows
 229083	Burning Blast
+229284	Command: Bombardment
+229248	Fel Beam
+229905	Soul Harvest
+230084	Stabilize Rift
+230066	Shadow Phlegm
 
 
 ; -------------------------------------
-;    Zone: The Arcway
-; -------------------------------------
-
-; Boss: Trash
-211217	Arcane Slicer
-226206	Arcane Reconstitution
-211115	Phase Breach
-210750	Collapsing Rift
-211745	Fel Strike
-226285	Demonic Ascension
-211632	Brand of the Legion
-211757	Portal: Argus
-
-; Boss: Corstilax
-195804	Quarantine
-196068	Suppression Protocol
-196115	Cleansing Force
-220481	Destabilized Orb
-
-; Boss: Ivanyr
-196805	Nether Link
-196562	Volatile Magic
-196392	Overcharge Mana
-
-; Boss: General Xakal
-197776	Fel Fissure
-197810	Wicked Slam
-212030	Shadow Slash
-dread_felbat	Dread Felbat
-
-; Boss: Nal'tira
--12687	Blink Strikes
-200040	Nether Venom
-200284	Tangled Web
-211543	Devour
-
-; Boss: Advisor Vandros
-203176	Accelerating Blast
-202974	Force Bomb
-220871	Unstable Mana
-203882	Banish In Time
-
-
-; -------------------------------------
-;    Zone: The Seat of the Triumvirate
+; Zone: Seat of the Triumvirate
 ; -------------------------------------
 
 ; Boss: Trash
-249081y	Suppression Field on you
-245510y	Corrupting Void on you
+249081	Suppression Field
+245510	Corrupting Void
 249078	Void Diffusion
 248227	Dark Matter
 
@@ -500,18 +564,18 @@ dread_felbat	Dread Felbat
 244579	Decimate
 244602	Coalesced Void
 244433	Umbra Shift
-244653y	Fixate on you
+244653	Fixate
 244621	Void Tear
 
 ; Boss: Saprish
 245873	Void Trap
 247206	Overload Trap
-247245y	Umbral Flanking on you
+247245	Umbral Flanking
 245802	Ravaging Darkness
 248831	Dread Screech
 
 ; Boss: Viceroy Nezhar
--15926	Umbral Tentacles
+-15926	Section 8
 244751	Howling Dark
 246324	Entropic Force
 244906	Collapsing Void
@@ -528,7 +592,50 @@ dread_felbat	Dread Felbat
 
 
 ; -------------------------------------
-;    Zone: Vault of the Wardens
+; Zone: The Arcway
+; -------------------------------------
+
+; Boss: Trash
+211217	Arcane Slicer
+226206	Arcane Reconstitution
+211115	Phase Breach
+210750	Collapsing Rift
+211745	Fel Strike
+226285	Demonic Ascension
+211632	Brand of the Legion
+211757	Portal: Argus
+
+; Boss: Ivanyr
+196805	Nether Link
+196562	Volatile Magic
+196392	Overcharge Mana
+
+; Boss: Corstilax
+195804	Quarantine
+196068	Suppression Protocol
+196115	Cleansing Force
+220481	Destabilized Orb
+
+; Boss: General Xakal
+197776	Fel Fissure
+197810	Wicked Slam
+212030	Shadow Slash
+
+; Boss: Nal'tira
+-12687	Section 1
+200040	Nether Venom
+200284	Tangled Web
+211543	Devour
+
+; Boss: Advisor Vandros
+203176	Accelerating Blast
+202974	Force Bomb
+220871	Unstable Mana
+203882	Banish In Time
+
+
+; -------------------------------------
+; Zone: Vault of the Wardens
 ; -------------------------------------
 
 ; Boss: Trash
@@ -549,8 +656,8 @@ dread_felbat	Dread Felbat
 191853	Furious Flames
 191823	Furious Blast
 190830	Hatred
-192504	Metamorphosis (Havoc)
-202740	Metamorphosis (Vengeance) 
+192504	Metamorphosis
+202740	Metamorphosis
 
 ; Boss: Inquisitor Tormentorum
 200898	Teleport
@@ -562,18 +669,18 @@ dread_felbat	Dread Felbat
 199918	Shadow Crash
 203685	Flesh to Stone
 
-; Boss: Glazer
-194945	Lingering Gaze
-194323	Focusing
-202046	Beam
-194333	Beamed
-
-; Boss: Ash'Golm
+; Boss: Ash'golm
 192522	Fissure
 192520	Volcano
 192517	Brittle
 192519	Lava
 -12727	Countermeasures
+
+; Boss: Glazer
+194945	Lingering Gaze
+194323	Focusing
+202046	Beam
+194333	Beamed
 
 ; Boss: Cordana Felsong
 197333	Fel Glaive
@@ -584,59 +691,3 @@ dread_felbat	Dread Felbat
 213583	Deepening Shadows
 
 
-; -------------------------------------
-;    Zone: Violet Hold
-; -------------------------------------
-
-; Boss: Trash
-204901	Carrion Swarm
-204876	Fel Destruction
-204140	Shield of Eyes
-204608	Fel Prison
-205088	Blazing Hellfire
-
-; Boss: Mindflayer Kaahrj
-201148	Doom
-201146	Hysteria
-201153	Eternal Darkness
-
-; Boss: Millificent Manastorm
-201159	Delta Finger Laser Extreme
-201240	Elementium Squirrel Bomb
-201392	Thorium Rocket Chicken
-201572	Millificent's Rage
-
-; Boss: Festerface
-201598	Congealing Vomit
-201729	High energy
-
-; Boss: Shivermaw
-201379	Frost Breath
-201672	Relentless Storm
-201354	Tail Sweep
-201355	Wing Buffet=bʌf.ɪt
-202062	Frigid Winds=wɪndz
-201960	Ice Bomb
-
-; Boss: Anub'esset
-202217	Mandible Strikes
-202341	Impale
-201863	Call of the Swarm
-202480	Fixated
-202485	Blistering Ooze
-
-; Boss: Sael'orn
-202414	Venom Spray
-202306	Creeping Slaughter
-202473	Fel Detonation
-
-; Boss: Blood-Princess Thal'ena
-202779y	Essence of the Blood Princess on you
-203381	Blood Call
-202947	Blood Swarm
-
-; Boss: Fel Lord Betrug
-203641	Fel Slash
-202328	Mighty Smash
-205233	Execution
-210879	Seed of Destruction

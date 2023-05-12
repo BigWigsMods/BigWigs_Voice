@@ -1,0 +1,47 @@
+; Type: Cataclysm Dungeon
+
+; -------------------------------------
+; Zone: The Vortex Pinnacle
+; -------------------------------------
+
+; Boss: Trash
+410999	Pressurized Blast
+410870	Cyclone
+411001	Lethal Current
+411002	Turbulence
+411005	Bomb Cyclone
+88170	Cloudburst
+88171	Hurricane
+88186	Vapor Form
+88182	Lethargic Poison
+411910	Healing Well
+411012	Chilling Breath
+88194	Icy Buffet
+413387	Crashing Stone
+87761	Rally
+87779	Greater Heal
+87772	Hand of Protection
+87762	Lightning Lash
+413385	Overload Grounding Field
+
+; Boss: Grand Vizier Ertan
+86292	Cyclone Shield
+413151	Summon Tempest
+413562	Lethal Current
+
+; Boss: Altairus
+-2425	Call the Wind
+88282	Upwind of Altairus
+88286	Downwind of Altairus
+88308	Chilling Breath
+413275	Cold Front
+413295	Downburst
+
+; Boss: Asaad, Caliph of Zephyrs
+86911	Unstable Grounding Field
+86930	Supremacy of the Storm
+87622	Chain Lightning
+-2434	Skyfall Star
+87618	Static Cling
+
+

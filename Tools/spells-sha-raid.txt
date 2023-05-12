@@ -1,7 +1,45 @@
 ; Type: Shadowlands Raid
 
 ; -------------------------------------
-;    Zone: Castle Nathria
+; Zone: Shadowlands
+; -------------------------------------
+
+; Boss: Valinor, the Light of Eons
+327274	Unleashed Anima
+327246	Anima Charge
+327280	Recharge Anima
+327262	Charged Anima Blast
+327255	Mark of Penitence
+
+; Boss: Mortanis
+338848	Spine Crawl
+338847	Unholy Frenzy
+338851	Screaming Skull
+338846	Bone Cleave
+338849	Unruly Remains
+338850	Lord of the Fallen
+
+; Boss: Oranomonos the Everbranching
+338855	Seeds of Sorrow
+338856	Dirge of the Fallen Sanctum
+338853	Rapid Growth
+338852	Implant
+338857	Regrowth
+
+; Boss: Nurgash Muckformed
+338867	Hail of Stones
+338868	Deep Slumber
+338864	Earthen Blast
+338863	Stone Stomp
+338858	Stone Fist
+
+; Boss: Mor'geth, Tormentor of the Damned
+
+; Boss: Antros
+
+
+; -------------------------------------
+; Zone: Castle Nathria
 ; -------------------------------------
 
 ; Boss: Trash
@@ -16,6 +54,7 @@
 341352	Mastercrafted Gamesman's Snare
 341735	Restore Stone
 340630	Rotting
+329298	Gluttonous Miasma
 339553	Lingering Anima
 339557	Bottled Anima
 339528	Warped Desires
@@ -29,7 +68,7 @@
 ; Boss: Shriekwing
 330711	Earsplitting Shriek
 340324	Sanguine Ichor
-342074y	Echolocation on you
+342074	Echolocation
 342863	Echoing Screech
 345397	Wave of Blood
 343005	Blind Swipe
@@ -42,7 +81,7 @@
 341489	Bloodlight
 
 ; Boss: Huntsman Altimor
-335114y	Sinseeker on you
+335114	Sinseeker
 334404	Spreadshot
 334971	Jagged Claws
 334945	Vicious Lunge
@@ -59,7 +98,7 @@
 325877	Ember Blast
 329518	Blazing Surge
 328579	Smoldering Remnants
-328479y	Eyes on Target on you
+328479	Eyes on Target
 -21954	Rockbound Vanquisher
 325440	Vanquishing Strike
 325442	Vanquished
@@ -78,13 +117,13 @@
 343026	Cloak of Flames
 
 ; Boss: Artificer Xy'mox
-328437y	Dimensional Tear on you
+328437	Dimensional Tear
 325236	Glyph of Destruction
 326271	Stasis Trap
 335013	Rift Blast
 325399	Hyperlight Spark
 340758	Fleeting Spirits
-327902y	Fixate on you
+327902	Fixate
 327414	Possession
 340788	Seeds of Extinction
 329107	Extinction
@@ -92,10 +131,10 @@
 328789	Annihilate
 
 ; Boss: Hungering Destroyer
-329298	Gluttonous Miasma
+;329298	Gluttonous Miasma
 334522	Consume
 329725	Expunge
-334266y	Volatile Ejection on you
+334266	Volatile Ejection
 329455	Desolate
 329774	Overwhelm
 332295	Growing Hunger
@@ -104,13 +143,13 @@
 331870	Focus Anima
 341621	Expose Desires
 325382	Warped Desires
-340452y	Change of Heart on you
+340452	Change of Heart
 325936	Shared Cognition
 325769	Bottled Anima
 325713	Lingering Anima
-324983y	Shared Suffering on you
+324983	Shared Suffering
 332664	Concentrated Anima
-331573y	Unconscionable Guilt on you
+331573	Unconscionable Guilt
 331550	Condemn
 
 ; Boss: The Council of Blood
@@ -119,24 +158,24 @@
 330978	Dredger Servants
 330965	Castellan's Cadre
 346790	Sintouched Blade
-346651y	Drain Essence on you
+346651	Drain Essence
 337110	Dreadbolt Volley
 346657	Prideful Eruption
 346945	Manifest Pain
 346681	Soul Spikes
 327497	Evasive Lunge
-331634y	Dark Recital on you
+331634	Dark Recital
 346800	Waltz of Blood
 346303	Violent Uproar
 330959	Danse Macabre
-330848y	Wrong Moves on you
+330848	Wrong Moves
 -22433	Afterimage of Baroness Frieda
 347350	Dancing Fever
 
 ; Boss: Sludgefist
-331209y	Hateful Gaze on you
+331209	Hateful Gaze
 331314	Destructive Impact
-335293y	Chain Link on you
+335293	Chain Link
 332318	Destructive Stomp
 341193	Falling Rubble
 335361	Stonequake
@@ -152,7 +191,7 @@
 333913	Wicked Laceration
 334765	Heart Rend
 334929	Serrated Swipe
-339690y	Crystalize on you
+339690	Crystalize
 342544	Pulverizing Meteor
 343063	Stone Spike
 342733	Ravenous Feast
@@ -163,7 +202,7 @@
 332683	Shattering Blast
 329808	Hardened Stone Form
 342425	Stone Fist
-344496y	Reverberating Eruption on you
+344496	Reverberating Eruption
 334498	Seismic Upheaval
 342256	Call Shadow Forces
 342655	Volatile Anima Infusion
@@ -175,14 +214,14 @@
 326699	Burden of Sin
 326707	Cleansing Pain
 326851	Blood Price
-327039y	Feeding Time on you
-327796y	Night Hunter on you
+327039	Feeding Time
+327796	Night Hunter
 327227	Command: Ravage
 327122	Ravage
 327992	Desolation
 328276	March of the Penitent
 329906	Carnage
-329951y	Impale on you
+329951	Impale
 -22131	Crimson Cabalist
 336162	Crescendo
 335873	Rancor
@@ -201,15 +240,17 @@
 
 
 ; -------------------------------------
-;    Zone: Sanctum of Domination
+; Zone: Sanctum of Domination
 ; -------------------------------------
+
+; Boss: Trash
 
 ; Boss: The Tarragrue
 346985	Overpower
 346986	Crushed Armor
-347269y	Chains of Eternity on you
+347269	Chains of Eternity
 347274	Annihilating Smash
-347283y	Predator's Howl on you
+347283	Predator's Howl
 347286	Unshakeable Dread
 347679	Hungering Mist
 352368	Remnant of Forgotten Torments
@@ -225,14 +266,13 @@
 349979	Dragging Chains
 348074	Assailing Lance
 349028	Titanic Death Gaze
-350847y	Desolation Beam on you
-350022y	Fracture Soul on you
+350847	Desolation Beam
+350022	Fracture Soul
 351825	Shared Suffering
 350713	Slothful Corruption
-351827y	Spreading Misery on you
-348974	Immediate Extermination
+351827	Spreading Misery
 351413	Annihilating Glare
-350604y	Hopeless Lethargy on you
+350604	Hopeless Lethargy
 355232	Scorn and Ire
 
 ; Boss: The Nine
@@ -246,20 +286,30 @@
 350385	Reverberating Refrain
 350467	Call of the Val'kyr
 350031	Agatha's Eternal Blade
-350184y	Daschla's Mighty Impact on you
+350184	Daschla's Mighty Impact
 350158	Annhylde's Bright Aegis
 350098	Aradne's Falling Strike
-350109y	Brynja's Mournful Dirge on you
+350109	Brynja's Mournful Dirge
 350039	Arthura's Crushing Gaze
 350475	Pierce Soul
 355294	Resentment
 350482	Link Essence
 350687	Word of Recall
 
+; Boss: Remnant of Ner'zhul
+350676	Orb of Torment
+350073	Torment
+350388	Sorrowful Procession
+350469	Malevolence
+350489	Lingering Malevolence
+349890	Suffering
+355123	Grasp of Malice
+351066	Shatter
+
 ; Boss: Soulrender Dormazain
 350217	Torment
 349985	Tormented Eruptions
-350647y	Brand of Torment on you
+350647	Brand of Torment
 350422	Ruinblade
 350615	Call Mawsworn
 -23517	Mawsworn Overlord
@@ -269,16 +319,6 @@
 354231	Soul Manacles
 351229	Rendered Soul
 
-; Boss: Remnant of Ner'zhul
-350676	Orb of Torment
-350073	Torment
-350388	Sorrowful Procession
-350469y	Malevolence on you
-350489	Lingering Malevolence
-349890	Suffering
-355123	Grasp of Malice
-351066	Shatter
-
 ; Boss: Painsmith Raznal
 348508	Reverberating Hammer
 355568	Cruciform Axe
@@ -286,7 +326,7 @@
 355786	Blackened Armor
 352052	Spiked Balls
 348456	Flameclasp Trap
-355505y	Shadowsteel Chains on you
+355505	Shadowsteel Chains
 355534	Shadowsteel Embers
 355536	Summon Shadowsteel Horror
 357735	Final Scream
@@ -305,16 +345,16 @@
 352833	Disintegration
 352660	Form Sentry
 347359	Suppression Field
-350496y	Threat Neutralization on you
+350496	Threat Neutralization
 
 ; Boss: Fatescribe Roh-Kalo
-351680y	Invoke Destiny on you
+351680	Invoke Destiny
 353432	Burden of Destiny
 353398	Anomalous Blast
 353603	Diviner's Probe
 353931	Twist Fate
 350421	Fated Conjunction
-350568y	Call of Eternity on you
+350568	Call of Eternity
 357739	Realign Fate
 357144	Despair
 353122	Darkest Destiny
@@ -330,16 +370,16 @@
 348978	Soul Exhaustion
 348428	Piercing Wail
 346459	Glacial Wrath
-346530	Frozen Destruction on you
-347292y	Oblivion's Echo on you
-348760y	Frost Blast on you
+346530	Frozen Destruction
+347292	Oblivion's Echo
+348760	Frost Blast
 354289	Sinister Miasma
 352051	Necrotic Surge
 352293	Vengeful Destruction
 355137	Shadow Pool
 352379	Freezing Blast
-355055	Glacial Winds=wɪndz
-355127	Foul Winds=wɪndz
+355055	Glacial Winds
+355127	Foul Winds
 352355	Undying Wrath
 352141	Banshee's Cry
 354639	Deep Freeze
@@ -350,9 +390,9 @@
 347807	Barbed Arrow
 356377	Desecrating Shot
 347670	Shadow Dagger
-349458y	Domination Chains on you
+349458	Domination Chains
 347704	Veil of Darkness
-347609y	Wailing Arrow on you
+347609	Wailing Arrow
 352650	Ranger's Heartseeker
 347607	Banshee's Mark
 353417	Rive
@@ -371,7 +411,7 @@
 354068	Banshee's Fury
 353952	Banshee Scream
 354147	Raze
-358704y	Black Arrow on you
+358704	Black Arrow
 358711	Rage
 356021	Dark Communion
 351591	Filth
@@ -383,8 +423,10 @@
 
 
 ; -------------------------------------
-;    Zone: Sepulcher of the First Ones
+; Zone: Sepulcher of the First Ones
 ; -------------------------------------
+
+; Boss: Trash
 
 ; Boss: Vigilant Guardian
 360403	Force Field
@@ -450,7 +492,7 @@
 361608	Burden of Sin
 361745	Night Hunter
 
-; Boss: Lihuvim, Principal Architech
+; Boss: Lihuvim, Principal Architect
 368027	Resonance
 364652	Protoform Cascade
 363088	Cosmic Shift
@@ -463,7 +505,6 @@
 362659	Alignment Shift
 
 ; Boss: Halondrus the Reclaimer
-368969	Volatile Charge
 360115	Reclaim
 367079	Seismic Tremors
 360114	Ephemeral Fissure
@@ -474,6 +515,7 @@
 368363	Shattered Prism
 364979	Shatter
 368529	Eternity Overdrive
+368969	Volatile Charge
 
 ; Boss: Anduin Wrynn
 362405	Kingsmourne Hungers
@@ -531,7 +573,7 @@
 363893	Martyrdom
 366545	Persecution
 365436	Torment
-360281y	Rune of Damnation on you
+360281	Rune of Damnation
 360373	Unholy Attunement
 363332	Unbreaking Grasp
 359856	Shattering Blast
@@ -549,9 +591,3 @@
 368591	Death Sentence
 
 
-; Zone: Season 4
-; Boss: Affixes
-372634	Chaotic Essence
-369505	Creation Spark
-371447	Protoform Barrier
-371254	Reconfiguration Emitter

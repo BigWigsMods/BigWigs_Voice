@@ -1,7 +1,7 @@
 ; Type: Warlords of Draenor Dungeon
 
 ; -------------------------------------
-;    Zone: Grimrail Depot
+; Zone: Grimrail Depot
 ; -------------------------------------
 
 ; Boss: Trash
@@ -12,12 +12,13 @@
 176032	Flametongue
 156301	Blackrock Mortar
 176127	Cannon Barrage
+176023	Getting Angry
 166335	Storm Shield
 166341	Thunder Zone
 166380	Reckless Slash
 166397	Arcane Blitz
 
-; Boss: Railmaster Rocketspark
+; Boss: Rocketspark and Borka
 162407	X21-01A Missile Barrage
 163947	Recovering
 162171	Better Position
@@ -28,10 +29,12 @@
 161092	Unmanaged Aggression
 
 ; Boss: Nitrogg Thundertower
-161073	Blackrock Grenade
-160965	Blackrock Mortar Shells
+163550	Blackrock Mortar
 160681	Suppressive Fire
 166570	Slag Blast
+160965	Blackrock Mortar Shells
+156357	Blackrock Shrapnel
+161073	Blackrock Grenade
 
 ; Boss: Skylord Tovra
 161801	Thunderous Breath
@@ -42,12 +45,12 @@
 
 
 ; -------------------------------------
-;    Zone: Iron Docks
+; Zone: Iron Docks
 ; -------------------------------------
 
 ; Boss: Trash
 167233	Bladestorm
-173148	Flaming Arrows
+164632	Burning Arrows
 172636	Slippery Grease
 172982	Shattering Strike
 172952	Throw Gatecrasher
@@ -64,51 +67,74 @@
 
 ; Boss: Fleshrender Nok'gar
 164426	Reckless Provocation
-164632	Burning Arrows
+;164632	Burning Arrows
+166923	Barbed Arrow Barrage
 164837	Savage Mauling
 164835	Bloodletting Howl
+164734	Shredding Swipes
 
-; Boss: Ahri'ok Dugru
-sphere	Sanguine Sphere
+; Boss: Grimrail Enforcers
+163689	Sanguine Sphere
+163705	Abrupt Restoration
+163740	Tainted Blood
+163665	Flaming Slash
+165152	Lava Sweep
+163376	Malfunctioning Jumper Cables 9000-XL
+163390	Ogre Traps
+163379	Big Boom
 
 ; Boss: Oshir
 162415	Time to Feed
+178124	Breakout
+161256	Primal Assault
 
 ; Boss: Skulloc
 168227	Gronn Smash
 168929	Cannon Barrage
+168965	Berserker Leap
+168348	Rapid Fire
 
 
 ; -------------------------------------
-;    Zone: Shadowmoon Burial Grounds
+; Zone: Shadowmoon Burial Grounds
 ; -------------------------------------
 
 ; Boss: Trash
 152818	Shadow Mend
+152819	Shadow Word: Frailty
+164907	Void Slash
 152964	Void Pulse
 394512	Void Eruptions
 398151	Sinister Focus
+398154	Cry of Anguish
+398150	Domination
 153268	Exhume the Crypts
 398206	Death Blast
 156718	Necrotic Burst
 153395	Body Slam
 
 ; Boss: Sadana Bloodfury
-164974	Dark Eclipse
-153240	Daggerfall
 153153	Dark Communion
+153240	Daggerfall
+153224	Shadow Burn
+153094	Whispers of the Dark Star
+164974	Dark Eclipse
 
 ; Boss: Nhallish
 153623	Planar Shift
 152801	Void Vortex
-152979	Soul Shred
+152792	Void Blast
 153067	Void Devastation
+152979	Soul Shred
 
 ; Boss: Bonemaw
-153804	Inhale
+165578	Corpse Breath
 154175	Body Slam
+153804	Inhale
 
 ; Boss: Ner'zhul
 154442	Malevolence
 154350	Omen of Death
--9680	Ritual of Bones
+154469	Ritual of Bones
+
+

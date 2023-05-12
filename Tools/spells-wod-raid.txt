@@ -1,118 +1,163 @@
 ; Type: Warlords of Draenor Raid
 
 ; -------------------------------------
-;   Zone: Highmaul
+; Zone: Draenor
 ; -------------------------------------
+
+; Boss: Drov the Ruiner
+175791	Colossal Slam
+175827	Call of Earth
+175915	Acid Breath
+
+; Boss: Tarlna the Ageless
+175973	Colossal Blow
+175979	Genesis
+176013	Grow Untamed Mandragora
+176001	Savage Vines
+176037	Noxious Spit
+
+; Boss: Rukhmar
+167615	Pierced Armor
+167679	Solar Breath
+167647	Loose Quills
+167757	Fixate
+
+; Boss: Supreme Lord Kazzak
+187664	Fel Breath
+187471	Supreme Doom
+187668	Mark of Kazzak
+187702	Twisted Reflection
+
+
+; -------------------------------------
+; Zone: Highmaul
+; -------------------------------------
+
+; Boss: Trash
+172066	Radiating Poison
+175654	Rune of Disintegration
+175636	Rune of Destruction
+166200	Arcane Volatility
+173827	Wild Flames
+174404	Frozen Core
 
 ; Boss: Kargath Bladefist
-162497y			On the Hunt on you
-arena_sweeper		Arena Sweeper incoming
-159113			Impale on Tank
-159113y			Impale on you
-158986y			Berserker Rush on you
-159947			Chain Hurl incoming
-159413y			Mauling Brew under you
-159311y			Flame Jet under you
-160521			Vile Breath
+-9396	Ravenous Bloodmaw
+162497	On the Hunt
+-9394	Fire Pillar
+159113	Impale
+159250	Blade Dance
+158986	Berserker Rush
+159947	Chain Hurl
+159413	Mauling Brew
+159311	Flame Jet
+160521	Vile Breath
 
 ; Boss: The Butcher
-163046y			Pale Vitriol under you
-156151			Tenderizer on tank
-156152			Gushing Wounds
--8860			Bounding Cleave
-frenzy			Frenzy
+-10228	Night-Twisted Cadaver
+163046	Pale Vitriol
+156151	The Tenderizer
+156157	Cleave
+156152	Gushing Wounds
+156197	Bounding Cleave
 
 ; Boss: Tectus
-162894			Gift of Earth
-162892y			Petrification on you
-162968			Earthen Flechettes
-162346			Barrage under you
-162475			Tectonic Upheaval
-adds			Add Spawned
+162894	Gift of Earth
+162892	Petrification
+162968	Earthen Flechettes
+163312	Raving Assault
+162288	Accretion
+162346	Crystalline Barrage
+162518	Earthen Pillar
+162475	Tectonic Upheaval
 
 ; Boss: Brackenspore
-spore_shooter		Small Adds
-mind_fungus		Mind Fungus
-flesh_eater		Big Add
-160013			Decay casting
-living_mushroom		Living Mushroom
-rejuvenating_mushroom	Rejuvinating Mushroom
-164125			Healing
-163241			Rot on tank
-159219			Necrotic Breath
-159996			Infesting Spores
+163755	Call of the Tides
+163794	Exploding Fungus
+160013	Decay
+164125	Creeping Moss
+163241	Rot
+159219	Necrotic Breath
+159996	Infesting Spores
 
 ; Boss: Twin Ogron
-volatility_self		Arcane Volatility on you
-158134			Shield Charge
-158093			Interrupting Shout
-158385			Pulverize
-157943			Whirlwind Arcane
-158057			Enfeebling Roar
-158200			Quake incoming
-158241y			Blaze under you
+163297	Arcane Twisted
+163372	Arcane Volatility
+143834	Shield Bash
+158134	Shield Charge
+158093	Interrupting Shout
+158385	Pulverize
+158521	Double Slash
+167200	Arcane Wound
+157943	Whirlwind
+158057	Enfeebling Roar
+158200	Quake
+158241	Blaze
 
 ; Boss: Ko'ragh
-;163472	Dominating Power
-;172895	Expel Magic: Fel on you
-;161242	Caustic Energy
-;161612	Overwhelming Energy
-;160734	Vulnerability
-;161328	Suppression Field
-;162184	Expel Magic: Shadow
-;162185	Expel Magic: Fire
-;162186	Expel Magic: Arcane casting
-;172747	Expel Magic: Frost
+172895	Expel Magic: Fel
+160734	Vulnerability
+161242	Caustic Energy
+161612	Overflowing Energy
+161328	Suppression Field
+162185	Expel Magic: Fire
+162186	Expel Magic: Arcane
+172747	Expel Magic: Frost
+162184	Expel Magic: Shadow
 
 ; Boss: Imperator Mar'gok
-;159515	Accelerated Assault
-;156238	Arcane Wrath
-;156225	Branded
-;156467	Destructive Resonance
-;156471	Summon Arcane Aberration
-;158605	Mark of Chaos
-;157349	Force Nova
-;157801	Slow
-;157763	Fixate on you
-;158553	Crush Armor
-;158563	Kick to the Face
+178607	Dark Star
+165102	Infinite Darkness
+165116	Entropy
+165876	Enveloping Night
+165243	Glimpse of Madness
+176537	Eyes of the Abyss
+165595	Gaze of the Abyss
+176533	Growing Shadows
+159515	Accelerated Assault
+156238	Arcane Wrath
+156225	Branded
+156467	Destructive Resonance
+156471	Summon Arcane Aberration
+158605	Mark of Chaos
+157349	Force Nova
+157801	Slow
+157763	Fixate
+178468	Nether Energy
+-9921	Gorian Reaver
+158553	Crush Armor
+158563	Kick to the Face
 
 
 ; -------------------------------------
-;   Zone: Blackrock Foundry
+; Zone: Blackrock Foundry
 ; -------------------------------------
 
-; Boss: Gruul
-155080	Inferno Slice
-155301	Overhead Smash
-155078	Overwhelming Blows
-155326	Petrifying Slam near you
-155539	Destructive Rampage
-173192y	Cave In under you
+; Boss: Trash
+175643	Spinning Blade
+175624	Grievous Mortal Wounds
+175765	Overhead Smash
+162663	Electrical Storm
+175993	Lumbering Strength
+18501	Enrage
+159632	Insatiable Hunger
+160260	Fire Bomb
+163121	Held to Task
+177806	Furnace Flame
+174773	Exhaust Fumes
+171613	Inferno Totem
+175583	Living Blaze
+175594	Burning
 
 ; Boss: Oregorger
 156240	Acid Torrent
 173471	Acid Maw
 156203	Retched Blackrock
 156390	Explosive Shard
-shard_explosion	Shard Explosion
-;156877 Blackrock Barrage
-155819	Hunger Drive
+156877	Blackrock Barrage
 155898	Rolling Fury
 
-; Boss: Blast Furnace
-176121	Volatile Fire
-155179	Repair
-155192	Bomb
-156934	Rupture
--10325	Shields Down
-155173	Reactive Earth Shield, dispel
--10324	Fixate on you
-176133	Slag Bomb
-155209	Blast
-155225	Melt
-
-; Boss: Hans'gar & Franzok
+; Boss: Hans'gar and Franzor
 162124	Smart Stampers
 160838	Disrupting Roar
 153470	Skullcracker
@@ -120,6 +165,32 @@ shard_explosion	Shard Explosion
 157139	Shattered Vertebrae
 155818	Scorching Burns
 155747	Body Slam
+
+; Boss: Beastlord Darmac
+155061	Rend and Tear
+155198	Savage Howl
+155030	Seared Flesh
+154989	Inferno Breath
+156824	Inferno Pyre
+154981	Conflagration
+155499	Superheated Shrapnel
+156823	Superheated Scrap
+155657	Flame Infusion
+155236	Crush Armor
+155222	Tantrum
+155247	Stampede
+159043	Epicenter
+155321	Unstoppable
+154960	Pinned Down
+154975	Call the Pack
+
+; Boss: Gruul
+155080	Inferno Slice
+155301	Overhead Smash
+155078	Overwhelming Blows
+155326	Petrifying Slam
+155539	Destructive Rampage
+173192	Cave In
 
 ; Boss: Flamebender Ka'graz
 156018	Devastating Slam
@@ -131,13 +202,42 @@ shard_explosion	Shard Explosion
 155277	Blazing Radiance
 155493	Firestorm
 163284	Rising Flames
-154952y	Fixate on you
+154952	Fixate
 154950	Overheated
 155074	Charring Breath
+155064	Rekindle
+
+; Boss: Operator Thogar
+163753	Iron Bellow
+160140	Cauterizing Bolt
+159481	Delayed Siege Bomb
+155921	Enkindle
+155864	Prototype Pulse Grenade
+
+; Boss: The Blast Furnace
+155186	Cauterize Wounds
+176121	Volatile Fire
+155179	Repair
+155192	Bomb
+174731	Cluster of Lit Bombs
+156937	Pyroclasm
+175104	Melt Armor
+156934	Rupture
+-10325	Shields Down
+155173	Reactive Earth Shield
+-10324	Fixate
+177744	Burn
+176141	Hardened Slag
+176133	Slag Bomb
+155209	Blast
+155242	Heat
+155225	Melt
+163776	Superheated
 
 ; Boss: Kromog
 173917	Rune of Trembling Earth
--9706	Call of the Mountain
+158217	Call of the Mountain
+156766	Warped Armor
 156852	Stone Breath
 156704	Slam
 157592	Rippling Smash
@@ -146,26 +246,7 @@ shard_explosion	Shard Explosion
 157054	Thundering Blows
 156861	Frenzy
 
-; Boss: Beastlord Darmac
-154989	Inferno Breath
-155499	Shrapnel
-155657	Flame Infusion
-155222	Tantrum
-155247	Stampede
-159043	Epicenter
-155321	Unstoppable
-154960	Pinned Down
-154975	Call the Pack
-
-; Boss: Operator Thogar
-163753	Iron Bellow
-160140	Cauterizing Bolt
-159481	Delayed Siege Bomb
-155921	Enkindle
-155864y	Grenade under you
-trains	Train incoming
-
-; Boss: Iron Maidens
+; Boss: The Iron Maidens
 158683	Corrupted Blood
 158708	Earthen Barrier
 158692	Deadly Throw
@@ -173,30 +254,58 @@ trains	Train incoming
 164271	Penetrating Shot
 158599	Deploy Turret
 155794	Blade Dash
-156109y	Convulsive Shadows on you
+156109	Convulsive Shadows
 158315	Dark Hunt
-159724y	Blood Ritual on you
-158010y	Heartseeker on you
+159724	Blood Ritual
+158010	Bloodsoaked Heartseeker
 156601	Sanguine Strikes
 159336	Iron Will
 
 ; Boss: Blackhand
 156425	Demolition
-156401y	Molten Slag on you
-156653y	Fixate on you
-156667	Blackiron Plating removed
+156401	Molten Slag
+156653	Fixate
+156667	Blackiron Plating
+156728	Explosive Round
 158054	Massive Shattering Smash
 156928	Slag Eruption
-157000y	Slag Bomb on you
+157000	Attach Slag Bombs
 155992	Shattering Smash
-156096y	Marked for Death on you
+156096	Marked for Death
 156107	Impaling Throw
-156030	Slag Bombs
+156030	Throw Slag Bombs
+163008	Massive Explosion
+162585	Falling Debris
 
 
 ; -------------------------------------
-;   Zone: Hellfire Citadel
+; Zone: Hellfire Citadel
 ; -------------------------------------
+
+; Boss: Trash
+188072	Fel Destruction
+187110	Focused Fire
+188476	Bad Breath
+188448	Blazing Fel Touch
+188510	Graggra Smash
+182644	Dark Fate
+189612	Rending Howl
+179219	Phantasmal Fel Bomb
+189595	Protocol: Crowd Control
+189533	Sever Soul
+184587	Touch of Mortality
+184621	Hellfire Blast
+184986	Seal of Decay
+186197	Demonic Sacrifice
+186130	Void Burst
+190043	Felblood Strike
+189538	Doom
+189550	Rain of Fire
+189512	Mark of Kaz'rogal
+189504	War Stomp
+189470	Sleep
+189491	Summon Towering Infernal
+189464	Carrion Swarm
 
 ; Boss: Hellfire Assault
 184369	Howling Axe
@@ -204,59 +313,39 @@ trains	Train incoming
 185090	Inspiring Presence
 184243	Slam
 184238	Cower!
-185816	Repairing
+185816	Repair
 185806	Conducted Shock Pulse
 181968	Metamorphosis
 180417	Felfire Volley
 180945	Siege Nova
 188101	Belch Flame
 180184	Crush
-190748	Cannonball (Grute)
-185021	Call to Arms (Transporter)
-siegevehicles	Siege Vehicles
+190748	Cannonball
+185021	Call to Arms!
 
 ; Boss: Iron Reaver
-182280y	Artillery on you
 182020	Pounding
 185282	Barrage
-182001y	Unstable Orb on you
-182074y	Immolation under you
-182066	Falling Slam
+182001	Unstable Orb
 179889	Blitz
 182055	Full Charge
 181999	Firebomb
-;182534	Volatile Firebomb
-;186667	Burning Firebomb
-;186676	Reactive Firebomb
-;186652	Quick-Fuse Firebomb
+182066	Falling Slam
+182280	Artillery
+182074	Immolation
 
 ; Boss: Kormrok
-181306	Explosive Burst
-181292	Fel Outpouring
-181296	Explosive Runes
-181299	Grasping Hands
-180244	Pound
-181305	Swat
+185686	Fiery Residue
+185687	Foul Residue
+181208	Shadow Residue
 181307	Foul Crush
-180115	Shadow Energy
-180116	Explosive Energy
-180117	Foul Energy
+181306	Explosive Burst
+181305	Swat
+181299	Grasping Hands
+181296	Explosive Runes
+181292	Fel Outpouring
+180244	Pound
 186882	Enrage
-
-; Boss: Kilrogg Deadeye
-180372	Heart Seeker
-182428	Vision of Death
-180224	Death Throes
-180199	Shred Armor
-187089	Cleansing Aura
-183917	Rending Howl
-180163	Savage Strikes
-180618	Fel Blaze
-180033	Cinder Breath
--11269	Hulking Terror
--11266	Salivating Bloodthirster
--11261	Blood Globule
--11263	Fel Blood Globule
 
 ; Boss: Hellfire High Council
 184449	Mark of the Necromancer
@@ -266,123 +355,149 @@ siegevehicles	Siege Vehicles
 184358	Fel Rage
 184355	Bloodboil
 184847	Acidic Wound
-184365	Demolishing Leap
-;183210	Fel Blade
+184366	Demolishing Leap
 183885	Mirror Images
 
+; Boss: Kilrogg Deadeye
+188929	Heart Seeker
+188852	Blood Splatter
+182428	Vision of Death
+180224	Death Throes
+180199	Shred Armor
+187089	Cleansing Aura
+183917	Rending Howl
+180163	Savage Strikes
+180618	Fel Blaze
+180033	Cinder Breath
+180570	Fel Flames
+-11269	Hulking Terror
+-11266	Salivating Bloodthirster
+-11261	Blood Globule
+-11263	Fel Blood Globule
+
 ; Boss: Gorefiend
-179977y	Touch of Doom on you
-179995	Doom Well under you
+179977	Touch of Doom
+179995	Doom Well
 179909	Shared Fate
 181973	Feast of Souls
 181295	Digest
-179864y	Shadow of Death on you
-;182788	Crushing Darkness
+179864	Shadow of Death
 182601	Fel Fury
 181582	Bellowing Shout
 180148	Hunger for Life
+-11020	Gorebound Spirit
 187814	Raging Charge
 185189	Fel Flames
 
 ; Boss: Shadow-Lord Iskar
-179202y	Eye of Anzu on you
-181956y	Phantasmal Winds=wɪndz on you
-182323y	Phantasmal Wounds on you
-181824y	Phantasmal Corruption on you
-181753	Fel Bomb
-181912	Focused Blast
-182582	Fel Incineration
-181827	Fel Conduit
 182200	Fel Chakram
-185510	Dark Bindings
+181956	Phantasmal Winds
+182323	Phantasmal Wounds
 185345	Shadow Riposte
+181912	Focused Blast
+181753	Fel Bomb
+181827	Fel Conduit
+181824	Phantasmal Corruption
+185510	Dark Bindings
+179202	Eye of Anzu
+182582	Fel Incineration
 
 ; Boss: Socrethar the Eternal
+180008	Reverberating Blow
+182038	Shattered Defenses
+180221	Volatile Fel Orb
+182051	Felblaze Charge
+182218	Felblaze Residue
+181288	Fel Prison
+188693	Apocalyptic Felburst
+-11778	Voracious Soulstalker
 188692	Unstoppable Tenacity
 183331	Exert Dominance
 183329	Apocalypse
-189627y	Volatile Fel Orb on you
-182051y	Felblaze Charge on you
-184053y	Fel Barrier on you
-184124y	Gift of the Man'ari on you
+184124	Gift of the Man'ari
 182392	Shadow Bolt Volley
-182769y	Ghastly Fixation on you
-182218	Felblaze Residue
-181288	Fel Prison
-180008	Reverberating Blow
--11456	Sargerei Dominator
--11778	Voracious Soulstalker
 -11462	Haunting Soul
+182769	Ghastly Fixation
+
+; Boss: Fel Lord Zakuun
+179583	Rumbling Fissures
+179406	Soul Cleave
+179407	Disembodied
+189009	Cavitation
+179711	Befouled
+181508	Seed of Destruction
+179620	Fel Crystal
+
+; Boss: Xhul'horac
+190223	Fel Strike
+186407	Fel Surge
+186453	Felblaze Flurry
+186490	Chains of Fel
+190224	Void Strike
+186333	Void Surge
+186783	Withering Gaze
+186546	Black Hole
+187204	Overwhelming Chaos
+186134	Feltouched
+186135	Voidtouched
+186073	Felsinged
+186063	Wasting Void
 
 ; Boss: Tyrant Velhari
-180004	Enforcer's Onslaught
 180260	Annihilating Strike
 180300	Infernal Tempest
 -11155	Ancient Enforcer
+180004	Enforcer's Onslaught
 180533	Tainted Shadows
-180025	Harbinger's Mending
-180526y	Font of Corruption on you
+180526	Font of Corruption
 -11163	Ancient Harbinger
+180025	Harbinger's Mending
+180600	Bulwark of the Tyrant
 180608	Gavel of the Tyrant
-180040	Sovereign's Ward
 -11170	Ancient Sovereign
+180040	Sovereign's Ward
 180000	Seal of Decay
 185237	Touch of Harm
 182459	Edict of Condemnation
 
-; Boss: Fel Lord Zakuun
-179711y	Befouled on you
-179671	Heavily Armed
-179407	Disembodied
-179583	Rumbling Fissures
-181653	Fel Crystal
-181508	Seed of Destruction
-179681	Enrage
-179406	Soul Cleave
-189009	Cavitation
-
-; Boss: Xhul'horac
-186134y	Feltouched on you
-186135y	Voidtouched on you
-186073	Felsinged
-186063	Wasting Void
-186407y	Fel Surge on you
-186333y	Void Surge on you
-186500y	Chains of Fel on you
-186448	Felblaze Flurry
-186785	Withering Gaze
-186271	Fel Strike
-186292	Void Strike
-187204	Overwhelming Chaos
-186546	Black Hole
--11691	Vanguard Akkelion
--11688	Omnus
--11714	Unstable Voidfiend
-
 ; Boss: Mannoroth
-181099	Mark of Doom
-181597	Mannoroth's Gaze
 181799	Shadowforce
-181566	Fel Hellstorm
+181354	Glaive Combo
+181359	Massive Blast
+181557	Fel Hellstorm
+181597	Mannoroth's Gaze
+181735	Felseeker
+186362	Wrath of Gul'dan
+190482	Gripping Shadows
+190070	Overflowing Fel Energy
 181275	Curse of the Legion
 181119	Doom Spike
+181099	Mark of Doom
 181126	Shadow Bolt Volley
-181735	Felseeker
-183377	Glaive Thrust
-181359	Massive Blast
-181354	Glaive Combo
-181557	Fel Hellstorm
+181255	Fel Imp-losion
+181180	Inferno
 
 ; Boss: Archimonde
-184964y	Shackled Torment on you
-183828	Death Brand
-186961	Nether Banish
+182826	Doomfire
 183817	Shadowfel Burst
-183865	Demonic Havoc
-182879y	Doomfire Fixate on you
-189895y	Void Star Fixate on you
-186123	Wrought Chaos
-185014	Focused Chaos
-183586y	Doomfire under you
-183254	Allure of Flames
 185590	Desecrate
+183963	Light of the Naaru
+184964	Shackled Torment
+186123	Wrought Chaos
+183865	Demonic Havoc
+187180	Demonic Feedback
+186961	Nether Banish
+189894	Void Star
+187255	Nether Storm
+182225	Rain of Chaos
+190050	Touch of Shadows
+190394	Dark Conduit
+187050	Mark of the Legion
+190703	Source of Chaos
+190506	Seething Corruption
+190821	Twisted Darkness
+183254	Allure of Flames
+183828	Death Brand
+183864	Shadow Blast
+
+

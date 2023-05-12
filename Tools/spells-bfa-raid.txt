@@ -1,23 +1,72 @@
 ; Type: Battle for Azeroth Raid
 
 ; -------------------------------------
-;    Zone: Uldir, Halls of Control
+; Zone: Azeroth
+; -------------------------------------
+
+; Boss: Grand Empress Shek'zara
+
+; Boss: Vuk'laz the Earthbreaker
+
+; Boss: Wekemara
+
+; Boss: Ulmath, the Soulbinder
+
+; Boss: Ivus the Decayed
+
+; Boss: Doom's Howl
+
+; Boss: The Lion's Roar
+
+; Boss: T'zane
+262004	Crushing Slam
+261552	Terror Wail
+261600	Coalesced Essence
+261605	Consuming Spirits
+
+; Boss: Ji'arak
+260908	Storm Wing
+261088	Hurricane Crash
+261467	Matriarch's Call
+
+; Boss: Hailstone Construct
+274895	Freezing Tempest
+274891	Glacial Breath
+
+; Boss: Warbringer Yenajz
+274932	Endless Abyss
+274842	Void Nova
+274904	Reality Tear
+
+; Boss: Azurethos, The Winged Typhoon
+274832	Wing Buffet
+274829	Gale Force
+274839	Azurethos' Fury
+
+; Boss: Dunegorger Kraulok
+276046	Shake Loose
+275200	Primal Rage
+
+
+; -------------------------------------
+; Zone: Uldir
 ; -------------------------------------
 
 ; Boss: Trash
-277047y	Corrupting Gaze on you
+277047	Corrupting Gaze
 276540	Blood Shield
+278990	Bloodshot Rage
 
-; Boss: Taloc the Corrupted
-271224y	Plasma Discharge on you
+; Boss: Taloc
+271224	Plasma Discharge
 270290	Blood Storm
 271296	Cudgel of Gore
 271728	Retrieve Cudgel
-271895y	Sanguine Static on you
+271895	Sanguine Static
 275270	Fixate
 275432	Uldir Defensive Beam
-275189y	Hardened Arteries on you
-275205y	Enlarged Heart on you
+275189	Hardened Arteries
+275205	Enlarged Heart
 
 ; Boss: MOTHER
 268198	Clinging Corruption
@@ -27,28 +76,27 @@
 267795	Purifying Flame
 267878	Wind Tunnel
 268253	Uldir Defensive Beam
-279662y	Endemic Virus on you
+279662	Endemic Virus
 
 ; Boss: Fetid Devourer
-262277	Thrashing Terror
-breath	Rotting Regurgitation
+262277	Terrible Thrash
 262288	Shockwave Stomp
-262313y	Malodorous Miasma on you
-262314y	Putrid Paroxysm on you
+262313	Malodorous Miasma
+262314	Putrid Paroxysm
 262364	Enticing Essence
 262378	Fetid Frenzy
 
-; Boss: Zek'voz, Herald of N'zoth
+; Boss: Zek'voz, Herald of N'Zoth
 265530	Surging Darkness
 265231	Void Lash
 265248	Shatter
-264382y	Eye Beam on you
--18390	Qiraji Warrior
-265360y	Roiling Deceit on you
--18397	Anub'ar Voidweaver
+264382	Eye Beam
+-18390	Silithid Warrior
+265360	Roiling Deceit
+-18397	Nerubian Voidweaver
 267180	Void Bolt
 267239	Orb of Corruption
-265662y	Corruptor's Pact on you
+265662	Corruptor's Pact
 265646	Will of the Corruptor
 
 ; Boss: Vectis
@@ -63,14 +111,10 @@ breath	Rotting Regurgitation
 274990	Bursting Lesions
 
 ; Boss: Zul, Reborn
-269936y	Fixate on you
+;269936	Fixate
 -18530	Minion of Zul
-273365y	Dark Revelation on you
-273360	Pool of Darkness
-273889	Call of Blood
-crusher	Crusher spawning soon
-bloodhexer	Blood Hexer spawning soon
-crawg	Crawg spawning soon
+273365	Dark Revelation
+273361	Pool of Darkness
 273288	Thrumming Pulse
 273451	Congeal Blood
 273350	Bloodshard
@@ -83,19 +127,19 @@ crawg	Crawg spawning soon
 273282	Essence Shear
 273538	Obliteration Blast
 272404	Oblivion Sphere
-272536y	Imminent Ruin on you
+272536	Imminent Ruin
 279013	Essence Shatter
 273810	Xalzaix's Awakening
-274230	Oblivion's Veil
+274230	Oblivion Veil
 272115	Obliteration Beam
 273949	Visions of Madness
 276922	Living Weapon
 279157	Void Echoes
 
 ; Boss: G'huun
--18109	Power Matrix
+-18109	Section 18
 263482	Reorigination Blast
-272506y	Explosive Corruption on you
+272506	Explosive Corruption
 270287	Blighted Ground
 267509	Thousand Maws
 267427	Torment
@@ -110,94 +154,53 @@ crawg	Crawg spawning soon
 275160	Gaze of G'huun
 263321	Undulating Mass
 277007	Bursting Boil
-268074	Fixate
+268074	Dark Purpose
 
 
 ; -------------------------------------
-;    Zone: Battle of Dazar'alor
+; Zone: Battle of Dazar'alor
 ; -------------------------------------
 
 ; Boss: Trash
+288808	Consecration
 288815	Breath of Fire
-289772y	Impale on you
+288959	Spectral Charge
+289772	Impale
 289937	Thundering Slam
 289917	Bwonsamdi's Pact
 290578	Bwonsamdi's Knife
 
-; Boss: Champion of the Light
-283573	Sacred Blade
-283598	Wave of Light
-284469	Seal of Retribution
-283933	Judgement: Righteousness
-284436	Seal of Reckoning
-284474	Judgement: Reckoning
-283662	Call to Arms
-282113	Avenging Wrath
-284595	Penance
-283628	Heal
-283650	Blinding Faith
-287469	Prayer for the Fallen
+; Boss: Champion of the Light (Alliance)
 
-; Boss: Jadefire Masters
-286436	Whirling Jade Storm
-282030	Multi-Sided Strike
-285645	Spirits of Xuen
-285632	Stalking
-282037	Rising Flames
-286379	Pyroblast
-286425	Fire Shield
-286988	Searing Embers
-284374	Magma Trap
-285428	Fire from Mist
-284656	Ring of Hostility
-282040	Blazing Phoenix
-286396	Dragon's Breath
+; Boss: Champion of the Light (Horde)
 
-; Boss: Grong
-285671	Crushed
-285875	Rending Bite
-289401y	Beastial Throw on you
-285994	Ferocious Roar
-; Alliance
-282399	Death Knell
-286450	Necrotic Combo
-282543	Deathly Slam
-282471	Voodoo Blast
-286373	Chill of Death
-282526	Death Specter
-282533	Death Empowerment
-286434	Shadow Core
-286435	Discharge Shadow Core
-; Horde
-281936	Tantrum
-282082	Bestial Combo
-282179	Reverberating Slam
-282215	Megatomic Seeker Missile
-283069	Megatomic Fire
-282247	Apetagonizer 3000 Bomb
-282243	Apetagonize
-285659	Apetagonizer Core
-285660	Discharge Apetagonizer Core
+; Boss: Jadefire Masters (Alliance)
+
+; Boss: Jadefire Masters (Horde)
+
+; Boss: Grong (Alliance)
+
+; Boss: Grong (Horde)
 
 ; Boss: Opulence
 286541	Consuming Flame
 -19494	The Zandalari Crown Jewels
-284645y	Topaz of Brilliant Sunlight on you
+284645	Topaz of Brilliant Sunlight
 283606	Crush
 289383	Chaotic Displacement
-283507y	Volatile Charge on you
+283507	Volatile Charge
 282939	Flames of Punishment
 285479	Flame Jet
 284424	Scorching Ground
 284493	Pulse-quickening Toxin
 284519	Quickened Pulse
-284470y	Hex of Lethargy on you
+284470	Hex of Lethargy
 287070	Hoard Power
-287072y	Liquid Gold on you
+287072	Liquid Gold
 287074	Molten Gold
 285995	Spirits of Gold
 286026	Channel Gold
-285014y	Coin Shower on you
+285014	Coin Shower
 284941	Wail of Greed
 287037	Coin Sweep
 289155	Surging Gold
@@ -205,38 +208,39 @@ crawg	Crawg spawning soon
 ; Boss: Conclave of the Chosen
 282079	Loa's Pact
 282098	Gift of Wind
-285945	Hastening Winds=wɪndz
+285945	Hastening Winds
 282107	Pa'ku's Wrath
-282135y	Crawling Hex on you
+282135	Crawling Hex
 285893	Wild Maul
 282155	Gonk's Wrath
-282209y	Mark of Prey on you
+282209	Mark of Prey
 282444	Lacerating Claws
-282447y	Kimbul's Wrath on you
+282447	Kimbul's Wrath
 282411	Thundering Storm
 285879	Mind Wipe
-286811y	Akunda's Wrath on you
+286811	Akunda's Wrath
 282636	Krag'wa's Wrath
 
 ; Boss: King Rastakhan
 284831	Scorching Detonation
 284933	Plague of Toads
 285172	Greater Serpent Totem
-290450y	Seal of Purification on you
+290450	Seal of Purification
 284686	Meteor Leap
 284719	Crushing Leap
 284781	Grievous Axe
-285346y	Plague of Fire on you
+285195	Deathly Withering
+285346	Plague of Fire
 285003	Zombie Dust Totem
 285213	Caress of Death
-288449y	Death's Door on you
+288449	Death's Door
 287333	Inevitable End
 286742	Necrotic Smash
 
 ; Boss: High Tinker Mekkatorque
 282153	Buster Cannon
 282205	Blast Off
-286646y	Gigavolt Charge on you
+286646	Gigavolt Charge
 287952	Wormhole Generator
 288410	Deploy Spark Bot
 286693	World Enlarger
@@ -246,34 +250,36 @@ crawg	Crawg spawning soon
 ; Boss: Stormwall Blockade
 287995	Electric Shroud
 284262	Voltaic Flash
-284106	Crackling Lightning
+288205	Crackling Lightning
 286558	Tidal Shroud
 284362	Sea Storm
 284383	Sea's Temptation
-284406	Tempting Song
+284405	Tempting Song
 288696	Catastrophic Tides
 285000	Kelp-Wrapped
 285118	Sea Swell
 285017	Ire of the Deep
-285350y	Storm's Wail on you
+285350	Storm's Wail
 
 ; Boss: Lady Jaina Proudmoore
 287993	Chilling Touch
 287490	Frozen Solid
+-19690	Kul Tiran Corsair
 288038	Marked Target
 285725	Set Charge
 287365	Searing Pitch
 285253	Ice Shard
-285254y	Avalanche on you
+285254	Avalanche
 287925	Time Warp
 287626	Grasp of Frost
 285177	Freezing Blast
 285459	Ring of Ice
 288297	Arctic Ground
-288212y	Broadside on you
-288374y	Siegebreaker Blast on you
+288212	Broadside
+288374	Siegebreaker Blast
 288345	Glacial Ray
 288441	Icefall
+288221	Burning Explosion
 289220	Heart of Frost
 289219	Frost Nova
 290084	Water Bolt Volley
@@ -282,20 +288,20 @@ crawg	Crawg spawning soon
 288747	Prismatic Image
 289387	Freezing Blood
 289488	Frozen Siege
-288169	Howling Winds=wɪndz
+288169	Howling Winds
 -19825	Icebound Image
 
 
 ; -------------------------------------
-;    Zone: Crucible of Storms
+; Zone: Crucible of Storms
 ; -------------------------------------
 
 ; Boss: Trash
 
 ; Boss: The Restless Cabal
-282738	Embrace of the Void
+-18970	Relics of Power
 282741	Umbral Shell
-282750	Custody of the Deep
+282886	Abyssal Collapse
 282742	Storm of Annihilation
 282914	Power Overwhelming
 282675	Pact of the Restless
@@ -303,39 +309,51 @@ crawg	Crawg spawning soon
 282540	Agent of Demise
 282589	Cerebral Assault
 282561	Dark Herald
-282562	Promises of Power
+282566	Promises of Power
+282515	Visage from Beyond
 282517	Terrifying Echo
 282384	Shear Mind
 282407	Void Crash
-282432y	Crushing Doubt on you
+282432	Crushing Doubt
 287876	Enveloping Darkness
 
 ; Boss: Uu'nat, Harbinger of the Void
+-19055	Relics of Power
 284722	Umbral Shell
 284804	Custody of the Deep
+284809	Abyssal Collapse
 284583	Storm of Annihilation
 284851	Touch of the End
 285185	Oblivion Tear
 285416	Void Crash
 285376	Eyes of N'Zoth
 285345	Maddening Eyes of N'Zoth
-285367	Piercing Gaze of N'Zoth
 285453	Gift of N'Zoth: Obscurity
 285820	Call Undying Guardian
 285638	Gift of N'Zoth: Hysteria
 -19118	Primordial Mindbender
 285427	Consume Essence
 285562	Unknowable Terror
-285652y	Insatiable Torment on you
+285652	Insatiable Torment
 285685	Gift of N'Zoth: Lunacy
+293653	Unstable Resonance
 285307	Feed
 
 
 ; -------------------------------------
-;    Zone: The Eternal Palace
+; Zone: The Eternal Palace
 ; -------------------------------------
 
 ; Boss: Trash
+
+; Boss: Abyssal Commander Sivara
+294726	Chimeric Marks
+295332	Crushing Reverberation
+-20300	Section 22
+296551	Overwhelming Barrage
+-20006	Section 9
+295601	Frostshock Bolts
+295791	Inversion
 
 ; Boss: Blackwater Behemoth
 292127	Darkest Depths
@@ -346,25 +364,26 @@ crawg	Crawg spawning soon
 298428	Feeding Frenzy
 292159	Toxic Spine
 292270	Shock Pulse
-301494y	Piercing Barb on you
+301494	Piercing Barb
 292083	Cavitation
 301180	Slipstream
 
-; Boss: Za'qul, Harbinger of Ny'alotha
-298192	Dark Beyond
-292971	Hysteria
-295444	Mind Tether
-294535	Portal of Madness
-301141	Crushing Grasp
-292963	Dread
-293509y	Manifest Nightmares on you
-292996	Maddening Eruption
-295099	Punctured Darkness
-304733	Delirium's Descent
-303971	Dark Pulse
-299702	Dark Passage
-296018	Manic Dread
-295814	Psychotic Split
+; Boss: Radiance of Azshara
+296566	Tide Fist
+296428	Arcanado Burst
+296459	Squall Trap
+296737	Arcane Bomb
+296894	Unshackled Power
+295916	Ancient Tempest
+296701	Gale Buffet
+
+; Boss: Lady Ashvane
+296662	Rippling Wave
+297397	Briny Bubble
+298056	Upsurge
+296725	Barnacle Bash
+296752	Cutting Coral
+-20096	Section 14
 
 ; Boss: Orgozoa
 298156	Desensitizing Sting
@@ -373,55 +392,42 @@ crawg	Crawg spawning soon
 305048	Arcing Current
 298465	Amniotic Splatter
 298548	Massive Incubator
-295779y	Aqua Lance on you
+295779	Aqua Lance
 295822	Conductive Pulse
 296691	Powerful Stomp
-
-; Boss: Abyssal Commander Sivara
-294726	Chimeric Marks
-295332	Crushing Reverberation
--20300y	Frostvenom Tipped on you
-296551	Overwhelming Barrage
--20006y	Overflow on you
-295601y	Frostshock Bolts on you
-295791y	Inversion on you
-
-; Boss Radiance of Azshara
-296546	Tide Fist
-296428	Arcanado Burst
-296459	Squall Trap
-296737y	Arcane Bomb on you
-296894	Unshackled Power
-295916	Ancient Tempest
-296701	Gale Buffet=bʌf.ɪt
-
-; Boss: Lady Ashvane
-296569	Coral Growth
-296662	Rippling Wave
-297397y	Crushing Depths on you
-298056	Upsurge
-296725	Barnacle Bash
--20096	Arcing Azerite
+305057	Call of the Tender
 
 ; Boss: The Queen's Court
 300088	Desperate Measures
 296716	Separation of Power
-298050	Form Rank
+298050	Form Ranks
 301244	Repeat Performance
 297656	Stand Alone
 297566	Deferred Sentence
-297585	Obey and Suffer
-
-; Boss: Silivaz the Zealous
-299914y	Frenetic Charge on you
+297585	Obey or Suffer
+299914	Frenetic Charge
 300545	Mighty Rupture
 301807	Zealous Eruption
-
-; Boss: Pashmar the Fanatical
 301830	Pashmar's Touch
-296851y	Fanatical Verdict on you
+296851	Fanatical Verdict
 297325	Violent Outburst
 301947	Potent Spark
+
+; Boss: Za'qul, Harbinger of Ny'alotha
+298192	Dark Beyond
+292971	Hysteria
+295444	Mind Tether
+294535	Portal of Madness
+301141	Crushing Grasp
+292963	Dread
+293509	Manifest Nightmares
+292996	Maddening Eruption
+295099	Punctured Darkness
+304733	Delirium's Descent
+303971	Dark Pulse
+299702	Dark Passage
+296018	Manic Dread
+295814	Psychotic Split
 
 ; Boss: Queen Azshara
 300074	Pressure Surge
@@ -435,7 +441,7 @@ crawg	Crawg spawning soon
 298014	Cold Blast
 298021	Ice Shard
 298756	Serrated Edge
-301078y	Charged Spear on you
+301078	Charged Spear
 -20480	Overzealous Hulk
 298531	Ground Pound
 300428	Infuriated
@@ -443,28 +449,34 @@ crawg	Crawg spawning soon
 299094	Beckon
 299250	Queen's Decree
 302999	Arcane Vulnerability
+-20408	Azshara's Devoted
+-20410	Azshara's Indomitable
 304475	Arcane Jolt
 300519	Arcane Detonation
 297371	Reversal of Fortune
-303657y	Arcane Burst on you
-300492y	Static Shock on you
+303657	Arcane Burst
+-20355	Loyal Myrmidon
+300492	Static Shock
 300620	Crystalline Shield
 297372	Greater Reversal of Fortune
+300768	Piercing Gaze
 300743	Void Touched
-303980	Nether Portal
-300807	Overload
+303986	Nether Portal
+301431	Overload
+300866	Essence of Azeroth
+300877	System Shock
+300478	Divide and Conquer
 
 
 ; -------------------------------------
-;    Zone: Ny'alotha, the Waking City
+; Zone: Ny'alotha, the Waking City
 ; -------------------------------------
 
 ; Boss: Trash
-; Waiting on BigWigs
 
 ; Boss: Wrathion, the Black Emperor
 305978	Searing Breath
-306163y	Incineration on you
+306163	Incineration
 306289	Gale Blast
 306735	Burning Cataclysm
 307013	Burning Madness
@@ -474,18 +486,18 @@ crawg	Crawg spawning soon
 ; Boss: Maut
 310129	Shadow Claws
 308872	Dark Offering
-307806y	Devour Magic on you
+307806	Devour Magic
 307586	Devoured Abyss
 308044	Stygian Annihilation
 308903	Dark Manifestation
 305663	Black Wings
 314337	Ancient Curse
-305722	Obsidian Destruction
-314993y	Drain Essence on you
+305722	Obsidian Shatter
+314993	Drain Essence
 
 ; Boss: The Prophet Skitra
 308059	Shadow Shock
-307950y	Shred Psyche on you
+307950	Shred Psyche
 309687	Psychic Outburst
 313239	Images of Absolution
 307725	Illusionary Projection
@@ -500,20 +512,20 @@ crawg	Crawg spawning soon
 305575	Ritual Field
 
 ; Boss: The Hivemind
-307201	Kazir's Hivemind Control
-307213	Tekris's Hivemind Control
+307201	Ka'zir's Hivemind Control
+307213	Tek'ris's Hivemind Control
 313672	Acid Pool
 307569	Dark Reconstitution
 314583	Volatile Eruption
 310340	Spawn Acidic Aqir
 313652	Mind-Numbing Nova
-308227	Accelerated Evolution
+307637	Accelerated Evolution
 307968	Nullification Blast
 307232	Echoing Void
 
 ; Boss: Shad'har the Insatiable
 306953	Debilitating Spit
-318078y	Fixate on you
+318078	Fixate
 312328	Hungry
 312099	Tasty Morsel
 -21311	Crush and Dissolve
@@ -531,21 +543,22 @@ crawg	Crawg spawning soon
 310246	Void Grip
 310277	Volatile Seed
 310329	Entropic Crash
-310358y	Mutterings of Insanity on you
+310358	Mutterings of Insanity
 310390	Void Glare
 308377	Void Infused Ichor
-310580y	Acid Splash on you
+310580	Acid Splash
 
 ; Boss: Il'gynoth, Corruption Reborn
-309961	Eye of Nezoth
+309961	Eye of N'Zoth
 311401	Touch of the Corruptor
 310433	Corruptor's Gaze
-310322	Nightmare Corruption
+310322	Morass of Corruption
 315094	Fixate
-313759y	Cursed Blood on you
+313759	Cursed Blood
+318383	Absorbing Charge
 
 ; Boss: Vexiona
-307314y	Encroaching Shadows on you
+307314	Encroaching Shadows
 307343	Shadowy Residue
 307020	Twilight Breath
 307359	Despair
@@ -555,8 +568,8 @@ crawg	Crawg spawning soon
 315762	Twilight Decimator
 307116	Power of the Chosen
 307639	Heart of Darkness
-310323y	Desolation on you
-309882	Brutal Smash
+310323	Desolation
+315932	Brutal Smash
 
 ; Boss: Ra-den the Despoiled
 306819	Nullifying Strike
@@ -566,17 +579,18 @@ crawg	Crawg spawning soon
 306733	Void Empowered
 306603	Unstable Void
 306866	Call Void Hunter
-306881y	Void Collapse on you
+306881	Void Collapse
 313213	Decaying Strike
 310003	Void Eruption
-310019y	Charged Bonds on you
+310019	Charged Bonds
 312996	Nightmare Empowered
-313077y	Unstable Nightmare on you
+313077	Unstable Nightmare
 314484	Call Night Terror
 315252	Dread Inferno
+316065	Corrupted Existence
 
 ; Boss: Carapace of N'Zoth
-306973y	Madness Bomb on you
+306973	Madness Bomb
 306988	Adaptive Membrane
 315947	Mandible Slam
 315954	Black Scar
@@ -584,23 +598,27 @@ crawg	Crawg spawning soon
 -20565	Gaze of Madness
 307011	Breed Madness
 307079	Synthesis
+307809	Eternal Darkness
 307092	Occipital Blast
-306984y	Insanity Bomb on you
--21069	Thrashing Tentacle
+306984	Insanity Bomb
+-21069	Growth-Covered Tentacle
 313039	Infinite Darkness
+307064	Cyst Genesis
 
 ; Boss: N'Zoth the Corruptor
-313609y	Gift of Nezoth on you
+313609	Gift of N'Zoth
 316711	Mindwrack
-310184	Creeping Anquish
+310184	Creeping Anguish
 309991	Anguish
 313184	Synaptic Shock
 312155	Shattered Ego
 315772	Mindgrasp
-315927y	Paranoia on you
+315927	Paranoia
 318449	Eternal Torment
 316463	Mindgate
 312866	Cataclysmic Flames
+313960	Black Volley
+-21286	Basher Tentacle
 309698	Void Lash
 310042	Tumultuous Burst
 313400	Corrupted Mind
@@ -608,3 +626,10 @@ crawg	Crawg spawning soon
 317102	Evoke Anguish
 -21491	Thought Harvester
 317066	Harvest Thoughts
+318091	Summon Gateway
+318196	Event Horizon
+316970	Cleansing Protocol
+318971	Dark Matter
+318459	Annihilate
+
+
