@@ -18,7 +18,7 @@
 388984	Vicious Ambush
 388392	Monotonous Lecture
 377912	Expel Intruders
-378003	Deadly Winds
+378003	Deadly Winds=wɪndz
 377991	Storm Slash
 377389	Call of the Flock
 377383	Gust
@@ -47,7 +47,7 @@
 377182	Play Ball!
 389481	Goal of the Searing Blaze
 376448	Firestorm
-389483	Goal of the Rushing Winds
+389483	Goal of the Rushing Winds=wɪndz
 376467	Gale Force
 377034	Overpowering Gust
 377004	Deafening Screech
@@ -120,7 +120,7 @@
 ; Boss: Decatriarch Wratheye
 373960	Decaying Strength
 373944	Rotburst Totem
-376170	Choking Rotcloud
+376170	Choking Rot Cloud
 373917	Decaystrike
 
 
@@ -148,7 +148,7 @@
 385141	Thunderstorm
 376171	Refreshing Tides
 375348	Gusting Breath
-391610	Binding Winds
+391610	Binding Winds=wɪndz
 375351	Oceanic Breath
 391634	Deep Chill
 375327	Tectonic Breath
@@ -182,7 +182,7 @@
 ; Boss: Primal Tsunami
 387559	Infused Globules
 388424	Tempest's Fury
-387504	Squall Buffet
+387504	Squall Buffet=bʌf.ɪt
 389875	Undertow
 388882	Inundate
 
@@ -285,7 +285,7 @@
 381862	Infernocore
 381525	Roaring Firebreath
 381602	Flamespit
-381517	Winds of Change
+381517	Winds=wɪndz of Change
 381516	Interrupting Cloudburst
 381512	Stormslam
 
@@ -456,7 +456,7 @@
 ; Boss: Chrono-Lord Deios
 376325	Eternity Zone
 376208	Rewind Timeflow
-376049	Wing Buffet
+376049	Wing Buffet=bʌf.ɪt
 377405	Time Sink
 375727	Sand Breath
 

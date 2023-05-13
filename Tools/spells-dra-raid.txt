@@ -100,7 +100,7 @@
 376943	Cyclone
 388410	Crosswinds
 375580	Zephyr Slam
-376851	Aerial Buffet
+376851	Aerial Buffet=bʌf.ɪt
 
 ; Boss: Kurog Grimtotem
 371981	Elemental Surge

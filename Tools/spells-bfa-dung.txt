@@ -290,7 +290,7 @@
 274437	Tempest
 268027	Rising Tides
 268177	Windblast
-268187	Gale Winds
+268187	Gale Winds=wɪndz
 268184	Minor Swiftness Ward
 274631	Lesser Blessing of Ironsides
 274633	Sundering Blow

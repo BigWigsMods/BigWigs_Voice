@@ -378,8 +378,8 @@
 352293	Vengeful Destruction
 355137	Shadow Pool
 352379	Freezing Blast
-355055	Glacial Winds
-355127	Foul Winds
+355055	Glacial Winds=wɪndz
+355127	Foul Winds=wɪndz
 352355	Undying Wrath
 352141	Banshee's Cry
 354639	Deep Freeze

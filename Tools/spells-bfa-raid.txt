@@ -39,7 +39,7 @@
 274904	Reality Tear
 
 ; Boss: Azurethos, The Winged Typhoon
-274832	Wing Buffet
+274832	Wing Buffet=bʌf.ɪt
 274829	Gale Force
 274839	Azurethos' Fury
 
@@ -208,7 +208,7 @@
 ; Boss: Conclave of the Chosen
 282079	Loa's Pact
 282098	Gift of Wind
-285945	Hastening Winds
+285945	Hastening Winds=wɪndz
 282107	Pa'ku's Wrath
 282135	Crawling Hex
 285893	Wild Maul
@@ -288,7 +288,7 @@
 288747	Prismatic Image
 289387	Freezing Blood
 289488	Frozen Siege
-288169	Howling Winds
+288169	Howling Winds=wɪndz
 -19825	Icebound Image
 
 
@@ -375,7 +375,7 @@
 296737	Arcane Bomb
 296894	Unshackled Power
 295916	Ancient Tempest
-296701	Gale Buffet
+296701	Gale Buffet=bʌf.ɪt
 
 ; Boss: Lady Ashvane
 296662	Rippling Wave

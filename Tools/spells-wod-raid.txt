@@ -391,7 +391,7 @@
 
 ; Boss: Shadow-Lord Iskar
 182200	Fel Chakram
-181956	Phantasmal Winds
+181956	Phantasmal Winds=wɪndz
 182323	Phantasmal Wounds
 185345	Shadow Riposte
 181912	Focused Blast

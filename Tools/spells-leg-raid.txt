@@ -137,7 +137,7 @@
 210864	Twisting Shadows
 210547	Razor Wing
 215582	Raking Talons
-218124	Violent Winds
+218124	Violent Winds=wɪndz
 213124	Venomous Pool
 
 ; Boss: Ursoc
@@ -607,7 +607,7 @@
 233556	Corrupted Matrix
 239739	Dark Mark
 235572	Rupture Realities
-242017	Black Winds
+242017	Black Winds=wɪndz
 236684	Fel Infusion
 240623	Tainted Matrix
 240728	Tainted Essence
@@ -649,7 +649,7 @@
 249297	Flames of Reorigination
 254122	Cloud of Confusion
 246209	Punishing Flame
-246199	Burning Winds
+246199	Burning Winds=wɪndz
 
 ; Boss: Garothi Worldbreaker
 246220	Fel Bombardment

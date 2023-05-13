@@ -16,7 +16,7 @@
 88182	Lethargic Poison
 411910	Healing Well
 411012	Chilling Breath
-88194	Icy Buffet
+88194	Icy Buffet=bʌf.ɪt
 413387	Crashing Stone
 87761	Rally
 87779	Greater Heal
