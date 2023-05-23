@@ -72,7 +72,7 @@
 257736	Thundering Squall
 
 ; Boss: Skycap'n Kragg
-255952	Charrrrrge
+255952	Charge
 256005	Vile Bombardment
 256016	Vile Coating
 272046	Dive Bomb
@@ -500,7 +500,7 @@
 265091	Gift of G'huun
 265540	Rotten Bile
 265019	Savage Cleave
-265081	Warcry
+265081	War Cry
 278961	Decaying Mind
 266107	Thirst For Blood
 266106	Sonic Screech

@@ -269,8 +269,6 @@
 410351	Flaming Cudgel
 
 ; Boss: Rashok, the Elder
-410070	Unleash Shadowflame
-410075	Shadowflame Energy
 405316	Ancient Fury
 405821	Searing Slam
 403543	Lava Wave
@@ -282,9 +280,10 @@
 407597	Earthen Crush
 401419	Elder's Conduit
 405091	Smoldering Rage
+410070	Unleash Shadowflame
+410075	Shadowflame Energy
 
 ; Boss: The Vigilant Steward, Zskarn
-409942	Elimination Protocol
 405736	Dragonfire Traps
 405812	Animate Golems
 405592	Salvage Parts
@@ -293,6 +292,7 @@
 404010	Unstable Embers
 403978	Blast Wave
 404942	Searing Claws
+409942	Elimination Protocol
 
 ; Boss: Magmorax
 408358	Catastrophic Eruption
@@ -331,6 +331,7 @@
 401383	Oppressing Howl
 401810	Glittering Surge
 401500	Scorching Bomb
+402746	Drifting Embers
 406989	Burning Ground
 401680	Mass Disintegrate
 402050	Searing Breath
@@ -344,11 +345,14 @@
 404288	Infinite Duress
 411241	Void Claws
 411238	Void Blast
+406428	Motes of Oblivion
 403771	Cosmic Ascension
 405486	Hurtling Barrage
 403625	Scouring Eternity
 403520	Embrace of Nothingness
 408429	Void Slash
 408457	Void Blast
+404269	Ebon Might
+404769	Empty Strike
 
 

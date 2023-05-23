@@ -423,9 +423,10 @@
 201983	Frenzy
 
 ; Boss: Rokmora
-188169	Razor Shards
 188114	Shatter
 192800	Choking Dust
+188169	Razor Shards
+198024	Crystalline Ground
 
 ; Boss: Ularogg Cragshaper
 198564	Stance of the Mountain

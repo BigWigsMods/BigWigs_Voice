@@ -74,6 +74,8 @@
 367500	Hideous Cackle
 382555	Ragestorm
 372711	Infuse Corruption
+384854	Fish Slap!
+384847	Fresh Catch
 373897	Decaying Roots
 373943	Stomp
 382712	Necrotic Breath
@@ -201,13 +203,17 @@
 372223	Mending Clay
 372201	Scorching Breath
 384161	Mote of Combustion
+372225	Dragonbone Axe
 379406	Throw Lava
 372296	Conflagrant Battery
 373084	Scorching Fusillade
+372971	Reverberating Slam
 376200	Blazing Detonation
 378827	Explosive Concoction
 378282	Molten Core
+378818	Magma Conflagration
 381663	Candescent Tempest
+382791	Molten Barrier
 383651	Molten Army
 
 ; Boss: Chargath, Bane of Scales
@@ -229,6 +235,7 @@
 375068	Magma Lob
 375251	Lava Spray
 375439	Blazing Charge
+375535	Lava Wave
 391457	Lava Empowerment
 
 ; Boss: Warlord Sargha
@@ -410,11 +417,16 @@
 386104	Lost Tome of Tyr
 375500	Time Lock
 369811	Brutal Slam
+369675	Chain Lightning
 369823	Spiked Carapace
+377732	Jagged Bite
+377738	Ancient Power
+377724	Systemic Vulnerability
+369409	Cleave
+369465	Hail of Stone
 369400	Earthen Ward
 369365	Curse of Stone
 369366	Trapped in Stone
-369465	Hail of Stone
 369335	Fissuring Slam
 369337	Difficult Terrain
 369328	Earthquake
@@ -437,7 +449,7 @@
 369700	Quaking Totem
 369754	Bloodlust
 369703	Thundering Slam
-369675	Chain Lightning
+;369675	Chain Lightning
 369660	Tremor
 
 ; Boss: Sentinel Talondras
@@ -459,5 +471,28 @@
 376049	Wing Buffet=bʌf.ɪt
 377405	Time Sink
 375727	Sand Breath
+
+
+; -------------------------------------
+; Zone: Dawn of The Infinite
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Chronikar
+
+; Boss: Manifested Timeways
+
+; Boss: Blight of Galakrond
+
+; Boss: Iridikron the Stonescaled
+
+; Boss: Tyr, the Infinite Keeper
+
+; Boss: Morchie
+
+; Boss: Time-Lost Battlefield
+
+; Boss: Chrono-Lord Deios
 
 
