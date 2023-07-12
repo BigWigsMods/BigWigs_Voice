@@ -76,12 +76,14 @@
 372711	Infuse Corruption
 384854	Fish Slap!
 384847	Fresh Catch
+374245	Rotting Creek
 373897	Decaying Roots
 373943	Stomp
 382712	Necrotic Breath
 374057	Summon Totem
 374544	Burst of Decay
 374569	Burst
+372141	Withering Away!
 373929	Bash
 388060	Stink Breath
 388046	Violent Whirlwind
@@ -109,6 +111,7 @@
 376811	Decay Spray
 377859	Infectious Spit
 377559	Vine Whip
+378054	Withering Away!
 383875	Partially Digested
 390968	Starving Frenzy
 
@@ -118,6 +121,7 @@
 384416	Meat Toss
 384633	Master's Call
 384353	Gut Shot
+384577	Crippling Bite
 
 ; Boss: Decatriarch Wratheye
 373960	Decaying Strength
@@ -133,7 +137,6 @@
 ; Boss: Trash
 391241	Limited Immortality
 391471	Cleansing Spores
-374080	Blasting Gust
 374073	Seismic Slam
 374045	Expulse
 374339	Demoralizing Shout
@@ -149,12 +152,8 @@
 375384	Rumbling Earth
 385141	Thunderstorm
 376171	Refreshing Tides
-375348	Gusting Breath
-391610	Binding Winds=wɪndz
 375351	Oceanic Breath
 391634	Deep Chill
-375327	Tectonic Breath
-391613	Creeping Mold
 377341	Tidal Divergence
 377402	Aqueous Barrier
 390290	Flash Flood
@@ -194,11 +193,13 @@
 ; -------------------------------------
 
 ; Boss: Trash
+374451	Burning Chain
 382708	Volcanic Guard
 384597	Blazing Slash
 372561	Binding Spear
 395427	Burning Roar
 376186	Eruptive Crush
+372461	Imbued Magma
 372311	Magma Fist
 372223	Mending Clay
 372201	Scorching Breath
@@ -478,21 +479,97 @@
 ; -------------------------------------
 
 ; Boss: Trash
+411994	Chronomelt
+412012	Temposlice
+412063	Timerip
+415769	Chronoburst
+415770	Infinite Bolt Volley
+415773	Temporal Detonation
+415437	Enervate
+413529	Untwist
+413544	Bloom
+413621	Timeless Curse
+413622	Infinite Fury
+412806	Blight Spew
+413607	Corroding Volley
+412215	Shrouding Sandstorm
+412922	Binding Grasp
+412129	Orb of Contemplation
+412136	Temporal Strike
+413024	Titanic Bulwark
+417481	Displace Chronosequence
+419351	Bronze Exhalation
+418200	Infinite Burn
+419516	Chronal Eruption
+419511	Temporal Link
+407535	Deploy Goblin Sappers
+407205	Volatile Mortar
+407891	Healing Wave
+407124	Rallying Shout
+407125	Sundering Slam
+412378	Dizzying Sands
 
 ; Boss: Chronikar
+413105	Eon Shatter
+413013	Chronoshear
+401421	Sand Stomp
 
 ; Boss: Manifested Timeways
+405696	Chrono-faded
+405431	Fragments of Time
+414303	Unwind
+414307	Radiant
 
 ; Boss: Blight of Galakrond
+406886	Corrosive Infusion
+407406	Corrosion
+418346	Corrupted Mind
+407159	Blight Reclamation
+407147	Blight Seep
+407978	Necrotic Winds=wɪndz
+408029	Necrofrost
+408141	Incinerating Blightbreath
 
 ; Boss: Iridikron the Stonescaled
+409261	Extinction Blast
+414535	Stonecracker Barrage
+409456	Earthsurge
+409635	Pulverizing Exhalation
+414184	Cataclysmic Obliteration
 
 ; Boss: Tyr, the Infinite Keeper
+401248	Titanic Blow
+401482	Infinite Annihilation
+400641	Dividing Strike
+408183	Titanic Empowerment
+400681	Spark of Tyr
+400642	Siphon Oathstone
+406543	Stolen Time
 
 ; Boss: Morchie
+404916	Sand Blast
+403891	More Problems!
+404364	Dragon's Breath
+405279	Familiar Faces
+406481	Time Traps
+401667	Time Stasis
 
 ; Boss: Time-Lost Battlefield
+410234	Bladestorm
+418059	Mortal Strikes
+418054	Shockwave
+418047	FOR THE ALLIANCE!
+418062	Battle Cry
+410254	Decapitate
+408227	Shockwave
+418046	FOR THE HORDE!
+410496	War Cry
 
 ; Boss: Chrono-Lord Deios
+416152	Summon Infinite Keeper
+412027	Chronal Burn
+410904	Infinity Orb
+416139	Temporal Breath
+416264	Infinite Corruption
 
 

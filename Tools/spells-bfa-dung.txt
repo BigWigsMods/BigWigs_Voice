@@ -496,17 +496,21 @@
 
 ; Boss: Trash
 265568	Dark Omen
+278755	Harrowing Despair
 265089	Dark Reconstitution
 265091	Gift of G'huun
 265540	Rotten Bile
+265016	Blood Harvest
 265019	Savage Cleave
 265081	War Cry
+265377	Hooked Snare
 278961	Decaying Mind
 266107	Thirst For Blood
 266106	Sonic Screech
 265668	Wave of Decay
 272183	Raise Dead
 266209	Wicked Frenzy
+266265	Wicked Embrace
 413044	Dark Echoes
 265487	Shadow Bolt Volley
 265433	Withering Curse

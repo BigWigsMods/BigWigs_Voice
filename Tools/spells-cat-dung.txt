@@ -6,6 +6,7 @@
 
 ; Boss: Trash
 410999	Pressurized Blast
+410873	Rushing Wind
 410870	Cyclone
 411001	Lethal Current
 411002	Turbulence

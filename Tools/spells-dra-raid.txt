@@ -205,6 +205,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
+408975	Dancing Steel
+406282	Dream Burst
+406210	Healing Bloom
+408811	Form Ranks
+411439	Sundering Strike
+406399	Zone of Azure Might
+411900	Gloom Fluid
+411905	Blaze Boil
+411892	Viscous Bile
+411808	Slime Ejection
+412498	Stagnating Pool
 
 ; Boss: Kazzara, the Hellforged
 401319	Hellsteel Carnage
@@ -263,7 +274,7 @@
 401867	Volcanic Shield
 401108	Phoenix Rush
 401381	Blazing Focus
-407017	Vigorous Gale
+407009	Vigorous Gale
 406585	Ignara's Fury
 410516	Catastrophic Slam
 410351	Flaming Cudgel
@@ -315,6 +326,7 @@
 402115	Echoing Fissure
 403057	Surrender to Corruption
 401010	Corruption
+407036	Hidden in Void
 405433	Umbral Annihilation
 407790	Sunder Shadow
 403049	Shadow Barrier
@@ -346,7 +358,7 @@
 411241	Void Claws
 411238	Void Blast
 406428	Motes of Oblivion
-403771	Cosmic Ascension
+403741	Cosmic Ascension
 405486	Hurtling Barrage
 403625	Scouring Eternity
 403520	Embrace of Nothingness

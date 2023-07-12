@@ -405,7 +405,9 @@
 ; -------------------------------------
 
 ; Boss: Trash
+183407	Acid Splatter
 183465	Viscid Bile
+226388	Rancid Ooze
 202181	Stone Gaze
 226296	Piercing Shards
 193505	Fracture
@@ -418,6 +420,8 @@
 183548	Worm Call
 193803	Metamorphosis
 183539	Barbed Tongue
+188587	Charskin
+200154	Burning Hatred
 193585	Bound
 226406	Ember Swipe
 201983	Frenzy
@@ -449,7 +453,7 @@
 200404	Magma Wave
 200551	Crystal Spikes
 216407	Lava Geyser
-200154	Burning Hatred
+;200154	Burning Hatred
 200672	Crystal Cracked
 
 
