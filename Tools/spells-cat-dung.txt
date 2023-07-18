@@ -42,7 +42,7 @@
 86911	Unstable Grounding Field
 86930	Supremacy of the Storm
 87622	Chain Lightning
--2434	Skyfall Star
+413264	Skyfall Nova
 87618	Static Cling
 
 

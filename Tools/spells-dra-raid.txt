@@ -206,7 +206,7 @@
 
 ; Boss: Trash
 408975	Dancing Steel
-406282	Dream Burst
+418113	Dream Burst
 406210	Healing Bloom
 408811	Form Ranks
 411439	Sundering Strike

@@ -504,7 +504,9 @@
 419511	Temporal Link
 407535	Deploy Goblin Sappers
 407205	Volatile Mortar
+418684	Deploy Dwarven Bombers
 407891	Healing Wave
+417011	Holy Light
 407124	Rallying Shout
 407125	Sundering Slam
 412378	Dizzying Sands
