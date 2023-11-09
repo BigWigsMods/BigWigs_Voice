@@ -46,3 +46,31 @@
 87618	Static Cling
 
 
+; -------------------------------------
+; Zone: Throne of the Tides
+; -------------------------------------
+
+; Boss: Trash
+76820	Hex
+76813	Healing Wave
+75992	Lightning Surge
+76590	Shadow Smash
+76634	Swell
+
+; Boss: Lady Naz'jar
+75683	High Tide
+
+; Boss: Commander Ulthok, the Festering Prince
+76047	Dark Fissure
+76026	Squeeze
+76094	Curse of Fatigue
+76100	Enrage
+
+; Boss: Mindbender Ghur'sha
+76207	Enslave
+76307	Absorb Magic
+76230	Mind Fog
+
+; Boss: Ozumat
+
+

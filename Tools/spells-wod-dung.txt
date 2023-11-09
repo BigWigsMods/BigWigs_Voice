@@ -138,3 +138,49 @@
 154469	Ritual of Bones
 
 
+; -------------------------------------
+; Zone: The Everbloom
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Witherbark
+164275	Brittle Bark
+164438	Energize
+164357	Parched Gasp
+164294	Unchecked Growth
+-10098	Unchecked Growth
+
+; Boss: Ancient Protectors
+168082	Revitalize
+168105	Rapid Tides
+168041	Briarskin
+167977	Bramble Patch
+168383	Slash
+168520	Shaper's Fortitude
+
+; Boss: Archmage Sol
+168885	Parasitic Growth
+166492	Firebloom
+166726	Frozen Rain
+
+; Boss: Xeri'tac
+172643	Descend
+169376	Venomous Sting
+169382	Gaseous Volley
+169248	Consume
+-10502	Venom-Crazed Pale One
+169233	Inhale
+-10492	Toxic Spiderling
+173080	Fixate
+
+; Boss: Yalnu
+169179	Colossal Blow
+169120	Font of Life
+169613	Genesis
+169240	Entanglement
+170132	Entanglement
+169878	Noxious Breath
+169929	Lumbering Swipe
+
+

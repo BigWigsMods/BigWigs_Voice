@@ -157,7 +157,7 @@
 156877	Blackrock Barrage
 155898	Rolling Fury
 
-; Boss: Hans'gar and Franzor
+; Boss: Hans'gar and Franzok
 162124	Smart Stampers
 160838	Disrupting Roar
 153470	Skullcracker

@@ -216,6 +216,8 @@
 411892	Viscous Bile
 411808	Slime Ejection
 412498	Stagnating Pool
+409576	Dark Bindings
+409612	Umbral Torrent
 
 ; Boss: Kazzara, the Hellforged
 401319	Hellsteel Carnage
@@ -366,5 +368,165 @@
 408457	Void Blast
 404269	Ebon Might
 404769	Empty Strike
+
+
+; -------------------------------------
+; Zone: Amirdrassil, the Dream's Hope
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Gnarlroot
+421898	Flaming Pestilence
+422053	Shadow Spines
+421972	Controlled Burn
+422023	Shadow-Scorched Earth
+424352	Dreadfire Barrage
+422026	Tortured Scream
+422039	Shadowflame Cleave
+421038	Ember-Charred
+424970	Toxic Loam
+421840	Uprooted Agony
+425816	Blazing Pollen
+425820	Flaming Sap
+
+; Boss: Igira the Cruel
+414340	Drenched Blades
+414888	Blistering Spear
+414770	Blistering Torment
+416996	Twisting Blade
+422776	Marked for Torment
+414367	Gathering Torment
+419462	Flesh Mortification
+419048	Ruinous End
+416048	Umbral Destruction
+424456	Smashing Viscera
+415623	Heart Stopper
+426056	Vital Rupture
+
+; Boss: Volcoross
+421082	Hellboil
+421672	Serpent's Fury
+421207	Coiling Flames
+420933	Flood of the Firelands
+421616	Volcanic Disgorge
+420415	Scorchtail Crash
+423494	Tidal Blaze
+419054	Molten Venom
+423117	Cataclysm Jaws
+421703	Serpent's Wrath
+424218	Combusting Rage
+
+; Boss: Council of Dreams
+418187	Rebirth
+420525	Blind Rage
+425114	Ursine Rage
+420948	Barreling Charge
+423420	Barreling Charge
+421022	Agonizing Claws
+421570	Leap
+421292	Constricting Thicket
+420937	Relentless Barrage
+420671	Noxious Blossom
+426390	Corrosive Pollen
+420858	Poisonous Javelin
+421029	Song of the Dragon
+421032	Captivating Finale
+418720	Polymorph Bomb
+421024	Emerald Winds=wɪndz
+423551	Whimsical Gust
+
+; Boss: Larodar, Keeper of the Flame
+417653	Fiery Force of Nature
+418520	Blistering Splinters
+426524	Fiery Flourish
+422614	Scorching Roots
+420544	Scorching Pursuit
+426387	Scorching Bramblethorn
+418637	Furious Charge
+423719	Nature's Fury
+426206	Blazing Thorns
+426249	Blazing Coalescence
+426256	Blazing Coalescence
+417634	Raging Inferno
+417632	Burning Ground
+421316	Consuming Flame
+427252	Falling Embers
+427299	Flash Fire
+427306	Encased in Ash
+427343	Fire Whirl
+421318	Smoldering Backdraft
+421594	Smoldering Suffocation
+421325	Ashen Call
+421407	Searing Ash
+
+; Boss: Nymue, Weaver of the Cycle
+420554	Verdant Matrix
+423195	Inflorescence
+420846	Continuum
+429615	Impending Loom
+420907	Viridian Rain
+426519	Weaver's Burden
+426855	Full Bloom
+429108	Lumbering Slam
+425370	Radial Flourish
+
+; Boss: Smolderon
+421343	Brand of Damnation
+421656	Cauterizing Wound
+422577	Searing Aftermath
+421455	Overheated
+421969	Flame Waves
+422691	Lava Geysers
+421532	Smoldering Ground
+426725	Encroaching Destruction
+422277	Devour Essence
+421858	Ignited Essence
+422172	World In Flames
+425885	Seeking Inferno
+
+; Boss: Tindral Sageswift, Seer of the Flame
+422000	Searing Wrath
+423260	Blazing Mushroom
+424581	Fiery Growth
+424499	Scorching Ground
+420236	Falling Star
+422503	Star Fragments
+424495	Mass Entanglement
+420540	Incarnation: Moonkin
+421398	Fire Beam
+424258	Dream Essence
+422509	Empowered Feather
+421939	Scorching Plume
+424140	Supernova
+422115	Incarnation: Tree of Flame
+424579	Suppressive Ember
+423265	Flaming Germination
+424665	Seed of Flame
+422325	Flaming Tree
+424582	Lingering Cinder
+
+; Boss: Fyrakk the Blazing
+419506	Firestorm
+419504	Raging Flames
+420422	Wildfire
+417455	Dream Rend
+425483	Incinerated
+414186	Blaze
+417807	Aflame
+417431	Fyr'alath's Bite
+417443	Fyr'alath's Mark
+419144	Corrupt
+410223	Shadowflame Breath
+412761	Incarnate
+421937	Shadowflame Orbs
+429866	Shadowflame Eruption
+422518	Greater Firestorm
+419123	Flamefall
+422524	Shadowflame Devastation
+423717	Bloom
+422935	Eternal Firestorm
+422837	Apocalypse Roar
+425492	Infernal Maw
 
 

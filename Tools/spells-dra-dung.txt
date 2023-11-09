@@ -463,6 +463,7 @@
 ; Boss: Emberon
 368990	Purging Flames
 369043	Infusion
+369038	Titanic Ward
 369110	Unstable Embers
 369061	Searing Clap
 
@@ -500,19 +501,24 @@
 417481	Displace Chronosequence
 419351	Bronze Exhalation
 418200	Infinite Burn
+411300	Fish Bolt Volley
+412156	Bombing Run
+412200	Electro-Juiced Gigablast
 419516	Chronal Eruption
 419511	Temporal Link
 407535	Deploy Goblin Sappers
 407205	Volatile Mortar
 418684	Deploy Dwarven Bombers
 407891	Healing Wave
+407906	Earthquake
 417011	Holy Light
+417002	Consecration
 407124	Rallying Shout
 407125	Sundering Slam
 412378	Dizzying Sands
 
 ; Boss: Chronikar
-413105	Eon Shatter
+413142	Eon Shatter
 413013	Chronoshear
 401421	Sand Stomp
 
@@ -555,22 +561,22 @@
 405279	Familiar Faces
 406481	Time Traps
 401667	Time Stasis
+401200	Fixate
 
 ; Boss: Time-Lost Battlefield
-410234	Bladestorm
+410235	Bladestorm
 418059	Mortal Strikes
 418054	Shockwave
 418047	FOR THE ALLIANCE!
-418062	Battle Cry
 410254	Decapitate
 408227	Shockwave
 418046	FOR THE HORDE!
-410496	War Cry
 
 ; Boss: Chrono-Lord Deios
 416152	Summon Infinite Keeper
 412027	Chronal Burn
 410904	Infinity Orb
+410908	Infinity Nova
 416139	Temporal Breath
 416264	Infinite Corruption
 

@@ -69,7 +69,7 @@
 212852	Storm Breath
 212887	Static Charge
 
-; Boss: Shar'tos
+; Boss: Shar'thos
 216044	Cry of the Tormented
 215876	Burning Earth
 216043	Dread Flame

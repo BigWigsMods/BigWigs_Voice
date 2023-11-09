@@ -63,23 +63,30 @@
 ; -------------------------------------
 
 ; Boss: Trash
-200248	Arcane Blitz
-200261	Bonebreaking Strike
-197974	Bonecrushing Strike
-214003	Coup de Grace
-200343	Arrow Barrage
-200291	Knife Dance
+200084	Soul Blade
+200105	Sacrifice Soul
 225573	Dark Mending
+194966	Soul Echoes
+196916	Glaive Toss
+225908	Soul Venom
+200261	Bonebreaking Strike
+200291	Knife Dance
+200343	Arrow Barrage
+200248	Arcane Blitz
+200913	Indigestion
+204896	Drain Life
 203163	Sic Bats!
 227913	Felfrenzy
+214003	Coup de Grace
+214001	Raven's Dive
 
 ; Boss: The Amalgam of Souls
-196078	Call Souls
 194956	Reap Soul
-196587	Soul Burst
-194966	Soul Echoes
 195254	Swirling Scythe
+;194966	Soul Echoes
+196078	Call Souls
 196930	Soulgorge
+196587	Soul Burst
 
 ; Boss: Illysanna Ravencrest
 197418	Vengeful Shear
@@ -87,22 +94,23 @@
 197546	Brutal Glaive
 197696	Eye Beams
 197797	Arcane Blitz
-;197974	Bonecrushing Strike
+197974	Bonecrushing Strike
 
 ; Boss: Smashspite the Hateful
 198073	Earthshaking Stomp
-198245	Brutal Haymaker
 198079	Hateful Gaze
+224188	Hateful Charge
+198245	Brutal Haymaker
 198446	Fel Vomit
 
 ; Boss: Lord Kur'talos Ravencrest
 198635	Unerring Shear
-198820	Dark Blast
 198641	Whirling Blade
-199193	Dreadlord's Guile
-202019	Shadow Bolt Volley
+198820	Dark Blast
 201733	Stinging Swarm
 199143	Cloud of Hypnosis
+199193	Dreadlord's Guile
+202019	Shadow Bolt Volley
 
 
 ; -------------------------------------
@@ -218,37 +226,51 @@
 ; -------------------------------------
 
 ; Boss: Trash
+200630	Unnerving Screech
 200658	Star Shower
 200684	Nightmare Toxin
 200768	Propelling Charge
 200580	Maddening Roar
 218759	Corruption Pool
+201129	Root Burst
+198904	Poison Spear
+198910	Vile Mushroom
+204243	Tormenting Eye
+204246	Tormenting Fear
 201226	Blood Assault
 201272	Blood Bomb
 225562	Blood Metamorphosis
+201839	Curse of Isolation
 201399	Dread Inferno
+201365	Darksoul Drain
 
 ; Boss: Archdruid Glaidalis
 198379	Primal Rampage
-198408	Nightfall
+212464	Nightfall
+196354	Grievous Leap
 196376	Grievous Tear
+198477	Fixate
 
 ; Boss: Oakheart
-204646	Crushing Grip
+204611	Crushing Grip
+212786	Uproot
 204574	Strangling Roots
 204667	Nightmare Breath
 204666	Shattered Earth
 
 ; Boss: Dresaron
+191325	Breath of Corruption
+199389	Earthshaking Roar
 199345	Down Draft
 199460	Falling Rocks
-191325	Breath of Corruption
 
 ; Boss: Shade of Xavius
-200050	Apocalyptic Nightmare
-200289	Growing Paranoia
-200185	Nightmare Bolt
+200182	Festering Rip
 200238	Feed on the Weak
+200185	Nightmare Bolt
+200243	Waking Nightmare
+200289	Growing Paranoia
+200050	Apocalyptic Nightmare
 
 
 ; -------------------------------------
@@ -443,8 +465,9 @@
 210150	Toxic Retch
 199178	Spiked Tongue
 199775	Frenzy
--12527	Wormspeaker Devout
+199817	Call Minions
 199246	Ravenous
+198963	Putrid Skies
 
 ; Boss: Dargrul the Underking
 200700	Landslide

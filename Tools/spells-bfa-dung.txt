@@ -15,23 +15,27 @@
 253544	Bwonsamdi's Mantle
 253517	Mending Word
 253583	Fiery Enchant
+255626	Festering Eruption
 
 ; Boss: Priestess Alun'za
 255558	Tainted Blood
 255577	Transfusion
 255579	Gilded Claws
 255582	Molten Gold
-258709	Corrupted Gold
+277072	Corrupted Gold
+259205	Spirit of Gold
 
 ; Boss: Vol'kaal
 250258	Toxic Leap
 259572	Noxious Stench
+259531	Reanimate
 250241	Rapid Decay
 250585	Toxic Pool
 
 ; Boss: Rezan
 255371	Terrifying Visage
 257407	Pursuit
+255421	Devour
 255434	Serrated Teeth
 
 ; Boss: Yazma
@@ -73,6 +77,7 @@
 
 ; Boss: Skycap'n Kragg
 255952	Charge
+256056	Spawn Parrot
 256005	Vile Bombardment
 256016	Vile Coating
 272046	Dive Bomb
@@ -589,41 +594,45 @@
 ; -------------------------------------
 
 ; Boss: Trash
-265407	Dinner Bell
-271174	Retch
-264456	Tracking Explosive
 263943	Etch
 263905	Marking Cleave
+265368	Spirited Defense
+265372	Shadow Cleave
+266036	Drain Essence
+265352	Toad Blight
+265346	Pallid Glare
 263891	Grasping Thorns
-264525	Shrapnel Trap
-264520	Severing Serpent
-265759	Splinter Spike
-265760	Thorned Barrage
-265741	Drain Soul Essence
+264396	Spectral Talisman
+264390	Spellbind
 264050	Infected Thorn
 278474	Effigy Reconstruction
 264038	Uproot
 264556	Tearing Strike
 264150	Shatter
-265352	Toad Blight
-265346	Pallid Glare
-263959	Soul Volley
-263961	Warding Candles
-265368	Spirited Defense
-264396	Spectral Talisman
-264390	Spellbind
+265759	Splinter Spike
+265760	Thorned Barrage
+265741	Drain Soul Essence
+278444	Infest
+271174	Retch
+265407	Dinner Bell
+264456	Tracking Explosive
+264525	Shrapnel Trap
+264520	Severing Serpent
+264407	Horrific Visage
 264105	Runic Mark
 265876	Ruinous Volley
 265880	Dread Mark
 265881	Decaying Touch
+263959	Soul Volley
+263961	Warding Candles
 
 ; Boss: Heartsbane Triad
-260805	Focusing Iris
-260773	Dire Ritual
-260907	Soul Manipulation
+260741	Jagged Nettles
 260703	Unstable Runic Mark
 268086	Aura of Dread
-260741	Jagged Nettles
+260907	Soul Manipulation
+260805	Focusing Iris
+260773	Dire Ritual
 
 ; Boss: Soulbound Goliath
 260508	Crush
@@ -635,7 +644,7 @@
 ; Boss: Raal the Gluttonous
 264734	Consume All
 264931	Call Servant
-265005	Consumed Servant
+265005	Well-Fed
 264923	Tenderize
 264694	Rotten Expulsion
 
