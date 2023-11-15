@@ -53,24 +53,44 @@
 ; Boss: Trash
 76820	Hex
 76813	Healing Wave
+426663	Ravenous Pursuit
+426741	Shellbreaker
+428542	Crushing Depths
+426684	Volatile Bolt
+426645	Acid Barrage
 75992	Lightning Surge
+426783	Mind Flay
+426808	Null Blast
 76590	Shadow Smash
+429021	Crush
 76634	Swell
 
 ; Boss: Lady Naz'jar
 75683	High Tide
+428054	Shock Blast
+427771	Geysers
+428374	Focused Tempest
+428263	Water Bolt
+428293	Trident Flurry
 
 ; Boss: Commander Ulthok, the Festering Prince
-76047	Dark Fissure
-76026	Squeeze
-76094	Curse of Fatigue
-76100	Enrage
+427672	Bubbling Fissure
+427456	Awaken Ooze
+427668	Festering Shockwave
+427670	Crushing Claw
 
 ; Boss: Mindbender Ghur'sha
-76207	Enslave
-76307	Absorb Magic
-76230	Mind Fog
+429051	Earthfury
+429037	Stormflurry Totem
+429048	Flame Shock
+429172	Terrifying Vision
 
 ; Boss: Ozumat
+428407	Blotting Barrage
+428868	Putrid Roar
+428530	Murk Spew
+428889	Foul Bolt
+428668	Cleansing Flux
+428594	Deluge of Filth
 
 

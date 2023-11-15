@@ -104,7 +104,6 @@
 
 ; Boss: Kurog Grimtotem
 371981	Elemental Surge
-374861	Primal Shift
 372158	Sundering Strike
 382563	Magma Burst
 373329	Molten Rupture
@@ -326,7 +325,6 @@
 401998	Calamitous Strike
 402902	Twisted Earth
 402115	Echoing Fissure
-403057	Surrender to Corruption
 401010	Corruption
 407036	Hidden in Void
 405433	Umbral Annihilation
@@ -517,7 +515,6 @@
 417431	Fyr'alath's Bite
 417443	Fyr'alath's Mark
 419144	Corrupt
-410223	Shadowflame Breath
 412761	Incarnate
 421937	Shadowflame Orbs
 429866	Shadowflame Eruption
@@ -525,8 +522,8 @@
 419123	Flamefall
 422524	Shadowflame Devastation
 423717	Bloom
-422935	Eternal Firestorm
 422837	Apocalypse Roar
+410223	Shadowflame Breath
 425492	Infernal Maw
 
 

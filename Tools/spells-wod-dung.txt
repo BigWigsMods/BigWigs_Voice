@@ -153,16 +153,15 @@
 
 ; Boss: Ancient Protectors
 168082	Revitalize
-168105	Rapid Tides
-168041	Briarskin
-167977	Bramble Patch
-168383	Slash
-168520	Shaper's Fortitude
+427498	Torrential Fury
+427459	Toxic Bloom
+427509	Terrestrial Fury
+427510	Noxious Charge
 
 ; Boss: Archmage Sol
-168885	Parasitic Growth
-166492	Firebloom
-166726	Frozen Rain
+427899	Cinderbolt Storm
+428082	Glacial Fusion
+428139	Spatial Compression
 
 ; Boss: Xeri'tac
 172643	Descend
@@ -176,11 +175,8 @@
 
 ; Boss: Yalnu
 169179	Colossal Blow
-169120	Font of Life
+428823	Verdant Eruption
 169613	Genesis
-169240	Entanglement
-170132	Entanglement
-169878	Noxious Breath
 169929	Lumbering Swipe
 
 

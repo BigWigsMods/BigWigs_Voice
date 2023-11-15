@@ -520,7 +520,6 @@
 232153	Kara Kazham!
 
 ; Boss: Maiden of Virtue
-227817	Holy Bulwark
 227823	Holy Wrath
 227800	Holy Shock
 227809	Holy Bolt
