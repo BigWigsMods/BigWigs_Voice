@@ -395,7 +395,6 @@
 416996	Twisting Blade
 422776	Marked for Torment
 414367	Gathering Torment
-419462	Flesh Mortification
 419048	Ruinous End
 416048	Umbral Destruction
 424456	Smashing Viscera
@@ -420,16 +419,16 @@
 420525	Blind Rage
 425114	Ursine Rage
 420948	Barreling Charge
-423420	Barreling Charge
 421022	Agonizing Claws
-421570	Leap
 421292	Constricting Thicket
 420937	Relentless Barrage
+421570	Leap
 420671	Noxious Blossom
 426390	Corrosive Pollen
 420858	Poisonous Javelin
 421029	Song of the Dragon
 421032	Captivating Finale
+421501	Blink
 418720	Polymorph Bomb
 421024	Emerald Winds=wɪndz
 423551	Whimsical Gust
@@ -445,29 +444,32 @@
 423719	Nature's Fury
 426206	Blazing Thorns
 426249	Blazing Coalescence
-426256	Blazing Coalescence
 417634	Raging Inferno
 417632	Burning Ground
+425889	Igniting Growth
+429032	Everlasting Blaze
 421316	Consuming Flame
 427252	Falling Embers
 427299	Flash Fire
 427306	Encased in Ash
 427343	Fire Whirl
-421318	Smoldering Backdraft
+429973	Smoldering Backdraft
 421594	Smoldering Suffocation
 421325	Ashen Call
 421407	Searing Ash
+428896	Ashen Devastation
 
 ; Boss: Nymue, Weaver of the Cycle
 420554	Verdant Matrix
-423195	Inflorescence
 420846	Continuum
 429615	Impending Loom
 420907	Viridian Rain
-426519	Weaver's Burden
+427722	Weaver's Burden
 426855	Full Bloom
+413443	Life Ward
 429108	Lumbering Slam
-425370	Radial Flourish
+422721	Radial Flourish
+429798	Verdant Rend
 
 ; Boss: Smolderon
 421343	Brand of Damnation
@@ -481,6 +483,7 @@
 422277	Devour Essence
 421858	Ignited Essence
 422172	World In Flames
+423896	Heating Up
 425885	Seeking Inferno
 
 ; Boss: Tindral Sageswift, Seer of the Flame
@@ -515,13 +518,14 @@
 417431	Fyr'alath's Bite
 417443	Fyr'alath's Mark
 419144	Corrupt
-412761	Incarnate
-421937	Shadowflame Orbs
 429866	Shadowflame Eruption
+422032	Spirits of the Kaldorei
 422518	Greater Firestorm
-419123	Flamefall
+412761	Incarnate
 422524	Shadowflame Devastation
+419123	Flamefall
 423717	Bloom
+422935	Eternal Firestorm
 422837	Apocalypse Roar
 410223	Shadowflame Breath
 425492	Infernal Maw
