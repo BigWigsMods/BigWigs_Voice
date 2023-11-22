@@ -7,9 +7,11 @@
 ; Boss: Trash
 255041	Terrifying Screech
 255567	Frenzied Charge
+256882	Wild Thrash
 253721	Bulwark of Juju
 252781	Unstable Hex
 256849	Dino Might
+253239	Merciless Assault
 260666	Transfusion
 252687	Venomfang Strike
 253544	Bwonsamdi's Mantle
@@ -40,9 +42,9 @@
 
 ; Boss: Yazma
 259187	Soulrend
-250096	Wracking Pain
 250050	Echoes of Shadra
 250036	Shadowy Remains
+250096	Wracking Pain
 249919	Skewer
 
 

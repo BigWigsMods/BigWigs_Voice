@@ -73,6 +73,7 @@
 200291	Knife Dance
 200343	Arrow Barrage
 200248	Arcane Blitz
+200784	"Drink" Ancient Potion
 200913	Indigestion
 204896	Drain Life
 203163	Sic Bats!

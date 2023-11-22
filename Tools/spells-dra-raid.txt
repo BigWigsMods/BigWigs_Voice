@@ -29,6 +29,12 @@
 391026	Deep Freeze
 389960	Binding Ice
 
+; Boss: Aurostor, The Hibernator
+420895	Groggy Bash
+420925	Pulverizing Outburst
+421059	Cranky Tantrum
+421260	Slumberous Roar
+
 
 ; -------------------------------------
 ; Zone: Vault of the Incarnates
@@ -463,6 +469,8 @@
 420554	Verdant Matrix
 420846	Continuum
 429615	Impending Loom
+429983	Surging Growth
+430563	Ephemeral Flora
 420907	Viridian Rain
 427722	Weaver's Burden
 426855	Full Bloom
@@ -470,6 +478,8 @@
 429108	Lumbering Slam
 422721	Radial Flourish
 429798	Verdant Rend
+-28482	Manifested Dream
+428471	Waking Decimation
 
 ; Boss: Smolderon
 421343	Brand of Damnation
@@ -515,8 +525,8 @@
 425483	Incinerated
 414186	Blaze
 417807	Aflame
-417431	Fyr'alath's Bite
-417443	Fyr'alath's Mark
+417431	Fyralaths Bite
+417443	Fyralaths Mark
 419144	Corrupt
 429866	Shadowflame Eruption
 422032	Spirits of the Kaldorei
