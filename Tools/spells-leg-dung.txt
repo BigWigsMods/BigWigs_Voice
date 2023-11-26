@@ -229,6 +229,7 @@
 ; Boss: Trash
 200630	Unnerving Screech
 200658	Star Shower
+200642	Despair
 200684	Nightmare Toxin
 200768	Propelling Charge
 200580	Maddening Roar

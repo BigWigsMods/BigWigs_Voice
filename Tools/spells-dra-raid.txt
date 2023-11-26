@@ -506,6 +506,7 @@
 424495	Mass Entanglement
 420540	Incarnation: Moonkin
 421398	Fire Beam
+421636	Typhoon
 424258	Dream Essence
 422509	Empowered Feather
 421939	Scorching Plume
@@ -515,9 +516,13 @@
 423265	Flaming Germination
 424665	Seed of Flame
 422325	Flaming Tree
+425576	Flare Bomb
+425606	Empowering Flame
 424582	Lingering Cinder
+430583	Germinating Aura
 
 ; Boss: Fyrakk the Blazing
+429872	Amirdrassil Burns
 419506	Firestorm
 419504	Raging Flames
 420422	Wildfire
