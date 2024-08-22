@@ -1,6 +1,52 @@
 ; Type: Cataclysm Dungeon
 
 ; -------------------------------------
+; Zone: Grim Batol
+; -------------------------------------
+
+; Boss: Trash
+451871	Mass Tremor
+456696	Obsidian Stomp
+451613	Twilight Flame
+451939	Umbral Wind
+76711	Sear Mind
+451965	Molten Wake
+451971	Lava Fist
+451224	Enveloping Shadowflame
+462216	Blazing Shadowflame
+456711	Shadowlava Blast
+456713	Dark Eruption
+451387	Ascension
+451391	Mind Piercer
+
+; Boss: General Umbriss
+448847	Commanding Roar
+448877	Rock Spike
+447261	Skullsplitter
+
+; Boss: Forgemaster Throngus
+457664	Forge Weapon
+449687	Molten Mace
+449444	Molten Flurry
+449474	Molten Spark
+447395	Fiery Cleave
+
+; Boss: Drahga Shadowburner
+448013	Invocation of Shadowflame
+450095	Curse of Entropy
+456751	Twilight Buffet=bʌf.ɪt
+448105	Devouring Flame
+82850	Flaming Fixate
+
+; Boss: Erudax, the Duke of Below
+449939	Shadow Gale
+450077	Void Surge
+450088	Void Infusion
+450100	Crush
+448057	Abyssal Corruption
+
+
+; -------------------------------------
 ; Zone: The Vortex Pinnacle
 ; -------------------------------------
 
