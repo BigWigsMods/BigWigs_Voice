@@ -1,0 +1,370 @@
+; Type: The War Within Dungeon
+
+; -------------------------------------
+; Zone: Ara-Kara, City of Echoes
+; -------------------------------------
+
+; Boss: Trash
+439208	Silk Wrap
+438622	Toxic Rupture
+434793	Resonant Barrage
+434824	Web Spray
+434802	Horrifying Shrill
+438877	Call of the Brood
+438826	Poisonous Cloud
+453161	Impale
+448248	Revolting Volley
+433845	Erupting Webs
+433841	Venom Volley
+434252	Massive Slam
+
+; Boss: Avanoxx
+438471	Voracious Bite
+438476	Alerting Shrill
+438473	Gossamer Onslaught
+446794	Insatiable
+
+; Boss: Anub'zekt
+435012	Impale
+439506	Burrow Charge
+433740	Infestation
+433766	Eye of the Swarm
+442210	Silken Restraints
+
+; Boss: Ki'katal the Harvester
+432117	Cosmic Singularity
+432031	Grasping Blood
+432130	Erupting Webs
+432227	Venom Volley
+461487	Cultivated Poisons
+
+
+; -------------------------------------
+; Zone: Cinderbrew Meadery
+; -------------------------------------
+
+; Boss: Trash
+437721	Boiling Flames
+437956	Erupting Inferno
+434761	Mighty Stomp
+434706	Cinderbrew Toss
+434998	High Steaks
+463206	Tenderize
+441627	Rejuvenating Honey
+441434	Failed Batch
+448619	Reckless Delivery
+441119	Bee-Zooka
+442589	Beeswax
+442995	Swarming Surprise
+440687	Honey Volley
+440876	Rain of Honey
+439467	Downward Trend
+
+; Boss: Brew Master Aldryr
+442525	Happy Hour
+431895	Carrying Cinderbrew
+432198	Blazing Belch
+432179	Throw Cinderbrew
+432229	Keg Smash
+
+; Boss: I'pa
+439365	Spouting Stout
+440147	Fill 'Er Up
+439202	Burning Fermentation
+439031	Bottoms Uppercut
+
+; Boss: Benk Buzzbee
+438025	Snack Time
+439524	Fluttering Wing
+440134	Honey Marinade
+
+; Boss: Goldie Baronbottom
+435560	Spread the Love!
+435622	Let It Hail!
+436644	Burning Ricochet
+436592	Cash Cannon
+
+
+; -------------------------------------
+; Zone: City of Threads
+; -------------------------------------
+
+; Boss: Trash
+443437	Shadows of Doubt
+443430	Silk Binding
+443500	Earthshatter
+450784	Perfume Toss
+451423	Gossamer Barrage
+441795	Pheromone Veil
+448047	Web Wrap
+451543	Null Slam
+452162	Mending Web
+434137	Venomous Spray
+445813	Dark Barrage
+446086	Void Wave
+446717	Umbral Weave
+447271	Tremor Slam
+
+; Boss: Orator Krix'vizk
+434722	Subjugate
+434779	Terrorize
+434829	Vociferous Indoctrination
+434926	Lingering Influence
+448561	Shadows of Doubt
+
+; Boss: Fangs of the Queen
+441384	Synergic Step
+439621	Shade Slash
+439692	Duskbringer
+440218	Ice Sickles
+440468	Rime Dagger
+441298	Freezing Blood
+458741	Frozen Solid
+
+; Boss: The Coaglamation
+441289	Viscous Darkness
+461842	Oozing Smash
+441395	Dark Pulse
+461880	Blood Surge
+
+; Boss: Izo, the Grand Splicer
+439401	Shifting Anomalies
+439341	Splice
+437700	Tremor Slam
+438860	Umbral Weave
+439646	Process of Elimination
+
+
+; -------------------------------------
+; Zone: Darkflame Cleft
+; -------------------------------------
+
+; Boss: Trash
+423501	Wild Wallop
+425536	Mole Frenzy
+440652	Surging Wax
+424322	Explosive Flame
+426261	Ceaseless Flame
+426295	Flaming Tether
+426619	One-Hand Headlock
+426260	Pyro-pummel
+422414	Shadow Smash
+422541	Drain Light
+
+; Boss: Ol' Waxbeard
+422116	Reckless Charge
+422245	Rock Buster
+423693	Luring Candleflame
+
+; Boss: Blazikon
+421817	Wicklighter Barrage
+424212	Incite Flames
+423109	Enkindling Inferno
+443835	Blazing Storms
+425394	Dousing Breath
+422700	Extinguishing Gust
+
+; Boss: The Candle King
+420659	Eerie Molds
+422648	Darkflame Pickaxe
+426145	Paranoid Mind
+420696	Throw Darkflame
+
+; Boss: The Darkness
+426943	Rising Gloom
+427157	Call Darkspawn
+427025	Umbral Slash
+427015	Shadowblast
+427176	Drain Light
+
+
+; -------------------------------------
+; Zone: Priory of the Sacred Flame
+; -------------------------------------
+
+; Boss: Trash
+435088	Blessing of the Sacred Flame
+448485	Shield Slam
+448492	Thunderclap
+427897	Heat Wave
+427950	Seal of Flame
+429091	Inner Fire
+428150	Reflective Shield
+424621	Brutal Smash
+424423	Lunging Strike
+424431	Holy Radiance
+448515	Divine Judgment
+427583	Repentance
+424420	Cinderblast
+424462	Ember Storm
+427609	Disrupting Shout
+427342	Defend
+427356	Greater Heal
+427346	Inner Fire
+427484	Flamestrike
+427601	Burst of Light
+444743	Fireball Volley
+
+; Boss: Captain Dailcry
+424419	Battle Cry
+447270	Hurl Spear
+424414	Pierce Armor
+447439	Savage Mauling
+
+; Boss: Baron Braunpyke
+422969	Vindictive Wrath
+423015	Castigator's Shield
+423051	Burning Light
+423062	Hammer of Purity
+
+; Boss: Prioress Murrpray
+423588	Barrier of Light
+423664	Embrace the Light
+444546	Purify
+444608	Inner Fire
+451605	Holy Flame
+
+
+; -------------------------------------
+; Zone: The Dawnbreaker
+; -------------------------------------
+
+; Boss: Trash
+449042	Radiant Light
+431309	Ensnaring Shadows
+432448	Stygian Seed
+450756	Abyssal Howl
+451107	Bursting Cocoon
+451091	Plant Arathi Bomb
+451102	Shadowy Decay
+450854	Dark Orb
+451117	Terrifying Slam
+451098	Tacky Nova
+451097	Silken Shell
+431494	Black Edge
+432520	Umbral Barrier
+432565	Black Hail
+431304	Dark Floes
+431349	Tormenting Eruption
+446615	Usher Reinforcements
+
+; Boss: Speaker Shadowcrown
+451026	Darkness Comes
+426735	Burning Shadows
+425264	Obsidian Blast
+445996	Collapsing Darkness
+453212	Obsidian Beam
+453140	Collapsing Night
+
+; Boss: Anub'ikkaj
+427001	Terrifying Slam
+426860	Dark Orb
+426787	Shadowy Decay
+452127	Animate Shadows
+
+; Boss: Rasha'nan
+434655	Arathi Bombs
+434407	Rolling Acid
+448888	Erosive Spray
+448213	Expel Webs
+435793	Tacky Burst
+449528	Radiant Light
+449332	Encroaching Shadows
+449734	Acidic Eruption
+434089	Spinneret's Strands
+
+
+; -------------------------------------
+; Zone: The Rookery
+; -------------------------------------
+
+; Boss: Trash
+426893	Bounding Void
+450628	Entropy Shield
+427323	Charged Bombardment
+427404	Localized Storm
+427260	Enrage Rook
+430013	Thunderstrike
+427616	Energized Barrage
+423979	Implosion
+430754	Void Shell
+430179	Seeping Corruption
+430812	Attracting Shadows
+443854	Instability
+432959	Void Volley
+432638	Command Void
+432781	Embrace the Void
+430288	Crushing Darkness
+
+; Boss: Kyrioss
+444123	Lightning Torrent
+419870	Lightning Dash
+424148	Chain Lightning
+420739	Unstable Charge
+
+; Boss: Stormguard Gorren
+424737	Chaotic Corruption
+425048	Dark Gravity
+424958	Crush Reality
+424797	Chaotic Vulnerability
+
+; Boss: Voidstone Monstrosity
+423305	Null Upheaval
+445262	Void Shell
+429493	Unleash Corruption
+445457	Oblivion Wave
+423393	Entropy
+458082	Stormrider's Charge
+424371	Storm's Vengeance
+423839	Electrocuted
+
+
+; -------------------------------------
+; Zone: The Stonevault
+; -------------------------------------
+
+; Boss: Trash
+425027	Seismic Wave
+447141	Pulverizing Pounce
+449455	Howling Fear
+426308	Void Infection
+426771	Void Outburst
+445207	Piercing Wail
+429545	Censoring Gear
+426345	Crystal Salvo
+429109	Restoring Metals
+449130	Lava Cannon
+449154	Molten Mortar
+448640	Shield Stampede
+429427	Earth Burst Totem
+428879	Smash Rock
+428703	Granite Eruption
+
+; Boss: E.D.N.A.
+424795	Refracting Beam
+424888	Seismic Smash
+424889	Seismic Reverberation
+424903	Volatile Spike
+424879	Earth Shatterer
+
+; Boss: Skarmorak
+422233	Crystalline Smash
+423200	Fortified Shell
+423538	Unstable Crash
+423572	Unstable Energy
+
+; Boss: Master Machinists
+439577	Silenced Speaker
+445541	Exhaust Vents
+430097	Molten Metal
+428202	Scrap Song
+428508	Blazing Crescendo
+428711	Igneous Hammer
+449167	Lava Cannon
+
+; Boss: Void Speaker Eirich
+427461	Void Corruption
+427852	Entropic Reckoning
+427869	Unbridled Void
+
+

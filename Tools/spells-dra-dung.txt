@@ -13,7 +13,6 @@
 388863	Mana Void
 388911	Severing Slash
 396812	Mystic Blast
-388886	Arcane Rain
 388976	Riftbreath
 388984	Vicious Ambush
 388392	Monotonous Lecture
@@ -54,6 +53,7 @@
 376997	Savage Peck
 
 ; Boss: Echo of Doragosa
+439488	Unleash Energy
 389011	Overwhelming Power
 388901	Arcane Rift
 374361	Astral Breath
@@ -66,7 +66,6 @@
 ; -------------------------------------
 
 ; Boss: Trash
-382435	Rotchanting Totem
 367503	Withering Burst
 368081	Withering
 367484	Vicious Clawmangle
@@ -89,8 +88,7 @@
 388046	Violent Whirlwind
 385832	Bloodthirsty Charge
 385827	Bloody Rage
-384974	Scented Meat
-385058	Withering Poison
+384974	Rotten Meat
 385029	Screech
 383399	Rotting Surge
 383087	Withering Contagion
@@ -150,7 +148,7 @@
 375079	Whirling Fury
 374823	Zephyr's Call
 375384	Rumbling Earth
-385141	Thunderstorm
+437719	Thunderstrike
 376171	Refreshing Tides
 375351	Oceanic Breath
 391634	Deep Chill
@@ -273,6 +271,7 @@
 392394	Fire Maw
 392486	Lightning Storm
 392451	Flashfire
+391050	Tempest Stormshield
 
 ; Boss: Melidrussa Chillworn
 373046	Awaken Whelps
@@ -316,6 +315,7 @@
 387067	Arcane Bash
 391118	Spellfrost Breath
 396991	Bestial Roar
+391136	Shoulder Slam
 
 ; Boss: Leymor
 374364	Ley-Line Sprouts
@@ -361,7 +361,7 @@
 387127	Chain Lightning
 387125	Thunderstrike
 386028	Thunder Clap
-387629	Rotting Wind
+436841	Rotting Wind
 387614	Chant of the Dead
 387596	Swift Wind
 387440	Desecrating Roar
@@ -492,22 +492,24 @@
 413621	Timeless Curse
 413622	Infinite Fury
 412806	Blight Spew
+411958	Stonebolt
 413607	Corroding Volley
+412136	Temporal Strike
+413024	Titanic Bulwark
 412215	Shrouding Sandstorm
 412922	Binding Grasp
 412129	Orb of Contemplation
-412136	Temporal Strike
-413024	Titanic Bulwark
 417481	Displace Chronosequence
 419351	Bronze Exhalation
 418200	Infinite Burn
 411300	Fish Bolt Volley
+411407	Bubbly Barrage
 412156	Bombing Run
 412200	Electro-Juiced Gigablast
 419516	Chronal Eruption
 419511	Temporal Link
-407535	Deploy Goblin Sappers
 407205	Volatile Mortar
+407535	Deploy Goblin Sappers
 418684	Deploy Dwarven Bombers
 407891	Healing Wave
 407906	Earthquake
@@ -516,6 +518,7 @@
 407124	Rallying Shout
 407125	Sundering Slam
 412378	Dizzying Sands
+411952	Millennium Aid
 
 ; Boss: Chronikar
 413142	Eon Shatter
@@ -543,6 +546,7 @@
 414535	Stonecracker Barrage
 409456	Earthsurge
 409635	Pulverizing Exhalation
+409879	Pulverizing Creations
 414184	Cataclysmic Obliteration
 
 ; Boss: Tyr, the Infinite Keeper
@@ -579,5 +583,6 @@
 410908	Infinity Nova
 416139	Temporal Breath
 416264	Infinite Corruption
+417413	Temporal Scar
 
 

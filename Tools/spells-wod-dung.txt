@@ -157,6 +157,7 @@
 427459	Toxic Bloom
 427509	Terrestrial Fury
 427510	Noxious Charge
+427513	Noxious Discharge
 
 ; Boss: Archmage Sol
 427899	Cinderbolt Storm

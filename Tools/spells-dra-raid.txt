@@ -401,6 +401,7 @@
 416996	Twisting Blade
 422776	Marked for Torment
 414367	Gathering Torment
+419462	Flesh Mortification
 419048	Ruinous End
 416048	Umbral Destruction
 424456	Smashing Viscera
@@ -419,6 +420,7 @@
 423117	Cataclysm Jaws
 421703	Serpent's Wrath
 424218	Combusting Rage
+427201	Coiling Eruption
 
 ; Boss: Council of Dreams
 418187	Rebirth
@@ -444,12 +446,13 @@
 418520	Blistering Splinters
 426524	Fiery Flourish
 422614	Scorching Roots
-420544	Scorching Pursuit
+418655	Charred Brambles
 426387	Scorching Bramblethorn
 418637	Furious Charge
 423719	Nature's Fury
 426206	Blazing Thorns
 426249	Blazing Coalescence
+426256	Blazing Coalescence
 417634	Raging Inferno
 417632	Burning Ground
 425889	Igniting Growth
@@ -464,15 +467,16 @@
 421325	Ashen Call
 421407	Searing Ash
 428896	Ashen Devastation
+428946	Ashen Asphyxiation
 
 ; Boss: Nymue, Weaver of the Cycle
 420554	Verdant Matrix
 420846	Continuum
 429615	Impending Loom
 429983	Surging Growth
+426519	Weaver's Burden
 430563	Ephemeral Flora
 420907	Viridian Rain
-427722	Weaver's Burden
 426855	Full Bloom
 413443	Life Ward
 429108	Lumbering Slam
@@ -492,11 +496,13 @@
 426725	Encroaching Destruction
 422277	Devour Essence
 421858	Ignited Essence
+421859	Ignited Essence
 422172	World In Flames
 423896	Heating Up
 425885	Seeking Inferno
 
 ; Boss: Tindral Sageswift, Seer of the Flame
+427297	Flame Surge
 422000	Searing Wrath
 423260	Blazing Mushroom
 424581	Fiery Growth
@@ -523,26 +529,37 @@
 
 ; Boss: Fyrakk the Blazing
 429872	Amirdrassil Burns
+414186	Blaze
+417807	Aflame
+417431	Fyralaths Bite
+417443	Fyralaths Mark
 419506	Firestorm
 419504	Raging Flames
 420422	Wildfire
 417455	Dream Rend
 425483	Incinerated
-414186	Blaze
-417807	Aflame
-417431	Fyralaths Bite
-417443	Fyralaths Mark
+430441	Darkflame Shades
+426368	Darkflame Cleave
 419144	Corrupt
+421937	Shadowflame Orbs
 429866	Shadowflame Eruption
+429906	Shadowbound
+429903	Flamebound
 422032	Spirits of the Kaldorei
 422518	Greater Firestorm
+428963	Molten Gauntlet
+428400	Exploding Core
 412761	Incarnate
 422524	Shadowflame Devastation
 419123	Flamefall
-423717	Bloom
+428970	Shadow Cage
 422935	Eternal Firestorm
 422837	Apocalypse Roar
 410223	Shadowflame Breath
 425492	Infernal Maw
+423601	Seed of Amirdrassil
+423717	Bloom
+423598	Blazing Seed
+430048	Corrupted Seed
 
 

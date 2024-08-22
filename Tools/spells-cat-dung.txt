@@ -83,10 +83,12 @@
 429051	Earthfury
 429037	Stormflurry Totem
 429048	Flame Shock
+429878	Shake It Off
 429172	Terrifying Vision
 
 ; Boss: Ozumat
 428407	Blotting Barrage
+428404	Blotting Darkness
 428868	Putrid Roar
 428530	Murk Spew
 428889	Foul Bolt

@@ -1,0 +1,179 @@
+; Type: The War Within Raid
+
+; -------------------------------------
+; Zone: Khaz Algar
+; -------------------------------------
+
+; Boss: Kordac, the Dormant Protector
+
+; Boss: Aggregation of Horrors
+
+; Boss: Shurrai, Atrocity of the Undersea
+
+; Boss: Orta, the Broken Mountain
+
+
+; -------------------------------------
+; Zone: Nerub-ar Palace
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Ulgrax the Devourer
+434803	Carnivorous Contest
+440849	Contemptful Rage
+441452	Stalker's Webbing
+439419	Stalker's Netting
+435136	Venomous Lash
+435138	Digestive Acid
+434697	Brutal Crush
+434705	Tenderized
+445052	Chittering Swarm
+439037	Disembowel
+438657	Chunky Viscera
+436200	Juggernaut Charge
+443842	Swallowing Darkness
+440177	Ready to Feed
+438012	Hungering Bellows
+445123	Hulking Crash
+
+; Boss: The Bloodbound Horror
+444363	Gruesome Disgorge
+443612	Gruesome Disgorge
+445570	Unseeming Blight
+445936	Spewing Hemorrhage
+459444	Internal Hemorrhage
+442530	Goresplatter
+443203	Crimson Rain
+443042	Grasp From Beyond
+445518	Black Blood
+438696	Black Sepsis
+451288	Black Bulwark
+452237	Bloodcurdle
+
+; Boss: Sikran, Captain of the Sureki
+433517	Phase Blades
+434860	Phase Blades
+442428	Decimate
+459273	Cosmic Shards
+456420	Shattering Sweep
+439511	Captain's Flourish
+438845	Expose
+432969	Phase Lunge
+435410	Phase Lunge
+439559	Rain of Arrows
+
+; Boss: Rasha'nan
+439789	Rolling Acid
+439785	Corrosion
+439787	Acidic Stupor
+439776	Acid Pools
+455373	Infested Spawn
+455287	Infested Bite
+439784	Spinneret's Strands
+444687	Savage Assault
+458067	Savage Wound
+439811	Erosive Spray
+452806	Acidic Eruption
+457877	Acidic Carapace
+439795	Web Reave
+439792	Tacky Burst
+454989	Enveloping Webs
+
+; Boss: Broodtwister Ovi'nax
+442526	Experimental Dosage
+442660	Experimental Dosage
+442432	Ingest Black Blood
+443274	Unstable Infusion
+442799	Sanguine Overflow
+450661	Caustic Reaction
+446349	Sticky Web
+446351	Web Eruption
+441362	Volatile Concoction
+458212	Necrotic Wound
+446700	Poison Burst
+442250	Fixate
+442257	Infest
+
+; Boss: Nexus-Princess Ky'veza
+436867	Assassination
+437343	Queensbane
+439409	Dark Viscera
+438245	Twilight Massacre
+437620	Nether Rift
+439576	Nexus Daggers
+440377	Void Shredders
+440576	Chasmal Gash
+435405	Starless Night
+442277	Eternal Night
+
+; Boss: The Silken Court
+438218	Piercing Strike
+438801	Call of the Swarm
+440246	Reckless Charge
+440178	Reckless Impact
+440179	Entangled
+441791	Burrowed Eruption
+440504	Impaling Eruption
+449857	Impaled
+438200	Poison Bolt
+438656	Venomous Rain
+439838	Web Bomb
+440001	Binding Webs
+450045	Skittering Leap
+450980	Shatter Existence
+460600	Entropic Barrage
+438677	Stinging Swarm
+456245	Stinging Delirium
+441772	Void Bolt
+441626	Web Vortex
+450129	Entropic Desolation
+441782	Strands of Reality
+450483	Void Step
+438355	Cataclysmic Entropy
+451277	Spike Storm
+460364	Seismic Upheaval
+443068	Spike Eruption
+442994	Unleashed Swarm
+455849	Mark of Paranoia
+460359	Void Degeneration
+455850	Mark of Rage
+460281	Burning Rage
+455863	Mark of Death
+
+; Boss: Queen Ansurek
+437592	Reactive Toxin
+451278	Concentrated Toxin
+464638	Frothy Toxin
+438481	Toxic Waves
+437078	Acid
+437417	Venom Nova
+441556	Reaction Vapor
+439814	Silken Tomb
+441958	Grasping Silk
+440899	Liquefy
+437093	Feast
+439299	Web Blades
+447207	Predation
+447456	Paralyzing Venom
+447411	Wrest
+447950	Shadowblast
+464056	Gloom Touch
+443403	Gloom
+448147	Oust
+451600	Expulsion Beam
+449236	Caustic Fangs
+449986	Aphotic Communion
+443888	Abyssal Infusion
+455387	Abyssal Reverberation
+445422	Frothing Gluttony
+445880	Froth Vapor
+444829	Queen's Summons
+445152	Acolyte's Essence
+445021	Null Detonation
+438976	Royal Condemnation
+443325	Infest
+443726	Gloom Hatchling
+443336	Gorge
+
+

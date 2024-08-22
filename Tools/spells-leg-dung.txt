@@ -108,6 +108,7 @@
 198635	Unerring Shear
 198641	Whirling Blade
 198820	Dark Blast
+199368	Legacy of the Ravencrest
 201733	Stinging Swarm
 199143	Cloud of Hypnosis
 199193	Dreadlord's Guile
@@ -304,6 +305,7 @@
 193597	Static Nova
 193611	Focused Lightning
 193698	Curse of the Witch
+193682	Beckon Storm
 196610	Monsoon
 
 ; Boss: King Deepbeard

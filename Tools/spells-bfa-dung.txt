@@ -347,34 +347,35 @@
 ; -------------------------------------
 
 ; Boss: Trash
-268260	Broadside
-272874	Trample
-275826	Bolstering Shout
-275835	Stinging Venom Coating
+256627	Slobber Knocker
+256640	Burning Tar
+256957	Watertight Shell
+257170	Savage Tempest
+257288	Heavy Slash
+454437	Azerite Charge
 272421	Sighted Artillery
+268260	Broadside
+275826	Bolstering Shout
 257169	Terrifying Roar
 272711	Crushing Slam
-272827	Viscous Slobber
-274569	Revitalizing Mist
 272546	Banana Rampage
-257170	Savage Tempest
-256957	Watertight Shell
-256627	Slobber Knocker
-257288	Heavy Slash
-257641	Molten Slug
-256897	Clamping Jaws
-256866	Iron Ambush
-257036	Feral Charge
-256640	Burning Tar
-256673	Immolation
+272571	Choking Waters
+275835	Stinging Venom Coating
 
 ; Boss: Chopper Redhook
+257459	On the Hook
+257348	Meat Hook
+257326	Gore Crash
+257585	Cannon Barrage
+273721	Heavy Ordnance
+;257288	Heavy Slash
 
 ; Boss: Dread Captain Lockwood
-272471	Evasive
 269029	Clear the Deck
 273470	Gut Shot
 268752	Withdraw
+463185	Mass Bombardment
+463182	Fiery Ricochet
 268230	Crimson Swipe
 ;268260	Broadside
 268963	Unstable Ordnance
@@ -387,6 +388,7 @@
 ; Boss: Viq'Goth
 275014	Putrid Waters
 270185	Call of the Deep
+269456	Eradication
 269366	Repair
 269266	Slam
 270590	Hull Cracker
@@ -467,7 +469,6 @@
 269090	Artillery Barrage
 263601	Desperate Measures
 269429	Charged Shot
-262412	Energy Shield
 263628	Charged Claw
 
 ; Boss: Coin-Operated Crowd Pummeler
@@ -607,9 +608,7 @@
 264396	Spectral Talisman
 264390	Spellbind
 264050	Infected Thorn
-278474	Effigy Reconstruction
 264038	Uproot
-264556	Tearing Strike
 264150	Shatter
 265759	Splinter Spike
 265760	Thorned Barrage

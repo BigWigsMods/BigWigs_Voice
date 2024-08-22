@@ -86,8 +86,8 @@
 ; Boss: High Adjudicator Aleez
 323538	Bolt of Power
 323552	Volley of Power
-323650	Haunting Fixation
 329340	Anima Fountain
+323650	Haunting Fixation
 
 ; Boss: Lord Chamberlain
 329104	Door of Shadows
@@ -103,30 +103,32 @@
 ; -------------------------------------
 
 ; Boss: Trash
-324909	Furious Thrashing
-324923	Bramble Burst
+321968	Bewildering Pollen
+322486	Overgrowth
 322938	Harvest Essence
 322569	Hand of Thros
 322557	Soul Split
-331718	Spear Flurry
+324909	Furious Thrashing
+324923	Bramble Burst
+463256	Mist Ward
+463248	Expel
 340304	Poisonous Secretions
 340305	Crushing Leap
 340300	Tongue Lashing
-331743	Bucking Rampage
+463217	Anima Slash
 340189	Pool of Radiance
 340160	Radiant Breath
 340208	Shred Armor
 340289	Triple Bite
 340279	Poisonous Discharge
 324776	Bramblethorn Coat
-324987	Mistveil Bite
+325021	Mistveil Tear
 325224	Anima Injection
 324914	Nourish the Forest
 325418	Volatile Acid
 340544	Stimulate Regeneration
 326046	Stimulate Resistance
-321968	Bewildering Pollen
-322486	Overgrowth
+326021	Acid Globule
 
 ; Boss: Ingra Maloch
 323137	Bewildering Pollen
@@ -145,15 +147,14 @@
 321891	Freeze Tag Fixation
 
 ; Boss: Tred'ova
-322651	Acid Expulsion
+322654	Acid Expulsion
 322450	Consumption
+322527	Gorging Shield
 322550	Accelerated Incubation
 322563	Marked Prey
 326309	Decomposing Acid
 322614	Mind Link
-337235	Parasitic Pacification
-337249	Parasitic Incapacitation
-337255	Parasitic Domination
+463602	Coalescing Poison
 
 
 ; -------------------------------------
@@ -415,13 +416,14 @@
 323347	Clinging Darkness
 322756	Wrath of Zolramus
 321780	Animate Dead
+327396	Grim Fate
 328667	Frostbolt Volley
 324293	Rasping Scream
 343470	Boneshatter Shield
 335143	Bonemend
 320822	Final Bargain
 335141	Dark Shroud
-327396	Grim Fate
+345623	Death Burst
 324394	Shatter
 324387	Frigid Spikes
 324372	Reaping Winds=wɪndz
@@ -429,7 +431,8 @@
 338456	Mutilate
 338357	Tenderize
 327130	Repair Flesh
-323496	Throw Cleaver
+323471	Throw Cleaver
+327240	Spine Crush
 338606	Morbid Fixation
 333477	Gut Slice
 333479	Spew Disease
@@ -446,16 +449,18 @@
 333488	Necrotic Breath
 320012	Unholy Frenzy
 320171	Necrotic Bolt
+;328667	Frostbolt Volley
 
 ; Boss: Surgeon Stitchflesh
 320358	Awaken Creation
-322681	Meat Hook
-320376	Mutilate
 334476	Embalming Ichor
 320200	Stitchneedle
+327100	Noxious Fog
 334488	Sever Flesh
-320359	Escape
 343556	Morbid Fixation
+320359	Escape
+322681	Meat Hook
+320376	Mutilate
 
 ; Boss: Nalthor the Rimebinder
 320772	Comet Storm
