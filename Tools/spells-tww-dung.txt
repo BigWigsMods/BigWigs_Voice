@@ -22,6 +22,8 @@
 438471	Voracious Bite
 438476	Alerting Shrill
 438473	Gossamer Onslaught
+434830	Vile Webbing
+436614	Web Wrap
 446794	Insatiable
 
 ; Boss: Anub'zekt
@@ -251,6 +253,7 @@
 ; Boss: Speaker Shadowcrown
 451026	Darkness Comes
 426735	Burning Shadows
+428086	Shadow Bolt
 425264	Obsidian Blast
 445996	Collapsing Darkness
 453212	Obsidian Beam
@@ -324,6 +327,7 @@
 ; -------------------------------------
 
 ; Boss: Trash
+462500	Imbued Iron Energy
 425027	Seismic Wave
 447141	Pulverizing Pounce
 449455	Howling Fear
