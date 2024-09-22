@@ -13,6 +13,8 @@
 438877	Call of the Brood
 438826	Poisonous Cloud
 453161	Impale
+465012	Slam
+432967	Alarm Shrill
 448248	Revolting Volley
 433845	Erupting Webs
 433841	Venom Volley
@@ -55,6 +57,7 @@
 441627	Rejuvenating Honey
 441434	Failed Batch
 448619	Reckless Delivery
+441179	Oozing Honey
 441119	Bee-Zooka
 442589	Beeswax
 442995	Swarming Surprise
@@ -144,12 +147,15 @@
 ; Boss: Trash
 423501	Wild Wallop
 425536	Mole Frenzy
+426883	Bonk!
 440652	Surging Wax
+428650	Burning Backlash
 424322	Explosive Flame
 426261	Ceaseless Flame
 426295	Flaming Tether
 426619	One-Hand Headlock
 426260	Pyro-pummel
+422393	Suffocating Darkness
 422414	Shadow Smash
 422541	Drain Light
 
@@ -176,7 +182,7 @@
 426943	Rising Gloom
 427157	Call Darkspawn
 427025	Umbral Slash
-427015	Shadowblast
+427011	Shadowblast
 427176	Drain Light
 
 
@@ -205,6 +211,7 @@
 427346	Inner Fire
 427484	Flamestrike
 427601	Burst of Light
+424429	Consecration
 444743	Fireball Volley
 
 ; Boss: Captain Dailcry
@@ -235,7 +242,9 @@
 449042	Radiant Light
 431309	Ensnaring Shadows
 432448	Stygian Seed
+431364	Tormenting Ray
 450756	Abyssal Howl
+431491	Tainted Slash
 451107	Bursting Cocoon
 451091	Plant Arathi Bomb
 451102	Shadowy Decay
@@ -333,6 +342,7 @@
 449455	Howling Fear
 426308	Void Infection
 426771	Void Outburst
+459210	Shadow Claw
 445207	Piercing Wail
 429545	Censoring Gear
 426345	Crystal Salvo

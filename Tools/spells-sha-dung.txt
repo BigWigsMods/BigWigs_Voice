@@ -128,7 +128,9 @@
 325418	Volatile Acid
 340544	Stimulate Regeneration
 326046	Stimulate Resistance
+460092	Acid Nova
 326021	Acid Globule
+326017	Decomposing Acid
 
 ; Boss: Ingra Maloch
 323137	Bewildering Pollen
@@ -277,8 +279,8 @@
 317985	Crashing Strike
 328295	Greater Mending
 328288	Bless Weapon
-328458	Diminuendo
 328462	Charged Spear
+328458	Diminuendo
 
 ; Boss: Kin-Tara
 320966	Overhead Slash

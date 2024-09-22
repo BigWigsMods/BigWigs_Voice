@@ -8,16 +8,19 @@
 451871	Mass Tremor
 456696	Obsidian Stomp
 451613	Twilight Flame
+451614	Twilight Ember
 451939	Umbral Wind
 76711	Sear Mind
 451965	Molten Wake
 451971	Lava Fist
 451224	Enveloping Shadowflame
 462216	Blazing Shadowflame
+451241	Shadowflame Slash
 456711	Shadowlava Blast
 456713	Dark Eruption
 451387	Ascension
 451391	Mind Piercer
+451395	Corrupt
 
 ; Boss: General Umbriss
 448847	Commanding Roar
