@@ -1,0 +1,268 @@
+; Type: The War Within Delves
+
+; -------------------------------------
+; Zone: Delve Trash
+; -------------------------------------
+
+; Boss: Fungarian
+427710	Sporesplosion
+414944	Battle Roar
+424891	Vine Spear
+424773	Sporogenesis
+424798	Bloated Eruption
+424704	Vicious Stabs
+425040	Rotwave Volley
+425042	Sporewave
+424750	Infectious Spores
+372529	Hideous Laughter
+
+; Boss: Kobold
+449071	Blazing Wick
+448399	Battle Cry
+445210	Fire Charge
+445191	Wicklighter Volley
+448528	Throw Dynamite
+
+; Boss: Kobyss
+455932	Defiling Breath
+445252	Necrotic End
+430037	Spearfish
+440622	Curse of the Depths
+445492	Serrated Cleave
+445407	Bloodthirsty
+445774	Thrashing Frenzy
+374898	Enrage
+445771	Bubble Surge
+
+; Boss: Nerubian
+450714	Jagged Barbs
+450637	Leeching Swarm
+449318	Shadows of Strife
+450546	Webbed Aegis
+450509	Wide Swipe
+433410	Fearful Shriek
+450197	Skitter Charge
+433448	Web Launch
+
+; Boss: Nightfall
+441129	Spotted!
+434740	Shadow Barrier
+443292	Umbral Slam
+434281	Echo of Renilash
+443482	Blessing of Dusk
+440205	Inflict Death
+
+; Boss: Underkeep
+451913	Grimweave Orb
+;450714	Jagged Barbs
+;450637	Leeching Swarm
+448179	Armored Shell
+448155	Shockwave Tremors
+448161	Enrage
+453149	Gossamer Webbing
+
+; Boss: Rares
+445781	Lava Blast
+445718	Magma Hammer
+415253	Fungal Breath
+415250	Fungal Bloom
+462686	Skull Cracker
+400335	Spike Traps
+461741	Consecration
+459421	Holy Light
+418295	Umbral Slash
+418297	Castigate
+458325	Evasive Dance
+458311	Venom Bite
+458397	Interrupting Shout
+458369	Venom Volley
+458104	Venom Volley
+458090	Void Slice
+458099	Grasping Darkness
+449038	Impaling Spikes
+450519	Angler's Web
+450492	Horrendous Roar
+450505	Enfeebling Spittle
+
+
+; -------------------------------------
+; Zone: Earthcrawl Mines
+; -------------------------------------
+
+; Boss: Web General Ab'enar
+448443	Curse of Agony
+448412	Burning Cart
+448444	Runic Shackles
+
+
+; -------------------------------------
+; Zone: Fungal Folly
+; -------------------------------------
+
+; Boss: Spinshroom
+415406	Fungalstorm
+415499	Dizzy
+415492	Fungal Charge
+425315	Fungsplosion
+
+
+; -------------------------------------
+; Zone: Kriegval's Rest
+; -------------------------------------
+
+; Boss: Tomb-Raider Drywhisker
+449242	Flamestorm
+449295	Ground Slam
+449339	Raging Tantrum
+
+
+; -------------------------------------
+; Zone: Mycomancer Cavern
+; -------------------------------------
+
+; Boss: Bogpiper
+454213	Muck Charge
+470582	Swamp Bolt
+453897	Sporesong
+
+
+; -------------------------------------
+; Zone: Nightfall Sanctum
+; -------------------------------------
+
+; Boss: Reformed Fury
+443837	Shadow Sweep
+;443482	Blessing of Dusk
+444408	Speaker's Wrath
+444479	Darkfire Volley
+;440205	Inflict Death
+;434281	Echo of Renilash
+
+; Boss: Speaker Halven
+;443837	Shadow Sweep
+443908	Fire!
+443840	Desolate Surge
+
+
+; -------------------------------------
+; Zone: Skittering Breach
+; -------------------------------------
+
+; Boss: Faceless One
+458849	Darkrift Smash
+458853	Shadow Drain
+458867	Lurking Call
+
+; Boss: Nerl'athekk the Skulking
+454762	Dark Abatement
+440806	Darkrift Smash
+
+; Boss: Speaker Xanventh
+458874	Shadow Wave
+458834	Shadowspin
+458879	Blessing of Dusk
+
+
+; -------------------------------------
+; Zone: Tak-Rethan Abyss
+; -------------------------------------
+
+; Boss: Undersea Abomination
+446300	Deepsea Polyps
+446405	Fungal Infection
+446230	Repelling Blast
+
+
+; -------------------------------------
+; Zone: The Dread Pit
+; -------------------------------------
+
+; Boss: Under-Lord Vik'tis
+448634	Impale
+448644	Burrowing Tremors
+448663	Stinging Swarm
+
+
+; -------------------------------------
+; Zone: The Sinkhole
+; -------------------------------------
+
+; Boss: Leviathan Caller
+446079	Call of the Abyss
+442422	Abyssal Embrace
+
+; Boss: Mirror Master Murkna
+445860	Drowned Illusions
+
+
+; -------------------------------------
+; Zone: The Spiral Weave
+; -------------------------------------
+
+; Boss: Overseer Kaskel
+;449038	Impaling Spikes
+;448644	Burrowing Tremors
+449072	Call Drones
+
+; Boss: The Puppetmaster
+;451913	Grimweave Orb
+;450197	Skitter Charge
+;450546	Webbed Aegis
+;450509	Wide Swipe
+;450714	Jagged Barbs
+;448663	Stinging Swarm
+
+
+; -------------------------------------
+; Zone: The Underkeep
+; -------------------------------------
+
+; Boss: Researcher Ven'kex
+446832	Infusion of Poison
+447187	Rend Void
+447143	Encasing Webs
+
+; Boss: Researcher Xik'vi
+;446832	Infusion of Poison
+;447187	Rend Void
+;447143	Encasing Webs
+
+
+; -------------------------------------
+; Zone: The Waterworks
+; -------------------------------------
+
+; Boss: Waxface
+450330	Throw Wax
+450142	Burn Away
+450128	Noxious Gas
+
+
+; -------------------------------------
+; Zone: Zekvir's Lair
+; -------------------------------------
+
+; Boss: Zekvir (Tier ?)
+450451	Claw Smash
+;450505	Enfeebling Spittle
+;450492	Horrendous Roar
+;450519	Angler's Web
+450568	Call Web Terror
+453937	Hatching...
+450597	Web Blast
+
+; Boss: Zekvir (Tier ??)
+;450451	Claw Smash
+;450505	Enfeebling Spittle
+;450492	Horrendous Roar
+;450519	Angler's Web
+450449	Regenerating Carapace
+;450568	Call Web Terror
+;453937	Hatching...
+;450597	Web Blast
+451003	Black Blood
+450872	Unending Spines
+450914	Blood-Infused Carapace
+451782	Infinite Horror
+
+
