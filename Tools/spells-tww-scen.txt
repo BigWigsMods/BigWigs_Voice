@@ -219,11 +219,13 @@
 
 ; Boss: Researcher Ven'kex
 446832	Infusion of Poison
+463408	Infusion of Frost
 447187	Rend Void
 447143	Encasing Webs
 
 ; Boss: Researcher Xik'vi
 ;446832	Infusion of Poison
+;463408	Infusion of Frost
 ;447187	Rend Void
 ;447143	Encasing Webs
 

@@ -131,6 +131,7 @@
 461842	Oozing Smash
 441395	Dark Pulse
 461880	Blood Surge
+461825	Black Blood
 
 ; Boss: Izo, the Grand Splicer
 439401	Shifting Anomalies
@@ -248,6 +249,7 @@
 451107	Bursting Cocoon
 451091	Plant Arathi Bomb
 451102	Shadowy Decay
+451119	Abyssal Blast
 450854	Dark Orb
 451117	Terrifying Slam
 451098	Tacky Nova
@@ -338,6 +340,7 @@
 ; Boss: Trash
 462500	Imbued Iron Energy
 425027	Seismic Wave
+425974	Ground Pound
 447141	Pulverizing Pounce
 449455	Howling Fear
 426308	Void Infection

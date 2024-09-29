@@ -137,7 +137,6 @@
 460364	Seismic Upheaval
 443068	Spike Eruption
 442994	Unleashed Swarm
-443598	Uncontrollable Rage
 455849	Mark of Paranoia
 460359	Void Degeneration
 455850	Mark of Rage

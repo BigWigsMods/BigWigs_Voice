@@ -424,6 +424,7 @@
 343470	Boneshatter Shield
 335143	Bonemend
 320822	Final Bargain
+320464	Shadow Well
 335141	Dark Shroud
 345623	Death Burst
 324394	Shatter

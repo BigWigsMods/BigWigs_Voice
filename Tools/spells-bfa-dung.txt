@@ -351,6 +351,7 @@
 ;257732	Shattering Bellow
 256640	Burning Tar
 256957	Watertight Shell
+272662	Iron Hook
 257170	Savage Tempest
 257288	Heavy Slash
 454437	Azerite Charge
