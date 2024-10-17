@@ -80,6 +80,8 @@
 458090	Void Slice
 458099	Grasping Darkness
 449038	Impaling Spikes
+457880	Ascension
+457448	Shadow Eruption
 450519	Angler's Web
 450492	Horrendous Roar
 450505	Enfeebling Spittle

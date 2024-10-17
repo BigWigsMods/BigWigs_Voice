@@ -353,14 +353,16 @@
 256957	Watertight Shell
 272662	Iron Hook
 257170	Savage Tempest
+257270	Iron Ambush
 257288	Heavy Slash
 454437	Azerite Charge
+275826	Bolstering Shout
 272421	Sighted Artillery
 268260	Broadside
-275826	Bolstering Shout
 257169	Terrifying Roar
 272711	Crushing Slam
 272546	Banana Rampage
+454440	Stinky Vomit
 272571	Choking Waters
 275835	Stinging Venom Coating
 
@@ -368,6 +370,7 @@
 274002	Call Irontide
 257459	On the Hook
 257348	Meat Hook
+;272662	Iron Hook
 257326	Gore Crash
 257585	Cannon Barrage
 273721	Heavy Ordnance

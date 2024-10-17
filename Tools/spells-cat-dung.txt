@@ -7,7 +7,7 @@
 ; Boss: Trash
 451871	Mass Tremor
 456696	Obsidian Stomp
-451613	Twilight Flame
+451612	Twilight Flame
 451614	Twilight Ember
 451939	Umbral Wind
 76711	Sear Mind

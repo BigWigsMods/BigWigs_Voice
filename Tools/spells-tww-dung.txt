@@ -19,6 +19,7 @@
 433845	Erupting Webs
 433841	Venom Volley
 434252	Massive Slam
+433821	Dashing Strike
 
 ; Boss: Avanoxx
 438471	Voracious Bite
@@ -95,17 +96,22 @@
 ; -------------------------------------
 
 ; Boss: Trash
+448305	Stolen Power
 443437	Shadows of Doubt
+443433	Twist Thoughts
 443430	Silk Binding
 443500	Earthshatter
+443507	Ravenous Swarm
 450784	Perfume Toss
 451423	Gossamer Barrage
 441795	Pheromone Veil
 448047	Web Wrap
 451543	Null Slam
+451222	Void Rush
 452162	Mending Web
 434137	Venomous Spray
 445813	Dark Barrage
+436205	Fierce Stomping
 446086	Void Wave
 446717	Umbral Weave
 447271	Tremor Slam
@@ -129,8 +135,8 @@
 ; Boss: The Coaglamation
 441289	Viscous Darkness
 461842	Oozing Smash
-441395	Dark Pulse
 461880	Blood Surge
+441395	Dark Pulse
 461825	Black Blood
 
 ; Boss: Izo, the Grand Splicer

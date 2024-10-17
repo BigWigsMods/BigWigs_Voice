@@ -160,14 +160,15 @@
 447456	Paralyzing Venom
 447411	Wrest
 443403	Gloom
+460369	Shadowgate
 449940	Acidic Apocalypse
 447950	Shadowblast
 448046	Gloom Eruption
 447967	Gloom Touch
-462558	Cosmic Rupture
 448458	Cosmic Apocalypse
 448147	Oust
 451600	Expulsion Beam
+455374	Dark Detonation
 449236	Caustic Fangs
 443888	Abyssal Infusion
 455387	Abyssal Reverberation

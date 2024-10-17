@@ -108,6 +108,7 @@
 322938	Harvest Essence
 322569	Hand of Thros
 322557	Soul Split
+322968	Dying Breath
 324909	Furious Thrashing
 324923	Bramble Burst
 463256	Mist Ward
@@ -131,6 +132,7 @@
 460092	Acid Nova
 326021	Acid Globule
 326017	Decomposing Acid
+326090	Stinging Assault
 
 ; Boss: Ingra Maloch
 323137	Bewildering Pollen
@@ -414,7 +416,6 @@
 
 ; Boss: Trash
 334748	Drain Fluids
-323190	Meat Shield
 323347	Clinging Darkness
 322756	Wrath of Zolramus
 321780	Animate Dead
@@ -470,6 +471,7 @@
 321368	Icebound Aegis
 320788	Frozen Binds
 321894	Dark Exile
+328181	Frigid Cold
 
 
 ; -------------------------------------
