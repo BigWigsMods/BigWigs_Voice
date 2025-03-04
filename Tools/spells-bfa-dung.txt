@@ -208,22 +208,21 @@
 303941	Defensive Countermeasure
 301088	Detonate
 294103	Rocket Barrage
-294324	Mega Drill
-294290	Process Waste
-294349	Volatile Waste
+1215409	Mega Drill
+1215411	Puncture
+1215412	Corrosive Gunk
+1217819	Fiery Jaws
 293827	Giga-Wallop
+293854	Activate Anti-Personnel Squirrel
 293861	Anti-Personnel Squirrel
 294195	Arcing Zap
 297133	Defensive Countermeasure
 297128	Short Out
-294015	Launch High-Explosive Rockets
 293986	Sonic Pulse
 295169	Capacitor Discharge
 293729	Tune Up
 293930	Overclock
-293670	Chainblade
 293683	Shield Generator
-294180	Flaming Refuse
 
 ; Boss: King Gobbamak
 297254	Charged Smash
@@ -256,30 +255,34 @@
 303885	Fulminating Burst
 
 ; Boss: Tussle Tonks
+1216443	Electrical Storm
 282801	Platinum Plating
-285020	Whirling Edge
-285344	Lay Mine
-285152	Foe Flipper
-285388	Vent Jets
+1215065	Platinum Pummel
+1215102	Ground Pound
 283422	Maximum Thrust
+1216431	B.4.T.T.L.3. Mine
+285152	Foe Flipper
 
 ; Boss: K.U.-J.0.
 291930	Air Drop
 291946	Venting Flames
+291937	Hiding Behind Junk
 291973	Explosive Leap
 294929	Blazing Chomp
 
 ; Boss: Machinist's Garden
+294853	Activate Plant
 294855	Blossom Blast
 285440	"Hidden" Flame Cannon
 285454	Discom-BOMB-ulator
 
 ; Boss: King Mechagon
 291865	Recalibrate
-291928	Giga-Zap
+291928	Mega-Zap
 291613	Take Off!
 291626	Cutting Beam
 283551	Magneto-Arm
+292264	Mega-Zap
 292290	Protocol: Ninety-Nine
 
 
@@ -349,14 +352,17 @@
 ; Boss: Trash
 256627	Slobber Knocker
 ;257732	Shattering Bellow
+256616	Tooth Breaker
 256640	Burning Tar
 256957	Watertight Shell
 272662	Iron Hook
 257170	Savage Tempest
 257270	Iron Ambush
+256709	Singing Steel
 257288	Heavy Slash
 454437	Azerite Charge
 275826	Bolstering Shout
+257168	Cursed Slash
 272421	Sighted Artillery
 268260	Broadside
 257169	Terrifying Roar
@@ -364,6 +370,7 @@
 272546	Banana Rampage
 454440	Stinky Vomit
 272571	Choking Waters
+272588	Rotting Wounds
 275835	Stinging Venom Coating
 
 ; Boss: Chopper Redhook
@@ -450,56 +457,56 @@
 ; -------------------------------------
 
 ; Boss: Trash
-268846	Echo Blade
-268865	Force Cannon
-269302	Toxic Blades
-267433	Activate Mech
-281621	Concussion Charge
-268709	Earth Shield
-263202	Rock Lance
-268702	Furious Quake
-263215	Tectonic Barrier
-263066	Transfiguration Serum
-263103	Blowtorch
-262540	Overcharge
-262554	Repair
-262947	Azerite Injection
-268797	Transmute: Enemy to Goo
-269313	Final Blast
-268362	Mining Charge
-280605	Brain Freeze
 280604	Iced Spritzer
-268129	Kaja'Cola Refresher
-268415	Power Through
+267433	Activate Mech
+263628	Charged Shield
+472041	Tear Gas
 262092	Inhale Vapors
-269090	Artillery Barrage
-263601	Desperate Measures
+1217279	Uppercut
+269302	Toxic Blades
+267354	Fan of Knives
+473168	Rapid Extraction
+;1215411	Puncture
+263202	Rock Lance
+268362	Mining Charge
+269313	Final Blast
+268712	Bag of Bombs
+268702	Furious Quake
+1214754	Massive Slam
+1213139	Overtime!
+268846	Echo Blade
+473304	Brainstorm
+268797	Transmute: Enemy to Goo
 269429	Charged Shot
-263628	Charged Claw
+262383	Deploy Crawler Mine
+262377	Seek and Destroy
+269090	Artillery Barrage
 
 ; Boss: Coin-Operated Crowd Pummeler
 269493	Footbomb Launcher
 256493	Blazing Azerite
-262347	Static Pulse
-257337	Shocking Claw
-271784	Throw Coins
+271903	Coin Magnet
 271867	Pay to Win
+262347	Static Pulse
+1217294	Shocking Claw
+271784	Throw Coins
 
 ; Boss: Azerokk
 271698	Azerite Infusion
-258622	Resonant Pulse
+258622	Resonant Quake
 257593	Call Earthrager
 257582	Raging Gaze
 275907	Tectonic Smash
 
 ; Boss: Rixxa Fluxflame
-270028	Azerite Catalyst
-259853	Chemical Burn
-260669	Propellant Blast
+270042	Azerite Catalyst
+259940	Propellant Blast
+275992	Gushing Catalyst
+259856	Chemical Burn
 
 ; Boss: Mogul Razdunk
 260280	Gatling Gun
-260829	Homing Missile
+260813	Homing Missile
 276229	Micro Missiles
 271456	Drill Smash
 

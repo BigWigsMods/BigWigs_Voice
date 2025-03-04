@@ -416,13 +416,16 @@
 
 ; Boss: Trash
 334748	Drain Fluids
+320696	Bone Claw
 323347	Clinging Darkness
 322756	Wrath of Zolramus
 321780	Animate Dead
 327396	Grim Fate
 328667	Frostbolt Volley
+321807	Boneflay
 324293	Rasping Scream
 343470	Boneshatter Shield
+324323	Gruesome Cleave
 335143	Bonemend
 320822	Final Bargain
 320464	Shadow Well
@@ -443,9 +446,11 @@
 
 ; Boss: Blightbone
 320596	Heaving Retch
-320630	Blood Gorge
 320637	Fetid Gas
 320655	Crunch
+320717	Blood Hunger
+320630	Blood Gorge
+320631	Carrion Eruption
 
 ; Boss: Amarth, The Harvester
 321226	Land of the Dead
@@ -479,65 +484,67 @@
 ; -------------------------------------
 
 ; Boss: Trash
+341902	Unholy Fervor
 333241	Raging Tantrum
-319290	Meat Shield
-330700	Decaying Blight
-341969	Withering Discharge
+341977	Meat Shield
+330697	Decaying Strike
+321039	Disgusting Burst
 341949	Withering Blight
+341969	Withering Discharge
 330586	Devour Flesh
-332836	Chop
 330614	Vile Eruption
-342139	Battle Trance
-342125	Brutal Leap
-342135	Interrupting Roar
+342103	Rancid Bile
+1215850	Earthcrusher
+331316	Savage Flurry
 317605	Whirlwind
-337037	Whirling Blade
-332708	Ground Smash
+342135	Interrupting Roar
+336995	Whirling Blade
+331288	Colossus Smash
 333861	Ricocheting Blade
+333845	Unbalancing Blow
 334023	Bloodthirsty Charge
 330562	Demoralizing Shout
+330565	Shield Bash
 333827	Seismic Stomp
-331275	Unbreakable Guard
-333845	Unbalancing Blow
 330716	Soulstorm
 330725	Shadow Vulnerability
 330868	Necrotic Bolt Volley
-333708	Soul Corruption
 342675	Bone Spear
 333294	Death Winds=wɪndz
+333299	Curse of Desolation
 331223	Bonestorm
 331237	Bone Spikes
 
 ; Boss: An Affront of Challengers
-320063	Slam
+1215741	Mighty Smash
 320069	Mortal Strike
-324085	Enrage
-326892	Fixate
-320248	Genetic Alteration
+320182	Noxious Spores
+1215738	Decaying Breath
 333231	Searing Death
-320293	One With Death
-320272	Spectral Transference
-333540	Opportunity Strikes
+1215600	Withering Touch
 
 ; Boss: Gorechop
-323515	Hateful Strike
 322795	Meat Hooks
+323515	Hateful Strike
+323750	Vile Gas
 318406	Tenderizing Smash
+321447	Coagulating Ooze
 
 ; Boss: Xav the Unfallen
-320644	Brutal Combo
-320102	Blood and Glory
+320114	Blood and Glory
 331618	Oppressive Banner
+320644	Brutal Combo
 320050	Might of Maldraxxus
 320729	Massive Cleave
 317231	Crushing Slam
 339415	Deafening Crash
 
 ; Boss: Kul'tharok
-319521	Draw Soul
-319637	Reclaimed Soul
-319626	Phantasmal Parasite
-319669	Spectral Reach
+474087	Necrotic Eruption
+1223803	Well of Darkness
+474298	Draw Soul
+473513	Feast of the Damned
+1215787	Death Spiral
 
 ; Boss: Mordretha, the Endless Empress
 324079	Reaping Scythe

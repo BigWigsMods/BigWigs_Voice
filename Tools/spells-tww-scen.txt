@@ -5,7 +5,7 @@
 ; -------------------------------------
 
 ; Boss: Fungarian
-427710	Sporesplosion
+1217589	Sporesplosion
 414944	Battle Roar
 424891	Vine Spear
 424773	Sporogenesis
@@ -15,6 +15,15 @@
 425042	Sporewave
 424750	Infectious Spores
 372529	Hideous Laughter
+
+; Boss: Goblin
+473684	Cogstorm
+473550	Rocket Barrage
+474001	Bathe in Blood
+473995	Bloodbath
+473972	Reckless Charge
+474004	Drill Quake
+1213656	Overtime!
 
 ; Boss: Kobold
 449071	Blazing Wick
@@ -52,6 +61,15 @@
 443482	Blessing of Dusk
 440205	Inflict Death
 
+; Boss: Old God
+474325	Abyssal Grasp
+474482	Lure of the Void
+474511	Shadow Smash
+474206	Shadow Stomp
+474223	Concussive Smash
+474155	Slime Trail
+474228	Shadow Blast
+
 ; Boss: Underkeep
 451913	Grimweave Orb
 ;450714	Jagged Barbs
@@ -61,7 +79,28 @@
 448161	Enrage
 453149	Gossamer Webbing
 
-; Boss: Rares
+; Boss: Underpin Rares
+1216790	Forward Charge
+1216794	Alpha Cannon
+1214246	Crushing Pinch
+1214238	Harden Shell
+1216805	Zap!
+1216806	There's the Door
+1217361	Worthless Adorations
+1217326	Take a Selfie!
+433045	Backstab
+1217418	Call My Agent
+1217449	Call My Broker
+1217452	Call My Mother
+1217510	Speed Dialing
+1218061	Gold Fuse
+1218017	Crab-a-bomb Barrage
+1218039	Woven-in Grenades
+1213497	Me Go Mad
+1220869	Bonebreaker
+1217301	Heedless Charge
+
+; Boss: Zekvir Rares
 445781	Lava Blast
 445718	Magma Hammer
 415253	Fungal Breath
@@ -105,6 +144,7 @@
 415406	Fungalstorm
 415499	Dizzy
 415492	Fungal Charge
+415495	Gloopy Fungus
 425315	Fungsplosion
 
 
@@ -225,9 +265,7 @@
 447187	Rend Void
 447143	Encasing Webs
 
-; Boss: Researcher Xik'vi
-;446832	Infusion of Poison
-;463408	Infusion of Frost
+; Boss: Researcher Xik'vik
 ;447187	Rend Void
 ;447143	Encasing Webs
 

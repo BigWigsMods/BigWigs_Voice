@@ -115,6 +115,7 @@
 440179	Entangled
 441791	Burrowed Eruption
 438801	Call of the Swarm
+438749	Scarab Fixation
 440504	Impaling Eruption
 449857	Impaled
 438218	Piercing Strike
@@ -183,5 +184,166 @@
 443726	Gloom Hatchling
 443336	Gorge
 451832	Cataclysmic Evolution
+
+
+; -------------------------------------
+; Zone: Liberation of Undermine
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Vexie and the Geargrinders
+466615	Protective Plating
+471403	Unrelenting CAR-nage
+459943	Call Bikers
+459678	Spew Oil
+459683	Oil Slick
+468216	Incendiary Fire
+459978	Bomb Voyage!
+465865	Tank Buster
+468147	Exhaust Fumes
+460116	Tune-Up
+
+; Boss: Cauldron of Carnage
+465833	Colossal Clash
+471660	Raised Guard
+471557	King of Carnage
+1221826	Tiny Tussle
+472222	Blistering Spite
+473650	Scrapbomb
+1214039	Molten Pool
+1213690	Molten Phlegm
+472233	Blastburn Roarcannon
+1214190	Eruption Stomp
+472225	Galvanized Spite
+474159	Static Charge
+463900	Thunderdrum Salvo
+1213994	Voltaic Image
+463925	Lingering Electricity
+466178	Lightning Bash
+
+; Boss: Rik Reverb
+473748	Amplification!
+1217122	Lingering Voltage
+468119	Resonant Echoes
+1214598	Entranced
+466093	Haywire
+466866	Echoing Chant
+467606	Sound Cannon
+466979	Faulty Zap
+472306	Sparkblast Ignition
+1214164	Excitement
+464518	Tinnitus
+473260	Blaring Drop
+473655	Hype Fever!
+
+; Boss: Stix Bunkjunker
+464399	Electromagnetic Sorting
+461536	Rolling Rubbish
+465741	Garbage Dump
+465611	Rolled!
+464854	Garbage Pile
+465747	Muffled Doomsplosion
+1217975	Doomsploded
+1219384	Scrap Rockets
+1220648	Marked For "Recycling"
+466748	Infected Bite
+464149	Incinerator
+472893	Incineration
+464248	Hot Garbage
+464112	Demolish
+1217954	Meltdown
+467117	Overdrive
+467135	Trash Compactor
+1218704	Prototype Powercoil
+
+; Boss: Sprocketmonger Lockenstock
+1216802	Polarization Generator
+1216911	Posi-Polarization
+1216934	Nega-Polarization
+1219047	Polarized Catastro-Blast
+473276	Activate Inventions!
+1217231	Foot-Blasters
+1218342	Unstable Shrapnel
+1218418	Wire Transfer
+1216509	Screw Up
+465232	Sonic Ba-Boom
+1214878	Pyro Party Pack
+465917	Gravi-Gunk
+466860	Bleeding Edge
+1218319	Voidsplosion
+468791	Gigadeath
+
+; Boss: The One-Armed Bandit
+460181	Pay-Line
+460444	High Roller!
+469993	Foul Exhaust
+460472	The Big Hit
+461060	Spin To Win!
+461068	Fraud Detected!
+465009	Explosive Gaze
+474665	Coin Magnet
+464705	Golden Ticket
+460582	Overload!
+471927	Withering Flames
+465765	Maintenance Cycle
+465432	Linked Machines
+465322	Hot Hot Heat
+465580	Scattered Payout
+465587	Explosive Jackpot
+
+; Boss: Mug’Zee, Heads of Security
+466385	Moxie
+1216142	Double-Minded Fury
+472631	Earthshaker Gaol
+1214623	Enraged
+472782	Pay Respects
+470910	Gaol Break
+466476	Frostshatter Boots
+466480	Frostshatter Spear
+466509	Stormfury Finger Gun
+466518	Molten Gold Knuckles
+467202	Golden Drip
+466539	Unstable Crawler Mines
+469043	Searing Shrapnel
+467380	Goblin-guided Rocket
+466545	Spray and Pray
+-31766	Mk II Electro Shocker
+1215595	Faulty Wiring
+469491	Double Whammy Shot
+469391	Perforating Wound
+1215953	Static Charge
+471574	Bulletstorm
+463967	Bloodlust
+
+; Boss: Chrome King Gallywix
+1220761	Mechengineer's Canisters
+466340	Scatterblast Canisters
+465952	Big Bad Buncha Bombs
+466154	Blast Burns
+466165	1500-Pound "Dud"
+466246	Focused Detonation
+1217292	Time-Release Crackle
+467182	Suppression
+466751	Venting Heat
+1220290	Trick Shots
+469286	Giga Coils
+469327	Giga Blast
+469404	Giga BOOM!
+1220846	Control Meltdown
+1215209	Sabotage Zone
+466341	Fused Canisters
+-31482	Darkfuse Technician
+469362	Charged Giga Bomb
+471352	Juice It!
+466834	Shock Barrage
+1216845	Wrench
+1216852	Lumbering Rage
+1214226	Cratering
+1214229	Armageddon-class Plating
+1214369	TOTAL DESTRUCTION!!!
+1214607	Bigger Badder Bomb Blast
+466342	Tick-Tock Canisters
+466958	Ego Check
 
 

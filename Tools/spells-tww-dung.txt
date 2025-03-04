@@ -5,8 +5,10 @@
 ; -------------------------------------
 
 ; Boss: Trash
+434830	Vile Webbing
+436614	Web Wrap
 439208	Silk Wrap
-438622	Toxic Rupture
+438622	Amplification!
 434793	Resonant Barrage
 434824	Web Spray
 434802	Horrifying Shrill
@@ -15,9 +17,11 @@
 453161	Impale
 465012	Slam
 432967	Alarm Shrill
+433002	Extraction Strike
 448248	Revolting Volley
 433845	Erupting Webs
 433841	Venom Volley
+433785	Grasping Slash
 434252	Massive Slam
 433821	Dashing Strike
 
@@ -25,8 +29,6 @@
 438471	Voracious Bite
 438476	Alerting Shrill
 438473	Gossamer Onslaught
-434830	Vile Webbing
-436614	Web Wrap
 446794	Insatiable
 
 ; Boss: Anub'zekt
@@ -51,15 +53,17 @@
 ; Boss: Trash
 437721	Boiling Flames
 437956	Erupting Inferno
-434761	Mighty Stomp
+463218	Volatile Keg
 434706	Cinderbrew Toss
-434998	High Steaks
 463206	Tenderize
+434998	High Steaks
 441627	Rejuvenating Honey
 441434	Failed Batch
 448619	Reckless Delivery
 441179	Oozing Honey
+441242	Free Samples?
 441119	Bee-Zooka
+441351	Bee-stial Wrath
 442589	Beeswax
 442995	Swarming Surprise
 440687	Honey Volley
@@ -72,12 +76,14 @@
 432198	Blazing Belch
 432179	Throw Cinderbrew
 432229	Keg Smash
+432196	Hot Honey
 
 ; Boss: I'pa
 439365	Spouting Stout
 440147	Fill 'Er Up
 439202	Burning Fermentation
 439031	Bottoms Uppercut
+;441179	Oozing Honey
 
 ; Boss: Benk Buzzbee
 438025	Snack Time
@@ -99,6 +105,7 @@
 448305	Stolen Power
 443437	Shadows of Doubt
 443433	Twist Thoughts
+443397	Venom Strike
 443430	Silk Binding
 443500	Earthshatter
 443507	Ravenous Swarm
@@ -109,6 +116,7 @@
 451543	Null Slam
 451222	Void Rush
 452162	Mending Web
+452151	Rigorous Jab
 434137	Venomous Spray
 445813	Dark Barrage
 436205	Fierce Stomping
@@ -153,43 +161,51 @@
 
 ; Boss: Trash
 423501	Wild Wallop
+428066	Overpowering Roar
 425536	Mole Frenzy
+428019	Flashpoint
 426883	Bonk!
-440652	Surging Wax
+440652	Surging Flame
+430171	Quenching Blast
 428650	Burning Backlash
 424322	Explosive Flame
-426261	Ceaseless Flame
 426295	Flaming Tether
+1218131	Burning Candles
+426261	Ceaseless Flame
 426619	One-Hand Headlock
+1218117	Massive Stomp
 426260	Pyro-pummel
 422393	Suffocating Darkness
-422414	Shadow Smash
 422541	Drain Light
 
 ; Boss: Ol' Waxbeard
 422116	Reckless Charge
 422245	Rock Buster
-423693	Luring Candleflame
+422163	Luring Candleflame
+429093	Underhanded Track-tics
 
 ; Boss: Blazikon
 421817	Wicklighter Barrage
 424212	Incite Flames
 423109	Enkindling Inferno
-443835	Blazing Storms
 425394	Dousing Breath
-422700	Extinguishing Gust
+443835	Blazing Storms
+421910	Extinguishing Gust
 
 ; Boss: The Candle King
 420659	Eerie Molds
 422648	Darkflame Pickaxe
 426145	Paranoid Mind
 420696	Throw Darkflame
+421067	Molten Wax
+421653	Cursed Wax
 
 ; Boss: The Darkness
 426943	Rising Gloom
 427157	Call Darkspawn
 427025	Umbral Slash
 427011	Shadowblast
+428266	Eternal Darkness
 427176	Drain Light
 
 
@@ -203,23 +219,29 @@
 448492	Thunderclap
 427897	Heat Wave
 427950	Seal of Flame
-429091	Inner Fire
+427900	Molten Pool
 428150	Reflective Shield
 424621	Brutal Smash
 424423	Lunging Strike
 424431	Holy Radiance
 448515	Divine Judgment
-427583	Repentance
 424420	Cinderblast
 424462	Ember Storm
 427609	Disrupting Shout
 427342	Defend
+453458	Caltrops
+462859	Pot Shot
+446776	Pounce
 427356	Greater Heal
-427346	Inner Fire
 427484	Flamestrike
+448787	Purification
 427601	Burst of Light
 424429	Consecration
+448791	Sacred Toll
+444728	Templar's Wrath
+427596	Seal of Light's Fury
 444743	Fireball Volley
+435165	Blazing Strike
 
 ; Boss: Captain Dailcry
 424419	Battle Cry
@@ -232,13 +254,18 @@
 423015	Castigator's Shield
 423051	Burning Light
 423062	Hammer of Purity
+446368	Sacrificial Pyre
+446403	Sacrificial Flame
+446525	Unleashed Pyre
 
 ; Boss: Prioress Murrpray
 423588	Barrier of Light
 423664	Embrace the Light
 444546	Purify
+425556	Sanctified Ground
 444608	Inner Fire
 451605	Holy Flame
+428169	Blinding Light
 
 
 ; -------------------------------------
@@ -261,7 +288,9 @@
 451098	Tacky Nova
 451097	Silken Shell
 431494	Black Edge
+451112	Tactician's Rage
 432520	Umbral Barrier
+431637	Umbral Rush
 432565	Black Hail
 431304	Dark Floes
 431349	Tormenting Eruption
@@ -301,42 +330,42 @@
 ; Boss: Trash
 426893	Bounding Void
 450628	Entropy Shield
-427323	Charged Bombardment
+474018	Wild Lightning
 427404	Localized Storm
-427260	Enrage Rook
-430013	Thunderstrike
+427260	Lightning Surge
 427616	Energized Barrage
-423979	Implosion
-430754	Void Shell
+474031	Void Crush
 430179	Seeping Corruption
 430812	Attracting Shadows
+430805	Arcing Void
 443854	Instability
-432959	Void Volley
-432638	Command Void
-432781	Embrace the Void
-430288	Crushing Darkness
+1214546	Umbral Wave
+1214523	Feasting Void
+472764	Void Extraction
+1214628	Unleash Darkness
 
 ; Boss: Kyrioss
 444123	Lightning Torrent
+1214325	Crashing Thunder
+;474018	Wild Lightning
 419870	Lightning Dash
-424148	Chain Lightning
-420739	Unstable Charge
 
 ; Boss: Stormguard Gorren
 424737	Chaotic Corruption
 425048	Dark Gravity
 424958	Crush Reality
+424966	Lingering Void
 424797	Chaotic Vulnerability
 
 ; Boss: Voidstone Monstrosity
 423305	Null Upheaval
 445262	Void Shell
-429493	Unleash Corruption
+429493	Unstable Corruption
+433067	Seeping Corruption
 445457	Oblivion Wave
 423393	Entropy
 458082	Stormrider's Charge
 424371	Storm's Vengeance
-423839	Electrocuted
 
 
 ; -------------------------------------
@@ -359,6 +388,7 @@
 449130	Lava Cannon
 449154	Molten Mortar
 448640	Shield Stampede
+428894	Stonebreaker Strike
 429427	Earth Burst Totem
 428879	Smash Rock
 428703	Granite Eruption
@@ -388,6 +418,66 @@
 ; Boss: Void Speaker Eirich
 427461	Void Corruption
 427852	Entropic Reckoning
+457465	Entropy
 427869	Unbridled Void
+
+
+; -------------------------------------
+; Zone: Operation: Floodgate
+; -------------------------------------
+
+; Boss: Trash
+474337	Shreddation
+465754	Flamethrower
+1214468	Trickshot
+465120	Wind Up
+463058	Bloodthirsty Cackle
+1216039	R.P.G.G.
+465682	Surprise Inspection
+465827	Warp Blood
+465813	Lethargic Venom
+462771	Surveying Beam
+465408	Rapid Construction
+468726	Plant Seaforium Charge
+468631	Harpoon
+471736	Jettison Kelp
+471733	Restorative Algae
+1214337	Plant Bombs
+469818	Bubble Burp
+1217496	Splish Splash
+469721	Backwash
+469799	Overcharge
+465666	Sparkslam
+
+; Boss: Big M.O.M.M.A.
+460156	Jumpstart
+473287	Excessive Electrification
+471585	Mobilize Mechadrones
+473351	Electrocrush
+473220	Sonic Boom
+469981	Kill-o-Block Barrier
+1214780	Maximum Distortion
+472452	Doom Storm
+
+; Boss: Demolition Duo
+470090	Divided Duo
+460867	Big Bada BOOM!
+1217653	B.B.B.F.G.
+473690	Kinetic Explosive Gel
+459779	Barreling Charge
+459799	Wallop
+
+; Boss: Swampface
+473070	Awaken the Swamp
+473114	Mudslide
+469478	Sludge Claws
+470039	Razorchoke Vines
+
+; Boss: Geezle Gigazap
+465463	Turbo Charge
+468841	Leaping Sparks
+468813	Gigazap
+466190	Thunder Punch
+468723	Shock Water
 
 
