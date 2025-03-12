@@ -432,7 +432,7 @@
 1214468	Trickshot
 465120	Wind Up
 463058	Bloodthirsty Cackle
-1216039	R.P.G.G.
+1216039	R P G G
 465682	Surprise Inspection
 465827	Warp Blood
 465813	Lethargic Venom
@@ -462,7 +462,7 @@
 ; Boss: Demolition Duo
 470090	Divided Duo
 460867	Big Bada BOOM!
-1217653	B.B.B.F.G.
+1217653	B B B F G
 473690	Kinetic Explosive Gel
 459779	Barreling Charge
 459799	Wallop

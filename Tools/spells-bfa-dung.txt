@@ -200,7 +200,7 @@
 300650	Suffocating Smog
 299588	Overclock
 300087	Repair
-299475	B.O.R.K
+299475	Bork
 284219	Shrink
 301667	Rapid Fire
 301681	Charge
@@ -260,7 +260,7 @@
 1215065	Platinum Pummel
 1215102	Ground Pound
 283422	Maximum Thrust
-1216431	B.4.T.T.L.3. Mine
+1216431	Battle Mine
 285152	Foe Flipper
 
 ; Boss: K.U.-J.0.
@@ -472,6 +472,7 @@
 269313	Final Blast
 268712	Bag of Bombs
 268702	Furious Quake
+263215	Tectonic Barrier
 1214754	Massive Slam
 1213139	Overtime!
 268846	Echo Blade

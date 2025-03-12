@@ -245,6 +245,7 @@
 464854	Garbage Pile
 465747	Muffled Doomsplosion
 1217975	Doomsploded
+473119	Short Fuse
 1219384	Scrap Rockets
 1220648	Marked For "Recycling"
 466748	Infected Bite
@@ -309,7 +310,8 @@
 467380	Goblin-guided Rocket
 466545	Spray and Pray
 -31766	Mk II Electro Shocker
-1215595	Faulty Wiring
+1215591	Faulty Wiring
+1222948	Electro-Charged Shield
 469491	Double Whammy Shot
 469391	Perforating Wound
 1215953	Static Charge
@@ -318,32 +320,33 @@
 
 ; Boss: Chrome King Gallywix
 1220761	Mechengineer's Canisters
-466340	Scatterblast Canisters
 465952	Big Bad Buncha Bombs
 466154	Blast Burns
+466153	Bad Belated Boom
 466165	1500-Pound "Dud"
 466246	Focused Detonation
 1217292	Time-Release Crackle
 467182	Suppression
 466751	Venting Heat
-1220290	Trick Shots
+1222831	Overloaded Coils
+466340	Scatterblast Canisters
 469286	Giga Coils
 469327	Giga Blast
+469362	Charged Giga Bomb
 469404	Giga BOOM!
-1220846	Control Meltdown
+469795	Giga Bomb Detonation
+1220669	Sabotaged Controls
 1215209	Sabotage Zone
 466341	Fused Canisters
--31482	Darkfuse Technician
-469362	Charged Giga Bomb
-471352	Juice It!
 466834	Shock Barrage
 1216845	Wrench
 1216852	Lumbering Rage
-1214226	Cratering
 1214229	Armageddon-class Plating
 1214369	TOTAL DESTRUCTION!!!
 1214607	Bigger Badder Bomb Blast
+1214755	Overloaded Rockets
 466342	Tick-Tock Canisters
+1219333	Gallybux Finale Blast
 466958	Ego Check
 
 
