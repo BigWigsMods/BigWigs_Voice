@@ -1,4 +1,4 @@
-## Interface: 110105, 110107, 110100
+## Interface: 110105, 110107, 110200
 
 ## Title: BigWigs |cffff0000+|r|cffffffffVoice|r
 ## Version: @project-version@
@@ -13,7 +13,7 @@
 ## Notes-ptBR: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-esES: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Notes-esMX: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
-## Author: Funkydude, Sehra
+## Author: Funkeh, Sehra
 
 ## X-BigWigs-LoadOn-CoreEnabled: 1
 ## Dependencies: BigWigs
