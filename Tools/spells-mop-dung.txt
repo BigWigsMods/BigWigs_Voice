@@ -42,7 +42,7 @@
 106864	Jade Serpent Kick
 118540	Jade Serpent Wave
 396907	Jade Fire Breath
-107110	Jade Fire
+107045	Jade Fire
 
 ; Boss: Sha of Doubt
 106113	Touch of Nothingness

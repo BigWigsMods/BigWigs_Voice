@@ -25,8 +25,10 @@
 474004	Drill Quake
 1213656	Overtime!
 473541	Flurry of Punches
+473537	Uppercut
 473696	Molotov Cocktail
 472842	Destroy
+1237160	Radiation Pool
 
 ; Boss: Kobold
 449071	Blazing Wick
@@ -138,6 +140,30 @@
 
 
 ; -------------------------------------
+; Zone: Archival Assault
+; -------------------------------------
+
+; Boss: Captain Nihitan
+1239350	All Hands!
+1239427	Scuttle That One!
+1239445	Broadside
+1239533	Cosmic Waste
+1239407	Run Through
+
+; Boss: Portalmaster Halsan
+1241753	Portal Infusion
+1241991	Kareshi Timebomb
+1242142	Implosion
+
+; Boss: Voidrider Challnax
+1238892	Null Breath
+1238909	Umbral Devastation
+1239134	Cosmic Tranquilization
+1238919	Void Empowerment
+1238930	Impale
+
+
+; -------------------------------------
 ; Zone: Demolition Done
 ; -------------------------------------
 
@@ -195,9 +221,10 @@
 1213700	Unanswered Call
 
 ; Boss: Xel'anegh The Many
-1213804	Shadow Barrage
+1213791	Shadow Barrage
 1213426	Tentacle Slam
 1213425	Terrifying Roar
+1213275	Wounded
 
 
 ; -------------------------------------
@@ -236,6 +263,7 @@
 454213	Muck Charge
 470582	Swamp Bolt
 453897	Sporesong
+427710	Sporesplosion
 
 
 ; -------------------------------------
@@ -247,7 +275,7 @@
 458874	Shadow Wave
 ;443482	Blessing of Dusk
 
-; Boss: Reformed Fury
+; Boss: Speaker Davenruth
 443837	Shadow Sweep
 ;443482	Blessing of Dusk
 444408	Speaker's Wrath
@@ -259,6 +287,14 @@
 ;443837	Shadow Sweep
 443908	Fire!
 443840	Desolate Surge
+
+; Boss: Speaker Wicke
+;443837	Shadow Sweep
+470592	Blessing of Dusk
+;444408	Speaker's Wrath
+;444479	Darkfire Volley
+470593	Inflict Death
+;434281	Echo of Renilash
 
 
 ; -------------------------------------
@@ -391,6 +427,19 @@
 450330	Throw Wax
 450142	Burn Away
 450128	Noxious Gas
+
+
+; -------------------------------------
+; Zone: Voidrazor Sanctuary
+; -------------------------------------
+
+; Boss: Nexus-Princess Ky'veza (Tier 11)
+1245240	Nexus Daggers
+1245582	Nether Rift
+1245203	Dark Massacre
+1244462	Invoke the Shadows
+1244600	Shadow Eruption
+1250052	The Shadows
 
 
 ; -------------------------------------

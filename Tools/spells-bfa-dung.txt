@@ -266,7 +266,6 @@
 ; Boss: K.U.-J.0.
 291930	Air Drop
 291946	Venting Flames
-291937	Hiding Behind Junk
 291973	Explosive Leap
 294929	Blazing Chomp
 
@@ -275,6 +274,8 @@
 294855	Blossom Blast
 285440	"Hidden" Flame Cannon
 285454	Discom-BOMB-ulator
+292332	Self-Trimming Hedge
+1213154	Electrified Floor
 
 ; Boss: King Mechagon
 291865	Recalibrate
@@ -459,6 +460,7 @@
 ; Boss: Trash
 280604	Iced Spritzer
 267433	Activate Mech
+267980	Grease Gun
 263628	Charged Shield
 472041	Tear Gas
 262092	Inhale Vapors
@@ -475,8 +477,10 @@
 263215	Tectonic Barrier
 1214754	Massive Slam
 1213139	Overtime!
+1214751	Brutal Charge
 268846	Echo Blade
 473304	Brainstorm
+262794	Mind Lash
 268797	Transmute: Enemy to Goo
 269429	Charged Shot
 262383	Deploy Crawler Mine

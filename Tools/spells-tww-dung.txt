@@ -8,21 +8,19 @@
 434830	Vile Webbing
 436614	Web Wrap
 439208	Silk Wrap
-438622	Amplification!
 434793	Resonant Barrage
 434824	Web Spray
 434802	Horrifying Shrill
 438877	Call of the Brood
 438826	Poisonous Cloud
 453161	Impale
-465012	Slam
+1241693	Locust Swarm
 432967	Alarm Shrill
 433002	Extraction Strike
 448248	Revolting Volley
 433845	Erupting Webs
 433841	Venom Volley
-433785	Grasping Slash
-434252	Massive Slam
+1241785	Tainted Blood
 433821	Dashing Strike
 
 ; Boss: Avanoxx
@@ -36,6 +34,7 @@
 439506	Burrow Charge
 433740	Infestation
 433766	Eye of the Swarm
+433781	Ceaseless Swarm
 442210	Silken Restraints
 
 ; Boss: Ki'katal the Harvester
@@ -53,7 +52,10 @@
 ; Boss: Trash
 437721	Boiling Flames
 437956	Erupting Inferno
+434773	Mean Mug
 463218	Volatile Keg
+434756	Throw Chair
+441408	Thirsty
 434706	Cinderbrew Toss
 463206	Tenderize
 434998	High Steaks
@@ -61,6 +63,7 @@
 441434	Failed Batch
 448619	Reckless Delivery
 441179	Oozing Honey
+441214	Spill Drink
 441242	Free Samples?
 441119	Bee-Zooka
 441351	Bee-stial Wrath
@@ -83,12 +86,13 @@
 440147	Fill 'Er Up
 439202	Burning Fermentation
 439031	Bottoms Uppercut
-;441179	Oozing Honey
+440087	Oozing Honey
 
 ; Boss: Benk Buzzbee
 438025	Snack Time
 439524	Fluttering Wing
 440134	Honey Marinade
+438971	Shredding Sting
 
 ; Boss: Goldie Baronbottom
 435560	Spread the Love!
@@ -177,6 +181,7 @@
 426260	Pyro-pummel
 422393	Suffocating Darkness
 422541	Drain Light
+469620	Creeping Shadow
 
 ; Boss: Ol' Waxbeard
 422116	Reckless Charge
@@ -225,9 +230,9 @@
 424423	Lunging Strike
 424431	Holy Radiance
 448515	Divine Judgment
-424420	Cinderblast
 424462	Ember Storm
 427609	Disrupting Shout
+427621	Impale
 427342	Defend
 453458	Caltrops
 462859	Pot Shot
@@ -245,7 +250,7 @@
 
 ; Boss: Captain Dailcry
 424419	Battle Cry
-447270	Hurl Spear
+1238780	Earthshattering Spear
 424414	Pierce Armor
 447439	Savage Mauling
 
@@ -274,6 +279,7 @@
 
 ; Boss: Trash
 449042	Radiant Light
+1242074	Intensifying Aggression
 431309	Ensnaring Shadows
 432448	Stygian Seed
 431364	Tormenting Ray
@@ -290,9 +296,7 @@
 431494	Black Edge
 451112	Tactician's Rage
 432520	Umbral Barrier
-431637	Umbral Rush
 432565	Black Hail
-431304	Dark Floes
 431349	Tormenting Eruption
 446615	Usher Reinforcements
 
@@ -437,15 +441,13 @@
 465827	Warp Blood
 465813	Lethargic Venom
 462771	Surveying Beam
+463169	EZ-Thro Dynamite III
 465408	Rapid Construction
 468726	Plant Seaforium Charge
 468631	Harpoon
 471736	Jettison Kelp
 471733	Restorative Algae
 1214337	Plant Bombs
-469818	Bubble Burp
-1217496	Splish Splash
-469721	Backwash
 469799	Overcharge
 465666	Sparkslam
 
@@ -464,6 +466,7 @@
 460867	Big Bada BOOM!
 1217653	B B B F G
 473690	Kinetic Explosive Gel
+460602	Quick Shot
 459779	Barreling Charge
 459799	Wallop
 
@@ -479,5 +482,57 @@
 468813	Gigazap
 466190	Thunder Punch
 468723	Shock Water
+
+
+; -------------------------------------
+; Zone: Eco-Dome Al'dani
+; -------------------------------------
+
+; Boss: Trash
+1236981	Disruption Grenade
+1239229	K'areshi Surge
+1229474	Gorge
+1221152	Gorging Smash
+1221190	Gluttonous Miasma
+1226111	Volatile Ejection
+1235368	Arcane Slash
+1231244	Unstable Core
+1222202	Arcane Burn
+1229510	Arcing Zap
+1222356	Warp
+1221483	Arcing Energy
+1221532	Erratic Ritual
+1248699	Consume Spirit
+1226492	Ritual Disrupted
+1223000	Embrace of K'aresh
+1237195	Burrow Charge
+1237220	Stinging Sandstorm
+;1215850	Earthcrusher
+1223007	Burrowing Eruption
+1222341	Gloom Bite
+
+; Boss: Azhiccar
+1217232	Devour
+1217247	Feast
+1217327	Invading Shriek
+1227745	Toxic Regurgitation
+1217446	Digestive Spittle
+1217664	Thrash
+
+; Boss: Taah'bat and A'wazj
+1236130	Binding Javelin
+1227918	Warp Strike
+1219482	Rift Claws
+1219700	Arcane Blitz
+1219457	Incorporeal
+1219731	Destabilized
+
+; Boss: Soul-Scribe
+1224793	Whispers of Fate
+1224865	Fatebound
+1226444	Wounded Fate
+1236703	Eternal Weave
+1225218	Dread of the Unknown
+1225174	Ceremonial Dagger
 
 

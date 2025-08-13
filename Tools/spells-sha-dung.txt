@@ -56,18 +56,21 @@
 
 ; Boss: Trash
 326450	Loyal Beasts
-325799	Rapid Fire
-344993	Jagged Swipe
-346866	Stone Breath
-342171	Loyal Stoneborn
-325523	Deadly Thrust
-325876	Curse of Obliteration
-325700	Collect Sins
+1237602	Gushing Wound
+1235060	Anima Tainted Armor
+325876	Mark of Obliteration
 325701	Siphon Life
+326997	Powerful Swipe
+1235326	Disrupting Screech
+1237071	Stone Fist
 326409	Thrash
 326441	Sin Quake
-326607	Turn to Stone
-326997	Powerful Swipe
+1235762	Turn to Stone
+1235766	Mortal Strike
+326638	Hurl Glaive
+326794	Dark Communion
+1236614	Display of Power
+326847	Disperse Sin
 326891	Anguish
 
 ; Boss: Halkias, the Sin-Stained Goliath
@@ -79,23 +82,23 @@
 
 ; Boss: Echelon
 319733	Stone Call
-328206	Curse of Stone
+328206	Flesh to Stone
 319941	Stone Shattering Leap
 326389	Blood Torrent
 
 ; Boss: High Adjudicator Aleez
-323538	Bolt of Power
-323552	Volley of Power
+323538	Anima Bolt
 329340	Anima Fountain
+323597	Spectral Procession
+1236512	Unstable Anima
 323650	Haunting Fixation
 
 ; Boss: Lord Chamberlain
 329104	Door of Shadows
 328791	Ritual of Woe
-323143	Telekinetic Toss
+323142	Telekinetic Toss
 323236	Unleashed Suffering
-323437	Stigma of Pride
-327885	Erupting Torment
+1236973	Erupting Torment
 
 
 ; -------------------------------------
@@ -313,42 +316,62 @@
 ; -------------------------------------
 
 ; Boss: Trash
-356031	Stasis Beam
-356324	Empowered Glyph of Restraint
+352796	Proxy Strike
 356548	Radiant Pulse
+355900	Disruption Grenade
+355888	Hard Light Baton
+355891	Teleport
+355915	Glyph of Restraint
 356001	Beam Splicer
+355934	Hard Light Barrier
+355980	Refraction Shield
+356537	Empowered Glyph of Restraint
 356929	Chain of Custody
 356942	Lockdown
 356404	Lava Breath
 356407	Ancient Dread
 357512	Frenzied Charge
+357508	Wild Thrash
+355830	Quickblade
+357197	Lightshard Retreat
 356967	Hyperlight Backhand
+357229	Chronolight Enhancer
 357029	Hyperlight Bomb
-355980	Refraction Shield
-355934	Hard Light Barrier
 347721	Open Cage
+347775	Spam Filter
+347716	Letter Opener
+1240821	Energized Slam
+1240912	Pierce
+355640	Phalanx Field
 355637	Quelling Strike
 355642	Hyperlight Salvo
-355782	Force Multiplier
+1244443	Force Multiplier
 355477	Power Kick
-355480	Lethal Force
+355479	Lethal Force
+355473	Shock Mines
 358443	Blood in the Water
 355132	Invigorating Fish Stick
+355234	Volatile Pufferfish
 355057	Cry of Mrrggllrrgg
+355048	Shellcracker
 355429	Tidal Stomp
+355464	Boulder Throw
 355584	Charged Pulse
 355577	Crackle
 356133	Super Saison
+1244650	Tidal Burst
+368661	Sword Toss
 357226	Drifting Star
 357238	Wandering Pulsar
 357260	Unstable Rift
-357284	Reinvigorate
 
 ; Boss: Zo'phex the Sentinel
-347949	Interrogation
+348350	Interrogation
 345990	Containment Cell
 345770	Impound Contraband
 346204	Armed Security
+348128	Fully Armed
+1236348	Charged Slash
 
 ; Boss: The Grand Menagerie
 349627	Gluttony
@@ -358,11 +381,14 @@
 349954	Purification Protocol
 349934	Flagellation Protocol
 349987	Venting Protocol
+350045	Corrosive Anima
+350037	Exposed Anima Core
 350101	Chains of Damnation
 350086	Whirling Annihilation
 
 ; Boss: Mailroom Mayhem
 346286	Hazardous Liquids
+346329	Spilled Liquids
 346742	Fan Mail
 346962	Money Order
 346947	Unstable Goods
@@ -371,43 +397,49 @@
 ; Boss: Myza's Oasis
 356482	Rotten Food
 353783	Teleport
-353835	Suppression
 350916	Security Slam
-353706	Rowdy
 350922	Menacing Shout
+353706	Rowdy
 350919	Crowd Control
 355438	Suppression Spark
 359028	Security Slam
+1241032	Final Warning
+357404	Dischordant Song
+357436	Infectious Solo
+357542	Rip Chord
 
 ; Boss: So'azmi
-357188	Double Technique
-347610	Shuri
-347249	Divide
-347623	Quickblade
+1245579	Shuri
+1245634	Divide
+1245669	Double Technique
+1248209	Phase Slash
+1245752	Triple Technique
 
 ; Boss: Hylbrande
 353312	Purifying Burst
 346116	Shearing Swings
 347094	Titanic Crash
-346959	Purged by Fire
+346957	Purged by Fire
 346766	Sanitizing Cycle
+358131	Lightning Nova
 
 ; Boss: Timecap'n Hooktail
 347149	Infinite Breath
-347151	Hook Swipe
-354334	Hook'd!
 352345	Anchor Shot
-347371	Grapeshot
-350517	Double Time
+358947	Burning Tar
+1240102	Time Bombs
 
 ; Boss: So'leah
-351124	Summon Assassins
+350796	Hyperlight Spark
 353635	Collapsing Star
 350804	Collapsing Energy
-350796	Hyperlight Spark
-351086	Power Overwhelming
-351096	Energy Fragmentation
+351124	Summon Assassins
 351119	Shuriken Blitz
+351086	Power Overwhelming
+350875	Hyperlight Jolt
+351096	Energy Fragmentation
+351646	Hyperlight Nova
+357190	Star Vulnerability
 
 
 ; -------------------------------------
@@ -494,6 +526,7 @@
 330586	Devour Flesh
 330614	Vile Eruption
 342103	Rancid Bile
+330532	Jagged Quarrel
 1215850	Earthcrusher
 331316	Savage Flurry
 317605	Whirlwind
