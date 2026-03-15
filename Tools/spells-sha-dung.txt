@@ -56,6 +56,7 @@
 
 ; Boss: Trash
 326450	Loyal Beasts
+329299	Disengage
 1237602	Gushing Wound
 1235060	Anima Tainted Armor
 325876	Mark of Obliteration
@@ -89,8 +90,9 @@
 ; Boss: High Adjudicator Aleez
 323538	Anima Bolt
 329340	Anima Fountain
-323597	Spectral Procession
 1236512	Unstable Anima
+323743	Spectral Procession
+323848	Vessel of Atonement
 323650	Haunting Fixation
 
 ; Boss: Lord Chamberlain
@@ -332,6 +334,7 @@
 356407	Ancient Dread
 357512	Frenzied Charge
 357508	Wild Thrash
+357828	Frantic Leap
 355830	Quickblade
 357197	Lightshard Retreat
 356967	Hyperlight Backhand
@@ -340,6 +343,7 @@
 347721	Open Cage
 347775	Spam Filter
 347716	Letter Opener
+347842	Pounce
 1240821	Energized Slam
 1240912	Pierce
 355640	Phalanx Field
@@ -395,6 +399,7 @@
 346296	Instability
 
 ; Boss: Myza's Oasis
+359019	Up Tempo!
 356482	Rotten Food
 353783	Teleport
 350916	Security Slam
@@ -420,7 +425,12 @@
 346116	Shearing Swings
 347094	Titanic Crash
 346957	Purged by Fire
+346961	Purging Field
 346766	Sanitizing Cycle
+348450	Bypass Code: Fryse
+348437	Bypass Code: Helvete
+348447	Bypass Code: Lys
+348451	Bypass Code: Morke
 358131	Lightning Nova
 
 ; Boss: Timecap'n Hooktail

@@ -8,11 +8,13 @@
 434830	Vile Webbing
 436614	Web Wrap
 439208	Silk Wrap
+438618	Venomous Spit
 434793	Resonant Barrage
 434824	Web Spray
 434802	Horrifying Shrill
 438877	Call of the Brood
 438826	Poisonous Cloud
+453583	Charge
 453161	Impale
 1241693	Locust Swarm
 432967	Alarm Shrill
@@ -290,6 +292,7 @@
 451102	Shadowy Decay
 451119	Abyssal Blast
 450854	Dark Orb
+460135	Dark Scars
 451117	Terrifying Slam
 451098	Tacky Nova
 451097	Silken Shell
@@ -312,6 +315,7 @@
 ; Boss: Anub'ikkaj
 427001	Terrifying Slam
 426860	Dark Orb
+427378	Dark Scars
 426787	Shadowy Decay
 452127	Animate Shadows
 
@@ -464,6 +468,7 @@
 ; Boss: Demolition Duo
 470090	Divided Duo
 460867	Big Bada BOOM!
+461994	Deflagration
 1217653	B B B F G
 473690	Kinetic Explosive Gel
 460602	Quick Shot
@@ -499,6 +504,7 @@
 1231244	Unstable Core
 1222202	Arcane Burn
 1229510	Arcing Zap
+1221679	Farstalker's Leap
 1222356	Warp
 1221483	Arcing Energy
 1221532	Erratic Ritual
@@ -515,6 +521,7 @@
 1217232	Devour
 1217247	Feast
 1217327	Invading Shriek
+1231811	Uncontrolled
 1227745	Toxic Regurgitation
 1217446	Digestive Spittle
 1217664	Thrash

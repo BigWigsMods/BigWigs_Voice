@@ -585,41 +585,38 @@
 ; -------------------------------------
 
 ; Boss: Trash
-249081	Suppression Field
-245510	Corrupting Void
-249078	Void Diffusion
-248227	Dark Matter
 
 ; Boss: Zuraal the Ascended
-246134	Null Palm
-244579	Decimate
-244602	Coalesced Void
-244433	Umbra Shift
-244653	Fixate
-244621	Void Tear
+1263440	Void Slash
+1263282	Decimate
+1268916	Null Palm
+1263399	Oozing Slam
+1263297	Crashing Void
+244588	Void Sludge
 
 ; Boss: Saprish
-245873	Void Trap
-247206	Overload Trap
-247245	Umbral Flanking
-245802	Ravaging Darkness
-248831	Dread Screech
+245742	Shadow Pounce
+1248219	Void Bomb
+1280065	Phase Dash
+1263523	Overload
 
 ; Boss: Viceroy Nezhar
--15926	Section 8
-244751	Howling Dark
-246324	Entropic Force
-244906	Collapsing Void
-248804	Dark Bulwark
-248736	Eternal Twilight
+244750	Mind Blast
+1277358	Gates of the Abyss
+1263542	Mass Void Infusion
+1263538	Umbral Tentacles
+1263528	Repulse
+1263532	Void Storm
+1268733	Mind Flay
 
 ; Boss: L'ura
-247795	Call to the Void
-248535	Naaru's Lament
-247930	Umbral Cadence
-245164	Fragment of Despair
-247816	Backlash
-249009	Grand Shift
+1265421	Dirge of Despair
+1264196	Disintegrate
+1265463	Discordant Beam
+1265689	Grim Chorus
+1266003	Symphony of the Eternal Night
+1266001	Backlash
+1265650	Anguish
 
 
 ; -------------------------------------
@@ -705,7 +702,6 @@
 192520	Volcano
 192517	Brittle
 192519	Lava
--12727	Countermeasures
 
 ; Boss: Glazer
 194945	Lingering Gaze

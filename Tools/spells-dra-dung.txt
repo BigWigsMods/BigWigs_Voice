@@ -10,28 +10,14 @@
 389521	Blue Dragonflight Pledge Pin
 389536	Green Dragonflight Pledge Pin
 389501	Red Dragonflight Pledge Pin
-388863	Mana Void
-388911	Severing Slash
-396812	Mystic Blast
-388976	Riftbreath
-388984	Vicious Ambush
-388392	Monotonous Lecture
-377912	Expel Intruders
-378003	Deadly Winds=wɪndz
-377991	Storm Slash
-377389	Call of the Flock
-377383	Gust
-390912	Detonation Seeds
-387910	Astral Whirlwind
-387843	Astral Bomb
-387955	Celestial Shield
 
 ; Boss: Vexamus
 386544	Arcane Orbs
-391977	Oversurge
 388537	Arcane Fissure
 386173	Mana Bombs
 385958	Arcane Expulsion
+386201	Corrupted Mana
+391977	Oversurge
 
 ; Boss: Overgrown Ancient
 388796	Germinate
@@ -39,26 +25,26 @@
 388623	Branch Out
 388544	Barkbreaker
 389033	Lasher Toxin
-396640	Healing Touch
-396721	Abundance
+396716	Splinterbark
 
 ; Boss: Crawth
-377182	Play Ball!
 389481	Goal of the Searing Blaze
 376448	Firestorm
 389483	Goal of the Rushing Winds=wɪndz
 376467	Gale Force
-377034	Overpowering Gust
 377004	Deafening Screech
+377034	Overpowering Gust
+376760	Gale Force
 376997	Savage Peck
+377009	Deafening Screech
 
 ; Boss: Echo of Doragosa
-439488	Unleash Energy
-389011	Overwhelming Power
-388901	Arcane Rift
-374361	Astral Breath
+373326	Arcane Missiles
+1282251	Astral Blast
+374343	Energy Bomb
 388822	Power Vacuum
-374352	Energy Bomb
+389007	Wild Energy
+389011	Overwhelming Power
 
 
 ; -------------------------------------

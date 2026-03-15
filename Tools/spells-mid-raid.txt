@@ -1,0 +1,117 @@
+; Type: Midnight Raid
+
+; -------------------------------------
+; Zone: The Dreamrift
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Chimaerus the Undreamt God
+1262289	Alndust Upheaval
+1258610	Rift Emergence
+1264756	Rift Madness
+1257087	Consuming Miasma
+1246653	Caustic Phlegm
+1272726	Rending Tear
+1245396	Consume
+1245486	Corrupted Devastation
+1245406	Ravenous Dive
+1246621	Caustic Phlegm
+1257085	Consuming Miasma
+
+
+; -------------------------------------
+; Zone: The Voidspire
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Imperator Averzian
+1251361	Shadow's Advance
+1249262	Umbral Collapse
+1280015	Void Marked
+1260712	Oblivion's Wrath
+1258883	Void Fall
+1249251	Dark Upheaval
+
+; Boss: Vorasius
+1256855	Void Breath
+1254199	Parasite Expulsion
+1241692	Shadowclaw Slam
+1260052	Primordial Roar
+
+; Boss: Fallen-King Salhadaar
+1247738	Void Convergence
+1246175	Entropic Unraveling
+1250803	Shattering Twilight
+1254081	Fractured Projection
+1248697	Despotic Command
+1250686	Twisting Obscurity
+
+; Boss: Vaelgor & Ezzorak
+1249748	Midnight Flames
+1262623	Nullbeam
+1244221	Dread Breath
+1265131	Vaelwing
+1245391	Gloom
+1244917	Void Howl
+1245645	Rakfang
+
+; Boss: Lightblinded Vanguard
+1248449	Aura of Wrath
+1248983	Execution Sentence
+1246765	Divine Storm
+1246749	Sacred Toll
+1246736	Judgment
+1246162	Aura of Devotion
+1248644	Divine Toll
+1246485	Avenger's Shield
+1251857	Judgment
+1248451	Aura of Peace
+1248710	Tyr's Wrath
+1255738	Searing Radiance
+1248674	Sacred Shield
+1276243	Zealous Spirit
+
+; Boss: Crown of the Cosmos
+1233602	Silverstrike Arrow
+1232467	Grasp of Emptiness
+1255368	Void Expulsion
+1233865	Null Corona
+1233787	Dark Hand
+1243743	Interrupting Tremor
+1243753	Ravenous Abyss
+1234569	Stellar Emission
+1243982	Silverstrike Barrage
+1235622	Singularity Eruption
+1238206	Volatile Fissure
+1237614	Ranger Captain's Mark
+1237038	Voidstalker Sting
+1237837	Call of the Void
+1246918	Cosmic Barrier
+1246461	Rift Slash
+1245874	Orbiting Matter
+1238843	Devouring Cosmos
+1239080	Aspect of the End
+1238708	Dark Rush
+
+
+; -------------------------------------
+; Zone: March on Quel'Danas
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Belo'ren, Child of Al'ar
+1241282	Embers of Belo'ren
+1242981	Radiant Echoes
+1260763	Guardian's Edict
+1244344	Eternal Burns
+1242260	Infused Quills
+1246709	Death Drop
+1241313	Rebirth
+1242792	Incubation of Flames
+
+; Boss: Midnight Falls
+
+

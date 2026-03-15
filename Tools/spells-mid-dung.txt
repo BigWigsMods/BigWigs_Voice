@@ -1,0 +1,267 @@
+; Type: Midnight Dungeon
+
+; -------------------------------------
+; Zone: Den of Nalorakk
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: The Hoardmonger
+1234846	Toxic Spores
+1235125	Hearty Bellow
+
+; Boss: Sentinel of Winter
+1235549	Glacial Torment
+1235829	Winter's Shroud
+1235841	Snowdrift
+1235641	Raging Squall
+1236289	Blizzard's Wrath
+
+; Boss: Nalorakk
+1242869	Echoing Maul
+1243590	Overwhelming Onslaught
+1255577	Spectral Slash
+1262253	Demoralizing Scream
+1261781	Defensive Stance
+
+
+; -------------------------------------
+; Zone: Magisters' Terrace
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Arcanotron Custos
+474496	Repulsing Slam
+1214081	Arcane Expulsion
+1214032	Ethereal Shackles
+474345	Refueling Protocol
+1214089	Arcane Residue
+1243905	Unstable Energy
+
+; Boss: Seranel Sunlash
+1225787	Runic Mark
+1224903	Suppression Zone
+1248689	Hastening Ward
+1225193	Wave of Silence
+1225015	Suppression Zone
+1225205	Wave of Silence
+1246446	Null Reaction
+
+; Boss: Gemellus
+1223847	Triplicate
+1284954	Cosmic Sting
+1253709	Neural Link
+1224299	Astral Grasp
+1224104	Void Secretions
+1224401	Cosmic Radiation
+
+; Boss: Degentrius
+1280113	Hulking Fragment
+1215897	Devouring Entropy
+1215087	Unstable Void Essence
+1215157	Unstable Void Essence
+1215161	Void Destruction
+1269631	Entropy Orb
+
+
+; -------------------------------------
+; Zone: Maisara Caverns
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Muro'jin and Nekraxx
+1266480	Flanking Spear
+1246666	Infected Pinions
+1260731	Freezing Trap
+1243900	Fetid Quillstorm
+1260643	Barrage
+1249479	Carrion Swoop
+1243741	Freezing Trap
+1243752	Icy Slick
+1249478	Carrion Swoop
+1260709	Vilebranch Sting
+1266488	Open Wound
+
+; Boss: Vordaza
+1251554	Drain Soul
+1251204	Wrest Phantoms
+1252054	Unmake
+1250708	Necrotic Convergence
+1251568	Drain Soul
+1251775	Final Pursuit
+1251813	Lingering Dread
+1251833	Soulrot
+1252130	Unmake
+1266706	Haunting Remains
+
+; Boss: Rak'tul, Vessel of Souls
+1251023	Spiritbreaker
+1252676	Crush Souls
+1253788	Soulrending Roar
+1252675	Crush Souls
+1252777	Soulbind
+1252816	Chill of Death
+1253779	Spectral Decay
+1253844	Withering Soul
+1254043	Eternal Suffering
+1254175	Cries of the Fallen
+1255629	Spectral Residue
+1266188	Shadow Realm
+
+
+; -------------------------------------
+; Zone: Murder Row
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kystia Manaheart
+1228198	Corroding Spittle
+
+; Boss: Zaen Bladesorrow
+474515	Heartstop Poison
+474545	Murder in a Row
+1214352	Fire Bomb
+
+; Boss: Xathuux the Annihilator
+473898	Legion Strike
+474234	Burning Steps
+1214650	Fel Lightning
+
+; Boss: Lithiel Cinderfury
+
+
+; -------------------------------------
+; Zone: Nexus-Point Xenas
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Chief Corewright Kasreth
+1251626	Leyline Array
+1251772	Reflux Charge
+1257836	Reflux Charge
+1264042	Arcane Spill
+1276485	Sparkburn
+
+; Boss: Corewarden Nysarra
+1247937	Umbral Lash
+1249014	Eclipsing Step
+1252703	Null Vanguard
+1264439	Lightscar Flare
+1252828	Void Gash
+
+; Boss: Lothraxion
+1253950	Searing Rend
+1253855	Brilliant Dispersion
+1255531	Flicker
+1257595	Divine Guile
+1255310	Radiant Scar
+1255335	Searing Rend
+1255503	Brilliant Dispersion
+
+
+; -------------------------------------
+; Zone: The Blinding Vale
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Lightblossom Trinity
+1234802	Fertile Loam
+1235574	Lightblossom Beam
+1235828	Light-Scorched Earth
+1235865	Thornblade
+
+; Boss: Ikuzz the Light Hunter
+1237091	Bloodthirsty Gaze
+1237267	Incise
+1272290	Crunched
+
+; Boss: Lightwarden Ruia
+1239825	Lightfire
+1239919	Lightfire Beams
+1241058	Grievous Thrash
+1251345	Blight Resin
+1257094	Pulverized
+
+; Boss: Ziekket
+1246751	Concentrated Lightbeam
+1246753	Lightsap
+1247746	Thornspike
+
+
+; -------------------------------------
+; Zone: Voidscar Arena
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Taz'Rah
+1222103	Nether Dash
+1262283	Dark Rift
+1222305	Dark Rift
+
+; Boss: Atroxus
+1222484	Poison Pool
+1222642	Hulking Claw
+1226031	Poison Splash
+1263971	Lingering Poison
+
+; Boss: Charonus
+1227197	Cosmic Blast
+1248130	Unstable Singularity
+1264188	Event Horizon
+
+
+; -------------------------------------
+; Zone: Windrunner Spire
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Emberdawn
+466556	Flaming Updraft
+466064	Searing Beak
+465904	Burning Gale
+466091	Searing Beak
+466559	Flaming Updraft
+470212	Flaming Twisters
+472118	Ignited Embers
+
+; Boss: Derelict Duo
+472745	Splattering Spew
+472888	Bone Hack
+474105	Curse of Darkness
+472736	Debilitating Shriek
+472777	Gunk Splatter
+472793	Heaving Yank
+474129	Splattering Spew
+1215803	Curse of Darkness
+1219491	Debilitating Shriek
+1253834	Curse of Darkness
+1282272	Splattered
+
+; Boss: Commander Kroluk
+1250851	Shield Wall
+467620	Rampage
+472081	Reckless Leap
+1253272	Intimidating Shout
+470963	Bladestorm
+468659	Throw Axe
+
+; Boss: The Restless Heart
+472556	Arrow Rain
+472662	Tempest Slash
+1253986	Gust Shot
+468429	Bullseye Windblast
+474528	Bolt Gale
+468442	Billowing Wind
+1216042	Squall Leap
+1253979	Gust Shot
+1282911	Bolt Gale
+1282955	Storming Soulfont
+
+

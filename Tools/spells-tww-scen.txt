@@ -34,6 +34,7 @@
 449071	Blazing Wick
 448399	Battle Cry
 445210	Fire Charge
+445193	Flame Patch
 445191	Wicklighter Volley
 448528	Throw Dynamite
 
@@ -285,7 +286,6 @@
 
 ; Boss: Speaker Halven
 ;443837	Shadow Sweep
-443908	Fire!
 443840	Desolate Surge
 
 ; Boss: Speaker Wicke
@@ -406,7 +406,6 @@
 
 ; Boss: Torque Clankfire and Sprok
 1215033	Long Fuse Missiles
-1215090	Evasive Tactics
 1215084	Darkfuse Cocktail
 1215015	This One, Boss?
 
