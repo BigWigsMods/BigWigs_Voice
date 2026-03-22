@@ -1,3 +1,11 @@
-@echo off
+$source = Join-Path $PSScriptRoot '..\Sounds'
+$oggenc = Join-Path $PSScriptRoot 'oggenc2.exe'
 
-for /f %%f in ('dir /b ..\Sounds\*.wav') do oggenc2 -s 0 ..\Sounds\%%f
+Get-ChildItem -Path $source -Filter *.wav | ForEach-Object -ThrottleLimit 4 -Parallel {
+    $file = $_.FullName
+    Write-Host $file
+    & $using:oggenc -Q -s 0 $file
+	if ($LASTEXITCODE -eq 0) {
+		Remove-Item $file
+	}
+}

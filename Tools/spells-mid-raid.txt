@@ -50,6 +50,7 @@
 
 ; Boss: Vaelgor & Ezzorak
 1249748	Midnight Flames
+1280458	Grappling Maw
 1262623	Nullbeam
 1244221	Dread Breath
 1265131	Vaelwing
@@ -81,10 +82,7 @@
 1233787	Dark Hand
 1243743	Interrupting Tremor
 1243753	Ravenous Abyss
-1234569	Stellar Emission
 1243982	Silverstrike Barrage
-1235622	Singularity Eruption
-1238206	Volatile Fissure
 1237614	Ranger Captain's Mark
 1237038	Voidstalker Sting
 1237837	Call of the Void
@@ -93,7 +91,6 @@
 1245874	Orbiting Matter
 1238843	Devouring Cosmos
 1239080	Aspect of the End
-1238708	Dark Rush
 
 
 ; -------------------------------------

@@ -310,13 +310,11 @@
 ; Boss: Hellfire Assault
 184369	Howling Axe
 184394	Shockwave
-185090	Inspiring Presence
 184243	Slam
 184238	Cower!
 185816	Repair
 185806	Conducted Shock Pulse
 181968	Metamorphosis
-180417	Felfire Volley
 180945	Siege Nova
 188101	Belch Flame
 180184	Crush
@@ -369,7 +367,6 @@
 180163	Savage Strikes
 180618	Fel Blaze
 180033	Cinder Breath
-180570	Fel Flames
 -11269	Hulking Terror
 -11266	Salivating Bloodthirster
 -11261	Blood Globule

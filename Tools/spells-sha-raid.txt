@@ -519,7 +519,6 @@
 
 ; Boss: Anduin Wrynn
 362405	Kingsmourne Hungers
-362055	Lost Soul
 361989	Blasphemy
 365295	Befouled Barrier
 365021	Wicked Star
@@ -586,7 +585,6 @@
 366374	World Crusher
 366678	World Cracker
 367051	World Shatterer
-368383	Diverted Life Shield
 360378	Meteor Cleave
 368591	Death Sentence
 

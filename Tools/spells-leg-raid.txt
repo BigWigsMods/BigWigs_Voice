@@ -112,7 +112,6 @@
 203045	Infested Ground
 204504	Infested
 225943	Infested Mind
-205070	Spread Infestation
 
 ; Boss: Il'gynoth, Heart of Corruption
 223121	Final Torpor
@@ -295,6 +294,7 @@
 225857	Arcane Wound
 225856	Poison Brambles
 221344	Annihilating Orb
+224944	Will of the Legion
 224982	Fel Glare
 
 ; Boss: Skorpyron
@@ -607,7 +607,6 @@
 233556	Corrupted Matrix
 239739	Dark Mark
 235572	Rupture Realities
-242017	Black Winds=wɪndz
 236684	Fel Infusion
 240623	Tainted Matrix
 240728	Tainted Essence
@@ -731,7 +730,6 @@
 250255	Empowered Shock Lance
 248068	Empowered Pulse Grenade
 248070	Empowered Shrapnel Blast
-253302	Conflagration
 
 ; Boss: Kin'garoth
 254919	Forging Strike

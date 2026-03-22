@@ -7,19 +7,26 @@
 ; Boss: Trash
 
 ; Boss: The Hoardmonger
+1253268	Earthshatter Slam
+1235118	Ravenous Bellow
+1234233	Spoiled Supplies
 1234846	Toxic Spores
 1235125	Hearty Bellow
 
 ; Boss: Sentinel of Winter
-1235549	Glacial Torment
+1235783	Shattering Frostspike
+1235548	Glacial Torment
+1235623	Raging Squall
+1235656	Eternal Winter
 1235829	Winter's Shroud
 1235841	Snowdrift
-1235641	Raging Squall
 1236289	Blizzard's Wrath
 
 ; Boss: Nalorakk
-1242869	Echoing Maul
-1243590	Overwhelming Onslaught
+1242860	Echoing Maul
+1243569	Overwhelming Onslaught
+1255385	Forceful Roar
+1243011	Fury of the War God
 1255577	Spectral Slash
 1262253	Demoralizing Scream
 1261781	Defensive Stance
@@ -121,9 +128,12 @@
 1228198	Corroding Spittle
 
 ; Boss: Zaen Bladesorrow
+474478	Killing Spree
+474765	Same-Day Delivery
+1214357	Fire Bomb
+1222795	Envenom
+1218347	Murder in a Row
 474515	Heartstop Poison
-474545	Murder in a Row
-1214352	Fire Bomb
 
 ; Boss: Xathuux the Annihilator
 473898	Legion Strike
