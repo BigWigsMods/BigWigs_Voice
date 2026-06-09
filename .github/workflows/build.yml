@@ -22,7 +22,7 @@ jobs:
       - name: Run luacheck
         uses: BigWigsMods/luacheck@main
         with:
-          args: -qo 011
+          args: -q
 
       - name: Package
         uses: BigWigsMods/packager@master
