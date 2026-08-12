@@ -120,58 +120,36 @@
 ; -------------------------------------
 
 ; Boss: Trash
-270003	Suppression Slam
-270016	Released Inihibitors
-269936	Fixate
-269976	Ancestral Fury
-269972	Shadow Bolt Volley
-269931	Gust Slash
-270928	Bladestorm
-270920	Seduction
-270891	Channel Lightning
-270084	Axe Barrage
-270901	Induce Regeneration
-270931	Darkshot
-270503	Hunting Leap
-270865	Hidden Blade
-270872	Shadow Whirl
-270284	Purification Beam
-271564	Embalming Fluid
-271555	Entomb
-270492	Hex
-270487	Severing Blade
-270482	Blooded Leap
-270499	Frost Shock
-270507	Poison Barrage
-270506	Deadeye Shot
-270514	Ground Crush
-271640	Dark Revelation
 
 ; Boss: The Golden Serpent
 265773	Spit Gold
-265923	Lucre's Call
-265781	Serpentine Gust
 265910	Tail Thrash
+265781	Serpentine Gust
+265923	Lucre's Call
 
 ; Boss: Mchimba the Embalmer
-267639	Burn Corruption
 267618	Drain Fluids
+1311956	Burn Corruption
+1312146	Awakening Slam
 267702	Entomb
 
 ; Boss: The Council of Tribes
 266206	Whirling Axes
 266231	Severing Axe
-266951	Barrel Through
+267494	Barrel Through
 266237	Debilitating Backhand
+1305810	Arc Lightning
 267273	Poison Nova
 267060	Call of the Elements
 
 ; Boss: Dazar, The First King
-268586	Blade Combo
-268932	Quaking Leap
-268403	Gale Slash
-269231	Hunting Leap
+269230	Hunting Leap
 269369	Deathly Roar
+1303115	Aerial Smash
+268586	Blade Combo
+1303267	Gilded Destruction
+1303327	Quaking Leap
+1303488	Savage Maul
 
 
 ; -------------------------------------
@@ -413,44 +391,28 @@
 ; -------------------------------------
 
 ; Boss: Trash
-265968	Healing Surge
-264574	Power Shot
-273563	Neurotoxin
-258908	Blade Flurry
-272659	Electrified Scales
-272657	Noxious Breath
-272700	Greater Healing Potion
-267237	Drain
-273995	Pyrrhic Blast
-265912	Accumulate Charge
-268008	Snake Charm
 
 ; Boss: Adderis and Aspix
-263246	Lightning Shield
-263257	Static Shock
-263371	Conduction
-263424	Arc Dash
-263309	Cyclone Strike
+1289059	Gale Force
+1288864	Tempest Winds=wɪndz
+1288049	Thunder and Lightning
+1288428	Overload
 
 ; Boss: Merektha
-263912	Noxious Breath
-263927	Toxic Pool
-263914	Blinding Sand
-264239	Hatch
-264206	Burrow
-263958	A Knot of Snakes
+1290797	Lightning Bite
+1290029	A Knot of Snakes
+1289109	Thunder Spit
+1293048	Serpentstorm
+1289205	Hatch
+264172	Burrow
 
 ; Boss: Galvazzt
-266923	Galvanize
-266512	Consume Charge
+1291618	Lightning Spire
+1309525	Induction
 
 ; Boss: Avatar of Sethraliss
-268024	Pulse
-274149	Life Force
-269688	Rain of Toads
-269686	Plague
-;268008	Snake Charm
-268007	Heart Attack
+1301202	Defiling Taint
+1273408	Stage One
 
 
 ; -------------------------------------

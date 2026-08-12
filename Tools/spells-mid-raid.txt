@@ -1,6 +1,28 @@
 ; Type: Midnight Raid
 
 ; -------------------------------------
+; Zone: Midnight
+; -------------------------------------
+
+; Boss: Lu'ashal
+1258427	Radiant Flare
+1276427	Dawncrazed Halo
+1276247	Dawnfire Breath
+
+; Boss: Thorm'belan
+1257325	Radiant Mote
+1257825	Scintillating Shard
+1258641	Shredding Tendrils
+
+; Boss: Predaxas
+
+; Boss: Cragpine
+1235131	Rootquake
+1243594	Fixate
+1235144	War Club
+
+
+; -------------------------------------
 ; Zone: The Dreamrift
 ; -------------------------------------
 
@@ -9,7 +31,6 @@
 ; Boss: Chimaerus the Undreamt God
 1262289	Alndust Upheaval
 1258610	Rift Emergence
-1264756	Rift Madness
 1257087	Consuming Miasma
 1246653	Caustic Phlegm
 1272726	Rending Tear
@@ -18,6 +39,7 @@
 1245406	Ravenous Dive
 1246621	Caustic Phlegm
 1257085	Consuming Miasma
+1264756	Rift Madness
 
 
 ; -------------------------------------
@@ -28,6 +50,7 @@
 
 ; Boss: Imperator Averzian
 1251361	Shadow's Advance
+1262036	Void Rupture
 1249262	Umbral Collapse
 1280015	Void Marked
 1260712	Oblivion's Wrath
@@ -52,6 +75,7 @@
 1249748	Midnight Flames
 1280458	Grappling Maw
 1262623	Nullbeam
+1244672	Nullzone
 1244221	Dread Breath
 1265131	Vaelwing
 1245391	Gloom
@@ -88,9 +112,10 @@
 1237837	Call of the Void
 1246918	Cosmic Barrier
 1246461	Rift Slash
-1245874	Orbiting Matter
+1261016	Rift Simulacrum
 1238843	Devouring Cosmos
 1239080	Aspect of the End
+1261339	Cosmic Portal
 
 
 ; -------------------------------------
@@ -100,15 +125,88 @@
 ; Boss: Trash
 
 ; Boss: Belo'ren, Child of Al'ar
+1242515	Voidlight Convergence
 1241282	Embers of Belo'ren
+1241292	Light Dive
 1242981	Radiant Echoes
 1260763	Guardian's Edict
 1244344	Eternal Burns
 1242260	Infused Quills
 1246709	Death Drop
 1241313	Rebirth
-1242792	Incubation of Flames
 
 ; Boss: Midnight Falls
+1253915	Heaven's Glaives
+1279420	Dark Quasar
+1249620	Death's Dirge
+1249609	Dark Rune
+1251386	Safeguard Prism
+1267049	Heaven's Lance
+1284980	Grim Symphony
+1284931	Termination Prism
+1282441	Starsplinter
+1282469	Dark Quasar
+1284525	Galvanize
+1282412	Core Harvest
+1281194	Dark Meltdown
+1250898	The Dark Archangel
+1266388	Dark Constellation
+1266897	Light Siphon
+1273158	Death's Requiem
+1276525	Heaven & Hell
+
+
+; -------------------------------------
+; Zone: Sporefall
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Rotmire
+1221622	Awaken Fungi
+1221637	Fungal Bloom
+1222088	Festering Vines
+1221787	Bursting Pustules
+1221781	Putrid Fist
+
+
+; -------------------------------------
+; Zone: The Venomous Abyss
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Nek'zali the Soulcoiler
+
+; Boss: Entombed Sentinels
+
+; Boss: Vashnik the Malignant
+1283164	Imbibe
+1282525	Malignant Catalyst
+1282117	Adaptive Infection
+1281907	Plague Froth
+1280935	Dripping Fangs
+
+; Boss: The Lost Explorers
+
+; Boss: Sszorak
+
+; Boss: The Twin Fangs
+1289192	Caustic Deluge
+1290809	Coiling Ichor
+1291404	Venomous Emergence
+1294293	Vile Flood
+1291478	Corrosive Spit
+1290516	Ravenous Feast
+1303230	Blood Torrent
+1290956	Stir the Depths
+1288538	Stone Breaker
+1306872	Sanguine Storm
+1293792	Flood
+1308356	Rouse the Brood
+
+; Boss: The Coiled Altar
+
+; Boss: Ula'tek
 
 

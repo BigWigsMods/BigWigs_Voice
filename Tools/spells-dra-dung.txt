@@ -16,35 +16,29 @@
 388537	Arcane Fissure
 386173	Mana Bombs
 385958	Arcane Expulsion
-386201	Corrupted Mana
-391977	Oversurge
 
 ; Boss: Overgrown Ancient
 388796	Germinate
 388923	Burst Forth
 388623	Branch Out
 388544	Barkbreaker
-389033	Lasher Toxin
-396716	Splinterbark
 
 ; Boss: Crawth
+377182	Play Ball!
 389481	Goal of the Searing Blaze
 376448	Firestorm
+376781	Firestorm
 389483	Goal of the Rushing Winds=wɪndz
 376467	Gale Force
 377004	Deafening Screech
 377034	Overpowering Gust
-376760	Gale Force
 376997	Savage Peck
-377009	Deafening Screech
 
 ; Boss: Echo of Doragosa
 373326	Arcane Missiles
 1282251	Astral Blast
 374343	Energy Bomb
 388822	Power Vacuum
-389007	Wild Energy
-389011	Overwhelming Power
 
 
 ; -------------------------------------
@@ -238,49 +232,24 @@
 ; -------------------------------------
 
 ; Boss: Trash
-372696	Excavating Blast
-372735	Tectonic Slam
-372743	Ice Shield
-372087	Blazing Rush
-372047	Steel Barrage
-385536	Flame Dance
-373972	Blaze of Glory
-373693	Living Bomb
-373692	Inferno
-373614	Burnout
-385313	Unlucky Strike
-392640	Rolling Thunder
-391726	Storm Breath
-392395	Thunder Jaw
-391723	Flame Breath
-392569	Molten Blood
-392394	Fire Maw
-392486	Lightning Storm
-392451	Flashfire
-391050	Tempest Stormshield
 
 ; Boss: Melidrussa Chillworn
+1307297	Hailburst
+1307308	Chillstorm
 373046	Awaken Whelps
-372682	Primal Chill
-372851	Chillstorm
-396044	Hailbombs
-372988	Ice Bulwark
-373680	Frost Overload
+373686	Frost Overload
 
 ; Boss: Kokia Blazehoof
-372863	Ritual of Blazebinding
-372107	Molten Boulder
+372864	Ritual of Blazebinding
+372110	Molten Boulder
 372858	Searing Blows
-373017	Roaring Blaze
-373087	Burnout
 
 ; Boss: Kyrakka and Erkhart Stormvein
-381862	Infernocore
 381525	Roaring Firebreath
-381602	Flamespit
+381862	Inferno Spit
+381512	Stormslam
 381517	Winds=wɪndz of Change
 381516	Interrupting Cloudburst
-381512	Stormslam
 
 
 ; -------------------------------------

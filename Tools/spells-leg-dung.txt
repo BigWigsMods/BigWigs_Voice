@@ -592,9 +592,9 @@
 1268916	Null Palm
 1263399	Oozing Slam
 1263297	Crashing Void
-244588	Void Sludge
 
 ; Boss: Saprish
+248831	Dread Screech
 245742	Shadow Pounce
 1248219	Void Bomb
 1280065	Phase Dash
@@ -606,8 +606,6 @@
 1263542	Mass Void Infusion
 1263538	Umbral Tentacles
 1263528	Repulse
-1263532	Void Storm
-1268733	Mind Flay
 
 ; Boss: L'ura
 1265421	Dirge of Despair
@@ -615,8 +613,7 @@
 1265463	Discordant Beam
 1265689	Grim Chorus
 1266003	Symphony of the Eternal Night
-1266001	Backlash
-1265650	Anguish
+1265999	Siphon Void
 
 
 ; -------------------------------------

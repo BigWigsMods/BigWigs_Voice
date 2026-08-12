@@ -1,7 +1,7 @@
 $source = Join-Path $PSScriptRoot '..\Sounds'
 $oggenc = Join-Path $PSScriptRoot 'oggenc2.exe'
 
-Get-ChildItem -Path $source -Filter *.wav | ForEach-Object -ThrottleLimit 4 -Parallel {
+Get-ChildItem -Path $source -Filter *.wav | ForEach-Object -Parallel {
     $file = $_.FullName
     Write-Host $file
     & $using:oggenc -Q -s 0 $file

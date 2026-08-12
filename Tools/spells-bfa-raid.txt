@@ -111,7 +111,7 @@
 274990	Bursting Lesions
 
 ; Boss: Zul, Reborn
-;269936	Fixate
+269936	Fixate
 -18530	Minion of Zul
 273365	Dark Revelation
 273361	Pool of Darkness

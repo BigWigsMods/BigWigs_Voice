@@ -47,7 +47,7 @@
 233473	Holy Ward
 234423	Drain Life
 234422	Aura of Decay
-234428	Summon Tormenting Eye
+234428	Tormenting Eye
 234631	Smash
 236572	Annihilate
 234920	Shadow Sweep
