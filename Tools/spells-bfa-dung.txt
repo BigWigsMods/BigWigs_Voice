@@ -394,9 +394,9 @@
 
 ; Boss: Adderis and Aspix
 1289059	Gale Force
-1288864	Tempest Winds=wɪndz
+1311805	Tempest Winds=wɪndz
 1288049	Thunder and Lightning
-1288428	Overload
+1311804	Overload
 
 ; Boss: Merektha
 1290797	Lightning Bite

@@ -21,6 +21,15 @@
 1243594	Fixate
 1235144	War Club
 
+; Boss: Nymrissa Wavecaller
+1276710	Alluring Bubble
+1257608	Frost Barrage
+1258668	Swirling Whirlpools
+1260837	Abyssal Rain
+1282937	Iceblade Flurry
+1313393	Chilling Frost
+1268562	Water Jet
+
 
 ; -------------------------------------
 ; Zone: The Dreamrift
@@ -177,8 +186,25 @@
 ; Boss: Trash
 
 ; Boss: Nek'zali the Soulcoiler
+1293212	Grasping Depths
+1285681	Soulcoil Ignition
+1287426	Essence Rend
+1295397	Restless Amani
+1287533	Gravebound Advance
+1292036	Possession Barrage
+1289696	Tether of Awakening
+1305421	Hungering Pyre
+1299673	Invoke
 
 ; Boss: Entombed Sentinels
+1284588	Vitriolic Stasis
+1296878	Shifting Protovenom
+1284251	Venom Coagulation
+1284434	Toxic Droplets
+1284458	Empowering Slam
+1284483	Blighted Blood
+1288232	Unstable Miasma
+1284487	Bloodvenom Injection
 
 ; Boss: Vashnik the Malignant
 1283164	Imbibe
@@ -188,25 +214,71 @@
 1280935	Dripping Fangs
 
 ; Boss: The Lost Explorers
+1296535	Disgusting Fish
+1297022	Mor'zahi's Command
+1292779	Final Ascension
+1290711	Blink Nova
+1286921	Icebound Flames
+1295854	Shredding Shards
+1295886	Frostfire Volley
+1291390	Cataclysmic Invocation
+1291759	Shell Spin
+1296092	Mighty Thud
+1291933	Throw Junk
+1295817	Fling Fish
+1292104	Mushroom Toss
+1296249	Explosive Surprise
 
 ; Boss: Sszorak
+1285732	Howling Maelstrom
+1277025	Apex Predator
+1305959	Venomous Surge
+1285425	Raging Crosswinds
+1296898	Unbound Ferocity
 
 ; Boss: The Twin Fangs
+1308556	Submerge
 1289192	Caustic Deluge
-1290809	Coiling Ichor
 1291404	Venomous Emergence
-1294293	Vile Flood
 1291478	Corrosive Spit
-1290516	Ravenous Feast
-1303230	Blood Torrent
 1290956	Stir the Depths
+1294293	Vile Flood
+1303230	Blood Torrent
+1308356	Rouse the Brood
+1290516	Ravenous Feast
+1290809	Coiling Ichor
 1288538	Stone Breaker
 1306872	Sanguine Storm
-1293792	Flood
-1308356	Rouse the Brood
 
 ; Boss: The Coiled Altar
+1282487	Fangs of the Coiled Altar
+1299960	Toxic Deluge
+1283489	Guillotine
+1299680	Sever
+1282281	Venomfang
+1283832	Axegrinder
+1289900	Dreadmarch
+1285911	Unnerving Fixation
+1286573	Soul Sever
+1286918	Eternal Nightfall
+1286895	Gloombomb
+1286441	Spiritcackle
+1298381	Defilement of the Coiled Altar
+1299266	Grim Guillotine
+1307279	Blighted Sever
 
 ; Boss: Ula'tek
+1292999	Submerge
+1292188	Caustic Waves
+1300751	Call of the Serpent
+1298367	Mother's Wrath
+1298559	Gore Rattle
+1296301	Mephitic Thrash
+1300530	Spectral Coils
+1286860	Rage of the Shackled
+1302982	Virulent Spit
+1301510	Circling Prey
+1295905	Serpent's Bite
+1286905	Fury Unleashed
 
 

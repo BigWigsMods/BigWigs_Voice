@@ -1,0 +1,26 @@
+; Type: Midnight Delves
+
+; -------------------------------------
+; Zone: Torment's Rise
+; -------------------------------------
+
+; Boss: Nullaeus
+1280086	Emptiness of the Void
+1280087	Imploding Strike
+1280088	Devouring Essence
+
+
+; -------------------------------------
+; Zone: Venomfall Deeps
+; -------------------------------------
+
+; Boss: Azta'rec
+1291555	Noxious Bile
+1293824	Void Toxin
+1293825	Serpent's Strike
+1294963	Soul Extinction
+1309418	Venom Storm
+1288103	Sermon of Ula'tek
+1288125	Echo of Ula'tek
+
+

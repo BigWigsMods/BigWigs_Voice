@@ -186,9 +186,9 @@
 ; Boss: Atroxus
 1222642	Hulking Claw
 1226120	Poison Splash
-1222371	Provoke Creeper
 1222721	Noxious Breath
 1262497	Monstrous Roar
+1222371	Provoke Creeper
 
 ; Boss: Charonus
 1282770	Unstable Singularity
