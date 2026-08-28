@@ -23,7 +23,7 @@
 
 ; Boss: Nymrissa Wavecaller
 1276710	Alluring Bubble
-1257608	Frost Barrage
+1257717	Alluring Bubble
 1258668	Swirling Whirlpools
 1260837	Abyssal Rain
 1282937	Iceblade Flurry
@@ -192,7 +192,6 @@
 1295397	Restless Amani
 1287533	Gravebound Advance
 1292036	Possession Barrage
-1289696	Tether of Awakening
 1305421	Hungering Pyre
 1299673	Invoke
 
@@ -209,9 +208,9 @@
 ; Boss: Vashnik the Malignant
 1283164	Imbibe
 1282525	Malignant Catalyst
-1282117	Adaptive Infection
 1281907	Plague Froth
 1280935	Dripping Fangs
+1282117	Adaptive Infection
 
 ; Boss: The Lost Explorers
 1296535	Disgusting Fish
@@ -261,14 +260,13 @@
 1285911	Unnerving Fixation
 1286573	Soul Sever
 1286918	Eternal Nightfall
-1286895	Gloombomb
 1286441	Spiritcackle
+1286895	Gloombomb
 1298381	Defilement of the Coiled Altar
 1299266	Grim Guillotine
 1307279	Blighted Sever
 
 ; Boss: Ula'tek
-1292999	Submerge
 1292188	Caustic Waves
 1300751	Call of the Serpent
 1298367	Mother's Wrath
@@ -278,6 +276,7 @@
 1286860	Rage of the Shackled
 1302982	Virulent Spit
 1301510	Circling Prey
+1292999	Submerge
 1295905	Serpent's Bite
 1286905	Fury Unleashed
 
